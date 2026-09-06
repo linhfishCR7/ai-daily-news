@@ -1,6 +1,27 @@
 {
   "headline": [
     {
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "link": "https://www.qbitai.com/2026/09/484726.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-05 15:07",
+      "summary": "手握两篇顶会论文"
+    },
+    {
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "link": "https://www.qbitai.com/2026/09/484649.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-05 04:24",
+      "summary": "AI直接吐出正确答案，但最关键的可能不是答案"
+    },
+    {
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "link": "https://www.qbitai.com/2026/09/484551.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-05 01:17",
+      "summary": "最后靠Harness救回来"
+    },
+    {
       "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
       "link": "https://www.qbitai.com/2026/09/484437.html",
       "source": "qbitai",
@@ -8,55 +29,20 @@
       "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
     },
     {
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "link": "https://www.qbitai.com/2026/09/483948.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-03 21:57",
-      "summary": "改进GPT Image 2的噪点问题"
-    },
-    {
       "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
       "link": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-09-04 13:00",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-04 23:15",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-04 16:21",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
     }
   ],
   "product": [
-    {
-      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-      "link": "https://www.qbitai.com/2026/09/484155.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-04 05:48",
-      "summary": ""
-    },
     {
       "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
       "link": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
       "source": "infoq",
       "pub_date": "2026-09-04 09:21",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    },
-    {
-      "title": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
-      "link": "https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-03 14:05",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -71,6 +57,20 @@
     }
   ],
   "other": [
+    {
+      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "link": "https://www.qbitai.com/2026/09/484683.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-05 14:46",
+      "summary": "当AI开始“预演”一场暴雨"
+    },
+    {
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+      "link": "https://www.qbitai.com/2026/09/484611.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-05 04:18",
+      "summary": "如此“反骨”的方法，具体又是怎么实现的？"
+    },
     {
       "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
       "link": "https://www.qbitai.com/2026/09/484293.html",
@@ -91,20 +91,6 @@
       "source": "qbitai",
       "pub_date": "2026-09-04 06:54",
       "summary": "智能不只是模式识别，更是对世界的建模"
-    },
-    {
-      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
-      "link": "https://www.qbitai.com/2026/09/484159.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-04 05:53",
-      "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
-    },
-    {
-      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
-      "link": "https://www.qbitai.com/2026/09/483984.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-04 04:03",
-      "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。"
     }
   ]
 }

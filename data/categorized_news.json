@@ -1,62 +1,97 @@
 {
   "headline": [
     {
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "link": "https://www.qbitai.com/2026/09/484726.html",
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "link": "https://www.qbitai.com/2026/09/485431.html",
       "source": "qbitai",
-      "pub_date": "2026-09-05 15:07",
-      "summary": "手握两篇顶会论文"
+      "pub_date": "2026-09-07 09:04",
+      "summary": "OpenAI研究院人均带3个AI实习生"
     },
     {
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "link": "https://www.qbitai.com/2026/09/484649.html",
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "link": "https://www.qbitai.com/2026/09/485108.html",
       "source": "qbitai",
-      "pub_date": "2026-09-05 04:24",
-      "summary": "AI直接吐出正确答案，但最关键的可能不是答案"
+      "pub_date": "2026-09-07 08:36",
+      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”"
     },
     {
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "link": "https://www.qbitai.com/2026/09/484551.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-05 01:17",
-      "summary": "最后靠Harness救回来"
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-06 20:47",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
     },
     {
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "link": "https://www.qbitai.com/2026/09/484437.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-04 09:19",
-      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-05 22:49",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
     },
     {
-      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
-      "link": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-04 13:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-05 18:05",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
     }
   ],
   "product": [
     {
-      "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
-      "link": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-04 09:21",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
-  "funding": [],
-  "research": [],
-  "industry": [
-    {
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "link": "https://www.qbitai.com/2026/09/484547.html",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "link": "https://www.qbitai.com/2026/09/485064.html",
       "source": "qbitai",
-      "pub_date": "2026-09-04 09:23",
-      "summary": "国产卡跑出高品质 AI Token 生产级性能"
+      "pub_date": "2026-09-07 06:53",
+      "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。"
+    },
+    {
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "link": "https://www.qbitai.com/2026/09/485056.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-07 06:03",
+      "summary": ""
+    },
+    {
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "link": "https://www.qbitai.com/2026/09/485046.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-07 05:04",
+      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。"
+    },
+    {
+      "title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+      "link": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-07 17:34",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
+  "funding": [
+    {
+      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+      "link": "https://www.qbitai.com/2026/09/485039.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-07 04:01",
+      "summary": ""
+    }
+  ],
+  "research": [],
+  "industry": [],
   "other": [
+    {
+      "title": "3秒变身！会合体的机器人，卖到全球50国",
+      "link": "https://www.qbitai.com/2026/09/485525.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-07 09:34",
+      "summary": "谁说现在机器人都长得差不多的！"
+    },
+    {
+      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+      "link": "https://www.qbitai.com/2026/09/485154.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-07 08:51",
+      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。"
+    },
     {
       "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
       "link": "https://www.qbitai.com/2026/09/484897.html",
@@ -72,25 +107,11 @@
       "summary": ""
     },
     {
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "link": "https://www.qbitai.com/2026/09/484683.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-05 14:46",
-      "summary": "当AI开始“预演”一场暴雨"
-    },
-    {
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "link": "https://www.qbitai.com/2026/09/484611.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-05 04:18",
-      "summary": "如此“反骨”的方法，具体又是怎么实现的？"
-    },
-    {
-      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-      "link": "https://www.qbitai.com/2026/09/484293.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-04 08:57",
-      "summary": "不训练模型、不调参数"
+      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "link": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-07 19:33",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }

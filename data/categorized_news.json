@@ -1,6 +1,13 @@
 {
   "headline": [
     {
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "link": "https://www.qbitai.com/2026/09/485854.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-08 06:05",
+      "summary": "Blender也不用学了"
+    },
+    {
       "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
       "link": "https://www.qbitai.com/2026/09/485431.html",
       "source": "qbitai",
@@ -15,25 +22,18 @@
       "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”"
     },
     {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-06 20:47",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+      "title": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+      "link": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-08 13:55",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-05 22:49",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-05 18:05",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+      "title": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+      "link": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-08 13:32",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
@@ -45,20 +45,6 @@
       "summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。"
     },
     {
-      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-      "link": "https://www.qbitai.com/2026/09/485056.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-07 06:03",
-      "summary": ""
-    },
-    {
-      "title": "业内首个！“千问办公”推出“多人工作台”",
-      "link": "https://www.qbitai.com/2026/09/485046.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-07 05:04",
-      "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。"
-    },
-    {
       "title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
       "link": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -66,52 +52,52 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "funding": [
+  "funding": [],
+  "research": [],
+  "industry": [
     {
-      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
-      "link": "https://www.qbitai.com/2026/09/485039.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-07 04:01",
-      "summary": ""
+      "title": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+      "link": "https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-08 11:10",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "research": [],
-  "industry": [],
   "other": [
+    {
+      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+      "link": "https://www.qbitai.com/2026/09/485794.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-08 05:05",
+      "summary": "百万奖金、大厂直通、VC跟投"
+    },
+    {
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "link": "https://www.qbitai.com/2026/09/485784.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-08 03:22",
+      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
+    },
+    {
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "link": "https://www.qbitai.com/2026/09/485630.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-08 02:42",
+      "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。"
+    },
+    {
+      "title": "王云鹤创业后交出首个模型",
+      "link": "https://www.qbitai.com/2026/09/485555.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-08 02:14",
+      "summary": "把多模型执行经验用到了模型训练"
+    },
     {
       "title": "3秒变身！会合体的机器人，卖到全球50国",
       "link": "https://www.qbitai.com/2026/09/485525.html",
       "source": "qbitai",
       "pub_date": "2026-09-07 09:34",
       "summary": "谁说现在机器人都长得差不多的！"
-    },
-    {
-      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-      "link": "https://www.qbitai.com/2026/09/485154.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-07 08:51",
-      "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。"
-    },
-    {
-      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-      "link": "https://www.qbitai.com/2026/09/484897.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-06 11:44",
-      "summary": "让机器人学会利用更长的多模态Context"
-    },
-    {
-      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-      "link": "https://www.qbitai.com/2026/09/484890.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-06 04:40",
-      "summary": ""
-    },
-    {
-      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
-      "link": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-07 19:33",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }

@@ -1,103 +1,118 @@
 {
   "headline": [
     {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "link": "https://www.qbitai.com/2026/09/485854.html",
+      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "link": "https://www.qbitai.com/2026/09/486684.html",
       "source": "qbitai",
-      "pub_date": "2026-09-08 06:05",
-      "summary": "Blender也不用学了"
+      "pub_date": "2026-09-10 07:25",
+      "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
     },
     {
-      "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
-      "link": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
+      "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
+      "link": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-09-09 16:30",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-10 11:22",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-09 22:25",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+      "pub_date": "2026-09-10 20:59",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
     },
     {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "openai_blog",
-      "pub_date": "2026-09-09 11:00",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-10 20:57",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
     },
     {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "openai_blog",
-      "pub_date": "2026-09-09 17:00",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-10 17:54",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human."
     }
   ],
   "product": [
+    {
+      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "link": "https://www.qbitai.com/2026/09/486900.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-10 08:17",
+      "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。"
+    },
+    {
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "link": "https://www.qbitai.com/2026/09/486436.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-10 01:39",
+      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
+    },
     {
       "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
       "link": "https://www.qbitai.com/2026/09/486450.html",
       "source": "qbitai",
       "pub_date": "2026-09-09 19:24",
       "summary": "一比根号二的小胖折叠"
-    },
-    {
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "link": "https://www.qbitai.com/2026/09/486288.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-09 05:02",
-      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
     }
   ],
   "funding": [],
-  "research": [],
+  "research": [
+    {
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "link": "https://www.qbitai.com/2026/09/486934.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-10 10:17",
+      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题"
+    }
+  ],
   "industry": [
     {
-      "title": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
-      "link": "https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-09 15:38",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+      "link": "https://www.qbitai.com/2026/09/486651.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-10 06:25",
+      "summary": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制"
     }
   ],
   "other": [
     {
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-      "link": "https://www.qbitai.com/2026/09/486374.html",
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "link": "https://www.qbitai.com/2026/09/486747.html",
       "source": "qbitai",
-      "pub_date": "2026-09-09 10:02",
-      "summary": ""
+      "pub_date": "2026-09-10 07:57",
+      "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
     },
     {
-      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "link": "https://www.qbitai.com/2026/09/486370.html",
+      "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+      "link": "https://www.qbitai.com/2026/09/486716.html",
       "source": "qbitai",
-      "pub_date": "2026-09-09 09:57",
-      "summary": ""
+      "pub_date": "2026-09-10 07:44",
+      "summary": "轻量版LingBot-World 2.0"
     },
     {
-      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-      "link": "https://www.qbitai.com/2026/09/486280.html",
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "link": "https://www.qbitai.com/2026/09/486625.html",
       "source": "qbitai",
-      "pub_date": "2026-09-09 04:52",
-      "summary": "从Demo到货架，这两家公司要让具身智能算得过账"
+      "pub_date": "2026-09-10 04:55",
+      "summary": "模型可以开源，部署经验不能"
     },
     {
-      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-      "link": "https://www.qbitai.com/2026/09/486052.html",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "link": "https://www.qbitai.com/2026/09/486350.html",
       "source": "qbitai",
-      "pub_date": "2026-09-09 03:39",
-      "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
+      "pub_date": "2026-09-10 00:42",
+      "summary": "赶上了API限时五折"
     },
     {
-      "title": "宜宾，一场机器人“招聘会”的产业雄心",
-      "link": "https://www.qbitai.com/2026/09/486038.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-09 02:15",
-      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
+      "title": "破除人形崇拜！京东用“狼族”军团重做物理AI",
+      "link": "https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-10 19:28",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ]
 }

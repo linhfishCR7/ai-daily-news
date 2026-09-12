@@ -1,18 +1,32 @@
 {
   "headline": [
     {
-      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-      "link": "https://www.qbitai.com/2026/09/486684.html",
+      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+      "link": "https://www.qbitai.com/2026/09/487573.html",
       "source": "qbitai",
-      "pub_date": "2026-09-10 07:25",
-      "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
+      "pub_date": "2026-09-11 14:05",
+      "summary": "原来你俩互相下单呢"
     },
     {
-      "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
-      "link": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-10 11:22",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "link": "https://www.qbitai.com/2026/09/487092.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-11 01:46",
+      "summary": "爆料直指霍奇猜想"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-11 20:57",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-11 16:46",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
     },
     {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
@@ -20,43 +34,15 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-09-10 20:59",
       "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-10 20:57",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-10 17:54",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human."
     }
   ],
   "product": [
     {
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "link": "https://www.qbitai.com/2026/09/486900.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-10 08:17",
-      "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。"
-    },
-    {
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "link": "https://www.qbitai.com/2026/09/486436.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-10 01:39",
-      "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
-    },
-    {
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "link": "https://www.qbitai.com/2026/09/486450.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-09 19:24",
-      "summary": "一比根号二的小胖折叠"
+      "title": "AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同",
+      "link": "https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-11 12:30",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
@@ -69,50 +55,42 @@
       "summary": "多模态AI大牛轮番登台，全球64支团队组团解题"
     }
   ],
-  "industry": [
-    {
-      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
-      "link": "https://www.qbitai.com/2026/09/486651.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-10 06:25",
-      "summary": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "link": "https://www.qbitai.com/2026/09/486747.html",
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "link": "https://www.qbitai.com/2026/09/487631.html",
       "source": "qbitai",
-      "pub_date": "2026-09-10 07:57",
-      "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
+      "pub_date": "2026-09-11 18:02",
+      "summary": "看清「一个真正的人」"
     },
     {
-      "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-      "link": "https://www.qbitai.com/2026/09/486716.html",
+      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+      "link": "https://www.qbitai.com/2026/09/487415.html",
       "source": "qbitai",
-      "pub_date": "2026-09-10 07:44",
-      "summary": "轻量版LingBot-World 2.0"
+      "pub_date": "2026-09-11 13:59",
+      "summary": "把开发、交付和接单全打通了"
     },
     {
-      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-      "link": "https://www.qbitai.com/2026/09/486625.html",
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
+      "link": "https://www.qbitai.com/2026/09/487282.html",
       "source": "qbitai",
-      "pub_date": "2026-09-10 04:55",
-      "summary": "模型可以开源，部署经验不能"
+      "pub_date": "2026-09-11 08:59",
+      "summary": ""
     },
     {
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-      "link": "https://www.qbitai.com/2026/09/486350.html",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "link": "https://www.qbitai.com/2026/09/487273.html",
       "source": "qbitai",
-      "pub_date": "2026-09-10 00:42",
-      "summary": "赶上了API限时五折"
+      "pub_date": "2026-09-11 06:19",
+      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
     },
     {
-      "title": "破除人形崇拜！京东用“狼族”军团重做物理AI",
-      "link": "https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-10 19:28",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+      "link": "https://www.qbitai.com/2026/09/487176.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-11 03:57",
+      "summary": "今年12月，北京，MEET2027智能未来大会！"
     }
   ]
 }

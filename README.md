@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🤖_100%25_AI_Developed-7C3AED?style=for-the-badge" alt="100% AI Developed" />
-  <img src="https://img.shields.io/badge/✨_全程AI生成-00D4AA?style=for-the-badge" alt="全程AI生成" />
+  <img src="https://img.shields.io/badge/✨_100%25_AI_Generated-00D4AA?style=for-the-badge" alt="100% AI Generated" />
 </p>
 
 > **💡 This repository is 100% developed independently by AI — from requirements analysis and code writing to testing and debugging, all AI-driven with zero human-written code.**
@@ -45,9 +45,9 @@ ai-daily-news/
 
 ## News Sources
 
-- 36氪 / 36Kr (36kr.com)
-- 机器之心 / Synced (jiqizhixin.com)
-- 量子位 / QbitAI (qbitai.com)
+- 36Kr (36kr.com)
+- Synced (jiqizhixin.com)
+- QbitAI (qbitai.com)
 - InfoQ (infoq.cn)
 - TechCrunch
 - AI News

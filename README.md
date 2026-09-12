@@ -1,63 +1,65 @@
+**English** | [简体中文](README.zh-CN.md)
+
 <p align="center">
   <img src="https://img.shields.io/badge/🤖_100%25_AI_Developed-7C3AED?style=for-the-badge" alt="100% AI Developed" />
   <img src="https://img.shields.io/badge/✨_全程AI生成-00D4AA?style=for-the-badge" alt="全程AI生成" />
 </p>
 
-> **💡 本仓库 100% 由 AI 独立完成开发，从需求分析、代码编写到测试调试，全程由 AI 主导完成，无任何人工编写代码。**
+> **💡 This repository is 100% developed independently by AI — from requirements analysis and code writing to testing and debugging, all AI-driven with zero human-written code.**
 
 # AI Daily News 🤖
 
-每日AI科技新闻自动汇总系统
+An automated daily AI tech news aggregation system
 
-## 功能
+## Features
 
-- ✅ 自动抓取多个AI新闻源
-- ✅ 生成精美HTML日报（适合截图发抖音）
-- ✅ 部署到GitHub Pages
-- ✅ 每晚9点自动更新
-- ✅ 推送到飞书
+- ✅ Automatically fetches multiple AI news sources
+- ✅ Generates a beautiful HTML daily report (perfect for screenshots on TikTok/Douyin)
+- ✅ Deploys to GitHub Pages
+- ✅ Auto-updates every night at 9 PM
+- ✅ Pushes to Feishu
 
-## 访问地址
+## Access URL
 
-https://[你的GitHub用户名].github.io/ai-daily-news
+https://[your-GitHub-username].github.io/ai-daily-news
 
-## 项目结构
+## Project Structure
 
 ```
 ai-daily-news/
-├── index.html          # 今日日报（首页）
-├── archive/            # 历史日报
+├── index.html          # Today's report (homepage)
+├── archive/            # Past daily reports
 │   ├── 20260307.html
 │   └── ...
-├── assets/             # 静态资源
+├── assets/             # Static assets
 │   ├── style.css
 │   └── images/
-├── scripts/            # 脚本
-│   ├── fetch_news.py   # 新闻抓取
-│   └── generate.py     # 生成HTML
+├── scripts/            # Scripts
+│   ├── fetch_news.py   # News fetching
+│   └── generate.py     # HTML generation
 ├── .github/
 │   └── workflows/
-│       └── daily.yml   # 定时任务
+│       └── daily.yml   # Scheduled job
 └── README.md
 ```
 
-## 新闻来源
+## News Sources
 
-- 36氪 (36kr.com)
-- 机器之心 (jiqizhixin.com)
-- 量子位 (qbitai.com)
+- 36氪 / 36Kr (36kr.com)
+- 机器之心 / Synced (jiqizhixin.com)
+- 量子位 / QbitAI (qbitai.com)
 - InfoQ (infoq.cn)
 - TechCrunch
 - AI News
 - VentureBeat
 - The Verge
 
-## 使用
+## Usage
 
-1. Fork 本仓库
-2. 启用 GitHub Actions
-3. 配置飞书机器人（可选）
-4. 每晚9点自动更新
+1. Fork this repository
+2. Enable GitHub Actions
+3. Configure a Feishu bot (optional)
+4. Auto-updates every night at 9 PM
 
 ## License
 

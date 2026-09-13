@@ -1,6 +1,20 @@
 {
   "headline": [
     {
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "link": "https://www.qbitai.com/2026/09/487796.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-12 08:49",
+      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
+    },
+    {
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "link": "https://www.qbitai.com/2026/09/487701.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-12 07:33",
+      "summary": "FrontierMath Tier 4，饱和了"
+    },
+    {
       "title": "啊？Anthropic最高320万招销售，只为服务Meta",
       "link": "https://www.qbitai.com/2026/09/487573.html",
       "source": "qbitai",
@@ -8,35 +22,28 @@
       "summary": "原来你俩互相下单呢"
     },
     {
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "link": "https://www.qbitai.com/2026/09/487092.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-11 01:46",
-      "summary": "爆料直指霍奇猜想"
+      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+      "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-12 10:19",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
       "source": "techcrunch_ai",
-      "pub_date": "2026-09-11 20:57",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-11 16:46",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
-    },
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-10 20:59",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
+      "pub_date": "2026-09-12 20:19",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
     }
   ],
   "product": [
+    {
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "link": "https://www.qbitai.com/2026/09/487860.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-12 11:38",
+      "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
+    },
     {
       "title": "AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同",
       "link": "https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article",
@@ -48,15 +55,29 @@
   "funding": [],
   "research": [
     {
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "link": "https://www.qbitai.com/2026/09/486934.html",
+      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "link": "https://www.qbitai.com/2026/09/487688.html",
       "source": "qbitai",
-      "pub_date": "2026-09-10 10:17",
-      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题"
+      "pub_date": "2026-09-12 05:58",
+      "summary": "冲刺港股IPO"
     }
   ],
   "industry": [],
   "other": [
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "link": "https://www.qbitai.com/2026/09/487752.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-12 08:15",
+      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有"
+    },
+    {
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "link": "https://www.qbitai.com/2026/09/487653.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-12 04:53",
+      "summary": "25位菲尔兹奖得主联名吹哨"
+    },
     {
       "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
       "link": "https://www.qbitai.com/2026/09/487631.html",
@@ -77,20 +98,6 @@
       "source": "qbitai",
       "pub_date": "2026-09-11 08:59",
       "summary": ""
-    },
-    {
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "link": "https://www.qbitai.com/2026/09/487273.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-11 06:19",
-      "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
-    },
-    {
-      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-      "link": "https://www.qbitai.com/2026/09/487176.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-11 03:57",
-      "summary": "今年12月，北京，MEET2027智能未来大会！"
     }
   ]
 }

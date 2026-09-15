@@ -1,25 +1,18 @@
 {
   "headline": [
     {
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "link": "https://www.qbitai.com/2026/09/488380.html",
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "link": "https://www.qbitai.com/2026/09/489105.html",
       "source": "qbitai",
-      "pub_date": "2026-09-13 03:13",
-      "summary": "RSI太危险，得管！"
+      "pub_date": "2026-09-14 09:47",
+      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
     },
     {
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "link": "https://www.qbitai.com/2026/09/487796.html",
+      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+      "link": "https://www.qbitai.com/2026/09/488725.html",
       "source": "qbitai",
-      "pub_date": "2026-09-12 08:49",
-      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
-    },
-    {
-      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-      "link": "https://www.qbitai.com/2026/09/487701.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-12 07:33",
-      "summary": "FrontierMath Tier 4，饱和了"
+      "pub_date": "2026-09-14 03:18",
+      "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路"
     },
     {
       "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
@@ -34,63 +27,70 @@
       "source": "infoq",
       "pub_date": "2026-09-12 10:19",
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-14 20:44",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
     }
   ],
   "product": [
     {
-      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-      "link": "https://www.qbitai.com/2026/09/487860.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-12 11:38",
-      "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
+      "title": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
+      "link": "https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-14 21:50",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "funding": [],
-  "research": [
+  "research": [],
+  "industry": [
     {
-      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-      "link": "https://www.qbitai.com/2026/09/487688.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-12 05:58",
-      "summary": "冲刺港股IPO"
+      "title": "openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省",
+      "link": "https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-14 13:40",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
-  "industry": [],
   "other": [
     {
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "link": "https://www.qbitai.com/2026/09/488672.html",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "link": "https://www.qbitai.com/2026/09/489106.html",
       "source": "qbitai",
-      "pub_date": "2026-09-13 07:38",
-      "summary": "亮源新创的Physical Al路线清晰了"
-    },
-    {
-      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-      "link": "https://www.qbitai.com/2026/09/488519.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-13 07:20",
-      "summary": "出身寒微不是耻辱，放弃自己才是。"
-    },
-    {
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "link": "https://www.qbitai.com/2026/09/488447.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-13 06:40",
-      "summary": "Agent的下一步是关系型生产力"
+      "pub_date": "2026-09-14 09:46",
+      "summary": "业界首个5A算电协同认证"
     },
     {
       "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/487752.html",
+      "link": "https://www.qbitai.com/2026/09/489037.html",
       "source": "qbitai",
-      "pub_date": "2026-09-12 08:15",
-      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有"
+      "pub_date": "2026-09-14 09:36",
+      "summary": ""
     },
     {
-      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-      "link": "https://www.qbitai.com/2026/09/487653.html",
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "link": "https://www.qbitai.com/2026/09/489023.html",
       "source": "qbitai",
-      "pub_date": "2026-09-12 04:53",
-      "summary": "25位菲尔兹奖得主联名吹哨"
+      "pub_date": "2026-09-14 08:17",
+      "summary": "AI 蛋白质设计迈入“动态时代”"
+    },
+    {
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "link": "https://www.qbitai.com/2026/09/488933.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-14 08:08",
+      "summary": "让模型和设备共同进化"
+    },
+    {
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "link": "https://www.qbitai.com/2026/09/488912.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-14 07:55",
+      "summary": "险资、券商与头部创投持续加码"
     }
   ]
 }

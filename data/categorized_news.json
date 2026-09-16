@@ -1,96 +1,110 @@
 {
   "headline": [
     {
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "link": "https://www.qbitai.com/2026/09/489105.html",
+      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+      "link": "https://www.qbitai.com/2026/09/489288.html",
       "source": "qbitai",
-      "pub_date": "2026-09-14 09:47",
-      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
+      "pub_date": "2026-09-15 05:39",
+      "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。"
     },
     {
-      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-      "link": "https://www.qbitai.com/2026/09/488725.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-14 03:18",
-      "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路"
-    },
-    {
-      "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
-      "link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+      "title": "OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra",
+      "link": "https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-09-13 10:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-15 16:52",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
-      "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+      "title": "OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust",
+      "link": "https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&utm_medium=article",
       "source": "infoq",
-      "pub_date": "2026-09-12 10:19",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "pub_date": "2026-09-15 16:09",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-14 20:44",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
+      "title": "月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhone Duo炒到9万，黄牛贷款欲囤货｜AI周报",
+      "link": "https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-15 16:07",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "title": "Claude在英伟达内部被限用，黄仁勋告诉特朗普：我们不会让AI发展放缓发生",
+      "link": "https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj?utm_source=rss&utm_medium=article",
+      "source": "infoq",
+      "pub_date": "2026-09-15 16:01",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     }
   ],
   "product": [
     {
-      "title": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
-      "link": "https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-14 21:50",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+      "link": "https://www.qbitai.com/2026/09/489698.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-15 13:32",
+      "summary": "首发全场景倒车能力，体验再进一步"
+    },
+    {
+      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+      "link": "https://www.qbitai.com/2026/09/489389.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-15 10:41",
+      "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0"
     }
   ],
   "funding": [],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "openJiuwen 首发双维度 RSI 框架，AI 自修改，落地办公智能体，算力亲和助力又快又省",
-      "link": "https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-14 13:40",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/JghIFNXBNVSAfbgbR4S9?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+      "link": "https://www.qbitai.com/2026/09/489460.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-15 10:43",
+      "summary": "卡位具身智能规模化落地“最后一公里”！"
+    },
+    {
+      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+      "link": "https://www.qbitai.com/2026/09/489337.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-15 06:37",
+      "summary": ""
     }
   ],
+  "industry": [],
   "other": [
     {
-      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-      "link": "https://www.qbitai.com/2026/09/489106.html",
+      "title": "梁文锋CFO到位！投过智谱MiniMax",
+      "link": "https://www.qbitai.com/2026/09/489707.html",
       "source": "qbitai",
-      "pub_date": "2026-09-14 09:46",
-      "summary": "业界首个5A算电协同认证"
+      "pub_date": "2026-09-15 13:53",
+      "summary": "严文韬，1991年生，高瓴创投合伙人"
     },
     {
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/489037.html",
+      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+      "link": "https://www.qbitai.com/2026/09/489466.html",
       "source": "qbitai",
-      "pub_date": "2026-09-14 09:36",
-      "summary": ""
+      "pub_date": "2026-09-15 12:47",
+      "summary": "一句话，YOYO全面接管我的生活"
     },
     {
-      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
-      "link": "https://www.qbitai.com/2026/09/489023.html",
+      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+      "link": "https://www.qbitai.com/2026/09/489381.html",
       "source": "qbitai",
-      "pub_date": "2026-09-14 08:17",
-      "summary": "AI 蛋白质设计迈入“动态时代”"
+      "pub_date": "2026-09-15 09:58",
+      "summary": "打破分子模拟“不可能三角”"
     },
     {
-      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
-      "link": "https://www.qbitai.com/2026/09/488933.html",
+      "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
+      "link": "https://www.qbitai.com/2026/09/489260.html",
       "source": "qbitai",
-      "pub_date": "2026-09-14 08:08",
-      "summary": "让模型和设备共同进化"
+      "pub_date": "2026-09-15 07:48",
+      "summary": "刘慈欣督战"
     },
     {
-      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-      "link": "https://www.qbitai.com/2026/09/488912.html",
+      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+      "link": "https://www.qbitai.com/2026/09/489277.html",
       "source": "qbitai",
-      "pub_date": "2026-09-14 07:55",
-      "summary": "险资、券商与头部创投持续加码"
+      "pub_date": "2026-09-15 05:20",
+      "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇"
     }
   ]
 }

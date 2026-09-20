@@ -1,20 +1,6 @@
 {
   "headline": [
     {
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "link": "https://www.qbitai.com/2026/09/491711.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-18 00:34",
-      "summary": "Git白学了？？？"
-    },
-    {
-      "title": "Claude Code团队讲究啊，这都往外说",
-      "link": "https://www.qbitai.com/2026/09/491596.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-17 11:56",
-      "summary": "工程师的核心永远是Problem Solving。"
-    },
-    {
       "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
       "link": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
       "source": "infoq",
@@ -22,11 +8,11 @@
       "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
     },
     {
-      "title": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
-      "link": "https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-17 15:50",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "techcrunch_ai",
+      "pub_date": "2026-09-19 17:30",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
     },
     {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -34,6 +20,20 @@
       "source": "techcrunch_ai",
       "pub_date": "2026-09-18 18:49",
       "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "source": "openai_blog",
+      "pub_date": "2026-09-17 12:00",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+    },
+    {
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "link": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "openai_blog",
+      "pub_date": "2026-09-16 12:00",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
     }
   ],
   "product": [
@@ -43,31 +43,9 @@
       "source": "qbitai",
       "pub_date": "2026-09-18 15:50",
       "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品"
-    },
-    {
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "link": "https://www.qbitai.com/2026/09/491875.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-18 06:11",
-      "summary": "用通用AI去啃最硬的骨头，这条路走得通"
     }
   ],
-  "funding": [
-    {
-      "title": "Manus重生第17天，估值居然就翻倍了",
-      "link": "https://www.qbitai.com/2026/09/491764.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-18 00:37",
-      "summary": "作价40亿美元推进新融资"
-    },
-    {
-      "title": "Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源",
-      "link": "https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-17 15:23",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
-    }
-  ],
+  "funding": [],
   "research": [
     {
       "title": "6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能",
@@ -88,39 +66,39 @@
   ],
   "other": [
     {
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "link": "https://www.qbitai.com/2026/09/492238.html",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "link": "https://www.qbitai.com/2026/09/492755.html",
       "source": "qbitai",
-      "pub_date": "2026-09-18 13:16",
-      "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？"
+      "pub_date": "2026-09-19 11:53",
+      "summary": "AI有可能终结我们所有人"
     },
     {
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "link": "https://www.qbitai.com/2026/09/492175.html",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "link": "https://www.qbitai.com/2026/09/492661.html",
       "source": "qbitai",
-      "pub_date": "2026-09-18 12:22",
-      "summary": "LimiX让模型理解数据背后的因果机制"
+      "pub_date": "2026-09-19 11:48",
+      "summary": "老马想买倒闭公司数据为哪般"
     },
     {
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "link": "https://www.qbitai.com/2026/09/492015.html",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "link": "https://www.qbitai.com/2026/09/492573.html",
       "source": "qbitai",
-      "pub_date": "2026-09-18 09:19",
-      "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。"
+      "pub_date": "2026-09-19 11:43",
+      "summary": "设计、前端一口气全干了，结果后端没来上班"
     },
     {
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-      "link": "https://www.qbitai.com/2026/09/491649.html",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "link": "https://www.qbitai.com/2026/09/492550.html",
       "source": "qbitai",
-      "pub_date": "2026-09-17 12:03",
-      "summary": "构建个体专属AI助理"
+      "pub_date": "2026-09-19 11:36",
+      "summary": "AI能否提出相对论？"
     },
     {
-      "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
-      "link": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-18 18:00",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+      "link": "https://www.qbitai.com/2026/09/492501.html",
+      "source": "qbitai",
+      "pub_date": "2026-09-19 08:34",
+      "summary": "1000万，把才华送上真正的大舞台"
     }
   ]
 }

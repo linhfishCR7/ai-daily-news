@@ -1,8 +1,8 @@
 {
-  "name": "AI科技日报",
-  "short_name": "AI日报",
-  "description": "每日 AI 科技新闻日报，一报速览人工智能前沿动态。",
-  "lang": "zh-CN",
+  "name": "AI Daily News",
+  "short_name": "AI Daily",
+  "description": "Bản tin AI mỗi ngày - Daily AI news and technology report.",
+  "lang": "vi",
   "dir": "ltr",
   "start_url": "./",
   "scope": "./",

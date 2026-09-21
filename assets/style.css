@@ -1,6 +1,6 @@
-/* AI Daily News - 报纸风格样式 */
+/* AI Daily News - newspaper style */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600&display=swap');
 
 * {
   margin: 0;
@@ -9,14 +9,14 @@
 }
 
 body {
-  font-family: 'Noto Serif SC', 'Georgia', 'Times New Roman', serif;
+  font-family: 'Noto Serif', 'Noto Serif SC', 'Georgia', 'Times New Roman', serif;
   background: #f5f0e6;
   color: #1a1a1a;
   line-height: 1.6;
   min-height: 100vh;
 }
 
-/* 链接样式 */
+/* Links */
 a {
   color: #1a1a1a;
   text-decoration: none;
@@ -27,7 +27,7 @@ a:hover {
   color: #8b5a2b;
 }
 
-/* 新闻标题链接特殊样式 */
+/* News title links */
 .news-title a,
 .headline-title a {
   color: inherit;
@@ -38,7 +38,7 @@ a:hover {
   color: #8b5a2b;
 }
 
-/* 主容器 - 报纸纸张效果 */
+/* Main container - newspaper sheet */
 .container {
   max-width: 800px;
   margin: 20px auto;
@@ -51,7 +51,7 @@ a:hover {
   position: relative;
 }
 
-/* 纸张纹理 */
+/* Paper texture */
 .container::before {
   content: '';
   position: absolute;
@@ -70,7 +70,7 @@ a:hover {
   pointer-events: none;
 }
 
-/* ===== 报纸头部 ===== */
+/* ===== Masthead ===== */
 .header {
   text-align: center;
   padding-bottom: 15px;
@@ -79,17 +79,17 @@ a:hover {
   position: relative;
 }
 
-/* 报纸名称 */
+/* Newspaper name */
 .header h1 {
   font-size: 48px;
   font-weight: 900;
   letter-spacing: 8px;
   margin-bottom: 8px;
-  font-family: 'Noto Serif SC', serif;
+  font-family: 'Noto Serif', 'Noto Serif SC', serif;
   text-transform: uppercase;
 }
 
-/* 日期行 */
+/* Date line */
 .header .date-line {
   display: flex;
   justify-content: space-between;
@@ -114,7 +114,7 @@ a:hover {
   font-weight: 600;
 }
 
-/* ===== 头条区域 ===== */
+/* ===== Main headline ===== */
 .headline-section {
   margin-bottom: 25px;
   padding-bottom: 20px;
@@ -132,7 +132,7 @@ a:hover {
   font-weight: 900;
   line-height: 1.3;
   margin-bottom: 10px;
-  font-family: 'Noto Serif SC', serif;
+  font-family: 'Noto Serif', 'Noto Serif SC', serif;
 }
 
 .main-headline .headline-subtitle {
@@ -153,7 +153,7 @@ a:hover {
   letter-spacing: 1px;
 }
 
-/* 副头条 - 两栏布局 */
+/* Sub headlines - two columns */
 .sub-headlines {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -178,12 +178,12 @@ a:hover {
   color: #666;
 }
 
-/* ===== 新闻版块 ===== */
+/* ===== News sections ===== */
 .section {
   margin-bottom: 20px;
 }
 
-/* 版块标题 */
+/* Section title */
 .section-title {
   font-size: 14px;
   font-weight: 700;
@@ -201,7 +201,7 @@ a:hover {
   font-size: 16px;
 }
 
-/* 新闻列表 - 多列布局 */
+/* News list - multi-column */
 .news-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -241,7 +241,7 @@ a:hover {
   color: #555;
 }
 
-/* 热点标签 */
+/* Hot tag */
 .hot-tag {
   display: inline-block;
   background: #1a1a1a;
@@ -254,7 +254,7 @@ a:hover {
   margin-left: 6px;
 }
 
-/* ===== 金句版块 ===== */
+/* ===== Quote of the day ===== */
 .quote-section {
   background: linear-gradient(135deg, #f5f0e6 0%, #ebe3d5 100%);
   border: 2px solid #1a1a1a;
@@ -292,13 +292,20 @@ a:hover {
   margin-bottom: 10px;
 }
 
+.quote-section .quote-vi {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
 .quote-section .author {
   font-size: 13px;
   color: #666;
   font-style: normal;
 }
 
-/* ===== 页脚 ===== */
+/* ===== Footer ===== */
 .footer {
   margin-top: 25px;
   padding-top: 15px;
@@ -328,7 +335,7 @@ a:hover {
   font-style: italic;
 }
 
-/* ===== 移动端适配 ===== */
+/* ===== Mobile ===== */
 @media (max-width: 600px) {
   .container {
     margin: 0;
@@ -338,7 +345,7 @@ a:hover {
   
   .header h1 {
     font-size: 32px;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
   }
   
   .sub-headlines {
@@ -354,7 +361,7 @@ a:hover {
   }
 }
 
-/* ===== 打印/截图优化 ===== */
+/* ===== Print / screenshot ===== */
 @media print {
   body {
     background: #fff;
@@ -367,7 +374,7 @@ a:hover {
   }
 }
 
-/* ===== 截图模式 - 手机竖版 ===== */
+/* ===== Screenshot mode - phone portrait ===== */
 @media (max-width: 450px) {
   body {
     background: #fffef8;
@@ -379,8 +386,8 @@ a:hover {
   }
   
   .header h1 {
-    font-size: 36px;
-    letter-spacing: 6px;
+    font-size: 28px;
+    letter-spacing: 2px;
   }
   
   .quote-section .quote {
@@ -389,12 +396,12 @@ a:hover {
 }
 
 /* ============================================
-   历史日报回顾 (History Review)
+   Archive review (History Review)
    ============================================ */
 
-/* 固定底部导航栏：上一期 / 历史回顾 / 下一期 */
+/* Fixed bottom nav: previous / archive / next */
 body {
-  padding-bottom: 72px; /* 为固定底栏留出空间，避免遮挡页脚 */
+  padding-bottom: 72px; /* leave room for the fixed bar so it does not cover the footer */
 }
 
 .report-nav {
@@ -419,19 +426,19 @@ body {
   transition: transform 0.32s ease;
 }
 
-/* 向下浏览时自动隐藏底栏，给日报留出全屏阅读空间 */
+/* Auto-hide the bar while scrolling down to give the report full-screen room */
 .report-nav.hidden {
   transform: translateY(120%);
 }
 
-/* 隐藏底栏横向滚动条（仅极小屏按钮过多时才会出现滚动） */
+/* Hide the bar's horizontal scrollbar (only scrolls on very small screens) */
 .report-nav::-webkit-scrollbar {
   display: none;
 }
 
 .rn-btn {
   cursor: pointer;
-  font-family: 'Noto Serif SC', serif;
+  font-family: 'Noto Serif', 'Noto Serif SC', serif;
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 1px;
@@ -446,7 +453,7 @@ body {
   transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease, opacity 0.15s ease;
 }
 
-/* hover 仅在真正支持悬停的设备(桌面鼠标)生效，避免移动端点击后残留黑底 */
+/* Hover only on devices that truly hover (desktop mouse), so taps on mobile don't leave a dark background */
 @media (hover: hover) {
   .rn-btn:hover:not(:disabled) {
     background: #1a1a1a;
@@ -455,7 +462,7 @@ body {
   }
 }
 
-/* 按压反馈(桌面/移动通用，松开即恢复原样) */
+/* Press feedback (desktop and mobile, resets on release) */
 .rn-btn:active:not(:disabled) {
   transform: scale(0.96);
 }
@@ -465,7 +472,7 @@ body {
   cursor: not-allowed;
 }
 
-/* 中间“历史回顾”按钮高亮 */
+/* Highlight the center "archive" button */
 .rn-review {
   background: #1a1a1a;
   color: #fffef8;
@@ -479,7 +486,7 @@ body {
   }
 }
 
-/* 最左「今天」按钮：棕褐描边/字色，区别于默认墨黑按钮与居中深色「历史回顾」 */
+/* "Today" button: sepia border/text to set it apart from the default ink buttons and the dark "archive" button */
 .rn-today {
   border-color: #8b5a2b;
   color: #8b5a2b;
@@ -500,7 +507,7 @@ body {
   font-size: 14px;
 }
 
-/* 回顾面板遮罩（玻璃拟态） */
+/* Archive panel overlay (glassmorphism) */
 .history-overlay {
   position: fixed;
   inset: 0;
@@ -544,7 +551,7 @@ body {
 }
 
 .hpanel-title {
-  font-family: 'Noto Serif SC', serif;
+  font-family: 'Noto Serif', 'Noto Serif SC', serif;
   font-weight: 900;
   font-size: 20px;
   letter-spacing: 3px;
@@ -580,7 +587,7 @@ body {
   padding: 18px 20px 22px;
 }
 
-/* ===== 热力日历 ===== */
+/* ===== Heatmap calendar ===== */
 .hm {
   display: flex;
   align-items: flex-start;
@@ -591,7 +598,7 @@ body {
   display: grid;
   grid-template-rows: repeat(7, 15px);
   gap: 4px;
-  margin-top: 21px; /* 让出月份标签行（高 15 + 间距 6） */
+  margin-top: 21px; /* room for the month label row (15 high + 6 gap) */
   font-size: 9px;
   color: #9a8a73;
   text-align: right;
@@ -651,7 +658,7 @@ body {
   z-index: 2;
 }
 
-/* ===== 时间轴 ===== */
+/* ===== Timeline ===== */
 .tl-search {
   width: 100%;
   box-sizing: border-box;
@@ -751,9 +758,9 @@ body {
   font-size: 13px;
 }
 
-/* （预览弹窗已改为整屏切换，相关样式已移除）*/
+/* (the preview modal was replaced by full-screen switching; its styles were removed) */
 
-/* ===== 动画 ===== */
+/* ===== Animations ===== */
 @keyframes hFade {
   from { opacity: 0; }
   to   { opacity: 1; }
@@ -769,7 +776,7 @@ body {
   to   { opacity: 1; transform: none; }
 }
 
-/* ===== 移动端 ===== */
+/* ===== Mobile ===== */
 @media (max-width: 600px) {
   .report-nav {
     gap: 6px;
@@ -794,7 +801,7 @@ body {
   }
 }
 
-/* ===== 截图/打印时隐藏全部回顾 UI ===== */
+/* ===== Hide all archive UI when printing / taking screenshots ===== */
 @media print {
   .report-nav,
   .history-overlay {

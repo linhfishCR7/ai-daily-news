@@ -1,35 +1,34 @@
-# 飞书机器人配置指南
+# Optional: Feishu (Lark) notifications
 
-## 1. 创建飞书群机器人
+Feishu push is **disabled** — `scripts/send_feishu.py` is not called by the daily workflow.
+Follow these steps only if you want to enable it later.
 
-1. 打开飞书群聊
-2. 点击群设置 → 群机器人 → 添加机器人
-3. 选择"自定义机器人"
-4. 机器人名称：`AI日报`
-5. 复制 Webhook 地址
+## 1. Create a Feishu group bot
 
-## 2. 配置 GitHub Secrets
+1. Open the Feishu group chat
+2. Group settings → Bots → Add bot → Custom bot
+3. Copy the webhook URL (`https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx`)
 
-1. 打开 GitHub 仓库
-2. Settings → Secrets and variables → Actions
-3. 点击 "New repository secret"
-4. Name: `FEISHU_WEBHOOK`
-5. Value: 粘贴 Webhook 地址
-6. 点击 "Add secret"
+## 2. Add the GitHub secret
 
-## 3. 测试
+1. Repository → Settings → Secrets and variables → Actions
+2. New repository secret: name `FEISHU_WEBHOOK`, value = the webhook URL
 
-手动触发 GitHub Actions：
-1. Actions → AI Daily News - 每日更新
-2. Run workflow → Run workflow
-3. 查看运行日志
+## 3. Add the workflow step
 
-## Webhook 格式
+In `.github/workflows/daily.yml`, add this step after "Generate HTML":
 
-```
-https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx
+```yaml
+    - name: Send to Feishu
+      run: |
+        cd scripts
+        python send_feishu.py
+      env:
+        FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
 ```
 
-## 安全设置（可选）
+## Notes
 
-如果启用了签名校验，需要在脚本中添加签名逻辑。
+- The card's "view full report" button links to `SITE_URL`
+  (default `https://linhfishCR7.github.io/ai-daily-news/`, can be overridden with an environment variable).
+- If the bot has signature verification enabled, signing must be added to the script.

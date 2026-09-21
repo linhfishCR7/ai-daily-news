@@ -1,29 +1,29 @@
 #!/usr/bin/env python3
 """
-AI 科技日报 - 应用图标生成器
+AI Daily News - app icon generator
 
-设计方向：「AI 报头印章」
-  墨黑底 + 奶白纸卡(双线报纸边框) + 黑色报头条内嵌奶白粗衬线 "AI"
-  + 棕褐报纸文字栏 + 左下出版红点
+Design: "AI masthead stamp"
+  ink-black background + cream paper card (double newspaper border) + black masthead bar with a cream bold serif "AI"
+  + sepia text rules + a red "published" dot at the bottom left
 
-输出（项目根 icons/）：
-  icon-512.png / icon-192.png      —— 标准（purpose=any）
-  maskable-512.png                 —— maskable（内容收进中心安全区）
-  apple-touch-icon.png (180)       —— iOS
-  favicon-32.png                   —— 浏览器标签
-  icon.svg                         —— 矢量（favicon + manifest any）
+Output (icons/ at the project root):
+  icon-512.png / icon-192.png      -- standard (purpose=any)
+  maskable-512.png                 -- maskable (content kept inside the center safe zone)
+  apple-touch-icon.png (180)       -- iOS
+  favicon-32.png                   -- browser tab
+  icon.svg                         -- vector (favicon + manifest any)
 
-可复跑：python3 scripts/make_icons.py
+Re-runnable: python3 scripts/make_icons.py
 """
 
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-# 品牌色（与 assets/style.css 一致）
-INK = (26, 26, 26)          # #1a1a1a 墨黑
-CREAM = (255, 254, 248)     # #fffef8 奶白纸
-SEPIA = (139, 90, 43)       # #8b5a2b 棕褐
-BRICK = (192, 57, 43)       # 出版红点
+# Brand colors (match assets/style.css)
+INK = (26, 26, 26)          # #1a1a1a ink black
+CREAM = (255, 254, 248)     # #fffef8 cream paper
+SEPIA = (139, 90, 43)       # #8b5a2b sepia
+BRICK = (192, 57, 43)       # "published" red dot
 
 GEORGIA_BOLD = "/System/Library/Fonts/Supplemental/Georgia Bold.ttf"
 
@@ -36,23 +36,23 @@ def _font(size: int) -> ImageFont.FreeTypeFont:
 
 
 def draw_icon(size: int, maskable: bool = False) -> Image.Image:
-    """绘制单枚图标。maskable=True 时把纸卡收小，确保关键内容在中心 80% 安全区。"""
+    """Draw one icon. With maskable=True the card shrinks so key content stays in the central 80% safe zone."""
     s = float(size)
     img = Image.new("RGB", (size, size), INK)
     d = ImageDraw.Draw(img)
 
-    # 奶白纸卡（居中圆角）
+    # Cream paper card (centered, rounded)
     card_frac = 0.60 if maskable else 0.80
     m = s * (1 - card_frac) / 2
     radius = int(s * 0.11)
     d.rounded_rectangle([m, m, s - m, s - m], radius=radius, fill=CREAM)
 
-    # 内容内边距
+    # Content padding
     p = m + s * 0.055
     right = bottom = s - p
     content_w = right - p
 
-    # 双线报纸边框
+    # Double newspaper border
     bw = max(2, round(s * 0.013))
     d.rounded_rectangle([p, p, s - p, s - p],
                         radius=max(3, radius - round(s * 0.04)), outline=INK, width=bw)
@@ -60,21 +60,21 @@ def draw_icon(size: int, maskable: bool = False) -> Image.Image:
     d.rounded_rectangle([p2, p2, s - p2, s - p2],
                         radius=max(3, radius - round(s * 0.07)), outline=INK, width=bw)
 
-    # 黑色报头条
+    # Black masthead bar
     bar_x1, bar_x2 = p2, s - p2
     bar_y1 = p2 + content_w * 0.04
     bar_h = content_w * 0.30
     bar_y2 = bar_y1 + bar_h
     d.rectangle([bar_x1, bar_y1, bar_x2, bar_y2], fill=INK)
 
-    # 奶白粗衬线 "AI"（垂直水平居中于报头条）
+    # Cream bold serif "AI", centered in the masthead bar
     font = _font(int(bar_h * 0.62))
     bbox = d.textbbox((0, 0), "AI", font=font)
     tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
     d.text(((s - tw) / 2 - bbox[0], (bar_y1 + bar_y2 - th) / 2 - bbox[1]),
            "AI", font=font, fill=CREAM)
 
-    # 棕褐报纸文字栏（3 条，长短错落）
+    # Sepia text rules (3 lines of varying length)
     rules_top = bar_y2 + content_w * 0.11
     rules_bot = bottom - content_w * 0.10
     slot = (rules_bot - rules_top) / 3
@@ -85,7 +85,7 @@ def draw_icon(size: int, maskable: bool = False) -> Image.Image:
         d.rounded_rectangle([p2, cy - lh / 2, p2 + rw, cy + lh / 2],
                             radius=max(1, lh // 2), fill=SEPIA)
 
-    # 左下出版红点
+    # Red dot at the bottom left
     dr = max(3, round(s * 0.024))
     cx = p2 + dr
     cy = bottom - dr
@@ -94,7 +94,7 @@ def draw_icon(size: int, maskable: bool = False) -> Image.Image:
     return img
 
 
-SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI 科技日报">
+SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI Daily News">
   <rect width="512" height="512" fill="#1a1a1a"/>
   <rect x="51" y="51" width="410" height="410" rx="56" fill="#fffef8"/>
   <rect x="79" y="79" width="354" height="354" rx="40" fill="none" stroke="#1a1a1a" stroke-width="7"/>
@@ -135,7 +135,7 @@ def main() -> None:
         f.write(SVG)
     print("✓ icon.svg")
 
-    print(f"\n✓ 图标已生成于 {out_dir}")
+    print(f"\n✓ Icons generated in {out_dir}")
 
 
 if __name__ == "__main__":

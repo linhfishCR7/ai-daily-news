@@ -1,275 +1,338 @@
 #!/usr/bin/env python3
 """
-AI Daily News - 新闻抓取脚本
-从多个来源抓取AI科技新闻
+AI Daily News - news fetcher
+Collects AI/tech news from English and Vietnamese RSS feeds, filters and
+categorizes them, and writes data/categorized_news.json for generate.py.
 """
 
+import html
 import json
-import requests
-from bs4 import BeautifulSoup
-from datetime import datetime
-from dateutil import parser as date_parser
-import feedparser
-import time
 import os
+import re
+import socket
+import sys
+import time
+from datetime import datetime, timedelta
 
-# 新闻源配置
+import feedparser
+from bs4 import BeautifulSoup
+from dateutil import parser as date_parser
+
+# Network timeout for each feed request (seconds)
+socket.setdefaulttimeout(20)
+
+USER_AGENT = "Mozilla/5.0 (compatible; ai-daily-news/1.0; +https://linhfishCR7.github.io/ai-daily-news/)"
+
+# Only keep items published within this window
+MAX_AGE_HOURS = 48
+
+# Max entries read from each feed
+MAX_ENTRIES_PER_FEED = 30
+
+# Max items kept per category (the page shows 1 main + 2 sub headlines)
+MAX_ITEMS_PER_CATEGORY = 5
+HEADLINE_LIMIT = 3
+OTHER_LIMIT = 8
+
+# Titles matching these are promotions, not news
+EXCLUDE_KEYWORDS = ["TechCrunch Disrupt", "Disrupt ticket", "save up to", "Prices go up"]
+
+# Relevance filters for general tech feeds.
+# All-uppercase keywords (e.g. "AI") are matched case-sensitively so they do
+# not hit words like "said" (English) or "ai" / "hai" (Vietnamese).
+AI_KEYWORDS_EN = [
+    "AI", "artificial intelligence", "machine learning", "LLM", "LLMs", "GPT",
+    "ChatGPT", "OpenAI", "Anthropic", "Claude", "Gemini", "DeepMind", "chatbot",
+    "neural network", "generative",
+]
+AI_KEYWORDS_VI = [
+    "AI", "trí tuệ nhân tạo", "học máy", "mô hình ngôn ngữ", "chatbot",
+    "ChatGPT", "OpenAI", "Gemini", "Claude", "GPT",
+]
+
+# Feed configuration. An empty keyword list means every entry is AI-related.
 NEWS_SOURCES = {
-    # 国内源 - RSS
-    "qbitai": {
-        "type": "rss",
-        "url": "https://www.qbitai.com/feed",
-        "keywords": []
-    },
-    "jiqizhixin": {
-        "type": "rss",
-        "url": "https://jiqizhixin.com/rss",
-        "keywords": []
-    },
-    "infoq": {
-        "type": "rss",
-        "url": "https://www.infoq.cn/feed",
-        "keywords": ["AI", "人工智能", "大模型", "GPT"]
-    },
-    # 国外源 - RSS
+    # English sources
     "techcrunch_ai": {
-        "type": "rss",
-        "url": "https://techcrunch.com/feed/",
-        "keywords": ["AI", "artificial intelligence", "GPT", "OpenAI", "machine learning"]
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "keywords": [],
     },
-    "openai_blog": {
-        "type": "rss",
-        "url": "https://openai.com/blog/rss.xml",
-        "keywords": []
+    "the_verge_ai": {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "keywords": [],
+    },
+    "venturebeat_ai": {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "keywords": [],
+    },
+    "openai_news": {
+        "name": "OpenAI",
+        "url": "https://openai.com/news/rss.xml",
+        "keywords": [],
     },
     "deepmind_blog": {
-        "type": "rss",
-        "url": "https://deepmind.google/atom.xml",
-        "keywords": []
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "keywords": [],
+    },
+    "google_ai_blog": {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/technology/ai/rss/",
+        "keywords": [],
     },
     "hackernews": {
-        "type": "rss",
-        "url": "https://hnrss.org/newest?q=AI+OR+artificial+intelligence+OR+GPT+OR+LLM",
-        "keywords": []
-    }
+        "name": "Hacker News",
+        "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT&points=20",
+        "keywords": AI_KEYWORDS_EN,
+        "can_headline": False,  # community posts, not reported news
+    },
+    # Vietnamese sources (general tech feeds, filtered to AI topics)
+    "vnexpress": {
+        "name": "VnExpress",
+        "url": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+        "keywords": AI_KEYWORDS_VI,
+    },
+    "tuoitre": {
+        "name": "Tuổi Trẻ",
+        "url": "https://tuoitre.vn/rss/nhip-song-so.rss",
+        "keywords": AI_KEYWORDS_VI,
+    },
+    "dantri": {
+        "name": "Dân trí",
+        "url": "https://dantri.com.vn/rss/cong-nghe.rss",
+        "keywords": AI_KEYWORDS_VI,
+    },
+    "genk": {
+        "name": "GenK",
+        "url": "https://genk.vn/rss/home.rss",
+        "keywords": AI_KEYWORDS_VI,
+    },
 }
 
-def fetch_rss(source_name, config):
-    """从RSS源抓取新闻"""
-    news_items = []
+# Category keywords (English + Vietnamese), checked in this order;
+# an item goes to the first category that matches.
+CATEGORY_KEYWORDS = {
+    "headline": [
+        "GPT", "ChatGPT", "Claude", "Gemini", "OpenAI", "Anthropic", "DeepMind",
+        "Llama", "Grok", "Mistral", "DeepSeek", "Qwen", "Copilot", "LLM",
+        "mô hình ngôn ngữ lớn",
+    ],
+    "product": [
+        "launch", "launches", "launched", "release", "releases", "released",
+        "unveil", "unveils", "unveiled", "introduce", "introduces", "introducing",
+        "rolls out", "debut", "debuts", "new feature", "update", "app", "adds",
+        "AI-powered", "ra mắt", "phát hành", "công bố", "giới thiệu", "cập nhật",
+        "tính năng",
+    ],
+    "funding": [
+        "raise", "raises", "raised", "funding", "Series A", "Series B",
+        "Series C", "valuation", "valued", "IPO", "acquire", "acquires",
+        "acquired", "acquisition", "invest", "invests", "investment", "investors",
+        "backed by", "balance sheet", "billion",
+        "gọi vốn", "đầu tư", "định giá", "thâu tóm", "mua lại", "rót vốn",
+    ],
+    "research": [
+        "research", "researchers", "paper", "study", "benchmark", "breakthrough",
+        "state-of-the-art", "SOTA", "model", "dataset",
+        "nghiên cứu", "đột phá", "nhà khoa học", "công trình",
+    ],
+    "industry": [
+        "partner", "partners", "partnership", "deal", "regulation", "law", "policy",
+        "enterprise", "adopt", "adoption", "lawsuit", "sues", "antitrust", "jobs",
+        "workforce", "government", "Trump", "Nvidia",
+        "hợp tác", "doanh nghiệp", "ứng dụng", "quy định", "chính sách", "luật",
+        "việc làm", "kiện", "chính phủ", "thị trường",
+    ],
+}
+
+CATEGORY_ORDER = ["headline", "product", "funding", "research", "industry", "other"]
+
+
+def compile_keywords(keywords):
+    """Build one regex matching any keyword on word boundaries."""
+    if not keywords:
+        return None
+    sensitive = [re.escape(k) for k in keywords if k.isupper()]
+    insensitive = [re.escape(k) for k in keywords if not k.isupper()]
+    parts = []
+    if sensitive:
+        parts.append("(?:" + "|".join(sensitive) + ")")
+    if insensitive:
+        parts.append("(?i:" + "|".join(insensitive) + ")")
+    return re.compile(r"(?<!\w)(?:" + "|".join(parts) + r")(?!\w)")
+
+
+CATEGORY_PATTERNS = {cat: compile_keywords(kws) for cat, kws in CATEGORY_KEYWORDS.items()}
+EXCLUDE_PATTERN = compile_keywords(EXCLUDE_KEYWORDS)
+
+
+def clean_text(raw):
+    """Strip HTML tags, decode entities and collapse whitespace."""
+    if not raw:
+        return ""
+    text = BeautifulSoup(html.unescape(raw), "html.parser").get_text(" ")
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def parse_date(entry):
+    """Return the entry's publish time as a local-time datetime, or None."""
+    raw = entry.get("published") or entry.get("updated") or ""
+    if not raw:
+        return None
     try:
-        feed = feedparser.parse(config["url"])
-        keywords = config.get("keywords", [])
-        
-        for entry in feed.entries[:20]:  # 每个源取前20条
-            title = entry.get("title", "")
-            
-            # 如果有关键词过滤，检查是否匹配
-            if keywords:
-                if not any(kw.lower() in title.lower() for kw in keywords):
-                    continue
-            
-            # 解析发布时间
-            pub_date = entry.get("published", entry.get("updated", ""))
-            try:
-                parsed_date = date_parser.parse(pub_date)
-                pub_date = parsed_date.strftime("%Y-%m-%d %H:%M")
-            except:
-                pub_date = datetime.now().strftime("%Y-%m-%d %H:%M")
-            
-            news_items.append({
+        parsed = date_parser.parse(raw)
+    except (ValueError, OverflowError):
+        return None
+    # Naive times (e.g. Tuổi Trẻ) are treated as local time
+    return parsed.astimezone()
+
+
+def fetch_rss(source_key, config, cutoff):
+    """Fetch one RSS/Atom feed and return the matching items."""
+    items = []
+    pattern = compile_keywords(config.get("keywords", []))
+    try:
+        feed = feedparser.parse(config["url"], agent=USER_AGENT)
+        if feed.get("bozo") and not feed.entries:
+            raise RuntimeError(feed.get("bozo_exception") or "invalid feed")
+
+        for entry in feed.entries[:MAX_ENTRIES_PER_FEED]:
+            title = clean_text(entry.get("title", ""))
+            link = entry.get("link", "")
+            if not title or not link:
+                continue
+            if pattern and not pattern.search(title):
+                continue
+            if EXCLUDE_PATTERN.search(title):
+                continue
+
+            published = parse_date(entry)
+            if published is None:
+                published = datetime.now().astimezone()
+            if published < cutoff:
+                continue
+
+            items.append({
                 "title": title,
-                "link": entry.get("link", ""),
-                "source": source_name,
-                "pub_date": pub_date,
-                "summary": entry.get("summary", "")[:200]
+                "link": link,
+                "source": config["name"],
+                "pub_date": published.strftime("%Y-%m-%d %H:%M"),
+                "summary": clean_text(entry.get("summary", ""))[:200],
+                "can_headline": config.get("can_headline", True),
             })
-        
-        print(f"✓ {source_name}: 抓取 {len(news_items)} 条新闻")
-        
-    except Exception as e:
-        print(f"✗ {source_name}: 抓取失败 - {e}")
-    
-    return news_items
+
+        print(f"✓ {source_key}: {len(items)} items")
+    except Exception as exc:
+        print(f"✗ {source_key}: fetch failed - {exc}")
+
+    return items
+
+
+def normalize_title(title):
+    """Normalize a title for duplicate detection."""
+    return re.sub(r"\W+", " ", title.lower()).strip()
+
+
+def dedupe(items):
+    """Drop items sharing a link or a normalized title."""
+    seen_links, seen_titles, result = set(), set(), []
+    for item in items:
+        link_key = item["link"].split("?")[0].rstrip("/")
+        title_key = normalize_title(item["title"])
+        if link_key in seen_links or title_key in seen_titles:
+            continue
+        seen_links.add(link_key)
+        seen_titles.add(title_key)
+        result.append(item)
+    return result
+
 
 def fetch_all_news():
-    """抓取所有新闻源"""
+    """Fetch every configured source, newest first, without duplicates."""
+    cutoff = datetime.now().astimezone() - timedelta(hours=MAX_AGE_HOURS)
     all_news = []
-    
-    for source_name, config in NEWS_SOURCES.items():
-        if config["type"] == "rss":
-            news = fetch_rss(source_name, config)
-            all_news.extend(news)
-        
-        # 避免请求过快
-        time.sleep(1)
-    
-    return all_news
+    for source_key, config in NEWS_SOURCES.items():
+        all_news.extend(fetch_rss(source_key, config, cutoff))
+        time.sleep(1)  # be polite to the feed servers
+
+    all_news.sort(key=lambda x: x["pub_date"], reverse=True)
+    return dedupe(all_news)
+
 
 def categorize_news(news_items):
-    """对新闻进行分类"""
-    categories = {
-        "headline": [],      # 头条
-        "product": [],       # 产品发布
-        "funding": [],       # 融资
-        "research": [],      # 研究/论文
-        "industry": [],      # 行业动态
-        "other": []          # 其他
-    }
-    
-    # 分类关键词
-    category_keywords = {
-        "headline": ["GPT", "Claude", "Gemini", "大模型", "OpenAI", "Anthropic", "Google AI"],
-        "product": ["发布", "推出", "上线", "更新", "新版", "功能"],
-        "funding": ["融资", "投资", "估值", "上市", "融资轮"],
-        "research": ["论文", "研究", "突破", "SOTA", "性能"],
-        "industry": ["应用", "落地", "商业化", "合作", "签约"]
-    }
-    
+    """Assign each item to the first matching category that still has room.
+
+    Items overflow to the next matching category (and finally to "other"),
+    so a busy headline day does not silently drop news.
+    """
+    categories = {cat: [] for cat in CATEGORY_ORDER}
+
+    limits = {"headline": HEADLINE_LIMIT, "other": OTHER_LIMIT}
+
+    def has_room(cat):
+        return len(categories[cat]) < limits.get(cat, MAX_ITEMS_PER_CATEGORY)
+
     for item in news_items:
-        title = item["title"]
-        categorized = False
-        
-        for category, keywords in category_keywords.items():
-            if any(kw in title for kw in keywords):
-                categories[category].append(item)
-                categorized = True
+        allow_headline = item.pop("can_headline", True)
+        for cat in CATEGORY_ORDER[:-1]:
+            if cat == "headline" and not allow_headline:
+                continue
+            if has_room(cat) and CATEGORY_PATTERNS[cat].search(item["title"]):
+                categories[cat].append(item)
                 break
-        
-        if not categorized:
-            categories["other"].append(item)
-    
-    # 每个分类只保留前5条
-    for cat in categories:
-        categories[cat] = categories[cat][:5]
-    
+        else:
+            if has_room("other"):
+                categories["other"].append(item)
+
     return categories
 
+
 def save_news(news_items, categories):
-    """保存新闻数据"""
-    output_dir = os.path.dirname(os.path.abspath(__file__))
-    data_dir = os.path.join(output_dir, "..", "data")
+    """Write raw and categorized news to data/."""
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
     os.makedirs(data_dir, exist_ok=True)
-    
-    # 保存原始新闻
+
     raw_file = os.path.join(data_dir, f"raw_news_{datetime.now().strftime('%Y%m%d')}.json")
     with open(raw_file, "w", encoding="utf-8") as f:
         json.dump(news_items, f, ensure_ascii=False, indent=2)
-    
-    # 保存分类新闻
+
     cat_file = os.path.join(data_dir, "categorized_news.json")
     with open(cat_file, "w", encoding="utf-8") as f:
         json.dump(categories, f, ensure_ascii=False, indent=2)
-    
-    print(f"\n✓ 新闻数据已保存")
-    print(f"  - 原始数据: {raw_file}")
-    print(f"  - 分类数据: {cat_file}")
 
-def get_demo_news():
-    """获取示例新闻数据（当RSS抓取失败时使用）"""
-    demo_news = [
-        {
-            "title": "OpenAI发布GPT-5：多模态能力大幅提升，推理速度提高3倍",
-            "link": "https://openai.com/blog/gpt-5",
-            "source": "OpenAI",
-            "pub_date": "2026-03-08 20:30",
-            "summary": "OpenAI今日发布GPT-5，在多模态理解和推理能力上取得重大突破"
-        },
-        {
-            "title": "字节跳动豆包大模型3.0上线：性能对标GPT-4，免费开放",
-            "link": "https://www.bytedance.com",
-            "source": "36氪",
-            "pub_date": "2026-03-08 19:45",
-            "summary": "字节跳动发布最新大模型，中文能力领先"
-        },
-        {
-            "title": "Anthropic推出Claude 4：上下文窗口扩展至200K tokens",
-            "link": "https://anthropic.com",
-            "source": "机器之心",
-            "pub_date": "2026-03-08 18:20",
-            "summary": "Claude 4在长文本处理能力上实现突破"
-        },
-        {
-            "title": "月之暗面完成10亿美元B轮融资，估值突破150亿美元",
-            "link": "https://moonshot.cn",
-            "source": "量子位",
-            "pub_date": "2026-03-08 17:00",
-            "summary": "国内AI大模型公司融资创新高"
-        },
-        {
-            "title": "Google Gemini 2.0正式开放API，多模态生成能力升级",
-            "link": "https://google.com",
-            "source": "InfoQ",
-            "pub_date": "2026-03-08 16:30",
-            "summary": "Google最新多模态模型全面开放"
-        },
-        {
-            "title": "智谱AI获5亿美元融资，加速国产大模型研发",
-            "link": "https://zhipuai.cn",
-            "source": "36氪",
-            "pub_date": "2026-03-08 15:00",
-            "summary": "智谱AI完成新一轮融资"
-        },
-        {
-            "title": "Meta发布Llama 4：开源大模型新里程碑",
-            "link": "https://meta.com",
-            "source": "TechCrunch",
-            "pub_date": "2026-03-08 14:20",
-            "summary": "Meta开源最新大模型，参数量达万亿级"
-        },
-        {
-            "title": "阿里通义千问2.5发布：中文理解能力全球领先",
-            "link": "https://aliyun.com",
-            "source": "机器之心",
-            "pub_date": "2026-03-08 13:00",
-            "summary": "阿里发布最新大模型，多项评测超越GPT-4"
-        },
-        {
-            "title": "AI编程助手Cursor完成2亿美元融资，估值达10亿美元",
-            "link": "https://cursor.sh",
-            "source": "InfoQ",
-            "pub_date": "2026-03-08 11:30",
-            "summary": "AI编程工具公司跻身独角兽"
-        },
-        {
-            "title": "华为发布盘古大模型5.0：工业AI应用新突破",
-            "link": "https://huawei.com",
-            "source": "量子位",
-            "pub_date": "2026-03-08 10:00",
-            "summary": "华为工业大模型在制造、能源领域实现规模化应用"
-        }
-    ]
-    return demo_news
+    print("\n✓ News data saved")
+    print(f"  - raw: {raw_file}")
+    print(f"  - categorized: {cat_file}")
+
 
 def main():
     print("=" * 50)
-    print("🤖 AI Daily News - 新闻抓取")
-    print(f"时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("🤖 AI Daily News - fetch")
+    print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 50)
     print()
-    
-    # 抓取所有新闻
+
     all_news = fetch_all_news()
-    print(f"\n总共抓取: {len(all_news)} 条新闻")
-    
-    # 如果没有抓取到新闻，使用示例数据
-    if len(all_news) == 0:
-        print("\n⚠️ RSS抓取失败，使用示例数据")
-        all_news = get_demo_news()
-    
-    # 分类
+    print(f"\nTotal after filtering and dedupe: {len(all_news)} items")
+
+    # Never publish placeholder content: fail so the workflow keeps the previous report
+    if not all_news:
+        print("\n✗ No news fetched from any source; aborting.")
+        sys.exit(1)
+
     categories = categorize_news(all_news)
-    
-    # 打印分类统计
-    print("\n分类统计:")
+
+    print("\nPer category:")
     for cat, items in categories.items():
         if items:
-            print(f"  - {cat}: {len(items)} 条")
-    
-    # 保存
+            print(f"  - {cat}: {len(items)}")
+
     save_news(all_news, categories)
-    
     return categories
+
 
 if __name__ == "__main__":
     main()

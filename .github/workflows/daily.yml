@@ -1,10 +1,10 @@
-name: AI Daily News - 每日更新
+name: AI Daily News - daily update
 
 on:
   schedule:
-    # 早上7点执行 (北京时间 07:00 = UTC 23:00)
-    - cron: '0 23 * * *'
-  workflow_dispatch:  # 支持手动触发
+    # 07:00 Vietnam time (UTC+7) = 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # allow manual runs
   push:
     branches: [main]
     paths:
@@ -12,58 +12,50 @@ on:
       - '.github/workflows/daily.yml'
 
 permissions:
-  contents: write  # 允许推送代码
+  contents: write  # allow pushing the generated report
+
+env:
+  TZ: Asia/Ho_Chi_Minh
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # 获取完整历史，用于归档
-    
+        fetch-depth: 0  # full history for archiving
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    
+
     - name: Install dependencies
       run: |
         cd scripts
         pip install -r requirements.txt
-    
+
+    # Fails the job (and skips the commit) when no source returns any news
     - name: Fetch news
       run: |
         cd scripts
         python fetch_news.py
-      env:
-        TZ: Asia/Shanghai
-    
+
     - name: Generate HTML
       run: |
         cd scripts
         python generate.py
-      env:
-        TZ: Asia/Shanghai
-    
-    - name: Send to Feishu
-      run: |
-        cd scripts
-        python send_feishu.py
-      env:
-        FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        TZ: Asia/Shanghai
-    
+
     - name: Commit and push
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add -A
-        git diff --quiet && git diff --staged --quiet || git commit -m "docs: 更新日报 $(date '+%Y-%m-%d')"
+        git diff --quiet && git diff --staged --quiet || git commit -m "docs: update daily report $(date '+%Y-%m-%d')"
         git push
-    
+
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:

@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-AI 科技日报 - 局域网静态服务器（供手机端验证 PWA）
+AI Daily News - LAN static server (for testing the PWA on a phone)
 
-用法：
-  python3 scripts/serve.py            # 默认 8000 端口
-  python3 scripts/serve.py 9000       # 指定端口
+Usage:
+  python3 scripts/serve.py            # default port 8000
+  python3 scripts/serve.py 9000       # custom port
 
-特性：
-  - 绑定 0.0.0.0，手机与电脑同一局域网即可访问
-  - 正确设置 webmanifest / json / svg 等 MIME（manifest 才能被识别）
-  - no-cache 响应头，方便反复刷新验证最新改动
+Features:
+  - binds 0.0.0.0 so any device on the same LAN can connect
+  - correct MIME types for webmanifest / json / svg (required for the manifest)
+  - no-cache headers so every refresh shows the latest changes
 """
 
 import os
@@ -36,7 +36,7 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def lan_ip() -> str:
-    """获取本机在局域网中的 IPv4 地址。"""
+    """Return this machine's LAN IPv4 address."""
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         s.connect(("8.8.8.8", 80))
@@ -56,21 +56,21 @@ def main() -> None:
 
     ip = lan_ip()
     print("=" * 52)
-    print("📱 AI 科技日报 - 局域网验证服务")
+    print("📱 AI Daily News - LAN preview server")
     print("=" * 52)
-    print(f"  本机访问 : http://localhost:{port}/")
-    print(f"  手机访问 : http://{ip}:{port}/")
+    print(f"  This computer : http://localhost:{port}/")
+    print(f"  Phone         : http://{ip}:{port}/")
     print("-" * 52)
-    print("  提示：手机与电脑需连接同一 Wi-Fi。")
-    print("  注：局域网为 HTTP，Service Worker 不会注册（非安全上下文），")
-    print("     但「今天」按钮、历史回顾、图标、添加到主屏幕均可验证。")
+    print("  Tip: the phone and computer must be on the same Wi-Fi.")
+    print("  Note: plain HTTP on the LAN is not a secure context, so the service worker")
+    print("  will not register; navigation, archive, icons and add-to-home-screen still work.")
     print("=" * 52)
-    print("按 Ctrl+C 停止。")
+    print("Press Ctrl+C to stop.")
 
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
-        print("\n已停止。")
+        print("\nStopped.")
         httpd.server_close()
 
 

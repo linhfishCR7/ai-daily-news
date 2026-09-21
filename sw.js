@@ -1,15 +1,15 @@
 /*
- * AI 科技日报 - Service Worker
+ * AI Daily News - Service Worker
  *
- * 策略（保证「在线时永远是今天最新」）：
- *   - 文档 / 归档页 / 历史清单 JSON  → network-first（在线取最新，离线回退缓存）
- *   - 同源静态资源（CSS/图标/SVG）   → stale-while-revalidate
- *   - 跨域资源（Google 字体等）       → 透传，不缓存
+ * Strategy (always show today's latest report when online):
+ *   - documents / archive pages / manifest JSON → network-first (latest online, cache offline)
+ *   - same-origin static assets (CSS/icons/SVG)  → stale-while-revalidate
+ *   - cross-origin requests (Google Fonts, etc.) → passed through, not cached
  */
 
-const CACHE = 'aidaily-v1';
+const CACHE = 'aidaily-v2';
 
-/* 安装：预缓存核心外壳 */
+/* Install: precache the core shell */
 const CORE = [
   './',
   './assets/style.css',
@@ -42,7 +42,7 @@ self.addEventListener('fetch', (event) => {
   if (req.method !== 'GET') return;
 
   const url = new URL(req.url);
-  // 跨域请求透传，交给浏览器默认处理
+  // Let the browser handle cross-origin requests
   if (url.origin !== self.location.origin) return;
 
   const isDoc =
@@ -52,7 +52,7 @@ self.addEventListener('fetch', (event) => {
     url.pathname.endsWith('archive_manifest.json');
 
   if (isDoc) {
-    // network-first：在线拿最新日报，失败才回退缓存
+    // network-first: fetch the latest report, fall back to cache when offline
     event.respondWith(
       fetch(req, { cache: 'no-cache' })
         .then((res) => {
@@ -65,7 +65,7 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 静态资源：stale-while-revalidate（先用缓存，后台更新）
+  // Static assets: stale-while-revalidate (serve cache, refresh in background)
   event.respondWith(
     (async () => {
       const cache = await caches.open(CACHE);

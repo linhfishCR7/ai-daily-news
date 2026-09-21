@@ -1,96 +1,161 @@
 {
   "headline": [
     {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source": "techcrunch_ai",
-      "pub_date": "2026-09-19 17:30",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+      "title": "Con trai nghiện ma túy, người mẹ kiện ChatGPT",
+      "link": "https://genk.vn/con-trai-nghien-ma-tuy-nguoi-me-kien-chatgpt-165260921071510933.chn",
+      "source": "GenK",
+      "pub_date": "2026-09-21 08:20",
+      "summary": "Leila Turner-Scott kiện ChatGPT sau khi con trai cô tử vong vì sốc ma túy, cho rằng chatbot đã cung cấp thông tin sai lệch về an toàn khi ủng hộ con mình nghiện."
     },
     {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "source": "openai_blog",
-      "pub_date": "2026-09-17 12:00",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+      "title": "Ba tin tặc tốn chưa đầy 3.000 USD, dùng Claude đột nhập vào kho mã nguồn nội bộ của OpenAI",
+      "link": "https://genk.vn/ba-tin-tac-ton-chua-day-3000-usd-dung-claude-dot-nhap-vao-kho-ma-nguon-noi-bo-cua-openai-165260919232341475.chn",
+      "source": "GenK",
+      "pub_date": "2026-09-20 11:01",
+      "summary": "Chỉ với một bức ảnh tải lên diễn đàn và chưa đầy ba nghìn USD chi phí gọi mô hình Claude, nhóm nghiên cứu đã chiếm quyền điều khiển Codex của nhân viên để gửi mã trực tiếp vào kho lưu trữ nội bộ OpenA"
     },
     {
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "link": "https://openai.com/index/hex-gpt-6-astra",
-      "source": "openai_blog",
-      "pub_date": "2026-09-16 12:00",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "openai_blog",
-      "pub_date": "2026-09-14 00:00",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "openai_blog",
-      "pub_date": "2026-09-11 10:00",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+      "title": "Mô hình của OpenAI dạy phiên bản sau 'nói dối'",
+      "link": "https://vnexpress.net/mo-hinh-cua-openai-day-phien-ban-sau-noi-doi-5122375.html",
+      "source": "VnExpress",
+      "pub_date": "2026-09-20 09:00",
+      "summary": "OpenAI phát hiện GPT-5.6 Sol hướng dẫn cho các phiên bản tương lai, yêu cầu che giấu lỗi và các hành vi sai mục tiêu trước người dùng."
     }
   ],
   "product": [
     {
-      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-      "link": "https://www.qbitai.com/2026/09/492849.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-20 02:48",
-      "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布"
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-21 01:32",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-19 22:00",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features "
     }
   ],
-  "funding": [],
+  "funding": [
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-19 20:00",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
+    }
+  ],
   "research": [
     {
-      "title": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
-      "link": "https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&utm_medium=article",
-      "source": "infoq",
-      "pub_date": "2026-09-20 09:59",
-      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-21 03:29",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-20 00:30",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "pub_date": "2026-09-21 01:50",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with"
+    },
+    {
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge",
+      "pub_date": "2026-09-20 22:39",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the"
+    },
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-20 03:39",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+    },
+    {
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-20 02:57",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+    },
+    {
+      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+      "link": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "source": "Hacker News",
+      "pub_date": "2026-09-20 01:36",
+      "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Poin"
+    }
+  ],
   "other": [
     {
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "link": "https://www.qbitai.com/2026/09/492973.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-20 14:30",
-      "summary": "剪映Hub+剪映助手，好用"
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "source": "Hacker News",
+      "pub_date": "2026-09-21 11:28",
+      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 25 # Comments: 6"
     },
     {
-      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-      "link": "https://www.qbitai.com/2026/09/493068.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-20 14:23",
-      "summary": "AI越来越能干，企业该怎么用"
+      "title": "\"Nữ diễn viên\" trí tuệ nhân tạo Tilly Norwood gặp sự cố khi phỏng vấn, bất ngờ lảm nhảm bằng tiếng Trung",
+      "link": "https://genk.vn/nu-dien-vien-tri-tue-nhan-tao-tilly-norwood-gap-su-co-khi-phong-van-bat-ngo-lam-nham-bang-tieng-trung-165260921110008912.chn",
+      "source": "GenK",
+      "pub_date": "2026-09-21 11:01",
+      "summary": "Màn xuất hiện đầy tự tin của nữ diễn viên ảo Tilly Norwood trên sóng truyền hình bỗng chốc biến thành trò cười cay đắng. Thay vì chứng minh sự ưu việt, thực thể này lại đột ngột nói lảm nhảm bằng tiến"
     },
     {
-      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-      "link": "https://www.qbitai.com/2026/09/492946.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-20 12:22",
-      "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。"
+      "title": "Giải mã cơn sốt phim AI: Biết là AI vẫn “cày” 80 tập đến 2h sáng, vì sao không thể dừng lại?",
+      "link": "https://genk.vn/giai-ma-con-sot-phim-ai-biet-la-ai-van-cay-80-tap-den-2h-sang-vi-sao-khong-the-dung-lai-165260921105924822.chn",
+      "source": "GenK",
+      "pub_date": "2026-09-21 10:59",
+      "summary": "Một bộ phim AI có gì mà thu hút tới hàng trăm triệu lượt xem, có người thừa nhận biết cái kết vẫn không thể \"thoát ra\" được."
     },
     {
-      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "link": "https://www.qbitai.com/2026/09/492939.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-20 08:30",
-      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果"
+      "title": "Can I Let My AI Agent Run on Shabbat?",
+      "link": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+      "source": "Hacker News",
+      "pub_date": "2026-09-21 09:05",
+      "summary": "Article URL: https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm Comments URL: https://news.ycombinator.com/item?id=49782242 Points: 28 # Comments: 1"
     },
     {
-      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-      "link": "https://www.qbitai.com/2026/09/492912.html",
-      "source": "qbitai",
-      "pub_date": "2026-09-20 08:01",
-      "summary": "亚马逊云科技给企业安全用Agent打了个样"
+      "title": "Not all AI workers think the tech could kill everyone",
+      "link": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+      "source": "Hacker News",
+      "pub_date": "2026-09-21 05:22",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm5y7qj54klpo Comments URL: https://news.ycombinator.com/item?id=49780704 Points: 21 # Comments: 20"
+    },
+    {
+      "title": "I stopped drinking the AI Kool-Aid",
+      "link": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+      "source": "Hacker News",
+      "pub_date": "2026-09-21 04:17",
+      "summary": "Article URL: https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/ Comments URL: https://news.ycombinator.com/item?id=49780162 Points: 62 # Comments: 44"
+    },
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch",
+      "pub_date": "2026-09-21 01:56",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+    },
+    {
+      "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
+      "link": "https://www.youtube.com/watch?v=KnckQp-c388",
+      "source": "Hacker News",
+      "pub_date": "2026-09-21 01:11",
+      "summary": "Article URL: https://www.youtube.com/watch?v=KnckQp-c388 Comments URL: https://news.ycombinator.com/item?id=49778367 Points: 20 # Comments: 3"
     }
   ]
 }

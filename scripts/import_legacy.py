@@ -22,6 +22,7 @@ import requests
 from bs4 import BeautifulSoup
 
 import generate
+import usage
 from translate import translate_items
 
 # Section titles on the legacy pages -> category keys
@@ -109,7 +110,7 @@ def import_url(url):
     date, issue, categories = parse_legacy(response.text)
     print(f"  Issue {issue} · {date:%Y-%m-%d %H:%M} · {sum(len(v) for v in categories.values())} items")
 
-    translate_items([item for items in categories.values() for item in items])
+    translate_items([item for items in categories.values() for item in items], run=f"import {date:%Y%m%d}")
 
     html = generate.to_archive_paths(generate.generate_html(categories, now=date, issue_num=issue))
     os.makedirs(generate.ARCHIVE_DIR, exist_ok=True)
@@ -127,6 +128,7 @@ def main():
     for url in urls:
         import_url(url)
     generate.generate_manifest()
+    usage.write_job_summary()
 
 
 if __name__ == "__main__":

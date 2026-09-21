@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI Daily News">
   <rect width="512" height="512" fill="#1a1a1a"/>
-  <rect x="51" y="51" width="410" height="410" rx="56" fill="#fffef8"/>
-  <rect x="79" y="79" width="354" height="354" rx="40" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-  <rect x="96" y="96" width="320" height="320" rx="28" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-  <rect x="110" y="110" width="292" height="106" fill="#1a1a1a"/>
-  <text x="256" y="163" text-anchor="middle" dominant-baseline="central"
-        font-family="Georgia, 'Times New Roman', serif" font-weight="bold"
-        font-size="66" fill="#fffef8" letter-spacing="4">AI</text>
-  <rect x="96" y="251" width="307" height="11" rx="5" fill="#8b5a2b"/>
-  <rect x="96" y="320" width="224" height="11" rx="5" fill="#8b5a2b"/>
-  <rect x="96" y="389" width="275" height="11" rx="5" fill="#8b5a2b"/>
-  <circle cx="100" cy="429" r="12" fill="#c0392b"/>
+  <polygon points="256,176 70,146 70,380 256,410" fill="#fffef8"/>
+  <polygon points="256,176 442,146 442,318 380,388 256,410" fill="#fffef8"/>
+  <polygon points="256,176 226,171 226,405 256,410" fill="#ece4d4"/>
+  <polygon points="256,176 286,171 286,405 256,410" fill="#ece4d4"/>
+  <line x1="256" y1="176" x2="256" y2="410" stroke="#8b5a2b" stroke-width="4"/>
+  <polygon points="442,318 398,336 380,388 388,346" fill="#8b5a2b"/>
+  <polygon points="442,318 380,388 398,336" fill="#ece4d4"/>
+  <polygon points="242,150 270,150 270,244 256,230 242,244" fill="#c0392b"/>
+  <text x="164" y="282" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="172" fill="#1a1a1a">A</text>
+  <text x="350" y="282" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="172" fill="#1a1a1a">I</text>
 </svg>

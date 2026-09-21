@@ -2,9 +2,10 @@
 """
 AI Daily News - app icon generator
 
-Design: "AI masthead stamp"
-  ink-black background + cream paper card (double newspaper border) + black masthead bar with a cream bold serif "AI"
-  + sepia text rules + a red "published" dot at the bottom left
+Design: "open book"
+  ink-black background + an open cream book seen from the front, "A" on the
+  left page and "I" on the right page, the right page's corner curling as it
+  turns (the site turns issues like book pages) + a red bookmark ribbon.
 
 Output (icons/ at the project root):
   icon-512.png / icon-192.png      -- standard (purpose=any)
@@ -17,96 +18,96 @@ Re-runnable: python3 scripts/make_icons.py
 """
 
 import os
+
 from PIL import Image, ImageDraw, ImageFont
 
 # Brand colors (match assets/style.css)
 INK = (26, 26, 26)          # #1a1a1a ink black
 CREAM = (255, 254, 248)     # #fffef8 cream paper
+PAGE_SHADE = (236, 228, 212)  # #ece4d4 page shading near the spine
 SEPIA = (139, 90, 43)       # #8b5a2b sepia
-BRICK = (192, 57, 43)       # "published" red dot
+BRICK = (192, 57, 43)       # #c0392b bookmark ribbon
 
-GEORGIA_BOLD = "/System/Library/Fonts/Supplemental/Georgia Bold.ttf"
+FONT_CANDIDATES = [
+    "C:/Windows/Fonts/georgiab.ttf",                              # Windows
+    "/System/Library/Fonts/Supplemental/Georgia Bold.ttf",        # macOS
+    "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",      # Linux
+]
+
+SUPERSAMPLE = 4  # draw large, then downscale for smooth edges
+
+# Geometry in a 512 x 512 design space (the SVG below uses the same numbers)
+LEFT_PAGE = [(256, 176), (70, 146), (70, 380), (256, 410)]
+RIGHT_PAGE = [(256, 176), (442, 146), (442, 318), (380, 388), (256, 410)]
+SPINE_SHADE_L = [(256, 176), (226, 171), (226, 405), (256, 410)]
+SPINE_SHADE_R = [(256, 176), (286, 171), (286, 405), (256, 410)]
+CURL = [(442, 318), (380, 388), (398, 336)]           # underside of the turning corner
+CURL_SHADOW = [(442, 318), (398, 336), (380, 388), (388, 346)]
+RIBBON = [(242, 150), (270, 150), (270, 244), (256, 230), (242, 244)]
+SPINE = [(256, 176), (256, 410)]
+LETTER_A = (164, 282)   # centers of the letters
+LETTER_I = (350, 282)
+LETTER_SIZE = 172
 
 
 def _font(size: int) -> ImageFont.FreeTypeFont:
-    try:
-        return ImageFont.truetype(GEORGIA_BOLD, size)
-    except Exception:
-        return ImageFont.load_default()
+    for path in FONT_CANDIDATES:
+        try:
+            return ImageFont.truetype(path, size)
+        except OSError:
+            continue
+    return ImageFont.load_default()
 
 
 def draw_icon(size: int, maskable: bool = False) -> Image.Image:
-    """Draw one icon. With maskable=True the card shrinks so key content stays in the central 80% safe zone."""
-    s = float(size)
-    img = Image.new("RGB", (size, size), INK)
+    """Draw one icon. With maskable=True the artwork shrinks to stay inside the central 80% safe zone."""
+    big = size * SUPERSAMPLE
+    img = Image.new("RGB", (big, big), INK)
     d = ImageDraw.Draw(img)
 
-    # Cream paper card (centered, rounded)
-    card_frac = 0.60 if maskable else 0.80
-    m = s * (1 - card_frac) / 2
-    radius = int(s * 0.11)
-    d.rounded_rectangle([m, m, s - m, s - m], radius=radius, fill=CREAM)
+    scale = big / 512 * (0.78 if maskable else 1.0)
+    offset = (big - 512 * scale) / 2
 
-    # Content padding
-    p = m + s * 0.055
-    right = bottom = s - p
-    content_w = right - p
+    def pt(p):
+        return (offset + p[0] * scale, offset + p[1] * scale)
 
-    # Double newspaper border
-    bw = max(2, round(s * 0.013))
-    d.rounded_rectangle([p, p, s - p, s - p],
-                        radius=max(3, radius - round(s * 0.04)), outline=INK, width=bw)
-    p2 = p + bw * 2.4
-    d.rounded_rectangle([p2, p2, s - p2, s - p2],
-                        radius=max(3, radius - round(s * 0.07)), outline=INK, width=bw)
+    def poly(points, fill):
+        d.polygon([pt(p) for p in points], fill=fill)
 
-    # Black masthead bar
-    bar_x1, bar_x2 = p2, s - p2
-    bar_y1 = p2 + content_w * 0.04
-    bar_h = content_w * 0.30
-    bar_y2 = bar_y1 + bar_h
-    d.rectangle([bar_x1, bar_y1, bar_x2, bar_y2], fill=INK)
+    poly(LEFT_PAGE, CREAM)
+    poly(RIGHT_PAGE, CREAM)
+    # Soft shading along the spine
+    poly(SPINE_SHADE_L, PAGE_SHADE)
+    poly(SPINE_SHADE_R, PAGE_SHADE)
+    d.line([pt(SPINE[0]), pt(SPINE[1])], fill=SEPIA, width=max(1, round(4 * scale)))
+    # Turning corner
+    poly(CURL_SHADOW, SEPIA)
+    poly(CURL, PAGE_SHADE)
+    # Bookmark ribbon
+    poly(RIBBON, BRICK)
 
-    # Cream bold serif "AI", centered in the masthead bar
-    font = _font(int(bar_h * 0.62))
-    bbox = d.textbbox((0, 0), "AI", font=font)
-    tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
-    d.text(((s - tw) / 2 - bbox[0], (bar_y1 + bar_y2 - th) / 2 - bbox[1]),
-           "AI", font=font, fill=CREAM)
+    font = _font(round(LETTER_SIZE * scale))
+    for letter, center in (("A", LETTER_A), ("I", LETTER_I)):
+        cx, cy = pt(center)
+        d.text((cx, cy), letter, font=font, fill=INK, anchor="mm")
 
-    # Sepia text rules (3 lines of varying length)
-    rules_top = bar_y2 + content_w * 0.11
-    rules_bot = bottom - content_w * 0.10
-    slot = (rules_bot - rules_top) / 3
-    lh = max(2, round(s * 0.022))
-    for i, wf in enumerate((0.96, 0.70, 0.86)):
-        cy = rules_top + slot * i + slot * 0.5
-        rw = (bar_x2 - p2) * wf
-        d.rounded_rectangle([p2, cy - lh / 2, p2 + rw, cy + lh / 2],
-                            radius=max(1, lh // 2), fill=SEPIA)
-
-    # Red dot at the bottom left
-    dr = max(3, round(s * 0.024))
-    cx = p2 + dr
-    cy = bottom - dr
-    d.ellipse([cx - dr, cy - dr, cx + dr, cy + dr], fill=BRICK)
-
-    return img
+    return img.resize((size, size), Image.LANCZOS)
 
 
 SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI Daily News">
   <rect width="512" height="512" fill="#1a1a1a"/>
-  <rect x="51" y="51" width="410" height="410" rx="56" fill="#fffef8"/>
-  <rect x="79" y="79" width="354" height="354" rx="40" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-  <rect x="96" y="96" width="320" height="320" rx="28" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-  <rect x="110" y="110" width="292" height="106" fill="#1a1a1a"/>
-  <text x="256" y="163" text-anchor="middle" dominant-baseline="central"
-        font-family="Georgia, 'Times New Roman', serif" font-weight="bold"
-        font-size="66" fill="#fffef8" letter-spacing="4">AI</text>
-  <rect x="96" y="251" width="307" height="11" rx="5" fill="#8b5a2b"/>
-  <rect x="96" y="320" width="224" height="11" rx="5" fill="#8b5a2b"/>
-  <rect x="96" y="389" width="275" height="11" rx="5" fill="#8b5a2b"/>
-  <circle cx="100" cy="429" r="12" fill="#c0392b"/>
+  <polygon points="256,176 70,146 70,380 256,410" fill="#fffef8"/>
+  <polygon points="256,176 442,146 442,318 380,388 256,410" fill="#fffef8"/>
+  <polygon points="256,176 226,171 226,405 256,410" fill="#ece4d4"/>
+  <polygon points="256,176 286,171 286,405 256,410" fill="#ece4d4"/>
+  <line x1="256" y1="176" x2="256" y2="410" stroke="#8b5a2b" stroke-width="4"/>
+  <polygon points="442,318 398,336 380,388 388,346" fill="#8b5a2b"/>
+  <polygon points="442,318 380,388 398,336" fill="#ece4d4"/>
+  <polygon points="242,150 270,150 270,244 256,230 242,244" fill="#c0392b"/>
+  <text x="164" y="282" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="172" fill="#1a1a1a">A</text>
+  <text x="350" y="282" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="172" fill="#1a1a1a">I</text>
 </svg>
 """
 
@@ -116,20 +117,15 @@ def main() -> None:
     out_dir = os.path.join(project_dir, "icons")
     os.makedirs(out_dir, exist_ok=True)
 
-    def save(img: Image.Image, name: str, sz: int) -> None:
-        path = os.path.join(out_dir, name)
-        img.resize((sz, sz), Image.LANCZOS).save(path, "PNG")
-        print(f"✓ {name} ({sz}×{sz})")
-
-    master_any = draw_icon(512, maskable=False)
-    master_mask = draw_icon(512, maskable=True)
-
-    save(master_any, "icon-512.png", 512)
-    save(master_any, "icon-192.png", 192)
-    save(master_any, "apple-touch-icon.png", 180)
-    save(master_any, "favicon-32.png", 32)
-    master_mask.resize((512, 512), Image.LANCZOS).save(os.path.join(out_dir, "maskable-512.png"), "PNG")
-    print("✓ maskable-512.png (512×512)")
+    for name, size, maskable in [
+        ("icon-512.png", 512, False),
+        ("icon-192.png", 192, False),
+        ("apple-touch-icon.png", 180, False),
+        ("favicon-32.png", 32, False),
+        ("maskable-512.png", 512, True),
+    ]:
+        draw_icon(size, maskable).save(os.path.join(out_dir, name), "PNG")
+        print(f"✓ {name} ({size}×{size})")
 
     with open(os.path.join(out_dir, "icon.svg"), "w", encoding="utf-8") as f:
         f.write(SVG)

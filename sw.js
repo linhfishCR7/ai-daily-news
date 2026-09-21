@@ -7,7 +7,7 @@
  *   - cross-origin requests (Google Fonts, etc.) → passed through, not cached
  */
 
-const CACHE = 'aidaily-v4';
+const CACHE = 'aidaily-v5';
 
 /* Install: precache the core shell */
 const CORE = [

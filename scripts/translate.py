@@ -15,6 +15,8 @@ import sys
 
 import requests
 
+import usage
+
 API_URL = "https://api.deepseek.com/chat/completions"
 MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-pro")
 MAX_ATTEMPTS = 2  # DeepSeek JSON mode may occasionally return empty content
@@ -33,8 +35,11 @@ Output: a json object in exactly this format:
 {"translations": [{"id": 0, "text": "translated headline"}, {"id": 1, "text": "translated headline"}]}"""
 
 
-def translate(items, api_key):
-    """Return {id: translated title} for items shaped {"id", "text", "target"}."""
+def translate(items, api_key, usage_log):
+    """Return {id: translated title} for items shaped {"id", "text", "target"}.
+
+    The `usage` of every response (retries are billed too) is appended to usage_log.
+    """
     payload = {
         "model": MODEL,
         "messages": [
@@ -51,7 +56,10 @@ def translate(items, api_key):
     for attempt in range(1, MAX_ATTEMPTS + 1):
         response = requests.post(API_URL, json=payload, headers=headers, timeout=120)
         response.raise_for_status()
-        choice = response.json()["choices"][0]
+        body = response.json()
+        if body.get("usage"):
+            usage_log.append(body["usage"])
+        choice = body["choices"][0]
         if choice.get("finish_reason") == "length":
             raise RuntimeError("translation output was truncated")
 
@@ -71,10 +79,11 @@ def translate(items, api_key):
 TARGETS = {"en": "English", "vi": "Vietnamese"}
 
 
-def translate_items(news):
+def translate_items(news, run="daily"):
     """Set title_en / title_vi on each item in place, translating missing languages.
 
     Original titles are kept when DEEPSEEK_API_KEY is missing or the API fails.
+    Token usage and cost are recorded in data/usage.json under `run`.
     """
     for item in news:
         item["title_en"] = item["title"]
@@ -94,14 +103,17 @@ def translate_items(news):
     elif not api_key:
         print("⚠️ DEEPSEEK_API_KEY is not set; keeping original titles")
     else:
+        usage_log = []
         try:
-            translated = translate(requests_, api_key)
+            translated = translate(requests_, api_key, usage_log)
             for i, (item, code) in enumerate(targets):
                 if i in translated:
                     item["title_" + code] = translated[i]
             print(f"✓ Translated {len(translated)}/{len(requests_)} headlines with {MODEL}")
         except (requests.RequestException, RuntimeError, ValueError, KeyError, IndexError, TypeError) as exc:
             print(f"⚠️ Translation failed, keeping original titles: {exc}")
+        finally:
+            usage.record(run, MODEL, usage_log)
 
 
 def main():
@@ -122,6 +134,7 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(categories, f, ensure_ascii=False, indent=2)
     print(f"✓ Saved: {DATA_FILE}")
+    usage.write_job_summary()
 
 
 if __name__ == "__main__":

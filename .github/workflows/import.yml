@@ -1,0 +1,49 @@
+name: AI Daily News - import legacy issues
+
+# Manual only: re-publish issues from the original Chinese site in the bilingual layout
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: 'Space-separated legacy report URLs'
+        required: true
+        default: 'https://xiangjianan.github.io/ai-daily-news/archive/20260920.html https://xiangjianan.github.io/ai-daily-news/archive/20260721.html'
+
+permissions:
+  contents: write
+
+env:
+  TZ: Asia/Ho_Chi_Minh
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        cd scripts
+        pip install -r requirements.txt
+
+    - name: Import and translate
+      run: |
+        cd scripts
+        python import_legacy.py ${{ inputs.urls }}
+      env:
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
+    - name: Commit and push
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        git diff --staged --quiet || git commit -m "docs: import legacy issues"
+        git push

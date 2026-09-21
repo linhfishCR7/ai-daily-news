@@ -2,7 +2,8 @@
 """
 AI Daily News - headline translator
 Adds "title_en" and "title_vi" to every item in data/categorized_news.json,
-translating each headline into the other language with the DeepSeek API.
+translating each headline into the language(s) it is missing with the DeepSeek API.
+Item "lang" is "en", "vi" or "zh" (older imported issues; translated to both).
 
 Needs DEEPSEEK_API_KEY. Without it (or on any API error) the original
 titles are kept for both languages, so the daily report still publishes.
@@ -15,14 +16,14 @@ import sys
 import requests
 
 API_URL = "https://api.deepseek.com/chat/completions"
-MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-flash")
+MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-pro")
 MAX_ATTEMPTS = 2  # DeepSeek JSON mode may occasionally return empty content
 
 DATA_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                          "data", "categorized_news.json")
 
 # JSON mode requires the word "json" and an example of the output format in the prompt
-SYSTEM_PROMPT = """You translate news headlines for a bilingual English/Vietnamese AI news digest.
+SYSTEM_PROMPT = """You translate news headlines (English, Vietnamese or Chinese) for a bilingual English/Vietnamese AI news digest.
 Translate each headline into its "target" language as a natural, concise headline a native
 reader would expect from a news site. Keep names of people, companies, products and AI models
 (e.g. OpenAI, Claude, Gemini, GPT-6) unchanged. Return exactly one translation for every id.
@@ -65,6 +66,42 @@ def translate(items, api_key):
     raise RuntimeError("empty response from the API")
 
 
+TARGETS = {"en": "English", "vi": "Vietnamese"}
+
+
+def translate_items(news):
+    """Set title_en / title_vi on each item in place, translating missing languages.
+
+    Original titles are kept when DEEPSEEK_API_KEY is missing or the API fails.
+    """
+    for item in news:
+        item["title_en"] = item["title"]
+        item["title_vi"] = item["title"]
+
+    # One request per (item, missing language)
+    requests_, targets = [], []
+    for item in news:
+        for code, name in TARGETS.items():
+            if item.get("lang", "en") != code:
+                targets.append((item, code))
+                requests_.append({"id": len(requests_), "text": item["title"], "target": name})
+
+    api_key = os.environ.get("DEEPSEEK_API_KEY")
+    if not requests_:
+        print("Nothing to translate")
+    elif not api_key:
+        print("⚠️ DEEPSEEK_API_KEY is not set; keeping original titles")
+    else:
+        try:
+            translated = translate(requests_, api_key)
+            for i, (item, code) in enumerate(targets):
+                if i in translated:
+                    item["title_" + code] = translated[i]
+            print(f"✓ Translated {len(translated)}/{len(requests_)} headlines with {MODEL}")
+        except (requests.RequestException, RuntimeError, ValueError, KeyError, IndexError, TypeError) as exc:
+            print(f"⚠️ Translation failed, keeping original titles: {exc}")
+
+
 def main():
     print("=" * 50)
     print("🤖 AI Daily News - translate headlines")
@@ -78,33 +115,7 @@ def main():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         categories = json.load(f)
 
-    news = [item for items in categories.values() for item in items]
-
-    # Start with the original title in both languages
-    for item in news:
-        item["title_en"] = item["title"]
-        item["title_vi"] = item["title"]
-
-    requests_ = [
-        {"id": i, "text": item["title"], "target": "Vietnamese" if item.get("lang", "en") == "en" else "English"}
-        for i, item in enumerate(news)
-    ]
-    api_key = os.environ.get("DEEPSEEK_API_KEY")
-
-    if not requests_:
-        print("Nothing to translate")
-    elif not api_key:
-        print("⚠️ DEEPSEEK_API_KEY is not set; keeping original titles")
-    else:
-        try:
-            translated = translate(requests_, api_key)
-            for i, item in enumerate(news):
-                if i in translated:
-                    key = "title_vi" if item.get("lang", "en") == "en" else "title_en"
-                    item[key] = translated[i]
-            print(f"✓ Translated {len(translated)}/{len(requests_)} headlines with {MODEL}")
-        except (requests.RequestException, RuntimeError, ValueError, KeyError, IndexError, TypeError) as exc:
-            print(f"⚠️ Translation failed, keeping original titles: {exc}")
+    translate_items([item for items in categories.values() for item in items])
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(categories, f, ensure_ascii=False, indent=2)

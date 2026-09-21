@@ -9,7 +9,6 @@ import glob
 import json
 import os
 import re
-import shutil
 from datetime import datetime
 
 from bs4 import BeautifulSoup
@@ -653,10 +652,14 @@ MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December"]
 
 
-def generate_html(categories):
-    """Render the daily report HTML."""
-    now = datetime.now()
-    issue_num = (now - ISSUE_START_DATE).days + 1
+def generate_html(categories, now=None, issue_num=None):
+    """Render the report HTML for `now` (default: the current time).
+
+    `issue_num` defaults to the number derived from ISSUE_START_DATE.
+    """
+    now = now or datetime.now()
+    if issue_num is None:
+        issue_num = (now - ISSUE_START_DATE).days + 1
     # Pick the quote by date so re-running on the same day gives the same page
     quote_en, quote_vi, quote_author = QUOTES[now.toordinal() % len(QUOTES)]
 
@@ -686,6 +689,11 @@ def save_html(html):
     return INDEX_FILE
 
 
+def to_archive_paths(html):
+    """Point a report's relative asset links one level up, for pages stored in archive/."""
+    return re.sub(r'href="(assets/|icons/|manifest\.webmanifest)', r'href="../\g<1>', html)
+
+
 def read_report_date(html):
     """Return the report date (YYYYMMDD) of a report page, or None.
 
@@ -710,7 +718,8 @@ def archive_previous():
         return
 
     with open(INDEX_FILE, "r", encoding="utf-8") as f:
-        date = read_report_date(f.read())
+        html = f.read()
+    date = read_report_date(html)
 
     if not date:
         print("⚠️ Could not read the date of index.html; not archived")
@@ -722,7 +731,8 @@ def archive_previous():
     # existing archive file may be an early draft from an older same-day re-run
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
     archive_file = os.path.join(ARCHIVE_DIR, f"{date}.html")
-    shutil.copy(INDEX_FILE, archive_file)
+    with open(archive_file, "w", encoding="utf-8") as f:
+        f.write(to_archive_paths(html))
     print(f"✓ Archived: {archive_file}")
 
 

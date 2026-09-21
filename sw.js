@@ -7,12 +7,13 @@
  *   - cross-origin requests (Google Fonts, etc.) → passed through, not cached
  */
 
-const CACHE = 'aidaily-v3';
+const CACHE = 'aidaily-v4';
 
 /* Install: precache the core shell */
 const CORE = [
   './',
-  './assets/style.css?v=2', // keep in sync with STYLE_VERSION in scripts/generate.py
+  './assets/style.css?v=3', // keep in sync with STYLE_VERSION in scripts/generate.py
+  './assets/vendor/page-flip.browser.js',
   './manifest.webmanifest',
   './icons/icon-192.png',
   './icons/icon-512.png',

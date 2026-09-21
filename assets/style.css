@@ -870,90 +870,54 @@ html[data-lang="vi"] .lang-switch [data-set-lang="vi"] {
 }
 
 /* ============================================
-   Page turn between issues
+   Book mode (StPageFlip): one issue per page
    ============================================ */
 
-#reportStage.turning {
-  position: relative;
-  perspective: 2200px;
-  perspective-origin: 50% 30vh;
+/* The window no longer scrolls; each page scrolls on its own */
+html.book-mode body {
+  overflow: hidden;
+  padding-bottom: 0;
+}
+
+/* Horizontal swipes turn pages, so stop the browser's swipe-to-go-back / pull-to-refresh */
+html.book-mode,
+html.book-mode body {
+  overscroll-behavior: none;
+}
+
+html.book-mode #reportStage {
+  display: flex;
+  justify-content: center;
   overflow: hidden;
 }
 
-/* The next page waits underneath and fades up from the shadow of the turning leaf */
-#reportStage.turning .page-under {
-  animation: page-reveal 750ms ease-out both;
+/* The browser handles only vertical panning; horizontal drags go to the page turner */
+#book,
+#book .book-page {
+  touch-action: pan-y;
 }
 
-/* The current page, lifted on top of the stage, turns away */
-#reportStage .page-leaf {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 2;
-  max-height: 100vh;
-  overflow: hidden;
-  backface-visibility: hidden;
-  will-change: transform;
-  animation-duration: 750ms;
-  animation-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
-  animation-fill-mode: forwards;
+.book-page {
+  background: #fffef8;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
 }
 
-/* Paper shading that darkens as the page bends */
-#reportStage .page-leaf::after {
-  content: '';
-  position: absolute;
-  inset: 0;
+/* The report fills its page instead of floating on the background */
+.book-page > .container {
+  margin: 0;
+  max-width: none;
+  min-height: 100%;
+  box-shadow: inset 0 0 60px rgba(139, 90, 43, 0.03);
+}
+
+.book-page > .report-loading {
+  padding-top: 40vh;
+}
+
+/* Taps on a headline's text must reach the link itself (the book ignores taps on <a>) */
+a .i18n-en,
+a .i18n-vi {
   pointer-events: none;
-  animation: page-shade 750ms ease-in forwards;
-}
-
-/* Forward: the page turns around its left edge (the spine), like a book */
-#reportStage .page-leaf.turn-next {
-  transform-origin: left center;
-  animation-name: page-turn-next;
-}
-
-#reportStage .page-leaf.turn-next::after {
-  background: linear-gradient(to left, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0) 60%);
-}
-
-/* Back: the page turns around its right edge */
-#reportStage .page-leaf.turn-prev {
-  transform-origin: right center;
-  animation-name: page-turn-prev;
-}
-
-#reportStage .page-leaf.turn-prev::after {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0) 60%);
-}
-
-@keyframes page-turn-next {
-  0% { transform: rotateY(0deg); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); }
-  100% { transform: rotateY(-120deg); box-shadow: -30px 0 40px rgba(0, 0, 0, 0.25); }
-}
-
-@keyframes page-turn-prev {
-  0% { transform: rotateY(0deg); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); }
-  100% { transform: rotateY(120deg); box-shadow: 30px 0 40px rgba(0, 0, 0, 0.25); }
-}
-
-@keyframes page-shade {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-@keyframes page-reveal {
-  0% { filter: brightness(0.85); }
-  100% { filter: brightness(1); }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  #reportStage .page-leaf,
-  #reportStage .page-leaf::after,
-  #reportStage.turning .page-under {
-    animation: none;
-  }
 }

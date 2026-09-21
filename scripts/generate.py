@@ -20,7 +20,7 @@ ARCHIVE_DIR = os.path.join(PROJECT_DIR, "archive")
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
 
 # Bump when assets/style.css changes so browsers and the service worker fetch the new file
-STYLE_VERSION = "2"
+STYLE_VERSION = "3"
 
 # Issue numbers count days since the first English/Vietnamese issue (Số 1)
 ISSUE_START_DATE = datetime(2026, 9, 21)
@@ -182,12 +182,13 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
   </div>
 
 {% raw %}
+  <script src="assets/vendor/page-flip.browser.js"></script>
   <script>
   (function () {
     "use strict";
     var BASE = location.pathname.indexOf("/archive/") !== -1 ? "../" : "./";
     var UNIT = 19, GAP = 4; // matches CSS: 15px cell + 4px gap
-    var FLIP_MS = 750;      // matches the page-turn animation in CSS
+    var MAX_PAGE_WIDTH = 820;
 
     // Strings created from JS (static text is rendered in both languages in the HTML)
     var MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July",
@@ -196,7 +197,6 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
       en: {
         loading: "Loading…",
         loadFailed: "Failed to load",
-        noContent: "No content",
         manifestFailed: "Could not load the archive, please reload the page",
         stats: function (n, a, b) { return "📊 " + n + " issues · " + a + " → " + b; },
         now: "now",
@@ -210,7 +210,6 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
       vi: {
         loading: "Đang tải…",
         loadFailed: "Tải thất bại",
-        noContent: "Không có nội dung",
         manifestFailed: "Không tải được danh sách, hãy tải lại trang",
         stats: function (n, a, b) { return "📊 " + n + " số · " + a + " → " + b; },
         now: "nay",
@@ -224,11 +223,15 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     };
 
     var manifest = null;
-    var items = [];      // sorted by date ascending
+    var items = [];      // sorted by date ascending (book page i = items[i])
     var dateIndex = {};  // date -> index in items
     var curIdx = -1;
-    var busy = false;    // true while a report is loading or a page is turning
-    var navEl = null, lastScrollY = 0, navHidden = false, scrollTicking = false;
+
+    // Book state (StPageFlip); null when the book is not active
+    var pageFlip = null;
+    var pages = [];      // one element per issue
+    var loaded = [];     // per page: undefined | "pending" | true
+    var bookSize = null;
 
     function $(id) { return document.getElementById(id); }
     function u(p) { return BASE + p; }
@@ -297,7 +300,6 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
       var ov = $("historyOverlay");
       if (!ov) return;
       ov.classList.add("open");
-      document.body.style.overflow = "hidden";
       $("hmStats").textContent = tr().loading;
       ensure(function (m) {
         renderStats(m);
@@ -309,7 +311,6 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     function closeOverlay() {
       var ov = $("historyOverlay");
       if (ov) ov.classList.remove("open");
-      document.body.style.overflow = "";
     }
 
     function renderStats(m) {
@@ -436,131 +437,173 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
       if (next) next.disabled = curIdx >= items.length - 1;
     }
 
-    // ----- Page turn -----
-    // Swap the stage's current page for newPage. With a direction, the old page
-    // turns away like a book page (forward: around the left edge, back: around the right edge).
-    function turnPage(newPage, dir, done) {
-      var stage = $("reportStage");
-      var old = stage.querySelector(".container");
-      if (!dir || !old || reducedMotion()) {
-        stage.innerHTML = "";
-        stage.appendChild(newPage);
-        done();
-        return;
-      }
-      stage.classList.add("turning");
-      old.classList.add("page-leaf", dir === "next" ? "turn-next" : "turn-prev");
-      newPage.classList.add("page-under");
-      stage.insertBefore(newPage, old);
-
-      var finished = false;
-      function finish() {
-        if (finished) return;
-        finished = true;
-        if (old.parentNode) old.parentNode.removeChild(old);
-        newPage.classList.remove("page-under");
-        stage.classList.remove("turning");
-        done();
-      }
-      old.addEventListener("animationend", finish);
-      setTimeout(finish, FLIP_MS + 150); // in case animationend never fires
-    }
-
-    function showMessage(text) {
-      var stage = $("reportStage");
+    // ----- Book (StPageFlip): one issue per page, oldest first -----
+    function placeholder(text) {
       var e = document.createElement("div");
       e.className = "report-loading";
       e.textContent = text;
-      stage.innerHTML = "";
-      stage.appendChild(e);
+      return e;
     }
 
-    // Load the report for the given date and turn to it
-    function showReport(date, dir) {
-      var i = dateIndex[date];
-      if (i == null || busy || i === curIdx) return;
-      busy = true;
-      var stage = $("reportStage");
-      stage.setAttribute("aria-busy", "true");
-      fetch(entryPath(date), { cache: "no-cache" })
-        .then(function (r) { return r.text(); })
+    // Fetch an issue's .container into its page (once)
+    function loadPage(i) {
+      if (i < 0 || i >= items.length || loaded[i]) return;
+      loaded[i] = "pending";
+      fetch(entryPath(items[i].date), { cache: "no-cache" })
+        .then(function (r) {
+          if (!r.ok) throw new Error("HTTP " + r.status);
+          return r.text();
+        })
         .then(function (html) {
-          var doc = new DOMParser().parseFromString(html, "text/html");
-          var page = doc.querySelector(".container");
-          if (!page) throw new Error("no .container");
-          window.scrollTo(0, 0);
-          showNav();
-          lastScrollY = 0;
-          curIdx = i;
-          updateNav();
-          document.title = "AI Daily News | " + dash(date);
-          turnPage(document.importNode(page, true), dir, function () {
-            busy = false;
-            stage.removeAttribute("aria-busy");
-          });
+          var c = new DOMParser().parseFromString(html, "text/html").querySelector(".container");
+          if (!c) throw new Error("no .container");
+          pages[i].innerHTML = "";
+          pages[i].appendChild(document.importNode(c, true));
+          loaded[i] = true;
         })
         .catch(function (e) {
-          console.error("[report] load failed", e);
-          showMessage(tr().loadFailed);
-          busy = false;
-          stage.removeAttribute("aria-busy");
+          console.error("[book] page load failed", items[i].date, e);
+          pages[i].innerHTML = "";
+          pages[i].appendChild(placeholder(tr().loadFailed));
+          loaded[i] = undefined; // retry next time
         });
     }
 
-    function dirTo(date) {
-      var i = dateIndex[date];
-      return i == null || i === curIdx ? null : (i > curIdx ? "next" : "prev");
+    function loadAround(i) {
+      loadPage(i);
+      loadPage(i - 1);
+      loadPage(i + 1);
     }
 
-    function navPrev() { ensure(function () { if (curIdx > 0) showReport(items[curIdx - 1].date, "prev"); }); }
-    function navNext() { ensure(function () { if (curIdx < items.length - 1) showReport(items[curIdx + 1].date, "next"); }); }
+    function measure() {
+      var stage = $("reportStage");
+      var navH = navEl ? navEl.offsetHeight : 0;
+      return {
+        w: Math.min(stage.clientWidth || window.innerWidth, MAX_PAGE_WIDTH),
+        h: Math.max(320, window.innerHeight - navH)
+      };
+    }
 
-    // Jump back to today's latest report (entryPath(today) === index.html, fetched with no-cache)
-    function navToday() {
-      ensure(function (m) {
-        var t = m.meta.today;
-        if (dateIndex[t] != null) showReport(t, dirTo(t));
+    function createBook(startIdx) {
+      var stage = $("reportStage");
+      var size = measure();
+      bookSize = size;
+      stage.style.height = size.h + "px";
+
+      var book = document.createElement("div");
+      book.id = "book";
+      book.style.width = size.w + "px";
+      book.style.height = size.h + "px";
+      stage.innerHTML = "";
+      stage.appendChild(book);
+
+      // Start from clean page elements (StPageFlip styles them while drawing)
+      pages.forEach(function (p) { p.removeAttribute("style"); p.className = "book-page"; });
+
+      pageFlip = new St.PageFlip(book, {
+        width: size.w,
+        height: size.h,
+        size: "stretch",
+        // Portrait (one page at a time) is used while the block is narrower than 2 x minWidth
+        minWidth: Math.floor(size.w / 2) + 1,
+        maxWidth: size.w,
+        minHeight: 100,
+        maxHeight: size.h,
+        usePortrait: true,
+        autoSize: false,            // keep the block at our size so wide screens stay one page
+        showCover: false,
+        startPage: startIdx,
+        flippingTime: reducedMotion() ? 1 : 800,
+        drawShadow: !reducedMotion(),
+        maxShadowOpacity: 0.45,
+        mobileScrollSupport: true,  // vertical swipes scroll the page instead of turning it
+        swipeDistance: 30,
+        showPageCorners: true,
+        disableFlipByClick: true    // a tap only turns the page from a corner
       });
+      pageFlip.loadFromHTML(pages);
+      pageFlip.on("flip", function (e) { onPageChange(e.data); });
+
+      // StPageFlip completes a finger/mouse-driven turn only once the corner passes the
+      // spine (the far edge in portrait), so short drags spring back. Complete the turn
+      // once it is about 40% done instead. Same logic as the library's stopMove (v2.0.7).
+      var flipController = pageFlip.getFlipController();
+      flipController.stopMove = function () {
+        if (this.calc === null) return;
+        var pos = this.calc.getPosition();
+        var rect = this.getBoundsRect();
+        var y = this.calc.getCorner() === "bottom" ? rect.height : 0;
+        if (pos.x <= rect.pageWidth * 0.6) this.animateFlippingTo(pos, { x: -rect.pageWidth, y: y }, true);
+        else this.animateFlippingTo(pos, { x: rect.pageWidth, y: y }, false);
+      };
     }
 
-    // Pick a day from the archive panel: close the panel and turn to that report
+    function buildBook() {
+      if (!window.St || !St.PageFlip || items.length < 2 || curIdx < 0) return;
+      var current = $("reportStage").querySelector(".container");
+      pages = items.map(function (it, i) {
+        var p = document.createElement("div");
+        p.className = "book-page";
+        if (i === curIdx && current) {
+          p.appendChild(current);
+          loaded[i] = true;
+        } else {
+          p.appendChild(placeholder(tr().loading));
+        }
+        return p;
+      });
+      document.documentElement.classList.add("book-mode");
+      createBook(curIdx);
+      loadAround(curIdx);
+    }
+
+    // Rebuild the book when the viewport size changes noticeably (e.g. rotation)
+    var resizeTimer = null;
+    function onResize() {
+      if (!pageFlip) return;
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(function () {
+        var size = measure();
+        if (Math.abs(size.w - bookSize.w) < 30 && Math.abs(size.h - bookSize.h) < 60) return;
+        var idx = pageFlip.getCurrentPageIndex();
+        pageFlip.destroy();
+        createBook(idx);
+      }, 250);
+    }
+
+    function onPageChange(i) {
+      curIdx = i;
+      updateNav();
+      document.title = "AI Daily News | " + dash(items[i].date);
+      loadAround(i);
+    }
+
+    // Turn to a given issue (animated when the book is active, page navigation otherwise)
+    function goTo(i) {
+      if (i < 0 || i >= items.length || i === curIdx) return;
+      if (!pageFlip) { location.href = entryPath(items[i].date); return; }
+      loadAround(i);
+      // StPageFlip routes programmatic flips through its click handler, which
+      // disableFlipByClick blocks outside the corners; lift it for this call
+      var settings = pageFlip.getSettings();
+      settings.disableFlipByClick = false;
+      try {
+        if (i === curIdx + 1) pageFlip.flipNext();
+        else if (i === curIdx - 1) pageFlip.flipPrev();
+        else pageFlip.flip(i);
+      } finally {
+        settings.disableFlipByClick = true;
+      }
+    }
+
+    function navPrev() { ensure(function () { goTo(curIdx - 1); }); }
+    function navNext() { ensure(function () { goTo(curIdx + 1); }); }
+    function navToday() { ensure(function (m) { if (dateIndex[m.meta.today] != null) goTo(dateIndex[m.meta.today]); }); }
+
+    // Pick a day from the archive panel: close the panel and turn to that issue
     function pickDate(date) {
       closeOverlay();
-      ensure(function () { showReport(date, dirTo(date)); });
-    }
-
-    // Hide the bottom bar while scrolling down, show it again when scrolling up
-    function showNav() { if (navEl) navEl.classList.remove("hidden"); navHidden = false; }
-    function hideNav() { if (navEl) navEl.classList.add("hidden"); navHidden = true; }
-    function onScroll() {
-      if (scrollTicking) return;
-      scrollTicking = true;
-      requestAnimationFrame(function () {
-        scrollTicking = false;
-        var y = window.pageYOffset || document.documentElement.scrollTop;
-        if (y < 8) { showNav(); lastScrollY = y; return; }
-        if (y + window.innerHeight >= document.documentElement.scrollHeight - 8) { showNav(); lastScrollY = y; return; }
-        if ($("historyOverlay").classList.contains("open")) { lastScrollY = y; return; }
-        if (y > lastScrollY + 4 && !navHidden) hideNav();
-        else if (y < lastScrollY - 4 && navHidden) showNav();
-        lastScrollY = y;
-      });
-    }
-
-    // Horizontal swipe on the report turns pages (left = next, right = previous)
-    var touchX = null, touchY = null;
-    function onTouchStart(e) {
-      if (e.touches.length !== 1) { touchX = null; return; }
-      touchX = e.touches[0].clientX;
-      touchY = e.touches[0].clientY;
-    }
-    function onTouchEnd(e) {
-      if (touchX == null) return;
-      var dx = e.changedTouches[0].clientX - touchX;
-      var dy = e.changedTouches[0].clientY - touchY;
-      touchX = null;
-      if (Math.abs(dx) < 60 || Math.abs(dy) > Math.abs(dx) * 0.6) return;
-      if (dx < 0) navNext(); else navPrev();
+      ensure(function () { if (dateIndex[date] != null) goTo(dateIndex[date]); });
     }
 
     // PWA: resolve manifest / icon paths against BASE and register the service worker
@@ -575,6 +618,7 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     }
 
     // Event bindings
+    var navEl = $("reportNav");
     $("navToday").addEventListener("click", navToday);
     $("navPrev").addEventListener("click", navPrev);
     $("navNext").addEventListener("click", navNext);
@@ -582,16 +626,37 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     $("ovClose").addEventListener("click", closeOverlay);
     $("historyOverlay").addEventListener("click", function (e) { if (e.target === this) closeOverlay(); });
     $("tlSearch").addEventListener("input", function (e) { renderTimeline(e.target.value); });
-    // Delegated: the language switch lives inside the page, which is replaced on navigation
+    // Delegated: the language switch lives inside each page
     document.addEventListener("click", function (e) {
       var b = e.target.closest ? e.target.closest("[data-set-lang]") : null;
       if (b) setLang(b.getAttribute("data-set-lang"));
     });
-    var stageEl = $("reportStage");
-    stageEl.addEventListener("touchstart", onTouchStart, { passive: true });
-    stageEl.addEventListener("touchend", onTouchEnd, { passive: true });
-    navEl = $("reportNav");
-    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onResize);
+
+    // Quick horizontal swipes. StPageFlip decides a short touch by where the finger
+    // lifts (and its own swipe check misses swipes slower than 250 ms), which can turn
+    // the wrong way, so quick swipes turn by their direction here. Slower drags are left
+    // to the library, which folds the page under the finger. The capture listener on
+    // window runs before the library's own touchend handler.
+    var SWIPE_MAX_MS = 350;
+    var swipeStart = null;
+    $("reportStage").addEventListener("touchstart", function (e) {
+      var t = e.touches[0];
+      swipeStart = e.touches.length === 1 ? { x: t.clientX, y: t.clientY, time: Date.now() } : null;
+    }, { passive: true, capture: true });
+    window.addEventListener("touchend", function (e) {
+      if (!pageFlip || !swipeStart) return;
+      var t = e.changedTouches[0];
+      var dx = t.clientX - swipeStart.x, dy = Math.abs(t.clientY - swipeStart.y);
+      var quick = Date.now() - swipeStart.time < SWIPE_MAX_MS;
+      swipeStart = null;
+      if (quick && Math.abs(dx) > 30 && dy < 60) {
+        setTimeout(function () {
+          // Skip if the library already started turning (a swipe it recognised itself)
+          if (pageFlip && pageFlip.getState() !== "flipping") goTo(curIdx + (dx < 0 ? 1 : -1));
+        }, 0);
+      }
+    }, true);
 
     document.addEventListener("keydown", function (e) {
       var overlayOpen = $("historyOverlay").classList.contains("open");
@@ -605,11 +670,14 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
 
     applyLabels();
 
-    // Startup: load the manifest, locate "today" and update the nav buttons
+    // Startup: load the manifest, locate this page's issue, then open the book on it
     ensure(function (m) {
-      curIdx = dateIndex[m.meta.today];
+      var here = document.querySelector('meta[name="report-date"]');
+      var hereDate = here ? here.content.replace(/-/g, "") : m.meta.today;
+      curIdx = dateIndex[hereDate];
       if (curIdx == null) curIdx = items.length - 1;
       updateNav();
+      buildBook();
     });
   })();
   </script>
@@ -690,8 +758,8 @@ def save_html(html):
 
 
 def to_archive_paths(html):
-    """Point a report's relative asset links one level up, for pages stored in archive/."""
-    return re.sub(r'href="(assets/|icons/|manifest\.webmanifest)', r'href="../\g<1>', html)
+    """Point a report's relative asset links (href/src) one level up, for pages stored in archive/."""
+    return re.sub(r'(href|src)="(assets/|icons/|manifest\.webmanifest)', r'\g<1>="../\g<2>', html)
 
 
 def read_report_date(html):

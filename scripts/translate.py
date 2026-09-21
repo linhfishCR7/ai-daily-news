@@ -2,9 +2,9 @@
 """
 AI Daily News - headline translator
 Adds "title_en" and "title_vi" to every item in data/categorized_news.json,
-translating each headline into the other language with the Claude API.
+translating each headline into the other language with the DeepSeek API.
 
-Needs ANTHROPIC_API_KEY. Without it (or on any API error) the original
+Needs DEEPSEEK_API_KEY. Without it (or on any API error) the original
 titles are kept for both languages, so the daily report still publishes.
 """
 
@@ -12,66 +12,57 @@ import json
 import os
 import sys
 
-import anthropic
+import requests
 
-MODEL = "claude-opus-5"
+API_URL = "https://api.deepseek.com/chat/completions"
+MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-flash")
+MAX_ATTEMPTS = 2  # DeepSeek JSON mode may occasionally return empty content
 
 DATA_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                          "data", "categorized_news.json")
 
-SYSTEM_PROMPT = (
-    "You translate news headlines for a bilingual English/Vietnamese AI news digest. "
-    "Translate each headline into the requested target language as a natural, concise "
-    "headline a native reader would expect from a news site. Keep names of people, "
-    "companies, products and AI models (e.g. OpenAI, Claude, Gemini, GPT-6) unchanged. "
-    "Return exactly one translation for every id you receive."
-)
+# JSON mode requires the word "json" and an example of the output format in the prompt
+SYSTEM_PROMPT = """You translate news headlines for a bilingual English/Vietnamese AI news digest.
+Translate each headline into its "target" language as a natural, concise headline a native
+reader would expect from a news site. Keep names of people, companies, products and AI models
+(e.g. OpenAI, Claude, Gemini, GPT-6) unchanged. Return exactly one translation for every id.
 
-OUTPUT_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "translations": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "id": {"type": "integer"},
-                    "text": {"type": "string"},
-                },
-                "required": ["id", "text"],
-                "additionalProperties": False,
-            },
-        }
-    },
-    "required": ["translations"],
-    "additionalProperties": False,
-}
+Input: a json array of {"id": number, "text": string, "target": "English" | "Vietnamese"}.
+Output: a json object in exactly this format:
+{"translations": [{"id": 0, "text": "translated headline"}, {"id": 1, "text": "translated headline"}]}"""
 
 
-def translate(items):
+def translate(items, api_key):
     """Return {id: translated title} for items shaped {"id", "text", "target"}."""
-    client = anthropic.Anthropic()
-    response = client.beta.messages.create(
-        model=MODEL,
-        max_tokens=16000,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": json.dumps(items, ensure_ascii=False)}],
-        output_config={
-            "effort": "low",  # short, simple task
-            "format": {"type": "json_schema", "schema": OUTPUT_SCHEMA},
-        },
-        # On a safety decline, re-run on Anthropic's recommended fallback model
-        betas=["server-side-fallback-2026-07-01"],
-        fallbacks="default",
-    )
+    payload = {
+        "model": MODEL,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": json.dumps(items, ensure_ascii=False)},
+        ],
+        "response_format": {"type": "json_object"},
+        "max_tokens": 8000,
+    }
+    headers = {"Authorization": f"Bearer {api_key}"}
 
-    if response.stop_reason == "refusal":
-        raise RuntimeError("translation request was declined")
-    if response.stop_reason == "max_tokens":
-        raise RuntimeError("translation output was truncated")
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        response = requests.post(API_URL, json=payload, headers=headers, timeout=120)
+        response.raise_for_status()
+        choice = response.json()["choices"][0]
+        if choice.get("finish_reason") == "length":
+            raise RuntimeError("translation output was truncated")
 
-    text = next(b.text for b in response.content if b.type == "text")
-    return {t["id"]: t["text"].strip() for t in json.loads(text)["translations"] if t["text"].strip()}
+        content = (choice["message"].get("content") or "").strip()
+        if content:
+            translations = json.loads(content)["translations"]
+            return {
+                t["id"]: t["text"].strip()
+                for t in translations
+                if isinstance(t.get("id"), int) and isinstance(t.get("text"), str) and t["text"].strip()
+            }
+        print(f"⚠️ Empty response (attempt {attempt}/{MAX_ATTEMPTS})")
+
+    raise RuntimeError("empty response from the API")
 
 
 def main():
@@ -98,20 +89,21 @@ def main():
         {"id": i, "text": item["title"], "target": "Vietnamese" if item.get("lang", "en") == "en" else "English"}
         for i, item in enumerate(news)
     ]
+    api_key = os.environ.get("DEEPSEEK_API_KEY")
 
     if not requests_:
         print("Nothing to translate")
-    elif not os.environ.get("ANTHROPIC_API_KEY"):
-        print("⚠️ ANTHROPIC_API_KEY is not set; keeping original titles")
+    elif not api_key:
+        print("⚠️ DEEPSEEK_API_KEY is not set; keeping original titles")
     else:
         try:
-            translated = translate(requests_)
+            translated = translate(requests_, api_key)
             for i, item in enumerate(news):
                 if i in translated:
                     key = "title_vi" if item.get("lang", "en") == "en" else "title_en"
                     item[key] = translated[i]
-            print(f"✓ Translated {len(translated)}/{len(requests_)} headlines")
-        except (anthropic.APIError, RuntimeError, ValueError, KeyError, StopIteration) as exc:
+            print(f"✓ Translated {len(translated)}/{len(requests_)} headlines with {MODEL}")
+        except (requests.RequestException, RuntimeError, ValueError, KeyError, IndexError, TypeError) as exc:
             print(f"⚠️ Translation failed, keeping original titles: {exc}")
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:

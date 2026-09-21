@@ -17,7 +17,7 @@ Trang hỗ trợ hai ngôn ngữ — mặc định tiếng Anh, bấm một nút
 - Lấy tin AI từ các nguồn RSS tiếng Anh và tiếng Việt
 - Lọc đúng chủ đề AI, chỉ giữ tin trong 48 giờ gần nhất, loại tin trùng
 - Phân loại: Tin nổi bật, Sản phẩm mới, Gọi vốn & M&A, Nghiên cứu, Thị trường & Chính sách, Tin khác
-- Dịch mọi tiêu đề Anh ↔ Việt bằng Claude API (`claude-opus-5`)
+- Dịch mọi tiêu đề Anh ↔ Việt bằng DeepSeek API (`deepseek-flash`)
 - Tạo bản tin HTML kiểu báo giấy, có nút chuyển EN / VI (trình duyệt ghi nhớ lựa chọn)
 - Hiệu ứng lật trang sách khi chuyển giữa các số (nút bấm, phím ← / →, hoặc vuốt trên điện thoại)
 - Lưu mọi số cũ trong `archive/`, có trang lưu trữ (lịch nhiệt, dòng thời gian, tìm kiếm)
@@ -29,7 +29,7 @@ Trang hỗ trợ hai ngôn ngữ — mặc định tiếng Anh, bấm một nút
 ```
 GitHub Actions (cron hằng ngày)
   └─ scripts/fetch_news.py  → data/categorized_news.json
-  └─ scripts/translate.py   → thêm title_en / title_vi cho từng tin (Claude API)
+  └─ scripts/translate.py   → thêm title_en / title_vi cho từng tin (DeepSeek API)
   └─ scripts/generate.py    → lưu index.html cũ vào archive/YYYYMMDD.html
                             → tạo index.html mới
                             → tạo lại data/archive_manifest.json
@@ -54,7 +54,7 @@ ai-daily-news/
 ├── sw.js                      # Service worker
 ├── scripts/
 │   ├── fetch_news.py          # Lấy, lọc, bỏ trùng và phân loại tin
-│   ├── translate.py           # Dịch tiêu đề Anh <-> Việt (Claude API)
+│   ├── translate.py           # Dịch tiêu đề Anh <-> Việt (DeepSeek API)
 │   ├── generate.py            # Tạo HTML, lưu trữ, tạo manifest
 │   ├── send_feishu.py         # Gửi Feishu (tùy chọn, đang tắt, xem SETUP.md)
 │   ├── serve.py               # Server xem thử trong mạng LAN
@@ -83,7 +83,7 @@ Danh sách nguồn nằm trong `NEWS_SOURCES` ở [scripts/fetch_news.py](script
 pip install -r scripts/requirements.txt
 cd scripts
 python fetch_news.py
-python translate.py    # cần ANTHROPIC_API_KEY; không có key thì giữ tiêu đề gốc
+python translate.py    # cần DEEPSEEK_API_KEY; không có key thì giữ tiêu đề gốc
 python generate.py
 python serve.py        # mở http://localhost:8000/
 ```
@@ -92,7 +92,7 @@ python serve.py        # mở http://localhost:8000/
 
 1. Fork repository này
 2. Bật GitHub Actions và GitHub Pages (deploy từ nhánh `main`, thư mục gốc)
-3. Thêm secret `ANTHROPIC_API_KEY` (Settings → Secrets and variables → Actions) để bật dịch tiêu đề
+3. Thêm secret `DEEPSEEK_API_KEY` (Settings → Secrets and variables → Actions) để bật dịch tiêu đề
 4. Sửa URL trang trong README và `SITE_URL` trong `scripts/send_feishu.py`
 5. Workflow chạy mỗi ngày; có thể chạy tay tại **Actions → Run workflow**
 

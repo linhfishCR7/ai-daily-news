@@ -7,7 +7,7 @@
       "lang": "vi",
       "pub_date": "2026-09-21 08:20",
       "summary": "Leila Turner-Scott kiện ChatGPT sau khi con trai cô tử vong vì sốc ma túy, cho rằng chatbot đã cung cấp thông tin sai lệch về an toàn khi ủng hộ con mình nghiện.",
-      "title_en": "Con trai nghiện ma túy, người mẹ kiện ChatGPT",
+      "title_en": "Mother sues ChatGPT after son's drug addiction",
       "title_vi": "Con trai nghiện ma túy, người mẹ kiện ChatGPT"
     },
     {
@@ -17,7 +17,7 @@
       "lang": "vi",
       "pub_date": "2026-09-20 11:01",
       "summary": "Chỉ với một bức ảnh tải lên diễn đàn và chưa đầy ba nghìn USD chi phí gọi mô hình Claude, nhóm nghiên cứu đã chiếm quyền điều khiển Codex của nhân viên để gửi mã trực tiếp vào kho lưu trữ nội bộ OpenA",
-      "title_en": "Ba tin tặc tốn chưa đầy 3.000 USD, dùng Claude đột nhập vào kho mã nguồn nội bộ của OpenAI",
+      "title_en": "Three hackers spent under $3,000 and used Claude to break into OpenAI's internal source code repository",
       "title_vi": "Ba tin tặc tốn chưa đầy 3.000 USD, dùng Claude đột nhập vào kho mã nguồn nội bộ của OpenAI"
     },
     {
@@ -27,7 +27,7 @@
       "lang": "vi",
       "pub_date": "2026-09-20 09:00",
       "summary": "OpenAI phát hiện GPT-5.6 Sol hướng dẫn cho các phiên bản tương lai, yêu cầu che giấu lỗi và các hành vi sai mục tiêu trước người dùng.",
-      "title_en": "Mô hình của OpenAI dạy phiên bản sau 'nói dối'",
+      "title_en": "OpenAI's model teaches the next version to 'lie'",
       "title_vi": "Mô hình của OpenAI dạy phiên bản sau 'nói dối'"
     }
   ],
@@ -40,7 +40,7 @@
       "pub_date": "2026-09-21 01:32",
       "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
       "title_en": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "title_vi": "Vocci’s ring adds a new form factor to meeting note-taking"
+      "title_vi": "Nhẫn của Vocci bổ sung dạng thiết bị mới cho việc ghi chú cuộc họp"
     },
     {
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
@@ -50,7 +50,7 @@
       "pub_date": "2026-09-19 22:00",
       "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
       "title_en": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "title_vi": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes"
+      "title_vi": "Máy cho mèo ăn tích hợp AI mới của Petlibro là bước ngoặt cho nhà nuôi nhiều mèo"
     }
   ],
   "funding": [
@@ -62,7 +62,7 @@
       "pub_date": "2026-09-19 20:00",
       "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "title_en": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "title_vi": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking"
+      "title_vi": "Vals, được Andreessen Horowitz hậu thuẫn, hướng tới trở thành chuẩn vàng cho việc đánh giá AI"
     }
   ],
   "research": [
@@ -74,7 +74,7 @@
       "pub_date": "2026-09-21 03:29",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil",
       "title_en": "World model companies are keeping a lot of secrets",
-      "title_vi": "World model companies are keeping a lot of secrets"
+      "title_vi": "Các công ty mô hình thế giới đang giữ rất nhiều bí mật"
     },
     {
       "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -84,7 +84,7 @@
       "pub_date": "2026-09-20 00:30",
       "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
       "title_en": "Google’s Gemini is the latest AI model to hack other companies",
-      "title_vi": "Google’s Gemini is the latest AI model to hack other companies"
+      "title_vi": "Gemini của Google là mô hình AI mới nhất tấn công các công ty khác"
     }
   ],
   "industry": [
@@ -96,7 +96,7 @@
       "pub_date": "2026-09-21 01:50",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with",
       "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-      "title_vi": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown."
+      "title_vi": "Không ai ngạc nhiên khi Jensen Huang của Nvidia cho rằng nỗi lo về AI đã bị thổi phồng."
     },
     {
       "title": "Trump now says he wants to form an ‘AI Force’",
@@ -106,7 +106,7 @@
       "pub_date": "2026-09-20 22:39",
       "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the",
       "title_en": "Trump now says he wants to form an ‘AI Force’",
-      "title_vi": "Trump now says he wants to form an ‘AI Force’"
+      "title_vi": "Trump giờ nói ông muốn thành lập một 'Lực lượng AI'"
     },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -116,7 +116,7 @@
       "pub_date": "2026-09-20 03:39",
       "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
       "title_en": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "title_vi": "Flock reportedly tries to shrink workforce with employee buyouts"
+      "title_vi": "Flock được cho là tìm cách thu hẹp lực lượng lao động bằng cách mua lại cổ phần của nhân viên"
     },
     {
       "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
@@ -126,7 +126,7 @@
       "pub_date": "2026-09-20 02:57",
       "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "title_vi": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force"
+      "title_vi": "Trump nói đã đến lúc đổi tên mới cho AI — và ông cũng đang lập một Lực lượng AI"
     },
     {
       "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
@@ -136,7 +136,7 @@
       "pub_date": "2026-09-20 01:36",
       "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Poin",
       "title_en": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "title_vi": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown"
+      "title_vi": "Đơn kiện nói Anthropic, OpenAI và những công ty khác đã thỏa thuận bất hợp pháp về việc làm chậm AI"
     }
   ],
   "other": [
@@ -148,7 +148,7 @@
       "pub_date": "2026-09-21 11:28",
       "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 30 # Comments: 8",
       "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "title_vi": "AI chatbots give wrong answers to financial queries 'most of the time'"
+      "title_vi": "Chatbot AI đưa ra câu trả lời sai cho các câu hỏi tài chính 'phần lớn thời gian'"
     },
     {
       "title": "\"Nữ diễn viên\" trí tuệ nhân tạo Tilly Norwood gặp sự cố khi phỏng vấn, bất ngờ lảm nhảm bằng tiếng Trung",
@@ -157,7 +157,7 @@
       "lang": "vi",
       "pub_date": "2026-09-21 11:01",
       "summary": "Màn xuất hiện đầy tự tin của nữ diễn viên ảo Tilly Norwood trên sóng truyền hình bỗng chốc biến thành trò cười cay đắng. Thay vì chứng minh sự ưu việt, thực thể này lại đột ngột nói lảm nhảm bằng tiến",
-      "title_en": "\"Nữ diễn viên\" trí tuệ nhân tạo Tilly Norwood gặp sự cố khi phỏng vấn, bất ngờ lảm nhảm bằng tiếng Trung",
+      "title_en": "\"AI actress\" Tilly Norwood hits snag during interview, suddenly rambles in Chinese",
       "title_vi": "\"Nữ diễn viên\" trí tuệ nhân tạo Tilly Norwood gặp sự cố khi phỏng vấn, bất ngờ lảm nhảm bằng tiếng Trung"
     },
     {
@@ -167,18 +167,18 @@
       "lang": "vi",
       "pub_date": "2026-09-21 10:59",
       "summary": "Một bộ phim AI có gì mà thu hút tới hàng trăm triệu lượt xem, có người thừa nhận biết cái kết vẫn không thể \"thoát ra\" được.",
-      "title_en": "Giải mã cơn sốt phim AI: Biết là AI vẫn “cày” 80 tập đến 2h sáng, vì sao không thể dừng lại?",
+      "title_en": "Decoding the AI film craze: Even knowing it's AI, they binge 80 episodes until 2 a.m. — so why can't they stop?",
       "title_vi": "Giải mã cơn sốt phim AI: Biết là AI vẫn “cày” 80 tập đến 2h sáng, vì sao không thể dừng lại?"
     },
     {
-      "title": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them",
+      "title": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them - venturebeat.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTRuSnVFVmhqRzlLN2stcHNVbDFBdHN1RlVmLTNmWFllZE14Vy1zVjdXcERNRjZfbWRuUlhOdnRwWDRTZ2NqZnJpNlMyUVVaY05yQ1pMSXRiZ2dDaVptbV9mTTN0T3Q3eVdQMHE0ZzVWVXp2a1AwZ19heEM1LUJmV0plei1oc0RDMjFNa1ZUbmM3UzZHa0tXelNVY0JQZjNwWXdFNXlPSWhJdHhPb1RiU2p5THFPREUzVmNxY1pvRjRyUXVPeDNYd0U1VDM?oc=5",
       "source": "VentureBeat",
       "lang": "en",
       "pub_date": "2026-09-21 09:09",
-      "summary": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them VentureBeat",
-      "title_en": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them",
-      "title_vi": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them"
+      "summary": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them venturebeat.com",
+      "title_en": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them - venturebeat.com",
+      "title_vi": "EnvHarness mã nguồn mở của Google cho phép các tác nhân AI huấn luyện với môi trường tiến hóa cùng chúng - venturebeat.com"
     },
     {
       "title": "Can I Let My AI Agent Run on Shabbat?",
@@ -188,7 +188,7 @@
       "pub_date": "2026-09-21 09:05",
       "summary": "Article URL: https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm Comments URL: https://news.ycombinator.com/item?id=49782242 Points: 28 # Comments: 1",
       "title_en": "Can I Let My AI Agent Run on Shabbat?",
-      "title_vi": "Can I Let My AI Agent Run on Shabbat?"
+      "title_vi": "Tôi có thể để tác nhân AI của mình chạy vào ngày Shabbat không?"
     },
     {
       "title": "Not all AI workers think the tech could kill everyone",
@@ -198,7 +198,7 @@
       "pub_date": "2026-09-21 05:22",
       "summary": "Article URL: https://www.bbc.com/news/articles/cm5y7qj54klpo Comments URL: https://news.ycombinator.com/item?id=49780704 Points: 21 # Comments: 20",
       "title_en": "Not all AI workers think the tech could kill everyone",
-      "title_vi": "Not all AI workers think the tech could kill everyone"
+      "title_vi": "Không phải mọi nhân viên ngành AI đều nghĩ công nghệ này có thể giết tất cả mọi người"
     },
     {
       "title": "I stopped drinking the AI Kool-Aid",
@@ -208,7 +208,7 @@
       "pub_date": "2026-09-21 04:17",
       "summary": "Article URL: https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/ Comments URL: https://news.ycombinator.com/item?id=49780162 Points: 62 # Comments: 44",
       "title_en": "I stopped drinking the AI Kool-Aid",
-      "title_vi": "I stopped drinking the AI Kool-Aid"
+      "title_vi": "Tôi đã ngừng tin mù quáng vào AI"
     },
     {
       "title": "Is the AI industry really ready to slow down?",
@@ -218,7 +218,7 @@
       "pub_date": "2026-09-21 01:56",
       "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
       "title_en": "Is the AI industry really ready to slow down?",
-      "title_vi": "Is the AI industry really ready to slow down?"
+      "title_vi": "Ngành công nghiệp AI có thực sự sẵn sàng chậm lại?"
     }
   ]
 }

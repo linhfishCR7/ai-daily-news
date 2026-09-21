@@ -20,8 +20,8 @@ INDEX_FILE = os.path.join(PROJECT_DIR, "index.html")
 ARCHIVE_DIR = os.path.join(PROJECT_DIR, "archive")
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
 
-# Issue numbers count days since this date (kept for continuity with past issues)
-ISSUE_START_DATE = datetime(2024, 1, 1)
+# Issue numbers count days since the first English/Vietnamese issue (Số 1)
+ISSUE_START_DATE = datetime(2026, 9, 21)
 
 # Non-headline sections, in display order: (category key, Vietnamese / English title)
 SECTIONS = [

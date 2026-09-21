@@ -23,25 +23,41 @@ DATA_DIR = os.path.join(PROJECT_DIR, "data")
 # Issue numbers count days since the first English/Vietnamese issue (Số 1)
 ISSUE_START_DATE = datetime(2026, 9, 21)
 
-# Non-headline sections, in display order: (category key, Vietnamese / English title)
+# Non-headline sections, in display order: (category key, English title, Vietnamese title)
 SECTIONS = [
-    ("product", "Sản phẩm mới / PRODUCTS"),
-    ("funding", "Gọi vốn & M&A / FUNDING"),
-    ("research", "Nghiên cứu / RESEARCH"),
-    ("industry", "Thị trường & Chính sách / INDUSTRY"),
-    ("other", "Tin khác / MORE NEWS"),
+    ("product", "Products", "Sản phẩm mới"),
+    ("funding", "Funding & M&A", "Gọi vốn & M&A"),
+    ("research", "Research", "Nghiên cứu"),
+    ("industry", "Industry & Policy", "Thị trường & Chính sách"),
+    ("other", "More News", "Tin khác"),
 ]
 
-# HTML template - newspaper style
-HTML_TEMPLATE = """<!DOCTYPE html>
-<html lang="vi">
+# HTML template - newspaper style, bilingual (English by default, Vietnamese on demand).
+# Every visible string is rendered in both languages; CSS shows the active one.
+HTML_TEMPLATE = """{%- macro t(en, vi) -%}
+<span class="i18n-en" lang="en">{{ en }}</span><span class="i18n-vi" lang="vi">{{ vi }}</span>
+{%- endmacro -%}
+{%- macro title(item) -%}
+{{ t(item.title_en or item.title, item.title_vi or item.title) }}
+{%- endmacro -%}
+<!DOCTYPE html>
+<html lang="en" data-lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>AI Daily News | {{ date_str }}</title>
   <meta name="report-date" content="{{ date_str }}">
-  <meta name="description" content="Bản tin AI mỗi ngày - Daily AI news and technology report.">
+  <meta name="description" content="Daily AI news and technology report - Bản tin AI mỗi ngày.">
   <meta name="theme-color" content="#1a1a1a">
+  <!-- Apply the saved language before first paint to avoid a flash of the wrong language -->
+  <script>
+    (function () {
+      var lang = "en";
+      try { if (localStorage.getItem("aidaily-lang") === "vi") lang = "vi"; } catch (e) {}
+      document.documentElement.setAttribute("data-lang", lang);
+      document.documentElement.lang = lang;
+    })();
+  </script>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="stylesheet" href="assets/style.css">
   <!-- Icons / PWA -->
@@ -58,20 +74,24 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <div class="container">
     <!-- Masthead -->
     <header class="header">
+      <div class="lang-switch" role="group" aria-label="Language / Ngôn ngữ">
+        <button type="button" data-set-lang="en" title="English">EN</button>
+        <button type="button" data-set-lang="vi" title="Tiếng Việt">VI</button>
+      </div>
       <div class="header-top">
-        <div class="header-left">Số {{ issue_num }}</div>
-        <div class="header-center">AI · ARTIFICIAL INTELLIGENCE · TRÍ TUỆ NHÂN TẠO</div>
-        <div class="header-right">{{ date_display }}</div>
+        <div class="header-left">{{ t("No. " ~ issue_num, "Số " ~ issue_num) }}</div>
+        <div class="header-center">{{ t("AI · ARTIFICIAL INTELLIGENCE · TECHNOLOGY", "AI · TRÍ TUỆ NHÂN TẠO · CÔNG NGHỆ") }}</div>
+        <div class="header-right">{{ t(date_en, date_vi) }}</div>
       </div>
       <h1>AI DAILY NEWS</h1>
-      <div class="header-bottom">BẢN TIN AI MỖI NGÀY · DAILY AI NEWS & TECHNOLOGY REPORT</div>
+      <div class="header-bottom">{{ t("DAILY AI NEWS & TECHNOLOGY REPORT", "BẢN TIN AI & CÔNG NGHỆ MỖI NGÀY") }}</div>
     </header>
 
     {% if categories.headline %}
     <!-- Main headline -->
     <article class="main-headline">
-      <div class="headline-tag">◆ TIN NỔI BẬT · HEADLINE ◆</div>
-      <h2 class="headline-title"><a href="{{ categories.headline[0].link }}" target="_blank" rel="noopener">{{ categories.headline[0].title }}</a></h2>
+      <div class="headline-tag">◆ {{ t("HEADLINE", "TIN NỔI BẬT") }} ◆</div>
+      <h2 class="headline-title"><a href="{{ categories.headline[0].link }}" target="_blank" rel="noopener">{{ title(categories.headline[0]) }}</a></h2>
       <div class="headline-meta">
         <span class="headline-source">{{ categories.headline[0].source }}</span>
         <span>{{ categories.headline[0].pub_date.split(' ')[1] }}</span>
@@ -83,7 +103,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <div class="sub-headlines">
       {% for item in categories.headline[1:3] %}
       <div class="sub-headline-item">
-        <div class="news-title"><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></div>
+        <div class="news-title"><a href="{{ item.link }}" target="_blank" rel="noopener">{{ title(item) }}</a></div>
         <div class="news-meta"><span class="news-source">{{ item.source }}</span> | {{ item.pub_date.split(' ')[1] }}</div>
       </div>
       {% endfor %}
@@ -93,14 +113,14 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     <div class="divider"></div>
 
-    {% for key, section_title in sections %}
+    {% for key, title_en, title_vi in sections %}
     {% if categories[key] %}
     <section class="section">
-      <h3 class="section-title">{{ section_title }}</h3>
+      <h3 class="section-title">{{ t(title_en, title_vi) }}</h3>
       <div class="news-grid">
         {% for item in categories[key] %}
         <div class="news-item">
-          <div class="news-title"><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></div>
+          <div class="news-title"><a href="{{ item.link }}" target="_blank" rel="noopener">{{ title(item) }}</a></div>
           <div class="news-meta"><span class="news-source">{{ item.source }}</span> | {{ item.pub_date.split(' ')[1] }}</div>
         </div>
         {% endfor %}
@@ -111,8 +131,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     <!-- Quote of the day -->
     <section class="quote-section">
-      <div class="quote">{{ quote }}</div>
-      <div class="quote-vi">{{ quote_vi }}</div>
+      <div class="quote">{{ t(quote_en, quote_vi) }}</div>
       <div class="author">— {{ quote_author }}</div>
     </section>
 
@@ -121,38 +140,40 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="footer-content">
         <span class="copyright">© {{ year }} AI Daily News</span>
         <span class="brand">AI DAILY NEWS</span>
-        <span class="time">Phát hành {{ gen_time }}</span>
+        <span class="time">{{ t("Published " ~ gen_time, "Phát hành " ~ gen_time) }}</span>
       </div>
     </footer>
   </div>
   </main>
 
   <!-- Bottom navigation: previous / archive / next / today -->
-  <nav class="report-nav" id="reportNav" aria-label="Điều hướng bản tin">
-    <button class="rn-btn" id="navPrev" aria-label="Số trước">‹ Số trước</button>
-    <button class="rn-btn rn-review" id="navReview" aria-label="Lưu trữ">📜 Lưu trữ</button>
-    <button class="rn-btn" id="navNext" aria-label="Số sau">Số sau ›</button>
-    <button class="rn-btn rn-today" id="navToday" aria-label="Về hôm nay">📰 Hôm nay</button>
+  <nav class="report-nav" id="reportNav" data-label-en="Issue navigation" data-label-vi="Điều hướng bản tin">
+    <button class="rn-btn" id="navPrev">‹ {{ t("Previous", "Trước") }}</button>
+    <button class="rn-btn rn-review" id="navReview">📜 {{ t("Archive", "Lưu trữ") }}</button>
+    <button class="rn-btn" id="navNext">{{ t("Next", "Sau") }} ›</button>
+    <button class="rn-btn rn-today" id="navToday">📰 {{ t("Today", "Hôm nay") }}</button>
   </nav>
 
-  <div class="history-overlay" id="historyOverlay" role="dialog" aria-modal="true" aria-label="Lưu trữ bản tin">
+  <div class="history-overlay" id="historyOverlay" role="dialog" aria-modal="true" data-label-en="Report archive" data-label-vi="Lưu trữ bản tin">
     <div class="hpanel">
       <div class="hpanel-head">
         <div>
-          <div class="hpanel-title">Lưu trữ bản tin</div>
-          <div class="hpanel-sub" id="hmStats">Đang tải…</div>
+          <div class="hpanel-title">{{ t("Report archive", "Lưu trữ bản tin") }}</div>
+          <div class="hpanel-sub" id="hmStats"></div>
         </div>
-        <button class="hpanel-x" id="ovClose" aria-label="Đóng">✕</button>
+        <button class="hpanel-x" id="ovClose" data-label-en="Close" data-label-vi="Đóng">✕</button>
       </div>
       <div class="hpanel-scroll">
         <div class="hm">
-          <div class="hm-weekdays"><span>T2</span><span>T3</span><span>T4</span><span>T5</span><span>T6</span><span>T7</span><span>CN</span></div>
+          <div class="hm-weekdays">
+            <span>{{ t("M", "T2") }}</span><span>{{ t("T", "T3") }}</span><span>{{ t("W", "T4") }}</span><span>{{ t("T", "T5") }}</span><span>{{ t("F", "T6") }}</span><span>{{ t("S", "T7") }}</span><span>{{ t("S", "CN") }}</span>
+          </div>
           <div class="hm-right">
             <div class="hm-months" id="hmMonths"></div>
             <div class="hm-weeks" id="hmWeeks"></div>
           </div>
         </div>
-        <input class="tl-search" id="tlSearch" type="search" placeholder="🔍 Tìm tiêu đề / nguồn…" autocomplete="off">
+        <input class="tl-search" id="tlSearch" type="search" data-ph-en="🔍 Search titles / sources…" data-ph-vi="🔍 Tìm tiêu đề / nguồn…" autocomplete="off">
         <div id="tlList"></div>
       </div>
     </div>
@@ -164,20 +185,89 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     "use strict";
     var BASE = location.pathname.indexOf("/archive/") !== -1 ? "../" : "./";
     var UNIT = 19, GAP = 4; // matches CSS: 15px cell + 4px gap
+    var FLIP_MS = 750;      // matches the page-turn animation in CSS
+
+    // Strings created from JS (static text is rendered in both languages in the HTML)
+    var MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July",
+                     "August", "September", "October", "November", "December"];
+    var T = {
+      en: {
+        loading: "Loading…",
+        loadFailed: "Failed to load",
+        noContent: "No content",
+        manifestFailed: "Could not load the archive, please reload the page",
+        stats: function (n, a, b) { return "📊 " + n + " issues · " + a + " → " + b; },
+        now: "now",
+        issue: function (n) { return "No. " + n; },
+        noMatch: "No matching issues",
+        untitled: "(untitled)",
+        monthShort: function (m) { return MONTHS_EN[m - 1].slice(0, 3); },
+        monthLong: function (m, y) { return MONTHS_EN[m - 1] + " " + y; },
+        date: function (d) { return d.slice(4, 6) + "/" + d.slice(6, 8); }
+      },
+      vi: {
+        loading: "Đang tải…",
+        loadFailed: "Tải thất bại",
+        noContent: "Không có nội dung",
+        manifestFailed: "Không tải được danh sách, hãy tải lại trang",
+        stats: function (n, a, b) { return "📊 " + n + " số · " + a + " → " + b; },
+        now: "nay",
+        issue: function (n) { return "Số " + n; },
+        noMatch: "Không có số báo phù hợp",
+        untitled: "(không có tiêu đề)",
+        monthShort: function (m) { return "Th" + m; },
+        monthLong: function (m, y) { return "Tháng " + m + "/" + y; },
+        date: function (d) { return d.slice(6, 8) + "/" + d.slice(4, 6); }
+      }
+    };
 
     var manifest = null;
     var items = [];      // sorted by date ascending
     var dateIndex = {};  // date -> index in items
     var curIdx = -1;
+    var busy = false;    // true while a report is loading or a page is turning
     var navEl = null, lastScrollY = 0, navHidden = false, scrollTicking = false;
 
     function $(id) { return document.getElementById(id); }
     function u(p) { return BASE + p; }
+    function lang() { return document.documentElement.getAttribute("data-lang") === "vi" ? "vi" : "en"; }
+    function tr() { return T[lang()]; }
     function dash(d) { return d.slice(0, 4) + "-" + d.slice(4, 6) + "-" + d.slice(6, 8); }
-    function md(d) { return d.slice(6, 8) + "/" + d.slice(4, 6); }
     function pad(n) { return n < 10 ? "0" + n : "" + n; }
     function ymd(dt) { return "" + dt.getFullYear() + pad(dt.getMonth() + 1) + pad(dt.getDate()); }
+    function itemTitle(it) { return (lang() === "vi" ? it.title_vi : "") || it.title || tr().untitled; }
+    function reducedMotion() {
+      return window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    }
 
+    // ----- Language -----
+    function applyLabels() {
+      var l = lang();
+      document.querySelectorAll("[data-label-" + l + "]").forEach(function (el) {
+        el.setAttribute("aria-label", el.getAttribute("data-label-" + l));
+      });
+      document.querySelectorAll("[data-ph-" + l + "]").forEach(function (el) {
+        el.setAttribute("placeholder", el.getAttribute("data-ph-" + l));
+      });
+      document.querySelectorAll("[data-set-lang]").forEach(function (b) {
+        b.setAttribute("aria-pressed", b.getAttribute("data-set-lang") === l ? "true" : "false");
+      });
+    }
+
+    function setLang(l) {
+      l = l === "vi" ? "vi" : "en";
+      document.documentElement.setAttribute("data-lang", l);
+      document.documentElement.lang = l;
+      try { localStorage.setItem("aidaily-lang", l); } catch (e) {}
+      applyLabels();
+      if ($("historyOverlay").classList.contains("open") && manifest) {
+        renderStats(manifest);
+        renderHeatmap();
+        renderTimeline($("tlSearch").value);
+      }
+    }
+
+    // ----- Archive manifest -----
     function entryPath(date) {
       return date === manifest.meta.today ? u("index.html") : u("archive/" + date + ".html");
     }
@@ -197,7 +287,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         })
         .catch(function (e) {
           console.error("[history] manifest load failed", e);
-          var s = $("hmStats"); if (s) s.textContent = "Không tải được danh sách, hãy tải lại trang";
+          var s = $("hmStats"); if (s) s.textContent = tr().manifestFailed;
         });
     }
 
@@ -206,6 +296,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       if (!ov) return;
       ov.classList.add("open");
       document.body.style.overflow = "hidden";
+      $("hmStats").textContent = tr().loading;
       ensure(function (m) {
         renderStats(m);
         renderHeatmap();
@@ -223,9 +314,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       var el = $("hmStats");
       if (!el || !m) return;
       var meta = m.meta || {};
-      el.textContent = "📊 " + (meta.count || 0) + " số · " +
-        (meta.first ? dash(meta.first) : "—") + " → " +
-        (meta.last ? dash(meta.last) : "nay");
+      el.textContent = tr().stats(meta.count || 0,
+        meta.first ? dash(meta.first) : "—",
+        meta.last ? dash(meta.last) : tr().now);
     }
 
     function renderHeatmap() {
@@ -265,7 +356,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       months.forEach(function (mm) {
         var el = document.createElement("div");
         el.className = "hm-month";
-        el.textContent = "Th" + (+mm.mk.slice(4, 6));
+        el.textContent = tr().monthShort(+mm.mk.slice(4, 6));
         el.style.width = (mm.count * UNIT - GAP) + "px";
         monthsHost.appendChild(el);
       });
@@ -277,8 +368,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           var d = document.createElement("div");
           d.className = "hm-cell" + (cell.item ? " has" : "");
           if (cell.item) {
-            d.title = dash(cell.date) + " · Số " + (cell.item.issue || "?") +
-              (cell.item.title ? " · " + cell.item.title : "");
+            d.title = dash(cell.date) + " · " + tr().issue(cell.item.issue || "?") + " · " + itemTitle(cell.item);
             d.addEventListener("click", function () { pickDate(cell.date); });
           }
           col.appendChild(d);
@@ -298,14 +388,14 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       desc.forEach(function (it) {
         var mk = it.date.slice(0, 6);
         if (!groups[mk]) { groups[mk] = []; order.push(mk); }
-        var hay = (it.title || "") + " " + (it.source || "");
+        var hay = (it.title || "") + " " + (it.title_vi || "") + " " + (it.source || "");
         if (!ql || hay.toLowerCase().indexOf(ql) >= 0) groups[mk].push(it);
       });
 
       if (!order.some(function (mk) { return groups[mk].length; })) {
         var empty = document.createElement("div");
         empty.className = "tl-empty";
-        empty.textContent = "Không có số báo phù hợp";
+        empty.textContent = tr().noMatch;
         host.appendChild(empty);
         return;
       }
@@ -317,15 +407,15 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         g.className = "tl-group";
         var h = document.createElement("div");
         h.className = "tl-month";
-        h.textContent = "Tháng " + (+mk.slice(4, 6)) + "/" + mk.slice(0, 4);
+        h.textContent = tr().monthLong(+mk.slice(4, 6), mk.slice(0, 4));
         g.appendChild(h);
         list.forEach(function (it) {
           var row = document.createElement("div");
           row.className = "tl-item";
           row.tabIndex = 0;
-          var dEl = document.createElement("span"); dEl.className = "tl-date"; dEl.textContent = md(it.date); row.appendChild(dEl);
-          var iEl = document.createElement("span"); iEl.className = "tl-issue"; iEl.textContent = "Số " + (it.issue || "?"); row.appendChild(iEl);
-          var tEl = document.createElement("span"); tEl.className = "tl-title"; tEl.textContent = it.title || "(không có tiêu đề)"; row.appendChild(tEl);
+          var dEl = document.createElement("span"); dEl.className = "tl-date"; dEl.textContent = tr().date(it.date); row.appendChild(dEl);
+          var iEl = document.createElement("span"); iEl.className = "tl-issue"; iEl.textContent = tr().issue(it.issue || "?"); row.appendChild(iEl);
+          var tEl = document.createElement("span"); tEl.className = "tl-title"; tEl.textContent = itemTitle(it); row.appendChild(tEl);
           var aEl = document.createElement("span"); aEl.className = "tl-arrow"; aEl.textContent = "›"; row.appendChild(aEl);
           var open = function () { pickDate(it.date); };
           row.addEventListener("click", open);
@@ -344,56 +434,97 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       if (next) next.disabled = curIdx >= items.length - 1;
     }
 
-    // Swap the whole stage to the report for the given date
-    function showReport(date) {
-      var i = dateIndex[date];
-      if (i == null) return;
-      curIdx = i;
+    // ----- Page turn -----
+    // Swap the stage's current page for newPage. With a direction, the old page
+    // turns away like a book page (forward: around the left edge, back: around the right edge).
+    function turnPage(newPage, dir, done) {
       var stage = $("reportStage");
-      if (!stage) return;
-      var loading = document.createElement("div");
-      loading.className = "report-loading";
-      loading.textContent = "Đang tải…";
+      var old = stage.querySelector(".container");
+      if (!dir || !old || reducedMotion()) {
+        stage.innerHTML = "";
+        stage.appendChild(newPage);
+        done();
+        return;
+      }
+      stage.classList.add("turning");
+      old.classList.add("page-leaf", dir === "next" ? "turn-next" : "turn-prev");
+      newPage.classList.add("page-under");
+      stage.insertBefore(newPage, old);
+
+      var finished = false;
+      function finish() {
+        if (finished) return;
+        finished = true;
+        if (old.parentNode) old.parentNode.removeChild(old);
+        newPage.classList.remove("page-under");
+        stage.classList.remove("turning");
+        done();
+      }
+      old.addEventListener("animationend", finish);
+      setTimeout(finish, FLIP_MS + 150); // in case animationend never fires
+    }
+
+    function showMessage(text) {
+      var stage = $("reportStage");
+      var e = document.createElement("div");
+      e.className = "report-loading";
+      e.textContent = text;
       stage.innerHTML = "";
-      stage.appendChild(loading);
-      window.scrollTo(0, 0);
-      showNav();
-      lastScrollY = 0;
+      stage.appendChild(e);
+    }
+
+    // Load the report for the given date and turn to it
+    function showReport(date, dir) {
+      var i = dateIndex[date];
+      if (i == null || busy || i === curIdx) return;
+      busy = true;
+      var stage = $("reportStage");
+      stage.setAttribute("aria-busy", "true");
       fetch(entryPath(date), { cache: "no-cache" })
         .then(function (r) { return r.text(); })
         .then(function (html) {
           var doc = new DOMParser().parseFromString(html, "text/html");
-          var c = doc.querySelector(".container");
-          stage.innerHTML = "";
-          if (c) stage.appendChild(c);
-          else { var e = document.createElement("div"); e.className = "report-loading"; e.textContent = "Không có nội dung"; stage.appendChild(e); }
-          document.title = "AI Daily News | " + dash(date);
+          var page = doc.querySelector(".container");
+          if (!page) throw new Error("no .container");
+          window.scrollTo(0, 0);
+          showNav();
+          lastScrollY = 0;
+          curIdx = i;
           updateNav();
+          document.title = "AI Daily News | " + dash(date);
+          turnPage(document.importNode(page, true), dir, function () {
+            busy = false;
+            stage.removeAttribute("aria-busy");
+          });
         })
-        .catch(function () {
-          stage.innerHTML = "";
-          var e = document.createElement("div");
-          e.className = "report-loading";
-          e.textContent = "Tải thất bại";
-          stage.appendChild(e);
+        .catch(function (e) {
+          console.error("[report] load failed", e);
+          showMessage(tr().loadFailed);
+          busy = false;
+          stage.removeAttribute("aria-busy");
         });
     }
 
-    function navPrev() { ensure(function () { if (curIdx > 0) showReport(items[curIdx - 1].date); }); }
-    function navNext() { ensure(function () { if (curIdx < items.length - 1) showReport(items[curIdx + 1].date); }); }
+    function dirTo(date) {
+      var i = dateIndex[date];
+      return i == null || i === curIdx ? null : (i > curIdx ? "next" : "prev");
+    }
+
+    function navPrev() { ensure(function () { if (curIdx > 0) showReport(items[curIdx - 1].date, "prev"); }); }
+    function navNext() { ensure(function () { if (curIdx < items.length - 1) showReport(items[curIdx + 1].date, "next"); }); }
 
     // Jump back to today's latest report (entryPath(today) === index.html, fetched with no-cache)
     function navToday() {
       ensure(function (m) {
         var t = m.meta.today;
-        if (dateIndex[t] != null) showReport(t);
+        if (dateIndex[t] != null) showReport(t, dirTo(t));
       });
     }
 
-    // Pick a day from the archive panel: close the panel and show that report
+    // Pick a day from the archive panel: close the panel and turn to that report
     function pickDate(date) {
       closeOverlay();
-      ensure(function () { showReport(date); });
+      ensure(function () { showReport(date, dirTo(date)); });
     }
 
     // Hide the bottom bar while scrolling down, show it again when scrolling up
@@ -412,6 +543,22 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         else if (y < lastScrollY - 4 && navHidden) showNav();
         lastScrollY = y;
       });
+    }
+
+    // Horizontal swipe on the report turns pages (left = next, right = previous)
+    var touchX = null, touchY = null;
+    function onTouchStart(e) {
+      if (e.touches.length !== 1) { touchX = null; return; }
+      touchX = e.touches[0].clientX;
+      touchY = e.touches[0].clientY;
+    }
+    function onTouchEnd(e) {
+      if (touchX == null) return;
+      var dx = e.changedTouches[0].clientX - touchX;
+      var dy = e.changedTouches[0].clientY - touchY;
+      touchX = null;
+      if (Math.abs(dx) < 60 || Math.abs(dy) > Math.abs(dx) * 0.6) return;
+      if (dx < 0) navNext(); else navPrev();
     }
 
     // PWA: resolve manifest / icon paths against BASE and register the service worker
@@ -433,12 +580,28 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     $("ovClose").addEventListener("click", closeOverlay);
     $("historyOverlay").addEventListener("click", function (e) { if (e.target === this) closeOverlay(); });
     $("tlSearch").addEventListener("input", function (e) { renderTimeline(e.target.value); });
+    // Delegated: the language switch lives inside the page, which is replaced on navigation
+    document.addEventListener("click", function (e) {
+      var b = e.target.closest ? e.target.closest("[data-set-lang]") : null;
+      if (b) setLang(b.getAttribute("data-set-lang"));
+    });
+    var stageEl = $("reportStage");
+    stageEl.addEventListener("touchstart", onTouchStart, { passive: true });
+    stageEl.addEventListener("touchend", onTouchEnd, { passive: true });
     navEl = $("reportNav");
     window.addEventListener("scroll", onScroll, { passive: true });
 
     document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape" && $("historyOverlay").classList.contains("open")) closeOverlay();
+      var overlayOpen = $("historyOverlay").classList.contains("open");
+      if (e.key === "Escape" && overlayOpen) { closeOverlay(); return; }
+      if (overlayOpen || e.altKey || e.ctrlKey || e.metaKey) return;
+      var tag = (e.target.tagName || "").toLowerCase();
+      if (tag === "input" || tag === "textarea") return;
+      if (e.key === "ArrowLeft") navPrev();
+      else if (e.key === "ArrowRight") navNext();
     });
+
+    applyLabels();
 
     // Startup: load the manifest, locate "today" and update the nav buttons
     ensure(function (m) {
@@ -481,7 +644,10 @@ QUOTES = [
      "Common saying"),
 ]
 
+WEEKDAYS_EN = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 WEEKDAYS_VI = ["Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ Nhật"]
+MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July",
+             "August", "September", "October", "November", "December"]
 
 
 def generate_html(categories):
@@ -489,18 +655,20 @@ def generate_html(categories):
     now = datetime.now()
     issue_num = (now - ISSUE_START_DATE).days + 1
     # Pick the quote by date so re-running on the same day gives the same page
-    quote, quote_vi, quote_author = QUOTES[now.toordinal() % len(QUOTES)]
+    quote_en, quote_vi, quote_author = QUOTES[now.toordinal() % len(QUOTES)]
 
-    template = Template(HTML_TEMPLATE)
+    # autoescape: titles come from external feeds
+    template = Template(HTML_TEMPLATE, autoescape=True)
     return template.render(
         date_str=now.strftime("%Y-%m-%d"),
-        date_display=f"{WEEKDAYS_VI[now.weekday()]}, {now.strftime('%d/%m/%Y')}",
+        date_en=f"{WEEKDAYS_EN[now.weekday()]}, {MONTHS_EN[now.month - 1]} {now.day}, {now.year}",
+        date_vi=f"{WEEKDAYS_VI[now.weekday()]}, {now.strftime('%d/%m/%Y')}",
         gen_time=now.strftime("%H:%M"),
         year=now.year,
         issue_num=issue_num,
         categories=categories,
         sections=SECTIONS,
-        quote=quote,
+        quote_en=quote_en,
         quote_vi=quote_vi,
         quote_author=quote_author,
     )
@@ -554,6 +722,21 @@ def archive_previous():
     print(f"✓ Archived: {archive_file}")
 
 
+def _bilingual_text(node) -> tuple[str, str]:
+    """Return (English, Vietnamese) text of a node rendered with i18n spans.
+
+    Pages without i18n spans return the node's plain text for both.
+    """
+    en = node.select_one(".i18n-en")
+    vi = node.select_one(".i18n-vi")
+    if en is None and vi is None:
+        text = node.get_text(strip=True)
+        return text, text
+    en_text = en.get_text(strip=True) if en else ""
+    vi_text = vi.get_text(strip=True) if vi else ""
+    return en_text or vi_text, vi_text or en_text
+
+
 def _parse_report_for_manifest(path: str, date_hint: str) -> dict | None:
     """Extract the manifest fields from one report page (missing fields become empty strings)."""
     try:
@@ -565,7 +748,7 @@ def _parse_report_for_manifest(path: str, date_hint: str) -> dict | None:
     soup = BeautifulSoup(content, "html.parser")
     date = read_report_date(content) or date_hint
 
-    # Issue number: digits in .header-left ("Số N"; older issues use a Chinese label)
+    # Issue number: digits in .header-left ("No. N" / "Số N")
     issue = ""
     left = soup.select_one(".header-left")
     if left:
@@ -573,11 +756,11 @@ def _parse_report_for_manifest(path: str, date_hint: str) -> dict | None:
         if m:
             issue = m.group(1)
 
-    # Main headline: title / link / source
-    title, link, source = "", "", ""
+    # Main headline: title (English + Vietnamese) / link / source
+    title, title_vi, link, source = "", "", "", ""
     a = soup.select_one(".main-headline .headline-title a")
     if a:
-        title = a.get_text(strip=True)
+        title, title_vi = _bilingual_text(a)
         link = a.get("href", "") or ""
     src = soup.select_one(".main-headline .headline-source")
     if src:
@@ -589,7 +772,7 @@ def _parse_report_for_manifest(path: str, date_hint: str) -> dict | None:
         first_t = soup.select_one(".news-item .news-title")
         node = first_a or first_t
         if node:
-            title = node.get_text(strip=True)
+            title, title_vi = _bilingual_text(node)
             if first_a:
                 link = first_a.get("href", "") or ""
         first_src = soup.select_one(".news-item .news-source")
@@ -599,12 +782,13 @@ def _parse_report_for_manifest(path: str, date_hint: str) -> dict | None:
     quote = ""
     q = soup.select_one(".quote-section .quote")
     if q:
-        quote = q.get_text(strip=True)
+        quote = _bilingual_text(q)[0]
 
     return {
         "date": date,
         "issue": issue,
         "title": title,
+        "title_vi": title_vi,
         "link": link,
         "source": source,
         "quote": quote,

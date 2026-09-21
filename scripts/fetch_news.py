@@ -50,15 +50,18 @@ AI_KEYWORDS_VI = [
     "ChatGPT", "OpenAI", "Gemini", "Claude", "GPT",
 ]
 
-# Feed configuration. An empty keyword list means every entry is AI-related.
+# Feed configuration. "lang" is the language of the feed's titles;
+# an empty keyword list means every entry is AI-related.
 NEWS_SOURCES = {
     # English sources
     "techcrunch_ai": {
+        "lang": "en",
         "name": "TechCrunch",
         "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "keywords": [],
     },
     "the_verge_ai": {
+        "lang": "en",
         "name": "The Verge",
         "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "keywords": [],
@@ -66,27 +69,32 @@ NEWS_SOURCES = {
     # VentureBeat's own feed sits behind a bot checkpoint (HTTP 429),
     # so its articles are read through Google News search instead
     "venturebeat": {
+        "lang": "en",
         "name": "VentureBeat",
         "url": "https://news.google.com/rss/search?q=site:venturebeat.com&hl=en-US&gl=US&ceid=US:en",
         "keywords": AI_KEYWORDS_EN,
         "strip_suffix": " - VentureBeat",
     },
     "openai_news": {
+        "lang": "en",
         "name": "OpenAI",
         "url": "https://openai.com/news/rss.xml",
         "keywords": [],
     },
     "deepmind_blog": {
+        "lang": "en",
         "name": "Google DeepMind",
         "url": "https://deepmind.google/blog/rss.xml",
         "keywords": [],
     },
     "google_ai_blog": {
+        "lang": "en",
         "name": "Google AI Blog",
         "url": "https://blog.google/technology/ai/rss/",
         "keywords": [],
     },
     "hackernews": {
+        "lang": "en",
         "name": "Hacker News",
         "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT&points=20",
         "keywords": AI_KEYWORDS_EN,
@@ -94,21 +102,25 @@ NEWS_SOURCES = {
     },
     # Vietnamese sources (general tech feeds, filtered to AI topics)
     "vnexpress": {
+        "lang": "vi",
         "name": "VnExpress",
         "url": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
         "keywords": AI_KEYWORDS_VI,
     },
     "tuoitre": {
+        "lang": "vi",
         "name": "Tuổi Trẻ",
         "url": "https://tuoitre.vn/rss/nhip-song-so.rss",
         "keywords": AI_KEYWORDS_VI,
     },
     "dantri": {
+        "lang": "vi",
         "name": "Dân trí",
         "url": "https://dantri.com.vn/rss/cong-nghe.rss",
         "keywords": AI_KEYWORDS_VI,
     },
     "genk": {
+        "lang": "vi",
         "name": "GenK",
         "url": "https://genk.vn/rss/home.rss",
         "keywords": AI_KEYWORDS_VI,
@@ -232,6 +244,7 @@ def fetch_rss(source_key, config, cutoff):
                 "title": title,
                 "link": link,
                 "source": config["name"],
+                "lang": config["lang"],
                 "pub_date": published.strftime("%Y-%m-%d %H:%M"),
                 "summary": clean_text(entry.get("summary", ""))[:200],
                 "can_headline": config.get("can_headline", True),

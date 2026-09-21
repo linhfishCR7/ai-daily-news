@@ -292,13 +292,6 @@ a:hover {
   margin-bottom: 10px;
 }
 
-.quote-section .quote-vi {
-  font-size: 14px;
-  color: #555;
-  line-height: 1.6;
-  margin-bottom: 10px;
-}
-
 .quote-section .author {
   font-size: 13px;
   color: #666;
@@ -804,7 +797,163 @@ body {
 /* ===== Hide all archive UI when printing / taking screenshots ===== */
 @media print {
   .report-nav,
-  .history-overlay {
+  .history-overlay,
+  .lang-switch {
     display: none !important;
+  }
+}
+
+/* ============================================
+   Language (English default, Vietnamese on demand)
+   ============================================ */
+
+/* Every string is rendered in both languages; show only the active one */
+html:not([data-lang="vi"]) .i18n-vi,
+html[data-lang="vi"] .i18n-en {
+  display: none !important;
+}
+
+.lang-switch {
+  position: absolute;
+  top: -18px;
+  right: -20px;
+  display: flex;
+  border: 1px solid #1a1a1a;
+  border-radius: 3px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.lang-switch button {
+  font-family: Georgia, serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 3px 8px;
+  border: 0;
+  background: #fffef8;
+  color: #1a1a1a;
+  cursor: pointer;
+}
+
+.lang-switch button + button {
+  border-left: 1px solid #1a1a1a;
+}
+
+html:not([data-lang="vi"]) .lang-switch [data-set-lang="en"],
+html[data-lang="vi"] .lang-switch [data-set-lang="vi"] {
+  background: #1a1a1a;
+  color: #fffef8;
+}
+
+@media (hover: hover) {
+  .lang-switch button:hover {
+    background: #8b5a2b;
+    color: #fffef8;
+  }
+}
+
+.lang-switch button:focus-visible {
+  outline: 2px solid #8b5a2b;
+  outline-offset: -2px;
+}
+
+@media (max-width: 600px) {
+  .header {
+    padding-top: 24px;
+  }
+
+  .lang-switch {
+    top: -8px;
+    right: 0;
+  }
+}
+
+/* ============================================
+   Page turn between issues
+   ============================================ */
+
+#reportStage.turning {
+  position: relative;
+  perspective: 2200px;
+  perspective-origin: 50% 30vh;
+  overflow: hidden;
+}
+
+/* The next page waits underneath and fades up from the shadow of the turning leaf */
+#reportStage.turning .page-under {
+  animation: page-reveal 750ms ease-out both;
+}
+
+/* The current page, lifted on top of the stage, turns away */
+#reportStage .page-leaf {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  max-height: 100vh;
+  overflow: hidden;
+  backface-visibility: hidden;
+  will-change: transform;
+  animation-duration: 750ms;
+  animation-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+  animation-fill-mode: forwards;
+}
+
+/* Paper shading that darkens as the page bends */
+#reportStage .page-leaf::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  animation: page-shade 750ms ease-in forwards;
+}
+
+/* Forward: the page turns around its left edge (the spine), like a book */
+#reportStage .page-leaf.turn-next {
+  transform-origin: left center;
+  animation-name: page-turn-next;
+}
+
+#reportStage .page-leaf.turn-next::after {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0) 60%);
+}
+
+/* Back: the page turns around its right edge */
+#reportStage .page-leaf.turn-prev {
+  transform-origin: right center;
+  animation-name: page-turn-prev;
+}
+
+#reportStage .page-leaf.turn-prev::after {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0) 60%);
+}
+
+@keyframes page-turn-next {
+  0% { transform: rotateY(0deg); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); }
+  100% { transform: rotateY(-120deg); box-shadow: -30px 0 40px rgba(0, 0, 0, 0.25); }
+}
+
+@keyframes page-turn-prev {
+  0% { transform: rotateY(0deg); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); }
+  100% { transform: rotateY(120deg); box-shadow: 30px 0 40px rgba(0, 0, 0, 0.25); }
+}
+
+@keyframes page-shade {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes page-reveal {
+  0% { filter: brightness(0.85); }
+  100% { filter: brightness(1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #reportStage .page-leaf,
+  #reportStage .page-leaf::after,
+  #reportStage.turning .page-under {
+    animation: none;
   }
 }

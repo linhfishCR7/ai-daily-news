@@ -8,7 +8,7 @@
 # AI Daily News 🤖
 
 An automated daily AI news digest, published as a static site on GitHub Pages.
-The page is bilingual (Vietnamese / English) and collects news from English and Vietnamese sources.
+The page is bilingual — English by default, Vietnamese with one click — and collects news from English and Vietnamese sources.
 
 **Live site:** https://linhfishCR7.github.io/ai-daily-news/
 
@@ -17,7 +17,9 @@ The page is bilingual (Vietnamese / English) and collects news from English and 
 - Fetches AI news from English and Vietnamese RSS feeds
 - Filters to AI topics, keeps only the last 48 hours, removes duplicates
 - Sorts news into Headlines, Products, Funding, Research, Industry and More
-- Renders a newspaper-style HTML report (screenshot-friendly on phones)
+- Translates every headline EN ↔ VI with the Claude API (`claude-opus-5`)
+- Renders a newspaper-style HTML report with an EN / VI switch (remembered per browser)
+- Book-style page-turn animation between issues (buttons, ← / → keys, or swipe on phones)
 - Keeps every past issue in `archive/`, with an archive browser (heatmap calendar, timeline, search)
 - Installable PWA with offline support
 - Runs automatically every day at **07:00 Vietnam time** (00:00 UTC) via GitHub Actions
@@ -27,6 +29,7 @@ The page is bilingual (Vietnamese / English) and collects news from English and 
 ```
 GitHub Actions (daily cron)
   └─ scripts/fetch_news.py  → data/categorized_news.json
+  └─ scripts/translate.py   → adds title_en / title_vi to each item (Claude API)
   └─ scripts/generate.py    → archive previous index.html → archive/YYYYMMDD.html
                             → render new index.html
                             → rebuild data/archive_manifest.json
@@ -51,6 +54,7 @@ ai-daily-news/
 ├── sw.js                      # Service worker
 ├── scripts/
 │   ├── fetch_news.py          # Fetch, filter, dedupe and categorize news
+│   ├── translate.py           # Translate headlines EN <-> VI (Claude API)
 │   ├── generate.py            # Render HTML, archive, build manifest
 │   ├── send_feishu.py         # Optional Feishu push (disabled, see SETUP.md)
 │   ├── serve.py               # LAN preview server
@@ -79,6 +83,7 @@ Sources are configured in `NEWS_SOURCES` in [scripts/fetch_news.py](scripts/fetc
 pip install -r scripts/requirements.txt
 cd scripts
 python fetch_news.py
+python translate.py    # needs ANTHROPIC_API_KEY; skipped (original titles kept) without it
 python generate.py
 python serve.py        # open http://localhost:8000/
 ```
@@ -87,8 +92,9 @@ python serve.py        # open http://localhost:8000/
 
 1. Fork this repository
 2. Enable GitHub Actions and GitHub Pages (deploy from the `main` branch, root folder)
-3. Update the site URL in this README and `SITE_URL` in `scripts/send_feishu.py`
-4. The workflow runs daily; you can also start it from **Actions → Run workflow**
+3. Add the `ANTHROPIC_API_KEY` repository secret (Settings → Secrets and variables → Actions) to enable headline translation
+4. Update the site URL in this README and `SITE_URL` in `scripts/send_feishu.py`
+5. The workflow runs daily; you can also start it from **Actions → Run workflow**
 
 ## License
 

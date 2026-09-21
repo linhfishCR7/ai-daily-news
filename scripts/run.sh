@@ -27,7 +27,11 @@ echo "1. Fetching news..."
 python fetch_news.py
 
 echo
-echo "2. Generating HTML..."
+echo "2. Translating headlines..."
+python translate.py
+
+echo
+echo "3. Generating HTML..."
 python generate.py
 
 echo

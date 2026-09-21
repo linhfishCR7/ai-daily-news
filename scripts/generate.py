@@ -20,6 +20,9 @@ INDEX_FILE = os.path.join(PROJECT_DIR, "index.html")
 ARCHIVE_DIR = os.path.join(PROJECT_DIR, "archive")
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
 
+# Bump when assets/style.css changes so browsers and the service worker fetch the new file
+STYLE_VERSION = "2"
+
 # Issue numbers count days since the first English/Vietnamese issue (Số 1)
 ISSUE_START_DATE = datetime(2026, 9, 21)
 
@@ -59,7 +62,7 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     })();
   </script>
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/style.css?v={{ style_version }}">
   <!-- Icons / PWA -->
   <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
@@ -660,6 +663,7 @@ def generate_html(categories):
     # autoescape: titles come from external feeds
     template = Template(HTML_TEMPLATE, autoescape=True)
     return template.render(
+        style_version=STYLE_VERSION,
         date_str=now.strftime("%Y-%m-%d"),
         date_en=f"{WEEKDAYS_EN[now.weekday()]}, {MONTHS_EN[now.month - 1]} {now.day}, {now.year}",
         date_vi=f"{WEEKDAYS_VI[now.weekday()]}, {now.strftime('%d/%m/%Y')}",

@@ -42,7 +42,9 @@ def translate(items, api_key):
             {"role": "user", "content": json.dumps(items, ensure_ascii=False)},
         ],
         "response_format": {"type": "json_object"},
-        "max_tokens": 8000,
+        # Thinking is on by default and its tokens eat into max_tokens; not needed to translate
+        "thinking": {"type": "disabled"},
+        "max_tokens": 16000,
     }
     headers = {"Authorization": f"Bearer {api_key}"}
 

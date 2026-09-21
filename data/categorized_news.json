@@ -40,7 +40,7 @@
       "pub_date": "2026-09-21 01:32",
       "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
       "title_en": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "title_vi": "Nhẫn của Vocci thêm một dạng thức mới cho việc ghi chú cuộc họp"
+      "title_vi": "Nhẫn Vocci thêm yếu tố hình thức mới cho việc ghi chú cuộc họp"
     },
     {
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
@@ -50,7 +50,7 @@
       "pub_date": "2026-09-19 22:00",
       "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
       "title_en": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "title_vi": "Máy cho ăn mới tích hợp AI của Petlibro là bước ngoặt cho nhà nhiều mèo"
+      "title_vi": "Máy cho ăn AI mới của Petlibro là bước đột phá cho nhà nhiều mèo"
     }
   ],
   "funding": [
@@ -62,7 +62,7 @@
       "pub_date": "2026-09-19 20:00",
       "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
       "title_en": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "title_vi": "Vals, được Andreessen Horowitz hậu thuẫn, đang tìm cách trở thành tiêu chuẩn vàng cho đánh giá AI"
+      "title_vi": "Vals, được Andreessen Horowitz hậu thuẫn, muốn trở thành tiêu chuẩn vàng cho đánh giá AI"
     }
   ],
   "research": [
@@ -74,7 +74,7 @@
       "pub_date": "2026-09-21 03:29",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil",
       "title_en": "World model companies are keeping a lot of secrets",
-      "title_vi": "Các công ty mô hình thế giới đang giữ rất nhiều bí mật"
+      "title_vi": "Các công ty mô hình thế giới giữ nhiều bí mật"
     }
   ],
   "industry": [
@@ -86,7 +86,7 @@
       "pub_date": "2026-09-21 01:50",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with",
       "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "title_vi": "Không ai ngạc nhiên khi Jensen Huang của Nvidia cho rằng nỗi lo về AI bị thổi phồng quá mức"
+      "title_vi": "Không ai ngạc nhiên khi Jensen Huang của Nvidia cho rằng lo ngại về AI bị thổi phồng"
     },
     {
       "title": "Trump now says he wants to form an ‘AI Force’",
@@ -106,7 +106,7 @@
       "pub_date": "2026-09-20 03:39",
       "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
       "title_en": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "title_vi": "Flock được cho là cố gắng thu hẹp lực lượng lao động bằng cách mua lại cổ phiếu của nhân viên"
+      "title_vi": "Flock được cho là cố gắng thu hẹp lực lượng lao động bằng việc mua lại tự nguyện"
     },
     {
       "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
@@ -126,20 +126,10 @@
       "pub_date": "2026-09-20 01:36",
       "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Poin",
       "title_en": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "title_vi": "Đơn kiện nói Anthropic, OpenAI và các bên khác đã có thỏa thuận bất hợp pháp về việc làm chậm AI"
+      "title_vi": "Vụ kiện nói Anthropic, OpenAI và các bên khác có thỏa thuận bất hợp pháp về việc làm chậm AI"
     }
   ],
   "other": [
-    {
-      "title": "Jensen Huang: 'Khả năng AI gây tận thế năm 2030 là 0%'",
-      "link": "https://vnexpress.net/jensen-huang-kha-nang-ai-gay-tan-the-nam-2030-la-0-5122815.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-09-21 13:50",
-      "summary": "Jensen Huang, CEO Nvidia, phản bác cảnh báo từ giới nghiên cứu AI rằng công nghệ này có thể khiến nhân loại diệt vong trong vài năm tới.",
-      "title_en": "Jensen Huang: 'Chance of AI apocalypse in 2030 is 0%'",
-      "title_vi": "Jensen Huang: 'Khả năng AI gây tận thế năm 2030 là 0%'"
-    },
     {
       "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
       "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
@@ -148,7 +138,7 @@
       "pub_date": "2026-09-21 11:28",
       "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 60 # Comments: 24",
       "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "title_vi": "Chatbot AI trả lời sai các truy vấn tài chính 'phần lớn thời gian'"
+      "title_vi": "Chatbot AI trả lời sai các câu hỏi tài chính 'hầu hết thời gian'"
     },
     {
       "title": "\"Nữ diễn viên\" trí tuệ nhân tạo Tilly Norwood gặp sự cố khi phỏng vấn, bất ngờ lảm nhảm bằng tiếng Trung",
@@ -157,7 +147,7 @@
       "lang": "vi",
       "pub_date": "2026-09-21 11:01",
       "summary": "Màn xuất hiện đầy tự tin của nữ diễn viên ảo Tilly Norwood trên sóng truyền hình bỗng chốc biến thành trò cười cay đắng. Thay vì chứng minh sự ưu việt, thực thể này lại đột ngột nói lảm nhảm bằng tiến",
-      "title_en": "AI actress Tilly Norwood glitches during interview, unexpectedly rambles in Chinese",
+      "title_en": "AI actress Tilly Norwood has a glitch during interview, suddenly babbles in Chinese",
       "title_vi": "\"Nữ diễn viên\" trí tuệ nhân tạo Tilly Norwood gặp sự cố khi phỏng vấn, bất ngờ lảm nhảm bằng tiếng Trung"
     },
     {
@@ -167,7 +157,7 @@
       "lang": "vi",
       "pub_date": "2026-09-21 10:59",
       "summary": "Một bộ phim AI có gì mà thu hút tới hàng trăm triệu lượt xem, có người thừa nhận biết cái kết vẫn không thể \"thoát ra\" được.",
-      "title_en": "Decoding the AI film craze: Knowing it's AI, still bingeing 80 episodes until 2 a.m., why can't you stop?",
+      "title_en": "Decoding the AI film craze: Knowing it's AI still 'binging' 80 episodes until 2am, why can't you stop?",
       "title_vi": "Giải mã cơn sốt phim AI: Biết là AI vẫn “cày” 80 tập đến 2h sáng, vì sao không thể dừng lại?"
     },
     {
@@ -178,7 +168,7 @@
       "pub_date": "2026-09-21 09:09",
       "summary": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them VentureBeat",
       "title_en": "Google’s open source EnvHarness lets AI agents train against environments that evolve with them",
-      "title_vi": "EnvHarness mã nguồn mở của Google cho phép các tác nhân AI huấn luyện trên các môi trường tiến hóa cùng chúng"
+      "title_vi": "EnvHarness mã nguồn mở của Google cho phép các tác nhân AI huấn luyện với môi trường tiến hóa cùng chúng"
     },
     {
       "title": "Can I Let My AI Agent Run on Shabbat?",
@@ -208,7 +198,17 @@
       "pub_date": "2026-09-21 04:17",
       "summary": "Article URL: https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/ Comments URL: https://news.ycombinator.com/item?id=49780162 Points: 62 # Comments: 44",
       "title_en": "I stopped drinking the AI Kool-Aid",
-      "title_vi": "Tôi đã ngừng tin vào AI một cách mù quáng"
+      "title_vi": "Tôi đã ngừng uống Kool-Aid AI"
+    },
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-21 01:56",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "title_en": "Is the AI industry really ready to slow down?",
+      "title_vi": "Ngành công nghiệp AI có thực sự sẵn sàng chậm lại không?"
     }
   ]
 }

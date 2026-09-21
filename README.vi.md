@@ -65,7 +65,7 @@ ai-daily-news/
 |---|---|
 | TechCrunch (AI) | VnExpress (Khoa học - Công nghệ) |
 | The Verge (AI) | Tuổi Trẻ (Nhịp sống số) |
-| VentureBeat (AI) | Dân trí (Công nghệ) |
+| VentureBeat (AI, qua Google News) | Dân trí (Công nghệ) |
 | OpenAI News | VietnamNet (Công nghệ) |
 | Google DeepMind Blog | GenK |
 | Google AI Blog | |

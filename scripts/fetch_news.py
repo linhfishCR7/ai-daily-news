@@ -63,10 +63,13 @@ NEWS_SOURCES = {
         "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
         "keywords": [],
     },
-    "venturebeat_ai": {
+    # VentureBeat's own feed sits behind a bot checkpoint (HTTP 429),
+    # so its articles are read through Google News search instead
+    "venturebeat": {
         "name": "VentureBeat",
-        "url": "https://venturebeat.com/category/ai/feed/",
-        "keywords": [],
+        "url": "https://news.google.com/rss/search?q=site:venturebeat.com&hl=en-US&gl=US&ceid=US:en",
+        "keywords": AI_KEYWORDS_EN,
+        "strip_suffix": " - VentureBeat",
     },
     "openai_news": {
         "name": "OpenAI",
@@ -199,8 +202,18 @@ def fetch_rss(source_key, config, cutoff):
         if feed.get("bozo") and not feed.entries:
             raise RuntimeError(feed.get("bozo_exception") or "invalid feed")
 
-        for entry in feed.entries[:MAX_ENTRIES_PER_FEED]:
+        # Some feeds (e.g. Google News) are not ordered by date
+        entries = sorted(
+            feed.entries,
+            key=lambda e: tuple(e.get("published_parsed") or e.get("updated_parsed") or ()),
+            reverse=True,
+        )
+        suffix = config.get("strip_suffix")
+
+        for entry in entries[:MAX_ENTRIES_PER_FEED]:
             title = clean_text(entry.get("title", ""))
+            if suffix and title.endswith(suffix.strip()):
+                title = title[: -len(suffix.strip())].rstrip(" -")
             link = entry.get("link", "")
             if not title or not link:
                 continue

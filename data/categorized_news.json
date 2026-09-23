@@ -1,62 +1,173 @@
 {
   "headline": [
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-22 03:15",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "title_en": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "title_vi": "OpenAI thành lập nhóm cố vấn toán học khi AI của họ giải quyết hơn 100 vấn đề mở"
+      "pub_date": "2026-09-23 07:17",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the co",
+      "title_en": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "title_vi": "OpenAI muốn tham vấn các nhà toán học ưu tú về cách không phạm sai lầm lần nữa"
     },
     {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-22 02:19",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig",
-      "title_en": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "title_vi": "Muse của Meta đang vượt mặt ChatGPT trong giai đoạn đầu ra mắt trên di động"
+      "title": "Anthropic ra mắt Claude Opus 5.5: Mạnh ngang Fable 5.1 nhưng giá rẻ hơn nhiều",
+      "link": "https://genk.vn/anthropic-ra-mat-claude-opus-55-manh-ngang-fable-51-nhung-gia-re-hon-nhieu-165260923054641301.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-09-23 05:45",
+      "summary": "Mô hình mới vượt Fable 5.1 ở nhiều bài kiểm tra lập trình, trong khi giá API chưa bằng một nửa và người dùng gói trả phí được nới giới hạn sử dụng.",
+      "title_en": "Anthropic launches Claude Opus 5.5: As powerful as Fable 5.1 but much cheaper",
+      "title_vi": "Anthropic ra mắt Claude Opus 5.5: Mạnh ngang Fable 5.1 nhưng giá rẻ hơn nhiều"
     },
     {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "source": "TechCrunch",
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI",
       "lang": "en",
-      "pub_date": "2026-09-21 21:39",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "title_en": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "title_vi": "Googlebook 899 USD của Google là canh bạc rằng bạn sẽ mua laptop mới cho Gemini"
+      "pub_date": "2026-09-23 04:00",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "title_en": "Better prompt caching for GPT-6",
+      "title_vi": "Cải thiện bộ nhớ đệm prompt cho GPT-6"
     }
   ],
   "product": [
     {
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-21 01:32",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
-      "title_en": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "title_vi": "Nhẫn Vocci thêm yếu tố hình thức mới cho việc ghi chú cuộc họp"
+      "pub_date": "2026-09-23 03:00",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "title_en": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "title_vi": "Qualcomm ra mắt hai chip điện thoại thông minh mới nhấn mạnh vào AI"
+    },
+    {
+      "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-09-23 02:05",
+      "summary": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price VentureBeat",
+      "title_en": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price",
+      "title_vi": "Anthropic phát hành Claude Opus 5.5, đánh bại Fable 5.1 trên các chuẩn tác tử chính với giá API rẻ hơn 60%"
+    },
+    {
+      "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-09-23 01:22",
+      "summary": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more VentureBeat",
+      "title_en": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more",
+      "title_vi": "OpenAI phát hành mô hình GPT-6 Sol và Luna, cắt giảm chi phí API 50% trở lên"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-23 01:00",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "title_en": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "title_vi": "OpenAI ra mắt GPT-6 Sol và Luna, tự hào về chi phí thấp hơn và ít lỗi hơn"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-09-23 01:00",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "title_en": "Introducing GPT-6 Sol and Luna",
+      "title_vi": "Giới thiệu GPT-6 Sol và Luna"
     }
   ],
-  "funding": [],
-  "research": [
+  "funding": [
     {
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-21 03:29",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil",
-      "title_en": "World model companies are keeping a lot of secrets",
-      "title_vi": "Các công ty mô hình thế giới đang giữ rất nhiều bí mật"
+      "pub_date": "2026-09-23 04:56",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "title_en": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "title_vi": "Snorkel AI tăng gấp ba định giá lên 3,5 tỷ USD khi nhu cầu dữ liệu huấn luyện AI bùng nổ"
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-22 19:23",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "title_en": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "title_vi": "IPO của Nscale sẽ một lần nữa thử thách khẩu vị của Phố Wall đối với các cược AI tập trung"
+    }
+  ],
+  "research": [
+    {
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "link": "https://arxiv.org/abs/2609.15369",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-09-22 20:00",
+      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire ( https://sitefire.ai ). We have been working together for years, with backgrounds in RL/optimization at Stanford and software engineering from Technical",
+      "title_en": "Show HN: Training a model to identify AI web content from structure alone",
+      "title_vi": "Show HN: Huấn luyện mô hình nhận diện nội dung web AI chỉ từ cấu trúc"
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-09-22 19:00",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "title_vi": "Parallel cắt giảm một nửa thời gian và chi phí nghiên cứu với GPT-6 Astra"
+    },
+    {
+      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-09-22 16:18",
+      "summary": "Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ Comments URL: https://news.ycombinator.com/item?id=49798451 Points: 65 # Comments: 118",
+      "title_en": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "title_vi": "Nghiên cứu: Người dùng trẻ (9 đến 18 tuổi) từ bỏ Google để dùng AI, với hậu quả chưa lường"
     }
   ],
   "industry": [
+    {
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-09-22 23:01",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renam",
+      "title_en": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "title_vi": "Trump nói Mỹ chính thức đổi tên AI thành 'siêu trí tuệ'"
+    },
+    {
+      "title": "When the data can't move: What it takes to run enterprise AI anywhere",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3VSYzB5UWwwa3c2R3l0cFRJMGdYaXQ5UWRuenlGdnpQaDB3M240MkNtZlpsSHZjUlNvZ2NBQmtaSUJPWmtIcUtJWnJWRzZzbGFtdkoyVnB0MHVnUmFuRFdocmtMeVc2NG1INjR6MnpZSU5vQ3o0NTYxeG9acUxhRFE1R2VIZGtvaWk1cmM1SFdaWWdsRVRCbGJQYjE?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-09-22 21:30",
+      "summary": "When the data can't move: What it takes to run enterprise AI anywhere VentureBeat",
+      "title_en": "When the data can't move: What it takes to run enterprise AI anywhere",
+      "title_vi": "Khi dữ liệu không thể di chuyển: Điều cần thiết để chạy AI doanh nghiệp ở mọi nơi"
+    },
+    {
+      "title": "Googlebook dùng Snapdragon X Elite ra mắt, tích hợp Gemini Intelligence, hỗ trợ hệ sinh thái ứng dụng và game Android",
+      "link": "https://genk.vn/googlebook-dung-snapdragon-x-elite-ra-mat-tich-hop-gemini-intelligence-ho-tro-he-sinh-thai-ung-dung-va-game-android-165260922110224242.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-09-22 11:02",
+      "summary": "Qualcomm và Google vừa giới thiệu dòng laptop Googlebook đầu tiên sử dụng Snapdragon X Elite, tích hợp Gemini Intelligence, hỗ trợ ứng dụng Android và tăng khả năng kết nối giữa các thiết bị.",
+      "title_en": "Googlebook launches with Snapdragon X Elite, integrates Gemini Intelligence, supports Android app and game ecosystem",
+      "title_vi": "Googlebook dùng Snapdragon X Elite ra mắt, tích hợp Gemini Intelligence, hỗ trợ hệ sinh thái ứng dụng và game Android"
+    },
     {
       "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
@@ -65,7 +176,7 @@
       "pub_date": "2026-09-22 01:33",
       "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-",
       "title_en": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-      "title_vi": "Anthropic, OpenAI và các công ty khác đối mặt vụ kiện chống độc quyền vì đồng ý làm chậm phát triển AI"
+      "title_vi": "Anthropic, OpenAI và các bên khác đối mặt vụ kiện chống độc quyền vì đồng ý làm chậm phát triển AI"
     },
     {
       "title": "Bốn ông lớn công nghệ Mỹ bị kiện vì muốn 'kìm hãm AI'",
@@ -74,120 +185,90 @@
       "lang": "vi",
       "pub_date": "2026-09-21 22:56",
       "summary": "Anthropic, OpenAI, SpaceXAI và Google DeepMind bị khởi kiện do ủng hộ việc làm chậm quá trình phát triển các mô hình trí tuệ nhân tạo.",
-      "title_en": "Four US tech giants sued for wanting to 'restrain AI'",
+      "title_en": "Four US tech giants sued for allegedly 'stifling AI'",
       "title_vi": "Bốn ông lớn công nghệ Mỹ bị kiện vì muốn 'kìm hãm AI'"
-    },
-    {
-      "title": "Muốn giảm tốc phát triển AI để an toàn cho nhân loại, Anthropic, OpenAI, SpaceXAI và Google bị người dùng khởi kiện",
-      "link": "https://genk.vn/muon-giam-toc-phat-trien-ai-de-an-toan-cho-nhan-loai-anthropic-openai-spacexai-va-google-bi-nguoi-dung-khoi-kien-165260921145736013.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-09-21 15:57",
-      "summary": "Cho dù những người khởi kiện thừa nhận cần làm chậm AI để an toàn hơn, nhưng họ lại phản đối việc các công ty tư nhân tự thỏa thuận với nhau để hạn chế tốc độ phát triển.",
-      "title_en": "Wanting to slow AI development for humanity's safety, Anthropic, OpenAI, SpaceXAI and Google are sued by users",
-      "title_vi": "Muốn giảm tốc phát triển AI để an toàn cho nhân loại, Anthropic, OpenAI, SpaceXAI và Google bị người dùng khởi kiện"
-    },
-    {
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-09-21 01:50",
-      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with",
-      "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "title_vi": "Không ai ngạc nhiên khi Jensen Huang của Nvidia cho rằng nỗi sợ AI bị thổi phồng quá mức"
-    },
-    {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-09-20 22:39",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the",
-      "title_en": "Trump now says he wants to form an ‘AI Force’",
-      "title_vi": "Trump giờ nói ông muốn thành lập 'Lực lượng AI'"
     }
   ],
   "other": [
     {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-22 08:24",
-      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 76 # Comments: 37",
-      "title_en": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "title_vi": "Con gái Robin Williams nhắn nhủ người hâm mộ tạo video AI: 'Hãy biết xấu hổ'"
-    },
-    {
-      "title": "Nhìn lại 10 ngày đầy biến động của ngành AI",
-      "link": "https://genk.vn/nhin-lai-10-ngay-day-bien-dong-cua-nganh-ai-165260922071200695.chn",
-      "source": "GenK",
+      "title": "AI có thể khiến loài người diệt vong bằng cách nào?",
+      "link": "https://dantri.com.vn/cong-nghe/ai-co-the-khien-loai-nguoi-diet-vong-bang-cach-nao-20260923020408735.htm",
+      "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-09-22 08:19",
-      "summary": "Các vụ AI tự vượt rào bảo vệ, xâm nhập hệ thống bên ngoài cùng cảnh báo từ giới nghiên cứu khiến lãnh đạo nhiều hãng công nghệ phải kêu gọi giảm tốc phát triển AI.",
-      "title_en": "Looking back at 10 turbulent days in the AI industry",
-      "title_vi": "Nhìn lại 10 ngày đầy biến động của ngành AI"
+      "pub_date": "2026-09-23 09:42",
+      "summary": "(Dân trí) - Chuyên gia cảnh báo AI có thể vượt khỏi khả năng kiểm soát của con người, tự theo đuổi mục tiêu riêng gây ra hậu quả nghiêm trọng, trong kịch bản cực đoan có thể dẫn đến sự tuyệt chủng của",
+      "title_en": "How could AI cause human extinction?",
+      "title_vi": "AI có thể khiến loài người diệt vong bằng cách nào?"
     },
     {
-      "title": "Chi tiền triệu 'cày' phim ngắn AI",
-      "link": "https://vnexpress.net/chi-tien-trieu-cay-phim-ngan-ai-5120513.html",
+      "title": "Tổng giám đốc Google Việt Nam: 'AI là công cụ, không thay thế nhà sáng tạo'",
+      "link": "https://vnexpress.net/tong-giam-doc-google-viet-nam-ai-la-cong-cu-khong-thay-the-nha-sang-tao-5122913.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-09-22 07:00",
-      "summary": "Dặn lòng nghỉ sớm, Huyền Trang vẫn nạp thêm 99.000 đồng vào ứng dụng phim ngắn để xem nốt những tập còn lại của một phim AI.",
-      "title_en": "Spending millions to 'farm' short AI films",
-      "title_vi": "Chi tiền triệu 'cày' phim ngắn AI"
+      "pub_date": "2026-09-23 09:20",
+      "summary": "Marc Woo, Tổng giám đốc Google Việt Nam, cho rằng video ngắn và dài sẽ song hành, còn AI giúp nâng hiệu suất chứ không thay thế nội dung nguyên bản.",
+      "title_en": "Google Vietnam CEO: 'AI is a tool, not a replacement for creators'",
+      "title_vi": "Tổng giám đốc Google Việt Nam: 'AI là công cụ, không thay thế nhà sáng tạo'"
     },
     {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "title": "Kỹ sư gây sốt khi nói lập trình AI biến con người thành 'kẻ bấm nút'",
+      "link": "https://vnexpress.net/ky-su-gay-sot-khi-noi-lap-trinh-ai-bien-con-nguoi-thanh-ke-bam-nut-5123546.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-09-23 07:00",
+      "summary": "Bài chia sẻ của một kỹ sư ẩn danh đang thu hút hàng nghìn bình luận, trong đó có Elon Musk, khi hé lộ mặt trái của lập trình AI là biến con người thành \"kẻ bấm nút\".",
+      "title_en": "Engineer goes viral saying AI programming turns humans into 'button pushers'",
+      "title_vi": "Kỹ sư gây sốt khi nói lập trình AI biến con người thành 'kẻ bấm nút'"
+    },
+    {
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-09-23 06:46",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49809806 Points: 39 # Comments: 47",
+      "title_en": "The new CC, an AI agent built for families",
+      "title_vi": "CC mới, một tác nhân AI được xây dựng cho gia đình"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-22 06:44",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "title_en": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "title_vi": "Người xây dựng các cửa hàng Apple không tin vào canh bạc mua sắm bằng AI của Thung lũng Silicon"
+      "pub_date": "2026-09-23 06:21",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "title_en": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "title_vi": "Lịch trình Hội nghị Nhà sáng lập TechCrunch được tiết lộ: Mở khóa gọi vốn, tuyển dụng và hiểu biết về AI tại Boston vào ngày 4 tháng 11"
     },
     {
-      "title": "Do not fear AI. Fear AI companies",
-      "link": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-22 05:40",
-      "summary": "Article URL: https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html Comments URL: https://news.ycombinator.com/item?id=49794422 Points: 28 # Comments: 12",
-      "title_en": "Do not fear AI. Fear AI companies",
-      "title_vi": "Đừng sợ AI. Hãy sợ các công ty AI"
-    },
-    {
-      "title": "Companies are putting Jev in charge of AI agent decisions — and prompt injection can influence the verdict",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1hBN0prXzg3NTNHbUhNR3p2Wm1yMVJLcW1uckpOUVVfUGpxSWNPVHdhNW1rUWl0U2VEWWJ5R3BrSGFiY09zUHMwOTg1bDM2ZTVqei1ndHRHMzJsMDJiZ2NRc2tNQURsWTRUNkNSb1JPU2NURUM3UEdFSmpHNV95S1hoREhMbndqcWdMVmk0TUExRm4zd1M0UUdOa3lIT0EwSko4bGtYc0hKVkxrelhFZ3lhWklhRkRtVHc5QkJtOFNNeEpKdnJOcFJ6a3ltVTJXbFVN?oc=5",
+      "title": "C2C replaces text handoffs between AI models",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXgxcGVodHlyd3hZSzNOTWJUV2ZaOVkyZGR2OVJfSkNvUFpmMkhfcU92dFJyQWp4RDFrbl9TNUw4VVRfcjdrVXE3TnBXS3Fyc0ZrQ19nbUw3QzdHT2toTjFvckU0X3FtdVRLMk83N3BWblJQYUNmYTdLZE9XU0pZS3ZUOGRkWmw4ck43Qzk2dmpQS1VwcjcwU1ZWajlnVHZNbEVUdHJScFcwS3pmdEYyU2xnUXdnaXVuU2VuSXRqVWQ?oc=5",
       "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-09-22 05:21",
-      "summary": "Companies are putting Jev in charge of AI agent decisions — and prompt injection can influence the verdict VentureBeat",
-      "title_en": "Companies are putting Jev in charge of AI agent decisions — and prompt injection can influence the verdict",
-      "title_vi": "Các công ty đang giao cho Jev quyền quyết định của tác nhân AI — và việc tiêm prompt có thể ảnh hưởng đến phán quyết"
+      "pub_date": "2026-09-23 05:03",
+      "summary": "C2C replaces text handoffs between AI models VentureBeat",
+      "title_en": "C2C replaces text handoffs between AI models",
+      "title_vi": "C2C thay thế việc chuyển giao văn bản giữa các mô hình AI"
     },
     {
-      "title": "Hoài nghi về 'nút tắt khẩn cấp AI'",
-      "link": "https://vnexpress.net/hoai-nghi-ve-nut-tat-khan-cap-ai-5122214.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-09-22 05:00",
-      "summary": "Nhiều lãnh đạo và chuyên gia AI cho rằng công tắc ngắt có thể không phải giải pháp thần kỳ giúp ngăn chặn mọi rủi ro của công nghệ trí tuệ nhân tạo.",
-      "title_en": "Skepticism about the 'AI emergency stop button'",
-      "title_vi": "Hoài nghi về 'nút tắt khẩn cấp AI'"
-    },
-    {
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-22 03:29",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws req",
-      "title_en": "California tightens rules on AI data center energy and water use",
-      "title_vi": "California thắt chặt quy định về năng lượng và nước cho trung tâm dữ liệu AI"
+      "pub_date": "2026-09-23 03:52",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agenti",
+      "title_en": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "title_vi": "Tác nhân AI mới của Rabbit không cần R1 để chạy"
+    },
+    {
+      "title": "LLM Ass Bench",
+      "link": "https://www.assbench.com/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-09-23 03:34",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 142 # Comments: 40",
+      "title_en": "LLM Ass Bench",
+      "title_vi": "LLM Ass Bench"
     }
   ]
 }

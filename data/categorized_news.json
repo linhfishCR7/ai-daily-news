@@ -1,37 +1,57 @@
 {
   "headline": [
     {
-      "title": "Tác nhân OpenAI đột nhập một hệ thống của chính phủ Australia",
-      "link": "https://vnexpress.net/tac-nhan-openai-dot-nhap-mot-he-thong-cua-chinh-phu-australia-5124020.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-09-24 07:56",
-      "summary": "Australia cho biết tác nhân do OpenAI phát triển đã xâm nhập trái phép cổng dữ liệu sức khỏe chính phủ, tiếp cận được nhiều thông tin trong hệ thống.",
-      "title_en": "OpenAI agent breaks into an Australian government system",
-      "title_vi": "Tác nhân OpenAI đột nhập một hệ thống của chính phủ Australia"
-    },
-    {
-      "title": "Anthropic says its biology lab has already found something big",
-      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-24 05:17",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "title_en": "Anthropic says its biology lab has already found something big",
-      "title_vi": "Anthropic cho biết phòng thí nghiệm sinh học của họ đã tìm ra điều gì đó lớn lao"
-    },
-    {
-      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-24 01:00",
-      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched ",
-      "title_en": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-      "title_vi": "Phòng thí nghiệm sinh học của Anthropic có khám phá được ví như Crispr"
+      "pub_date": "2026-09-25 02:59",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial e",
+      "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "title_vi": "Gemini 3.8 Live với Live Avatar mang đến cho AI của Google một gương mặt"
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "pub_date": "2026-09-24 23:20",
+      "summary": "",
+      "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
+      "title_vi": "Giới thiệu Gemini 3.8 Live với Live Avatar"
+    },
+    {
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-09-24 23:04",
+      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an a",
+      "title_en": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "title_vi": "Gemini giờ đây có thể gọi điện cho doanh nghiệp thay bạn để bạn không phải chờ máy"
     }
   ],
   "product": [
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-24 21:31",
+      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
+      "title_en": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "title_vi": "Ando muốn cạnh tranh với Slack bằng ứng dụng nhắn tin nhóm cho phép con người và tác nhân làm việc cùng nhau"
+    },
+    {
+      "title": "ZoomInfo Launches Native Integration With Replit Through GTM.AI",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLU9TdTU5ZTl2ZU1ZTHY4Vnk0V0FickdxOFJKVWdZZTRJem51MnNQdWNIMGZ1d3g5SmI3TUV1Q3EyTWFVdjhrMlFsRkNHdVRmZHRONnlvX2thaFdxdmMyM3REd3B1MlFCbjdMYjdiTEtjM2RfNjlVTzdiM2g3bk4weWJISlFzS25fV1d3THBkdUZVVWphM3V1VzlTTQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-09-24 20:30",
+      "summary": "ZoomInfo Launches Native Integration With Replit Through GTM.AI VentureBeat",
+      "title_en": "ZoomInfo Launches Native Integration With Replit Through GTM.AI",
+      "title_vi": "ZoomInfo ra mắt tích hợp gốc với Replit thông qua GTM.AI"
+    },
     {
       "title": "Alibaba ra mắt 'chip AI mạnh nhất Trung Quốc'",
       "link": "https://vnexpress.net/alibaba-ra-mat-chip-ai-manh-nhat-trung-quoc-5123966.html",
@@ -39,18 +59,8 @@
       "lang": "vi",
       "pub_date": "2026-09-24 09:13",
       "summary": "CEO Eddie Wu của Alibaba cho biết mẫu Zhenwu V900 là chip AI mạnh nhất Trung Quốc, sở hữu hiệu năng cao gấp ba thế hệ M890 tiền nhiệm.",
-      "title_en": "Alibaba unveils 'China's most powerful AI chip'",
+      "title_en": "Alibaba launches 'China's most powerful AI chip'",
       "title_vi": "Alibaba ra mắt 'chip AI mạnh nhất Trung Quốc'"
-    },
-    {
-      "title": "Microsoft ra mắt Surface Pro và Surface Laptop mới: Snapdragon X2 Plus, AI nhanh hơn tới 95%, pin 22,5 giờ, giá từ 1.149,99 USD",
-      "link": "https://genk.vn/microsoft-ra-mat-surface-pro-va-surface-laptop-moi-snapdragon-x2-plus-ai-nhanh-hon-toi-95-pin-225-gio-gia-tu-114999-usd-165260924073606501.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-09-24 08:35",
-      "summary": "Surface Pro 12 inch và Surface Laptop 13 inch thế hệ thứ hai giữ thiết kế mỏng nhẹ, không quạt nhưng được nâng cấp lên Snapdragon X2 Plus với NPU 80 TOPS.",
-      "title_en": "Microsoft launches new Surface Pro and Surface Laptop: Snapdragon X2 Plus, AI up to 95% faster, 22.5-hour battery, starting at $1,149.99",
-      "title_vi": "Microsoft ra mắt Surface Pro và Surface Laptop mới: Snapdragon X2 Plus, AI nhanh hơn tới 95%, pin 22,5 giờ, giá từ 1.149,99 USD"
     },
     {
       "title": "Meta introduces camera-free AI glasses",
@@ -58,54 +68,10 @@
       "source": "TechCrunch",
       "lang": "en",
       "pub_date": "2026-09-24 06:39",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
       "title_en": "Meta introduces camera-free AI glasses",
       "title_vi": "Meta giới thiệu kính AI không camera"
     },
-    {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-09-24 05:30",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be ab",
-      "title_en": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "title_vi": "Blog trực tiếp Meta Connect 2026: Có mặt tại buổi ra mắt sản phẩm lớn tiếp theo của Mark Zuckerberg"
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-24 00:00",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "title_en": "ChatGPT mobile app gets voice-based agentic features",
-      "title_vi": "Ứng dụng di động ChatGPT có các tính năng tác nhân bằng giọng nói"
-    }
-  ],
-  "funding": [
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-23 19:00",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-      "title_en": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "title_vi": "Ema gọi vốn 77 triệu USD khi AI bắt đầu xâm nhập phần mềm và dịch vụ doanh nghiệp"
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-23 04:56",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "title_en": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "title_vi": "Snorkel AI tăng gấp ba định giá lên 3,5 tỷ USD khi nhu cầu dữ liệu huấn luyện AI bùng nổ"
-    }
-  ],
-  "research": [
     {
       "title": "Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5",
@@ -114,141 +80,154 @@
       "pub_date": "2026-09-24 00:00",
       "summary": "Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition VentureBeat",
       "title_en": "Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition",
-      "title_vi": "Black Forest Labs ra mắt FLUX 3 Action, mô hình robot AI trọng số mở đứng đầu bảng xếp hạng với kích thước chỉ bằng một nửa đối thủ"
-    },
-    {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-09-22 19:00",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "title_vi": "Parallel cắt giảm một nửa thời gian và chi phí nghiên cứu với GPT‑6 Astra"
+      "title_vi": "Black Forest Labs ra mắt FLUX 3 Action, mô hình robot AI mã nguồn mở dẫn đầu bảng xếp hạng với kích thước chỉ bằng một nửa đối thủ"
     }
   ],
+  "funding": [
+    {
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-24 23:35",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is wh",
+      "title_en": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "title_vi": "CEO ElevenLabs nói về lợi nhuận biên, thời điểm IPO và việc nói với khách hàng rằng họ đang trò chuyện với bot"
+    }
+  ],
+  "research": [],
   "industry": [
+    {
+      "title": "Should your enterprise build a custom AI harness? Inkitt did for AI video — 5 key takeaways",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmdBS3NDNVNxbHNpTV9MTkxoUmVyRWF4Tkh6V1pELS1oQktjUlozbGtRTGsyUW10WFlyNWgzbnp3eG04MDZLWWxvUHZ5WmdsWFpaNE8yY1g3LXBjMjJ6emFVb1NVQzRsTlNuZjlRd05TWTJWdE1Ec2xrU2pTWnJVdDBpeUJSdld5Q3R2Mm5SQUR5U05FbmNjWFMwblNQc2lFQzJGT3BDSlJkQWxiT0pMRGpKYXhpd1YzLXYwTXRmRGQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-09-25 02:27",
+      "summary": "Should your enterprise build a custom AI harness? Inkitt did for AI video — 5 key takeaways VentureBeat",
+      "title_en": "Should your enterprise build a custom AI harness? Inkitt did for AI video — 5 key takeaways",
+      "title_vi": "Doanh nghiệp của bạn có nên xây dựng bộ khai thác AI tùy chỉnh? Inkitt đã làm cho video AI — 5 điểm rút ra chính"
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-24 19:54",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "title_vi": "Australia sẽ điều tra xem vụ OpenAI xâm nhập trang web y tế chính phủ có vi phạm pháp luật không"
+    },
+    {
+      "title": "Úc phát hiện tác nhân AI của OpenAI xâm nhập trang web chính phủ",
+      "link": "https://tuoitre.vn/uc-phat-hien-tac-nhan-ai-cua-openai-xam-nhap-trang-web-chinh-phu-100260924112047896.htm",
+      "source": "Tuổi Trẻ",
+      "lang": "vi",
+      "pub_date": "2026-09-24 11:58",
+      "summary": "Thủ tướng Úc Anthony Albanese cho biết chương trình của OpenAI đã xâm nhập vào trang web y tế của chính phủ.",
+      "title_en": "Australia discovers OpenAI's AI agent breached a government website",
+      "title_vi": "Úc phát hiện tác nhân AI của OpenAI xâm nhập trang web chính phủ"
+    },
+    {
+      "title": "Tác nhân OpenAI đột nhập một hệ thống của chính phủ Australia",
+      "link": "https://vnexpress.net/tac-nhan-openai-dot-nhap-mot-he-thong-cua-chinh-phu-australia-5124020.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-09-24 07:56",
+      "summary": "Australia cho biết tác nhân do OpenAI phát triển đã xâm nhập trái phép cổng dữ liệu sức khỏe chính phủ, tiếp cận được nhiều thông tin trong hệ thống.",
+      "title_en": "OpenAI agent breaches an Australian government system",
+      "title_vi": "Tác nhân OpenAI đột nhập một hệ thống của chính phủ Australia"
+    },
     {
       "title": "Stanford violated AI policy after race-swapping students in ad",
       "link": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-09-24 06:23",
-      "summary": "Article URL: https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php Comments URL: https://news.ycombinator.com/item?id=49824061 Points: 22 # Comments: ",
+      "summary": "Article URL: https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php Comments URL: https://news.ycombinator.com/item?id=49824061 Points: 33 # Comments: ",
       "title_en": "Stanford violated AI policy after race-swapping students in ad",
       "title_vi": "Stanford vi phạm chính sách AI sau khi đổi chủng tộc sinh viên trong quảng cáo"
-    },
-    {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "lang": "en",
-      "pub_date": "2026-09-24 01:00",
-      "summary": "Google Beam promotional animation",
-      "title_en": "Google Beam expands with new regions, partners, and customers",
-      "title_vi": "Google Beam mở rộng với các khu vực, đối tác và khách hàng mới"
-    },
-    {
-      "title": "Trump says US will henceforth call AI 'super intelligence'",
-      "link": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-23 07:46",
-      "summary": "Article URL: https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/ Comments URL: https://news.ycombinator.com/item?id=49810231 Points: 21 # Comm",
-      "title_en": "Trump says US will henceforth call AI 'super intelligence'",
-      "title_vi": "Trump nói Mỹ sẽ gọi AI là 'siêu trí tuệ' từ nay"
-    },
-    {
-      "title": "When the data can't move: What it takes to run enterprise AI anywhere",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3VSYzB5UWwwa3c2R3l0cFRJMGdYaXQ5UWRuenlGdnpQaDB3M240MkNtZlpsSHZjUlNvZ2NBQmtaSUJPWmtIcUtJWnJWRzZzbGFtdkoyVnB0MHVnUmFuRFdocmtMeVc2NG1INjR6MnpZSU5vQ3o0NTYxeG9acUxhRFE1R2VIZGtvaWk1cmM1SFdaWWdsRVRCbGJQYjE?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-09-22 21:30",
-      "summary": "When the data can't move: What it takes to run enterprise AI anywhere VentureBeat",
-      "title_en": "When the data can't move: What it takes to run enterprise AI anywhere",
-      "title_vi": "Khi dữ liệu không thể di chuyển: Cần gì để vận hành AI doanh nghiệp ở mọi nơi"
     }
   ],
   "other": [
     {
-      "title": "Snapdragon 8 Elite Extreme Gen 6, khi smartphone Android bắt đầu chạy theo hướng “AI agent”",
-      "link": "https://genk.vn/snapdragon-8-elite-extreme-gen-6-khi-smartphone-android-bat-dau-chay-theo-huong-ai-agent-165260924075358567.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-09-24 08:20",
-      "summary": "Qualcomm đang đẩy Snapdragon 8 Elite Extreme Gen 6 vượt khỏi cuộc đua hiệu năng thuần túy, hướng smartphone Android cao cấp tới một thế hệ mới.",
-      "title_en": "Snapdragon 8 Elite Extreme Gen 6, as Android smartphones start moving toward 'AI agent'",
-      "title_vi": "Snapdragon 8 Elite Extreme Gen 6, khi smartphone Android bắt đầu chạy theo hướng “AI agent”"
-    },
-    {
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-24 08:13",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass",
-      "title_en": "Everything new coming to Meta’s AI agent Muse",
-      "title_vi": "Mọi tính năng mới sắp có trên tác nhân AI Muse của Meta"
+      "pub_date": "2026-09-25 02:00",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "title_en": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "title_vi": "PrismML mang các mô hình ngôn ngữ nhỏ của mình lên kính thông minh chạy Qualcomm"
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-24 07:46",
-      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "title_en": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "title_vi": "Meta tạo thiết bị đeo giống Tamagotchi cho tác nhân AI Muse"
+      "pub_date": "2026-09-25 01:11",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "title_en": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "title_vi": "Oracle gửi thông báo bất khả kháng cho trung tâm dữ liệu Stargate ở New Mexico"
     },
     {
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-24 07:41",
-      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 105 # Comments: 72",
-      "title_en": "Feds Target AI Critics as \"Foreign Agents\"",
-      "title_vi": "Chính phủ Mỹ nhắm vào các nhà phê bình AI như 'Đặc vụ nước ngoài'"
-    },
-    {
-      "title": "Meta is making a standalone Muse AI gadget",
-      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-24 07:15",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentat",
-      "title_en": "Meta is making a standalone Muse AI gadget",
-      "title_vi": "Meta đang sản xuất thiết bị Muse AI độc lập"
+      "pub_date": "2026-09-25 01:04",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on o",
+      "title_en": "Jensen Huang talks about AI and climate change like a supervillain",
+      "title_vi": "Jensen Huang nói về AI và biến đổi khí hậu như một siêu ác nhân"
     },
     {
-      "title": "Muse is coming to Meta smart glasses",
-      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-24 06:40",
-      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to",
-      "title_en": "Muse is coming to Meta smart glasses",
-      "title_vi": "Muse sắp có mặt trên kính thông minh Meta"
+      "pub_date": "2026-09-25 00:52",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a",
+      "title_en": "Meta is going to let you build games with AI right on your phone",
+      "title_vi": "Meta sắp cho phép bạn xây dựng trò chơi bằng AI ngay trên điện thoại"
     },
     {
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "source": "The Verge",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-24 06:37",
-      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. O",
-      "title_en": "Meta ditches the camera on its newest smart glasses",
-      "title_vi": "Meta bỏ camera trên kính thông minh mới nhất"
+      "pub_date": "2026-09-25 00:39",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "title_en": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "title_vi": "Meta Muse Charm trông giống Tamagotchi, nhưng nó đang theo đuổi một xu hướng mới hơn nhiều"
     },
     {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "title": "Muse will apparently let you download its entire filesystem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-24 06:19",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email a",
-      "title_en": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "title_vi": "Meta làm cho Muse mạnh mẽ hơn và cũng cho phép bạn trò chuyện video với nó"
+      "pub_date": "2026-09-25 00:14",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zi",
+      "title_en": "Muse will apparently let you download its entire filesystem",
+      "title_vi": "Muse có vẻ sẽ cho phép bạn tải toàn bộ hệ thống tệp của nó"
+    },
+    {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-09-25 00:10",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an A",
+      "title_en": "Muse sure looks a lot like OpenClaw",
+      "title_vi": "Muse trông rất giống OpenClaw"
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-25 00:00",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "title_en": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "title_vi": "Tủ quần áo ảo lấy cảm hứng từ 'Clueless' của Google Photos hiện đã có trên Android và iOS"
     }
   ]
 }

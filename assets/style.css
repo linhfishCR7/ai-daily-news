@@ -902,6 +902,12 @@ html.book-mode #reportStage {
   overflow-y: auto;
   overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+/* Hide the page's vertical scrollbar; wheel, touch and keys still scroll it */
+.book-page::-webkit-scrollbar {
+  display: none;
 }
 
 /* The report fills its page instead of floating on the background */

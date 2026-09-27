@@ -1,37 +1,47 @@
 {
   "headline": [
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-26 05:20",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "title_en": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "title_vi": "Các tác nhân OpenAI không bảo mật đã đăng 53 hình ảnh người dùng lên mạng mà phòng thí nghiệm không hề hay biết"
+      "pub_date": "2026-09-27 08:30",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "title_en": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "title_vi": "Google thử nghiệm mua hàng từ Flipkart qua Gemini và AI Mode tại Ấn Độ"
     },
     {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TechCrunch",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-26 02:13",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a",
-      "title_en": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "title_vi": "Anthropic sẽ trả cho Akamai 11,6 tỷ đô la trong vòng bảy năm theo thỏa thuận đám mây"
+      "pub_date": "2026-09-26 23:34",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de",
+      "title_en": "OpenAI pauses training of its ‘most capable models’",
+      "title_vi": "OpenAI tạm dừng đào tạo các mô hình 'mạnh nhất' của mình"
     },
     {
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-26 01:22",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic ro",
-      "title_en": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "title_vi": "Muse của Meta vừa cướp sự chú ý về AI khỏi OpenAI và Anthropic"
+      "title": "Tác nhân OpenAI đăng ảnh người dùng ChatGPT lên mạng",
+      "link": "https://vnexpress.net/tac-nhan-openai-dang-anh-nguoi-dung-chatgpt-len-mang-5125051.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-09-26 17:00",
+      "summary": "OpenAI cho biết công cụ AI của hãng trong quá trình thử nghiệm đã đăng nhiều ảnh của người dùng lên các trang lưu trữ mà không bị phát hiện.",
+      "title_en": "OpenAI's agent posts ChatGPT user photos online",
+      "title_vi": "Tác nhân OpenAI đăng ảnh người dùng ChatGPT lên mạng"
     }
   ],
   "product": [
+    {
+      "title": "Xa quê 1.600km, người con dùng AI tạo app giúp cha phục hồi sau đột quỵ",
+      "link": "https://dantri.com.vn/suc-khoe/xa-que-1600km-nguoi-con-dung-ai-tao-app-giup-cha-phuc-hoi-sau-dot-quy-20260926075533783.htm",
+      "source": "Dân trí",
+      "lang": "vi",
+      "pub_date": "2026-09-26 12:31",
+      "summary": "(Dân trí) - Trên màn hình điện thoại, người đàn ông 70 tuổi ở Hải Phòng chạm vào mô hình trái tim 3D, phóng lớn từng vị trí để quan sát hoạt động của tim và hệ thống mạch máu.",
+      "title_en": "1,600km from home, a son uses AI to build an app to help his father recover after a stroke",
+      "title_vi": "Xa quê 1.600km, người con dùng AI tạo app giúp cha phục hồi sau đột quỵ"
+    },
     {
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
@@ -50,30 +60,20 @@
       "pub_date": "2026-09-25 19:00",
       "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and ",
       "title_en": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "title_vi": "Microsoft cho rằng 'siêu ứng dụng' Copilot mới của họ sẽ có tầm ảnh hưởng như Office"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "pub_date": "2026-09-24 23:20",
-      "summary": "",
-      "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-      "title_vi": "Giới thiệu Gemini 3.8 Live với Live Avatar"
-    },
-    {
-      "title": "ZoomInfo Launches Native Integration With Replit Through GTM.AI",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLU9TdTU5ZTl2ZU1ZTHY4Vnk0V0FickdxOFJKVWdZZTRJem51MnNQdWNIMGZ1d3g5SmI3TUV1Q3EyTWFVdjhrMlFsRkNHdVRmZHRONnlvX2thaFdxdmMyM3REd3B1MlFCbjdMYjdiTEtjM2RfNjlVTzdiM2g3bk4weWJISlFzS25fV1d3THBkdUZVVWphM3V1VzlTTQ?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-09-24 20:30",
-      "summary": "ZoomInfo Launches Native Integration With Replit Through GTM.AI VentureBeat",
-      "title_en": "ZoomInfo Launches Native Integration With Replit Through GTM.AI",
-      "title_vi": "ZoomInfo ra mắt tích hợp gốc với Replit thông qua GTM.AI"
+      "title_vi": "Microsoft cho rằng 'siêu ứng dụng' Copilot mới sẽ có tầm ảnh hưởng như Office"
     }
   ],
   "funding": [
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-26 02:13",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a",
+      "title_en": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "title_vi": "Anthropic sẽ trả cho Akamai 11,6 tỷ USD trong 7 năm theo thỏa thuận đám mây"
+    },
     {
       "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
       "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
@@ -82,7 +82,7 @@
       "pub_date": "2026-09-26 01:33",
       "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
       "title_en": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "title_vi": "Trước thềm IPO tại Mỹ, neocloud AI của Anh Nscale huy động được 3,36 tỷ đô la tài trợ chuyển đổi"
+      "title_vi": "Trước thềm IPO tại Mỹ, neocloud AI Anh quốc Nscale huy động 3,36 tỷ USD tài trợ chuyển đổi"
     },
     {
       "title": "Anthropic’s founders seek voting control ahead of IPO",
@@ -98,126 +98,106 @@
   "research": [],
   "industry": [
     {
-      "title": "VNPT và Qualcomm Technologies mở rộng hợp tác chiến lược, thúc đẩy đổi mới AI biên",
-      "link": "https://genk.vn/vnpt-va-qualcomm-technologies-mo-rong-hop-tac-chien-luoc-thuc-day-doi-moi-ai-bien-165260925193018625.chn",
-      "source": "GenK",
+      "title": "Bill Gates: 'AI đủ mạnh để gây ra những sự kiện khiến một tỷ người chết'",
+      "link": "https://vnexpress.net/bill-gates-ai-du-manh-de-gay-ra-nhung-su-kien-khien-mot-ty-nguoi-chet-5125234.html",
+      "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-09-25 19:30",
-      "summary": "Ngày 23/9/2026, tại New York, Hoa Kỳ (theo giờ địa phương), Tập đoàn VNPT công bố mở rộng hợp tác chiến lược với Qualcomm Technologies, Inc.",
-      "title_en": "VNPT and Qualcomm Technologies expand strategic cooperation, promoting edge AI innovation",
-      "title_vi": "VNPT và Qualcomm Technologies mở rộng hợp tác chiến lược, thúc đẩy đổi mới AI biên"
+      "pub_date": "2026-09-27 07:00",
+      "summary": "Bill Gates, nhà đồng sáng lập Microsoft, cảnh báo AI có thể gây hậu quả khủng khiếp nếu rơi vào tay kẻ xấu, kêu gọi chính phủ kiểm soát chặt chẽ hơn.",
+      "title_en": "Bill Gates: 'AI is powerful enough to cause events that kill one billion people'",
+      "title_vi": "Bill Gates: 'AI đủ mạnh để gây ra những sự kiện khiến một tỷ người chết'"
     },
     {
-      "title": "Lần đầu tiên AI tấn công vào hệ thống của chính phủ",
-      "link": "https://genk.vn/lan-dau-tien-ai-tan-cong-vao-he-thong-cua-chinh-phu-165260925132607797.chn",
-      "source": "GenK",
+      "title": "CEO Nvidia: Nên đóng cửa phòng thí nghiệm không kiểm soát được AI",
+      "link": "https://vnexpress.net/ceo-nvidia-nen-dong-cua-phong-thi-nghiem-khong-kiem-soat-duoc-ai-5124987.html",
+      "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-09-25 13:26",
-      "summary": "Vụ xâm nhập dữ liệu y tế tại Australia do AI từ OpenAI thực hiện đã làm dấy lên lo ngại về an ninh mạng và sự kiểm soát công nghệ.",
-      "title_en": "For the first time, AI attacks government systems",
-      "title_vi": "Lần đầu tiên AI tấn công vào hệ thống của chính phủ"
-    },
-    {
-      "title": "Should your enterprise build a custom AI harness? Inkitt did for AI video — 5 key takeaways",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmdBS3NDNVNxbHNpTV9MTkxoUmVyRWF4Tkh6V1pELS1oQktjUlozbGtRTGsyUW10WFlyNWgzbnp3eG04MDZLWWxvUHZ5WmdsWFpaNE8yY1g3LXBjMjJ6emFVb1NVQzRsTlNuZjlRd05TWTJWdE1Ec2xrU2pTWnJVdDBpeUJSdld5Q3R2Mm5SQUR5U05FbmNjWFMwblNQc2lFQzJGT3BDSlJkQWxiT0pMRGpKYXhpd1YzLXYwTXRmRGQ?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-09-25 02:27",
-      "summary": "Should your enterprise build a custom AI harness? Inkitt did for AI video — 5 key takeaways VentureBeat",
-      "title_en": "Should your enterprise build a custom AI harness? Inkitt did for AI video — 5 key takeaways",
-      "title_vi": "Doanh nghiệp của bạn có nên xây dựng bộ khung AI tùy chỉnh? Inkitt đã làm cho video AI — 5 điểm chính cần rút ra"
-    },
-    {
-      "title": "Úc phát hiện tác nhân AI của OpenAI xâm nhập trang web chính phủ",
-      "link": "https://tuoitre.vn/uc-phat-hien-tac-nhan-ai-cua-openai-xam-nhap-trang-web-chinh-phu-100260924112047896.htm",
-      "source": "Tuổi Trẻ",
-      "lang": "vi",
-      "pub_date": "2026-09-24 11:58",
-      "summary": "Thủ tướng Úc Anthony Albanese cho biết chương trình của OpenAI đã xâm nhập vào trang web y tế của chính phủ.",
-      "title_en": "Australia discovers OpenAI's AI agent infiltrating government websites",
-      "title_vi": "Úc phát hiện tác nhân AI của OpenAI xâm nhập trang web chính phủ"
+      "pub_date": "2026-09-26 12:06",
+      "summary": "Nhà sáng lập Nvidia Jensen Huang cho rằng lời kêu gọi giảm tốc độ phát triển AI là cách những phòng thí nghiệm hàng đầu gây xao nhãng dư luận.",
+      "title_en": "Nvidia CEO: Should shut down labs that cannot control AI",
+      "title_vi": "CEO Nvidia: Nên đóng cửa phòng thí nghiệm không kiểm soát được AI"
     }
   ],
   "other": [
     {
-      "title": "Một người có thể làm cả sê-ri phim bằng AI, nhưng điều đáng lo nằm ở khán giả",
-      "link": "https://genk.vn/mot-nguoi-co-the-lam-ca-se-ri-phim-bang-ai-nhung-dieu-dang-lo-nam-o-khan-gia-165260926100136627.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-09-26 10:01",
-      "summary": "AI giúp một người có thể làm cả sê-ri phim với chi phí thấp, nhưng sự phổ biến của nội dung ngắn, nhanh cũng đặt ra lo ngại về cách người trẻ thưởng thức.",
-      "title_en": "One person can make an entire film series with AI, but the worrying part lies with the audience",
-      "title_vi": "Một người có thể làm cả sê-ri phim bằng AI, nhưng điều đáng lo nằm ở khán giả"
-    },
-    {
-      "title": "Ngân hàng tư nhân lớn nhất Italy 'bị lừa hơn 100 triệu USD vì AI'",
-      "link": "https://vnexpress.net/ngan-hang-tu-nhan-lon-nhat-italy-bi-lua-hon-100-trieu-usd-vi-ai-5124964.html",
+      "title": "Dự án máy phát hiện nói dối bằng AI của Lầu Năm Góc bị hoài nghi",
+      "link": "https://vnexpress.net/du-an-may-phat-hien-noi-doi-bang-ai-cua-lau-nam-goc-bi-hoai-nghi-5125066.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-09-26 10:00",
-      "summary": "Kẻ lừa đảo dùng AI đóng giả lãnh đạo và đánh cắp 95 triệu euro (108 triệu USD) từ Fideuram, ngân hàng tư nhân lớn nhất Italy.",
-      "title_en": "Italy's largest private bank 'defrauded of over $100 million because of AI'",
-      "title_vi": "Ngân hàng tư nhân lớn nhất Italy 'bị lừa hơn 100 triệu USD vì AI'"
+      "pub_date": "2026-09-27 11:00",
+      "summary": "Bộ Quốc phòng Mỹ đề xuất chương trình Polygraph+, dùng AI tạo ra thiết bị thẩm tra thế hệ mới, tuy nhiên nhiều chuyên gia đánh giá dự án thiếu cơ sở khoa học.",
+      "title_en": "Pentagon's AI lie detector project faces skepticism",
+      "title_vi": "Dự án máy phát hiện nói dối bằng AI của Lầu Năm Góc bị hoài nghi"
     },
     {
-      "title": "Meta biến AI thành món đồ móc chìa khóa, liệu đây có trở thành cuộc chơi mới sau smartphone?",
-      "link": "https://genk.vn/meta-bien-ai-thanh-mon-do-moc-chia-khoa-lieu-day-co-tro-thanh-cuoc-choi-moi-sau-smartphone-165260926081030073.chn",
+      "title": "Chân dung Alexandr Wang - Thiên tài AI được Zuckerberg chi 371 nghìn tỷ đồng chiêu dụ về Meta",
+      "link": "https://genk.vn/chan-dung-alexandr-wang-thien-tai-ai-duoc-zuckerberg-chi-371-nghin-ty-dong-chieu-du-ve-meta-165260927082059853.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-09-26 08:59",
-      "summary": "Meta đang thử đưa trợ lý AI ra khỏi màn hình điện thoại bằng một thiết bị nhỏ đến mức có thể móc vào chùm chìa khóa, cho thấy tham vọng biến AI thành một giao diện luôn hiện diện bên người dùng.",
-      "title_en": "Meta turns AI into a keychain item, will this become the next game after smartphones?",
-      "title_vi": "Meta biến AI thành món đồ móc chìa khóa, liệu đây có trở thành cuộc chơi mới sau smartphone?"
+      "pub_date": "2026-09-27 08:44",
+      "summary": "Tại sự kiện Meta Connect ngày 23/9 vừa qua, người đứng cạnh Mark Zuckerberg trên sân khấu không phải một phó chủ tịch gạo cội hay một nhà khoa học đầu bạc. Đó là Alexandr Wang, 29 tuổi, đi đôi dép Cro",
+      "title_en": "Portrait of Alexandr Wang - AI genius lured by Zuckerberg with 371 trillion dong to Meta",
+      "title_vi": "Chân dung Alexandr Wang - Thiên tài AI được Zuckerberg chi 371 nghìn tỷ đồng chiêu dụ về Meta"
     },
     {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-26 08:08",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "title_en": "At Meta Connect, the company’s smart glasses were everywhere",
-      "title_vi": "Tại Meta Connect, kính thông minh của công ty xuất hiện khắp nơi"
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-26 06:11",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "title_en": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "title_vi": "Crusoe từ bỏ kế hoạch trị giá 1,25 tỷ đô la sử dụng tuabin Boom tại các trung tâm dữ liệu AI"
-    },
-    {
-      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "link": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-26 05:49",
-      "summary": "Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 31 # Comments:",
-      "title_en": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "title_vi": "Chủ tịch FTC cho rằng các nhà phát triển AI phải chịu trách nhiệm về hành vi của các tác nhân AI"
-    },
-    {
-      "title": "Những tỷ phú AI trẻ và giàu nhất nước Mỹ",
-      "link": "https://vnexpress.net/nhung-ty-phu-ai-tre-va-giau-nhat-nuoc-my-5123894.html",
-      "source": "VnExpress",
+      "title": "Điểm tuần: Facebook gặp sự cố, phim AI 18+ tràn lan mạng xã hội",
+      "link": "https://dantri.com.vn/cong-nghe/diem-tuan-facebook-gap-su-co-phim-ai-18-tran-lan-mang-xa-hoi-20260926232334808.htm",
+      "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-09-26 05:00",
-      "summary": "Trong danh sách Forbes 400 năm nay có một số tỷ phú trẻ tạo dựng khối tài sản khổng lồ nhờ sự bùng nổ của AI.",
-      "title_en": "The youngest and richest AI billionaires in America",
-      "title_vi": "Những tỷ phú AI trẻ và giàu nhất nước Mỹ"
+      "pub_date": "2026-09-27 07:08",
+      "summary": "(Dân trí) - Những thông tin công nghệ nổi bật tuần qua gồm Facebook gặp sự cố trên toàn cầu, phim AI 18+ tràn lan mạng xã hội, Qualcomm ra mắt chip mới.",
+      "title_en": "Weekly recap: Facebook outage, 18+ AI videos flood social media",
+      "title_vi": "Điểm tuần: Facebook gặp sự cố, phim AI 18+ tràn lan mạng xã hội"
     },
     {
-      "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-      "link": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
+      "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+      "link": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-09-26 04:15",
-      "summary": "Article URL: https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s Comments URL: https://news.ycombinator.com/item?id=49850042 Points: 21 # Comments: 9",
-      "title_en": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-      "title_vi": "\"Ai đó vừa gửi cho tôi một quảng cáo có phiên bản AI của tôi. Tôi phải làm gì?\""
+      "pub_date": "2026-09-27 05:54",
+      "summary": "Article URL: https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/ Comments URL: https://news.ycombinator.com/item",
+      "title_en": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+      "title_vi": "Cáo buộc quấy rối tình dục và hiếp dâm tại các ngôi nhà tiệc tùng AI ở Bay Area"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-27 04:02",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "title_en": "Insurers claim AI is already increasing healthcare costs",
+      "title_vi": "Các công ty bảo hiểm cho rằng AI đang làm tăng chi phí y tế"
+    },
+    {
+      "title": "AI agents are exposing a security gap between the data they read and the systems they can change",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFZSV09NdnVEODF1ZWxVUks4QnVmUXUwTW1wem5NZDFMNnJXVk1OTlpxb2N6c2hzQndMWmtaQXhfaWZHU0hJNXJIZ3lwR19HVF94dUJ2UWItdWo3TEI2QlBhNlhYSmVzSXlCY0hoT09hSTlTYkpuMjhvdk5kV2ljakhnZG5uckR3dW1DV2pqRWZGNl9yVndJRDBoY3ZkM1FyaG5CWGJfQ2FXNklxaXcxUXFhQWs3S0VsOWZDY1hTSURMOGVQOVc0dA?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-09-27 02:00",
+      "summary": "AI agents are exposing a security gap between the data they read and the systems they can change VentureBeat",
+      "title_en": "AI agents are exposing a security gap between the data they read and the systems they can change",
+      "title_vi": "Các tác nhân AI đang phơi bày lỗ hổng bảo mật giữa dữ liệu chúng đọc và hệ thống chúng có thể thay đổi"
+    },
+    {
+      "title": "Còn hơn cả chatbot, AI Việt đang giải những bài toán khó từ y tế đến sản xuất, tranh giải thưởng 1 triệu USD",
+      "link": "https://genk.vn/con-hon-ca-chatbot-ai-viet-dang-giai-nhung-bai-toan-kho-tu-y-te-den-san-xuat-tranh-giai-thuong-1-trieu-usd-165260926215001418.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-09-26 22:49",
+      "summary": "Trong khi chatbot AI đã quá quen thuộc với người dùng, giải thưởng Âu Lạc Grand Prize còn cho thấy các kỹ sư Việt đang nỗ lực khai thác AI để giải những bài toán còn hóc búa hơn nhiều.",
+      "title_en": "More than just chatbots, Vietnamese AI is solving hard problems from healthcare to manufacturing, competing for a $1 million prize",
+      "title_vi": "Còn hơn cả chatbot, AI Việt đang giải những bài toán khó từ y tế đến sản xuất, tranh giải thưởng 1 triệu USD"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-26 21:00",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "title_en": "I created an interactive digital avatar of myself — and you can talk to it",
+      "title_vi": "Tôi đã tạo một hình đại diện kỹ thuật số tương tác của chính mình — và bạn có thể trò chuyện với nó"
     }
   ]
 }

@@ -1,89 +1,119 @@
 {
   "headline": [
     {
-      "title": "Kêu gọi ngành AI “đi chậm lại”, nhưng Anthropic lại tung liên tiếp 2 model mới trong chưa đầy một tuần",
-      "link": "https://genk.vn/keu-goi-nganh-ai-di-cham-lai-nhung-anthropic-lai-tung-lien-tiep-2-model-moi-trong-chua-day-mot-tuan-165260929080643281.chn",
+      "title": "Hủy ra mắt GPT-6.1 Astra, OpenAI giới thiệu GPT-6.1 Sol: Hiệu năng gần bằng Astra, giá chỉ bằng 1/5",
+      "link": "https://genk.vn/huy-ra-mat-gpt-61-astra-openai-gioi-thieu-gpt-61-sol-hieu-nang-gan-bang-astra-gia-chi-bang-1-5-165260930080142241.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-09-29 08:19",
-      "summary": "Mặc dù vậy, 2 model AI mới của Anthropic chú trọng vào giảm chi phí nhiều hơn là tăng cường hiệu năng so với các mô hình trước.",
-      "title_en": "Urging the AI industry to \"slow down,\" but Anthropic releases 2 new models in less than a week",
-      "title_vi": "Kêu gọi ngành AI “đi chậm lại”, nhưng Anthropic lại tung liên tiếp 2 model mới trong chưa đầy một tuần"
+      "pub_date": "2026-09-30 09:41",
+      "summary": "Chỉ trong vòng một tuần, cả Anthropic và OpenAI đều liên tiếp tung ra các mô hình AI mới, tập trung vào giảm chi phí hơn là tăng hiệu năng tổng thể.",
+      "title_en": "Canceled GPT-6.1 Astra launch, OpenAI introduces GPT-6.1 Sol: Performance nearly equal to Astra, price only 1/5",
+      "title_vi": "Hủy ra mắt GPT-6.1 Astra, OpenAI giới thiệu GPT-6.1 Sol: Hiệu năng gần bằng Astra, giá chỉ bằng 1/5"
     },
     {
-      "title": "Mô hình AI của OpenAI gây lo ngại vì tìm cách phá vỡ rào cản an toàn",
-      "link": "https://dantri.com.vn/cong-nghe/mo-hinh-ai-cua-openai-gay-lo-ngai-vi-tim-cach-pha-vo-rao-can-an-toan-20260929020732946.htm",
-      "source": "Dân trí",
+      "title": "ChatGPT thêm gói Pro 500 USD, gói Pro 200 USD bị giảm hạn mức",
+      "link": "https://genk.vn/chatgpt-them-goi-pro-500-usd-goi-pro-200-usd-bi-giam-han-muc-165260930081403534.chn",
+      "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-09-29 07:18",
-      "summary": "(Dân trí) - OpenAI đã phải tạm hoãn quá trình đào tạo các mô hình AI tiên tiến nhất của hãng sau khi một mô hình trong số đó đã tìm cách qua mặt các nhà phát triển để thoát ra khỏi môi trường thử nghi",
-      "title_en": "OpenAI's AI model raises concerns for trying to break through safety barriers",
-      "title_vi": "Mô hình AI của OpenAI gây lo ngại vì tìm cách phá vỡ rào cản an toàn"
+      "pub_date": "2026-09-30 08:14",
+      "summary": "Gói mới có hạn mức gấp 25 lần Plus và được dùng chế độ tốc độ Ultrafast.",
+      "title_en": "ChatGPT adds $500 Pro plan, $200 Pro plan has limits reduced",
+      "title_vi": "ChatGPT thêm gói Pro 500 USD, gói Pro 200 USD bị giảm hạn mức"
     },
     {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-29 06:39",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "title_en": "OpenAI reportedly ditches model over safety concerns",
-      "title_vi": "OpenAI được cho là đã loại bỏ mô hình vì lo ngại an toàn"
+      "title": "OpenAI ra mắt GPT-6.1 Sol: Mạnh gần ngang Astra nhưng giá chỉ bằng 1/5",
+      "link": "https://genk.vn/openai-ra-mat-gpt-61-sol-manh-gan-ngang-astra-nhung-gia-chi-bang-1-5-165260930080458861.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-09-30 08:04",
+      "summary": "Bản nâng cấp ra mắt chỉ một tuần sau GPT-6 Sol, giữ nguyên giá nhưng giảm một nửa phí đọc lại dữ liệu đã lưu đệm.",
+      "title_en": "OpenAI launches GPT-6.1 Sol: Nearly as powerful as Astra but only 1/5 the price",
+      "title_vi": "OpenAI ra mắt GPT-6.1 Sol: Mạnh gần ngang Astra nhưng giá chỉ bằng 1/5"
     }
   ],
   "product": [
     {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-29 07:30",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "title_en": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "title_vi": "Peak XV nâng mức đầu tư hạt giống Surge lên 5 triệu USD, công bố nhóm 18 startup"
-    },
-    {
-      "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
-      "link": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-29 05:07",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42 Comments URL: https://news.ycombinator.com/item?id=49885133 Points: 20 # Comments: 5",
-      "title_en": "OpenAI Scraps Release of New AI Model over Safety Concerns",
-      "title_vi": "OpenAI hủy phát hành mô hình AI mới vì lo ngại an toàn"
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-29 01:31",
-      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i",
-      "title_en": "Nvidia launches new platform for reining in rogue AI agents",
-      "title_vi": "Nvidia ra mắt nền tảng mới để kiểm soát các tác nhân AI nguy hiểm"
-    },
-    {
-      "title": "Galaxy AI trên Galaxy S26 Ultra: Những tính năng mà người Việt nào chắc chắc cũng sẽ dùng hàng ngày!",
-      "link": "https://genk.vn/galaxy-ai-tren-galaxy-s26-ultra-nhung-tinh-nang-ma-nguoi-viet-nao-chac-chac-cung-se-dung-hang-ngay-165260929011635277.chn",
+      "title": "OpenAI ra mắt dots: ChatGPT giờ tự biết \"đi làm\"",
+      "link": "https://genk.vn/openai-ra-mat-dots-chatgpt-gio-tu-biet-di-lam-165260930073111815.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-09-29 01:16",
-      "summary": "Samsung Galaxy S26 Ultra là chiếc smartphone đầu tiên trên thế giới tích hợp màn hình chống nhìn trộm ngay từ phần cứng, đồng thời đưa Galaxy AI lên một tầm mới với hàng loạt tính năng hỗ trợ tiếng Vi",
-      "title_en": "Galaxy AI on Galaxy S26 Ultra: Features that Vietnamese users will surely use every day!",
-      "title_vi": "Galaxy AI trên Galaxy S26 Ultra: Những tính năng mà người Việt nào chắc chắc cũng sẽ dùng hàng ngày!"
+      "pub_date": "2026-09-30 07:31",
+      "summary": "Agents giờ có thể hoạt động liên tục ngay bên trong ChatGPT mà không cần con người can thiệp.",
+      "title_en": "OpenAI launches dots: ChatGPT now knows how to \"go to work\" on its own",
+      "title_vi": "OpenAI ra mắt dots: ChatGPT giờ tự biết \"đi làm\""
     },
     {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-29 01:00",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "title_en": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "title_vi": "Anthropic phát hành Sonnet 5.5, được gọi là đối tác làm việc rẻ hơn và nhanh hơn đáng kể"
+      "pub_date": "2026-09-30 05:20",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "title_en": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "title_vi": "Cư dân mạng tin rằng xAI của Elon Musk đã chọc tức màn ra mắt 'Dots' của OpenAI"
+    },
+    {
+      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-09-30 04:49",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't revie",
+      "title_en": "Elon Musk’s AI-powered Grokipedia is updating again",
+      "title_vi": "Grokipedia hỗ trợ AI của Elon Musk lại được cập nhật"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-30 03:15",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "title_en": "OpenAI’s latest features take direct aim at the app store model",
+      "title_vi": "Các tính năng mới nhất của OpenAI nhắm thẳng vào mô hình cửa hàng ứng dụng"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-30 00:45",
+      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "title_en": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "title_vi": "OpenAI đối đầu Microsoft với sự ra mắt có cảm giác như bộ ứng dụng văn phòng riêng của ChatGPT"
     }
   ],
   "funding": [
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-30 02:52",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "title_en": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "title_vi": "OpenAI được cho là đang đàm phán gọi vốn 30 tỷ USD với định giá 1,4 nghìn tỷ USD"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-29 19:30",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "title_en": "Reco raises $55M as AI agent security startups crowd the market",
+      "title_vi": "Reco gọi vốn 55 triệu USD khi các startup bảo mật tác nhân AI chen chúc trên thị trường"
+    },
+    {
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-09-29 18:48",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel",
+      "title_en": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "title_vi": "Anthropic cảnh báo rủi ro AI 'thảm khốc' trong hồ sơ IPO của chính mình"
+    },
     {
       "title": "AMD chi 8,2 tỷ USD mua lại công ty của 'mẹ đỡ đầu AI'",
       "link": "https://vnexpress.net/amd-chi-8-2-ty-usd-mua-lai-cong-ty-cua-me-do-dau-ai-5126092.html",
@@ -95,47 +125,47 @@
       "title_vi": "AMD chi 8,2 tỷ USD mua lại công ty của 'mẹ đỡ đầu AI'"
     },
     {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-29 06:40",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 8",
-      "title_en": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "title_vi": "Bản cáo bạch IPO của Anthropic cho thấy tầm nhìn AI và chi phí tăng vọt"
-    },
-    {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-09-29 04:31",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched",
-      "title_en": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "title_vi": "AMD đang mua lại công ty AI World Labs trong thỏa thuận trị giá hơn 8 tỷ USD"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-29 04:29",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "title_en": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "title_vi": "Nguồn tin: Nhà cung cấp suy luận Modal Labs sắp hoàn tất vòng gọi vốn 750 triệu USD với định giá 15,75 tỷ USD"
-    },
-    {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-29 03:39",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "title_vi": "AMD sẽ mua lại World Labs của Fei-Fei Li với giá 8,2 tỷ USD"
+      "pub_date": "2026-09-29 07:30",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "title_en": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "title_vi": "Peak XV nâng trần đầu tư hạt giống Surge lên 5 triệu USD, công bố nhóm 18 startup"
     }
   ],
   "research": [
+    {
+      "title": "FPT tìm kiếm tài năng trẻ nghiên cứu AI, điện toán lượng tử",
+      "link": "https://vnexpress.net/fpt-tim-kiem-tai-nang-tre-nghien-cuu-ai-dien-toan-luong-tu-5126544.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-09-30 10:30",
+      "summary": "FPT Frontier Innovators tuyển sinh viên năm cuối, người mới tốt nghiệp và nghiên cứu viên có kinh nghiệm, tập trung vào AI, điện toán lượng tử và an ninh mạng.",
+      "title_en": "FPT seeks young talent to research AI, quantum computing",
+      "title_vi": "FPT tìm kiếm tài năng trẻ nghiên cứu AI, điện toán lượng tử"
+    },
+    {
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-09-30 00:35",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI resear",
+      "title_en": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "title_vi": "Các nhà nghiên cứu AI đăng video nói rằng siêu trí tuệ 'nguy hiểm đúng như tên gọi'"
+    },
+    {
+      "title": "Uncensored and Offensive Security AI Models Benchmark",
+      "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-09-29 13:16",
+      "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models Comments URL: https://news.ycombinator.com/item?id=49888937 Points: 37 # Comments: 12",
+      "title_en": "Uncensored and Offensive Security AI Models Benchmark",
+      "title_vi": "Bộ tiêu chuẩn đánh giá mô hình AI bảo mật không kiểm duyệt và tấn công"
+    },
     {
       "title": "22 nhà nghiên cứu hàng đầu kêu gọi giám sát khẩn cấp AI",
       "link": "https://vnexpress.net/22-nha-nghien-cuu-hang-dau-keu-goi-giam-sat-khan-cap-ai-5126045.html",
@@ -143,162 +173,152 @@
       "lang": "vi",
       "pub_date": "2026-09-29 10:29",
       "summary": "Các nhà nghiên cứu tại OpenAI, Anthropic, Microsoft, Meta và chuyên gia đầu ngành cùng cảnh báo sự bùng nổ AI có thể \"gây suy yếu hoặc tuyệt chủng nhân loại\".",
-      "title_en": "22 leading researchers call for urgent AI oversight",
+      "title_en": "22 top researchers call for urgent AI oversight",
       "title_vi": "22 nhà nghiên cứu hàng đầu kêu gọi giám sát khẩn cấp AI"
     },
     {
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "link": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "title": "GPT-6 Astra is the best vision model we have tested",
+      "link": "https://blog.roboflow.com/gpt-6-astra-vision/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-09-29 00:08",
-      "summary": "Article URL: https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/ Comments URL: https://news.ycombinator.com/item?id=49881135 Points: 21 # Comme",
-      "title_en": "How Pew Research Center is – and is not – using AI in our work",
-      "title_vi": "Trung tâm Nghiên cứu Pew sử dụng – và không sử dụng – AI trong công việc của chúng tôi như thế nào"
-    },
-    {
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-28 15:35",
-      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.",
-      "title_en": "AI companies in race to demonstrate their model most threatening to humanity",
-      "title_vi": "Các công ty AI chạy đua chứng minh mô hình của mình đe dọa nhân loại nhất"
+      "pub_date": "2026-09-29 07:10",
+      "summary": "Article URL: https://blog.roboflow.com/gpt-6-astra-vision/ Comments URL: https://news.ycombinator.com/item?id=49886228 Points: 34 # Comments: 0",
+      "title_en": "GPT-6 Astra is the best vision model we have tested",
+      "title_vi": "GPT-6 Astra là mô hình thị giác tốt nhất chúng tôi từng thử nghiệm"
     }
   ],
   "industry": [
     {
-      "title": "Meta announces enterprise AI platform, recruits MongoDB CEO to lead it",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3FBa2d2R3oxUWE5VTlaVWplaWVEUElnNXMzRzRjYnhSV1VJS0w4dDE5TU9mYTRXcGJVM0U4al8xX1dwaEIyLV9YbC1kdDMzVjJBWXNYZldyY1NWQzVMOUxmTzBETEVJem9TaUQ5TUpfN2FBUV93Q0dGY2NMZTNieHpiNWlBTlJ3S0RxV2ZEaGk1S2ZNOWZ3eHhSNlZxeW84b1B5NlJoVQ?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-09-29 00:07",
-      "summary": "Meta announces enterprise AI platform, recruits MongoDB CEO to lead it VentureBeat",
-      "title_en": "Meta announces enterprise AI platform, recruits MongoDB CEO to lead it",
-      "title_vi": "Meta công bố nền tảng AI doanh nghiệp, tuyển dụng CEO MongoDB để lãnh đạo"
+      "title": "Nvidia dựng 'hàng rào' ngăn tác nhân AI 'nổi loạn'",
+      "link": "https://tuoitre.vn/nvidia-dung-hang-rao-ngan-tac-nhan-ai-noi-loan-100260930073714055.htm",
+      "source": "Tuổi Trẻ",
+      "lang": "vi",
+      "pub_date": "2026-09-30 07:55",
+      "summary": "Nvidia công bố hệ thống kiểm soát mới cho tác nhân AI tự chủ, nhằm ngăn chúng vượt khỏi giới hạn và truy cập những hệ thống không được phép.",
+      "title_en": "Nvidia builds 'fence' to prevent AI agents from 'going rogue'",
+      "title_vi": "Nvidia dựng 'hàng rào' ngăn tác nhân AI 'nổi loạn'"
     },
     {
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-28 23:52",
-      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "title_en": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "title_vi": "Meta ra mắt nền tảng AI doanh nghiệp, thuê CEO MongoDB lãnh đạo sáng kiến mới"
+      "title": "Ông Trump ký thỏa thuận 'ràng buộc đạo đức' trong bữa trưa với tỷ phú AI",
+      "link": "https://vnexpress.net/ong-trump-ky-thoa-thuan-rang-buoc-dao-duc-trong-bua-trua-voi-ty-phu-ai-5126439.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-09-30 07:50",
+      "summary": "Tổng thống Mỹ ăn trưa làm việc với các tỷ phú và lãnh đạo hàng đầu của ngành AI, tuyên bố đã ký thỏa thuận có thể giúp quản lý lĩnh vực.",
+      "title_en": "Trump signs 'ethics binding' agreement during lunch with AI billionaire",
+      "title_vi": "Ông Trump ký thỏa thuận 'ràng buộc đạo đức' trong bữa trưa với tỷ phú AI"
     },
     {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-28 22:46",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 134 # Comments: 161",
-      "title_en": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "title_vi": "Nvidia muốn đặt chip giám sát bên cạnh mọi tác nhân AI"
-    },
-    {
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-28 20:36",
-      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcem",
-      "title_en": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "title_vi": "Nvidia cho biết nền tảng an toàn AI mới có thể kiểm soát các tác nhân nguy hiểm trong 'phần nghìn giây'"
+      "pub_date": "2026-09-30 05:25",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super I",
+      "title_en": "Trump orders US government to call AI ‘Super Intelligence’",
+      "title_vi": "Trump ra lệnh chính phủ Mỹ gọi AI là 'Siêu trí tuệ'"
     },
     {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-28 03:34",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-      "title_en": "Anthropic’s CEO is about to have dinner with President Trump",
-      "title_vi": "CEO của Anthropic sắp ăn tối với Tổng thống Trump"
+      "pub_date": "2026-09-30 01:35",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "title_en": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "title_vi": "Đây là lý do OpenAI vắng mặt trong nỗ lực toàn ngành của Nvidia nhằm chấm dứt các tác nhân AI nổi loạn"
+    },
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-09-29 23:55",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "title_en": "Can a chatbot fix the government maze? The White House is about to find out",
+      "title_vi": "Chatbot có thể giải mã mê cung chính phủ không? Nhà Trắng sắp tìm ra câu trả lời"
     }
   ],
   "other": [
     {
-      "title": "Bill Gates vừa cảnh báo điều đáng sợ về AI",
-      "link": "https://genk.vn/bill-gates-vua-canh-bao-dieu-dang-so-ve-ai-165260929093248228.chn",
+      "title": "Google kháng cáo yêu cầu chia sẻ dữ liệu, dịch vụ AI của EU",
+      "link": "https://tuoitre.vn/google-khang-cao-yeu-cau-chia-se-du-lieu-dich-vu-ai-cua-eu-100260930072444223.htm",
+      "source": "Tuổi Trẻ",
+      "lang": "vi",
+      "pub_date": "2026-09-30 08:58",
+      "summary": "Google kháng cáo hai quyết định của EU yêu cầu tập đoàn chia sẻ dữ liệu tìm kiếm và mở dịch vụ AI cho đối thủ, lo ảnh hưởng quyền riêng tư.",
+      "title_en": "Google appeals EU requirement to share data, AI services",
+      "title_vi": "Google kháng cáo yêu cầu chia sẻ dữ liệu, dịch vụ AI của EU"
+    },
+    {
+      "title": "Laptop mới \"ngáo giá\" vì cơn sốt AI: Dân buôn máy cũ hốt bạc, người Việt quay xe chọn \"mua khôn\" thay vì \"đập hộp\"",
+      "link": "https://genk.vn/laptop-moi-ngao-gia-vi-con-sot-ai-dan-buon-may-cu-hot-bac-nguoi-viet-quay-xe-chon-mua-khon-thay-vi-dap-hop-165260930080226373.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-09-29 09:40",
-      "summary": "Theo Bill Gates, đằng sau những bước tiến vượt bậc của AI là một nguy cơ có thể khiến cả thế giới phải đối mặt với thảm họa chưa từng có.",
-      "title_en": "Bill Gates just warned about the scary thing about AI",
-      "title_vi": "Bill Gates vừa cảnh báo điều đáng sợ về AI"
+      "pub_date": "2026-09-30 08:39",
+      "summary": "Mặt bằng giá laptop mới liên tục leo thang do cơn sốt chip AI và chi phí linh kiện tăng vọt đang đẩy hàng triệu người tiêu dùng Việt Nam về phía thị trường laptop đã qua sử dụng (second-hand).",
+      "title_en": "New laptops 'inflated prices' due to AI craze: Used computer dealers profit, Vietnamese turn to 'smart buying' instead of 'unboxing'",
+      "title_vi": "Laptop mới \"ngáo giá\" vì cơn sốt AI: Dân buôn máy cũ hốt bạc, người Việt quay xe chọn \"mua khôn\" thay vì \"đập hộp\""
     },
     {
-      "title": "CEO Shopify gọi sản phẩm AI là “lựu đạn rác”, chuyện gì đang xảy ra?",
-      "link": "https://genk.vn/ceo-shopify-goi-san-pham-ai-la-luu-dan-rac-chuyen-gi-dang-xay-ra-165260929080901089.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-09-29 08:40",
-      "summary": "AI tạo ra hàng loạt sản phẩm, nhưng ai mới là người thực sự hoàn thành công việc?",
-      "title_en": "Shopify CEO calls AI product \"junk grenade\", what is happening?",
-      "title_vi": "CEO Shopify gọi sản phẩm AI là “lựu đạn rác”, chuyện gì đang xảy ra?"
-    },
-    {
-      "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-      "link": "https://blog.greenpants.net/ai-accountability/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-29 05:05",
-      "summary": "Article URL: https://blog.greenpants.net/ai-accountability/ Comments URL: https://news.ycombinator.com/item?id=49885109 Points: 35 # Comments: 82",
-      "title_en": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-      "title_vi": "Ai phải chịu trách nhiệm khi một tác nhân AI (vô tình) hành động độc hại?"
-    },
-    {
-      "title": "Cách Trung Quốc thúc đẩy ngành công nghiệp phim ngắn AI 'siêu rẻ'",
-      "link": "https://vnexpress.net/cach-trung-quoc-thuc-day-nganh-cong-nghiep-phim-ngan-ai-sieu-re-5125447.html",
+      "title": "Tổng thống Mỹ đổi tên AI thành 'siêu trí tuệ'",
+      "link": "https://vnexpress.net/tong-thong-my-doi-ten-ai-thanh-sieu-tri-tue-5126433.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-09-29 05:00",
-      "summary": "Nhờ loạt chính sách hỗ trợ giúp giảm chi phí sản xuất, phim ngắn AI phát triển bùng nổ ở Trung Quốc, thậm chí vươn ra thị trường nước ngoài.",
-      "title_en": "How China promotes the 'super cheap' AI short film industry",
-      "title_vi": "Cách Trung Quốc thúc đẩy ngành công nghiệp phim ngắn AI 'siêu rẻ'"
+      "pub_date": "2026-09-30 08:06",
+      "summary": "Tổng thống Mỹ Donald Trump yêu cầu tất cả bộ và cơ quan hành pháp sử dụng thuật ngữ \"siêu trí tuệ\" (super intelligence) thay vì trí tuệ nhân tạo.",
+      "title_en": "US President renames AI to 'super intelligence'",
+      "title_vi": "Tổng thống Mỹ đổi tên AI thành 'siêu trí tuệ'"
     },
     {
-      "title": "Pacing the Frontier is not the actual goal for AI labs",
-      "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
-      "source": "Hacker News",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-09-29 03:47",
-      "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 79 # Comments:",
-      "title_en": "Pacing the Frontier is not the actual goal for AI labs",
-      "title_vi": "Pacing the Frontier không phải là mục tiêu thực sự của các phòng thí nghiệm AI"
+      "pub_date": "2026-09-30 07:19",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We inte",
+      "title_en": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "title_vi": "Sam Altman nói OpenAI sẽ không lên sàn cho đến khi các mô hình của họ an toàn"
     },
     {
-      "title": "It's Time to Investigate the AI Labs",
-      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-29 02:53",
-      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 370 # Comments: 136",
-      "title_en": "It's Time to Investigate the AI Labs",
-      "title_vi": "Đã đến lúc điều tra các phòng thí nghiệm AI"
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-09-29 02:33",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "title_en": "Shopify opens checkout to browser-based AI agents",
-      "title_vi": "Shopify mở cửa thanh toán cho các tác nhân AI dựa trên trình duyệt"
+      "pub_date": "2026-09-30 06:30",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "title_en": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "title_vi": "America.gov trở nên thực sự kỳ lạ khi bạn hỏi về Minecraft, nhưng đó không phải là lỗi"
     },
     {
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "source": "TechCrunch",
+      "title": "Hacker 17 tuổi tạo trợ lý AI thâm nhập nền tảng của Microsoft",
+      "link": "https://vnexpress.net/hacker-17-tuoi-tao-tro-ly-ai-tham-nhap-nen-tang-cua-microsoft-5125925.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-09-30 06:00",
+      "summary": "Hacker có biệt danh Faav đã sử dụng trợ lý AI tự phát triển để phát hiện và khai thác thành công lỗ hổng xác thực trên nền tảng phân tích nội bộ Titan của Microsoft.",
+      "title_en": "17-year-old hacker creates AI assistant to infiltrate Microsoft platform",
+      "title_vi": "Hacker 17 tuổi tạo trợ lý AI thâm nhập nền tảng của Microsoft"
+    },
+    {
+      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "link": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-09-29 02:21",
-      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-      "title_en": "The AI boom took over Climate Week and not everyone is happy about it",
-      "title_vi": "Cơn sốt AI chiếm lĩnh Tuần lễ Khí hậu và không phải ai cũng vui về điều đó"
+      "pub_date": "2026-09-30 05:52",
+      "summary": "Article URL: https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac Comments URL: https://news.ycombinator.com/item?id=49901900 Points: 22 # Comments: 14",
+      "title_en": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "title_vi": "McDonald's đang dùng AI để định giá động cho bánh burger của mình"
+    },
+    {
+      "title": "McDonald's push to have AI price your Big Mac",
+      "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-09-30 02:58",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html Comments URL: https://news.ycombinator.com/item?id=49899453 Points: 50 # Comments: 23",
+      "title_en": "McDonald's push to have AI price your Big Mac",
+      "title_vi": "Nỗ lực của McDonald's để AI định giá Big Mac của bạn"
     }
   ]
 }

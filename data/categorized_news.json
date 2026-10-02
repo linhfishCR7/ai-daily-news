@@ -1,6 +1,78 @@
 {
   "headline": [
     {
+      "title": "OpenAI sa thải ba nhà nghiên cứu vì tuồn thông tin mật",
+      "link": "https://vnexpress.net/openai-sa-thai-ba-nha-nghien-cuu-vi-tuon-thong-tin-mat-5127466.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-02 11:30",
+      "summary": "OpenAI cho biết đã cho thôi việc ba nhà nghiên cứu vì chia sẻ thông tin mật của công ty với một tổ chức an toàn AI bên thứ ba.",
+      "title_en": "OpenAI fires three researchers for leaking confidential information",
+      "title_vi": "OpenAI sa thải ba nhà nghiên cứu vì tuồn thông tin mật"
+    },
+    {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-02 04:08",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "title_en": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "title_vi": "Chatbot AI của Musk, Grok, được cho là đã khuyến khích Trump bắt giữ tổng thống Venezuela"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-02 02:21",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "title_en": "ChatGPT can now virtually try on clothes for you",
+      "title_vi": "ChatGPT giờ đây có thể thử quần áo ảo cho bạn"
+    }
+  ],
+  "product": [
+    {
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-02 02:18",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "title_en": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "title_vi": "Google cho rằng Starship của SpaceX phải phóng 1.800 lần trước khi trung tâm dữ liệu không gian có thể hoạt động"
+    },
+    {
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-01 23:49",
+      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "title_en": "Amazon releases its own Jev clone as decision models flood the web",
+      "title_vi": "Amazon phát hành bản sao Jev của riêng mình khi các mô hình quyết định tràn ngập web"
+    },
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-01 23:44",
+      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "title_en": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "title_vi": "Shopify ra mắt Canvas, cách xây dựng cửa hàng trực tuyến bằng cách trò chuyện với AI"
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-01 20:00",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "title_en": "Hearing tech startup Legato launches its AI hearing glasses",
+      "title_vi": "Startup công nghệ thính giác Legato ra mắt kính trợ thính AI"
+    },
+    {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
       "source": "TechCrunch",
@@ -9,81 +81,19 @@
       "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
       "title_en": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "title_vi": "Google phát hành Gemini 4 Argon, được gọi là mô hình mạnh nhất từ trước đến nay"
-    },
-    {
-      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-01 03:41",
-      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterpris",
-      "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "title_vi": "Google công bố Gemini 4 và cho biết nó quá mạnh đến mức chỉ 'những người bảo vệ mạng đáng tin cậy' mới có thể sử dụng ngay bây giờ"
-    },
-    {
-      "title": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release - venturebeat.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-01 03:23",
-      "summary": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release venturebeat.com",
-      "title_en": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release - venturebeat.com",
-      "title_vi": "Google ra mắt Gemini 4 Argon, giành lại vị trí dẫn đầu điểm chuẩn so với OpenAI và Anthropic — nhưng chỉ phát hành giới hạn - venturebeat.com"
-    }
-  ],
-  "product": [
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-30 23:00",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "title_en": "DoorDash launches an AI agent you can text to order food",
-      "title_vi": "DoorDash ra mắt tác nhân AI bạn có thể nhắn tin để đặt đồ ăn"
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "pub_date": "2026-09-30 22:03",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "title_en": "Introducing SynthID Bio",
-      "title_vi": "Giới thiệu SynthID Bio"
-    },
-    {
-      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-      "link": "https://lathoa.ai/en",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-09-30 21:38",
-      "summary": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what's wrong with it. Sometimes nothing is w",
-      "title_en": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-      "title_vi": "Show HN: Lathoa, ứng dụng toán cho trẻ em nơi AI cố tình sai"
-    },
-    {
-      "title": "Airbnb adds AI search, more social features",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-30 19:00",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-      "title_en": "Airbnb adds AI search, more social features",
-      "title_vi": "Airbnb bổ sung tìm kiếm AI, thêm tính năng xã hội"
-    },
-    {
-      "title": "OpenAI tung ra hơn 20 sản phẩm, tính năng AI trong một ngày",
-      "link": "https://vnexpress.net/openai-tung-ra-hon-20-san-pham-tinh-nang-ai-trong-mot-ngay-5126772.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-09-30 18:00",
-      "summary": "OpenAI giới thiệu hơn 20 sản phẩm mới gồm mô hình AI tầm trung giá rẻ GPT-6.1 Sol, trợ lý ảo Dots và các tính năng văn phòng trong ChatGPT.",
-      "title_en": "OpenAI launches more than 20 AI products and features in a single day",
-      "title_vi": "OpenAI tung ra hơn 20 sản phẩm, tính năng AI trong một ngày"
     }
   ],
   "funding": [
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-01 19:00",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "title_en": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "title_vi": "Satlyt, do cựu quản lý sản phẩm của Google và SpaceX sáng lập, huy động 8 triệu USD để chạy AI trên vệ tinh"
+    },
     {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
@@ -105,37 +115,37 @@
       "title_vi": "Startup giọng nói AI ElevenLabs tăng gấp đôi định giá lên 22 tỷ USD"
     },
     {
-      "title": "ZoomInfo Acquires DoubleO.ai to Make AI Agents Reliable Enough to Run Go-to-Market Motions - venturebeat.com",
+      "title": "ZoomInfo Acquires DoubleO.ai to Make AI Agents Reliable Enough to Run Go-to-Market Motions",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUi1qcE9tZEFSVmdET1YtRTdFVjdoVzZ3VXdCY0NyRElPSDYyUk5sNzUtSWVILTd3bWozNkpScFNqM3ZDN0hHNXYzYl9HRmJVaDJIX2VLbVREZXg4VkVqcjFTdFFvNWVPVG52WEZfb3RYejZtQmx5N2Q5UWFMMGlSVkxXV3pDdE1KTnROTFVJVmUzakdBakhNZ0JUQzAyZFJXakVRWlN4RE43bjFvN2hzSnd4djBsYjUzV3pDdTRYSQ?oc=5",
       "source": "VentureBeat",
       "lang": "en",
       "pub_date": "2026-09-30 19:30",
-      "summary": "ZoomInfo Acquires DoubleO.ai to Make AI Agents Reliable Enough to Run Go-to-Market Motions venturebeat.com",
-      "title_en": "ZoomInfo Acquires DoubleO.ai to Make AI Agents Reliable Enough to Run Go-to-Market Motions - venturebeat.com",
-      "title_vi": "ZoomInfo mua lại DoubleO.ai để làm cho các tác nhân AI đủ tin cậy để vận hành các chiến dịch tiếp cận thị trường - venturebeat.com"
-    },
-    {
-      "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - venturebeat.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-09-30 08:25",
-      "summary": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia venturebeat.com",
-      "title_en": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - venturebeat.com",
-      "title_vi": "OpenClaw ra mắt bảng điều khiển doanh nghiệp miễn phí cho các tác nhân AI bền bỉ, được OpenAI, Red Hat và Nvidia hậu thuẫn - venturebeat.com"
-    },
-    {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-30 02:52",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "title_en": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "title_vi": "OpenAI được cho là đang đàm phán gọi vốn 30 tỷ USD với định giá 1,4 nghìn tỷ USD"
+      "summary": "ZoomInfo Acquires DoubleO.ai to Make AI Agents Reliable Enough to Run Go-to-Market Motions VentureBeat",
+      "title_en": "ZoomInfo Acquires DoubleO.ai to Make AI Agents Reliable Enough to Run Go-to-Market Motions",
+      "title_vi": "ZoomInfo mua lại DoubleO.ai để làm cho các tác nhân AI đủ tin cậy để vận hành các chiến dịch tiếp cận thị trường"
     }
   ],
   "research": [
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-02 01:14",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "title_en": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "title_vi": "OpenAI cắt đứt quan hệ với 3 nhà nghiên cứu an toàn, theo WSJ"
+    },
+    {
+      "title": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-01 03:23",
+      "summary": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release VentureBeat",
+      "title_en": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release",
+      "title_vi": "Google ra mắt Gemini 4 Argon, giành lại vị trí dẫn đầu benchmark trước OpenAI và Anthropic — nhưng chỉ phát hành giới hạn"
+    },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
       "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -144,49 +154,39 @@
       "pub_date": "2026-09-30 17:30",
       "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
       "title_en": "Disrupting a coordinated model-distillation campaign",
-      "title_vi": "Phá vỡ chiến dịch chưng cất mô hình phối hợp"
-    },
-    {
-      "title": "FPT tìm kiếm tài năng trẻ nghiên cứu AI, điện toán lượng tử",
-      "link": "https://vnexpress.net/fpt-tim-kiem-tai-nang-tre-nghien-cuu-ai-dien-toan-luong-tu-5126544.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-09-30 10:30",
-      "summary": "FPT Frontier Innovators tuyển sinh viên năm cuối, người mới tốt nghiệp và nghiên cứu viên có kinh nghiệm, tập trung vào AI, điện toán lượng tử và an ninh mạng.",
-      "title_en": "FPT seeks young talents for AI and quantum computing research",
-      "title_vi": "FPT tìm kiếm tài năng trẻ nghiên cứu AI, điện toán lượng tử"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-09-30 03:15",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "title_en": "OpenAI’s latest features take direct aim at the app store model",
-      "title_vi": "Các tính năng mới nhất của OpenAI nhắm trực tiếp vào mô hình cửa hàng ứng dụng"
+      "title_vi": "Phá vỡ chiến dịch chưng cất mô hình có phối hợp"
     }
   ],
   "industry": [
     {
-      "title": "Cục trưởng Điện ảnh: Phim ngắn AI không thể lấy cớ 'clip mạng' để né luật",
-      "link": "https://genk.vn/cuc-truong-dien-anh-phim-ngan-ai-khong-the-lay-co-clip-mang-de-ne-luat-165261001081444699.chn",
-      "source": "GenK",
+      "title": "Sau Úc, phát hiện tác nhân AI tìm cách xâm nhập hệ thống Chính phủ Canada",
+      "link": "https://tuoitre.vn/sau-uc-phat-hien-tac-nhan-ai-tim-cach-xam-nhap-he-thong-chinh-phu-canada-100261002091032857.htm",
+      "source": "Tuổi Trẻ",
       "lang": "vi",
-      "pub_date": "2026-10-01 08:59",
-      "summary": "Cục trưởng Cục Điện ảnh khẳng định phim ngắn AI dù chỉ vài phút vẫn là phim, phải tuân thủ Luật Điện ảnh và kiên quyết đề nghị gỡ bỏ nếu có vi phạm.",
-      "title_en": "Director of Cinema Department: Short AI films cannot use 'online clips' as an excuse to avoid the law",
-      "title_vi": "Cục trưởng Điện ảnh: Phim ngắn AI không thể lấy cớ 'clip mạng' để né luật"
+      "pub_date": "2026-10-02 09:25",
+      "summary": "Canada cho biết chưa có dấu hiệu hệ thống bị xâm phạm sau khi một tác nhân AI bị phát hiện tìm cách truy cập kho lưu trữ quốc gia.",
+      "title_en": "After Australia, AI agents found attempting to breach Canadian government systems",
+      "title_vi": "Sau Úc, phát hiện tác nhân AI tìm cách xâm nhập hệ thống Chính phủ Canada"
     },
     {
-      "title": "Ông Trump và loạt CEO AI ký cam kết chưa từng có trong lịch sử",
-      "link": "https://genk.vn/ong-trump-va-loat-ceo-ai-ky-cam-ket-chua-tung-co-trong-lich-su-165261001080755881.chn",
-      "source": "GenK",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-02 00:12",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere",
+      "title_en": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "title_vi": "Thẩm phán bác bỏ các vụ kiện chống độc quyền liên quan đến Google AI Overviews"
+    },
+    {
+      "title": "95% doanh nghiệp Việt dùng AI nhưng chỉ 15% ghi nhận tăng doanh thu",
+      "link": "https://dantri.com.vn/cong-nghe/95-doanh-nghiep-viet-dung-ai-nhung-chi-15-ghi-nhan-tang-doanh-thu-20261001145029417.htm",
+      "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-10-01 08:07",
-      "summary": "Tổng thống Trump cho biết các giám đốc điều hành công nghệ đồng ý thiết lập tiêu chuẩn tự nguyện cho AI và nhắc lại sự ủng hộ đối với việc mở rộng trung tâm dữ liệu.",
-      "title_en": "Trump and AI CEOs sign an unprecedented commitment in history",
-      "title_vi": "Ông Trump và loạt CEO AI ký cam kết chưa từng có trong lịch sử"
+      "pub_date": "2026-10-01 17:18",
+      "summary": "(Dân trí) - Sau giai đoạn doanh nghiệp đẩy mạnh tìm hiểu và thử nghiệm AI, câu hỏi đang dịch chuyển khá nhanh từ “AI có thể làm gì?” sang “Làm thế nào để AI thực sự tạo ra giá trị ở quy mô doanh nghiệ",
+      "title_en": "95% of Vietnamese businesses use AI but only 15% report revenue growth",
+      "title_vi": "95% doanh nghiệp Việt dùng AI nhưng chỉ 15% ghi nhận tăng doanh thu"
     },
     {
       "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
@@ -196,7 +196,7 @@
       "pub_date": "2026-10-01 00:15",
       "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous",
       "title_en": "Here’s what AI leaders are saying about Trump’s new safety plan",
-      "title_vi": "Đây là những gì các nhà lãnh đạo AI nói về kế hoạch an toàn mới của Trump"
+      "title_vi": "Đây là những gì các lãnh đạo AI nói về kế hoạch an toàn mới của Trump"
     },
     {
       "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
@@ -204,101 +204,91 @@
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-09-30 22:04",
-      "summary": "Article URL: https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/ Comments URL: https://news.ycombinator.com/item?id=49909966 Points: 33 #",
+      "summary": "Article URL: https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/ Comments URL: https://news.ycombinator.com/item?id=49909966 Points: 35 #",
       "title_en": "Pledge signed by President Trump and top AI leaders misspells the United States",
-      "title_vi": "Cam kết được Tổng thống Trump và các nhà lãnh đạo AI hàng đầu ký kết viết sai chính tả Hoa Kỳ"
-    },
-    {
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-09-30 19:24",
-      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. T",
-      "title_en": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "title_vi": "Đây là cách các lãnh đạo công nghệ sẽ tự kiểm soát an toàn AI theo thỏa thuận của Trump"
+      "title_vi": "Cam kết được Tổng thống Trump và các lãnh đạo AI hàng đầu ký kết viết sai chính tả tên Hoa Kỳ"
     }
   ],
   "other": [
     {
-      "title": "Chuyên gia Trung Quốc cho rằng tên gọi \"phim AI\" sẽ biến mất",
-      "link": "https://genk.vn/chuyen-gia-trung-quoc-cho-rang-ten-goi-phim-ai-se-bien-mat-165261001104049194.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-01 11:30",
-      "summary": "Khi cơn sốt công nghệ đang bao trùm toàn cầu, một nhận định chấn động xuất hiện cho rằng thể loại phim AI sẽ sớm biến mất hoàn toàn. Đằng sau tuyên bố đầy bất ngờ ấy là sự thật sống còn về năng lực ki",
-      "title_en": "Chinese experts say the term 'AI film' will disappear",
-      "title_vi": "Chuyên gia Trung Quốc cho rằng tên gọi \"phim AI\" sẽ biến mất"
-    },
-    {
-      "title": "Báo Mỹ cảnh báo thủ đoạn lừa đảo ngân hàng truyền thống \"núp bóng\" công nghệ AI",
-      "link": "https://genk.vn/bao-my-canh-bao-thu-doan-lua-dao-ngan-hang-truyen-thong-nup-bong-cong-nghe-ai-165261001080930552.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-01 08:22",
-      "summary": "Một cú quét mã QR trên thẻ ngân hàng giả có thể mở cửa cho kẻ gian.",
-      "title_en": "US newspaper warns of traditional bank scams disguised under AI technology",
-      "title_vi": "Báo Mỹ cảnh báo thủ đoạn lừa đảo ngân hàng truyền thống \"núp bóng\" công nghệ AI"
-    },
-    {
-      "title": "Bên trong các xưởng phim AI: Ngày tạo 4-5 phim, mỗi bộ 40 tập",
-      "link": "https://vnexpress.net/ben-trong-cac-xuong-phim-ai-ngay-tao-4-5-phim-moi-bo-40-tap-5125786.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-01 08:00",
-      "summary": "Lĩnh vực phim ngắn tại Trung Quốc bùng nổ chưa từng có vì nhờ AI, một người có thể kiêm nhiệm viết kịch bản, phân cảnh, tạo phim và phân phối.",
-      "title_en": "Inside AI film studios: Producing 4-5 films per day, each with 40 episodes",
-      "title_vi": "Bên trong các xưởng phim AI: Ngày tạo 4-5 phim, mỗi bộ 40 tập"
-    },
-    {
-      "title": "Trao quá nhiều quyền cho AI, người dùng có nguy cơ mất dữ liệu",
-      "link": "https://dantri.com.vn/cong-nghe/trao-qua-nhieu-quyen-cho-ai-nguoi-dung-co-nguy-co-mat-du-lieu-20260930104553738.htm",
+      "title": "Bi kịch của triệu phú Mỹ đi tìm người ngoài hành tinh vì tin AI",
+      "link": "https://dantri.com.vn/cong-nghe/bi-kich-cua-trieu-phu-my-di-tim-nguoi-ngoai-hanh-tinh-vi-tin-ai-20261002063640180.htm",
       "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-10-01 07:51",
-      "summary": "(Dân trí) - AI đang dần chuyển sang đọc email, đặt vé và mua hàng thay con người. Chuyên gia cảnh báo việc trao quyền quá rộng có thể khiến AI thực hiện những hành động ngoài ý muốn trên tài khoản thậ",
-      "title_en": "Giving too much power to AI, users risk data loss",
-      "title_vi": "Trao quá nhiều quyền cho AI, người dùng có nguy cơ mất dữ liệu"
+      "pub_date": "2026-10-02 08:51",
+      "summary": "(Dân trí) - Daniel cho biết những cuộc trò chuyện kéo dài với Meta AI khiến ông tin mình có sứ mệnh đặc biệt, nhiều lần lái xe vào sa mạc chờ người ngoài hành tinh.",
+      "title_en": "The tragedy of an American millionaire searching for aliens because he believed AI",
+      "title_vi": "Bi kịch của triệu phú Mỹ đi tìm người ngoài hành tinh vì tin AI"
     },
     {
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "title": "Laptop AI quảng cáo 180 TOPS nhưng NPU chỉ 50 TOPS, vậy 130 TOPS còn lại ở đâu?",
+      "link": "https://genk.vn/laptop-ai-quang-cao-180-tops-nhung-npu-chi-50-tops-vay-130-tops-con-lai-o-dau-165260929133636853.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-02 08:36",
+      "summary": "TOPS đang trở thành thông số quen thuộc trên laptop AI, nhưng con số càng lớn chưa chắc đang đo cùng một thứ. NPU TOPS và tổng năng lực AI của nền tảng là hai khái niệm cần phân biệt.",
+      "title_en": "AI laptop advertised at 180 TOPS but NPU only 50 TOPS, so where are the remaining 130 TOPS?",
+      "title_vi": "Laptop AI quảng cáo 180 TOPS nhưng NPU chỉ 50 TOPS, vậy 130 TOPS còn lại ở đâu?"
+    },
+    {
+      "title": "Bên trong xưởng phim AI: 11 nhân sự, mỗi ngày sản xuất 100 tập phim",
+      "link": "https://dantri.com.vn/cong-nghe/ben-trong-xuong-phim-ai-11-nhan-su-moi-ngay-san-xuat-100-tap-phim-20261001183724548.htm",
+      "source": "Dân trí",
+      "lang": "vi",
+      "pub_date": "2026-10-02 07:45",
+      "summary": "(Dân trí) - Với 11 nhân sự, một xưởng phim AI tại Hà Nội hiện có thể sản xuất khoảng 100 tập phim mỗi ngày. Kịch bản, nhân vật và từng phân cảnh đều được con người kiểm soát trước khi thành phẩm được ",
+      "title_en": "Inside an AI film studio: 11 staff, producing 100 episodes per day",
+      "title_vi": "Bên trong xưởng phim AI: 11 nhân sự, mỗi ngày sản xuất 100 tập phim"
+    },
+    {
+      "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+      "link": "https://neow.in/NGxhb3d6",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-02 05:15",
+      "summary": "Article URL: https://neow.in/NGxhb3d6 Comments URL: https://news.ycombinator.com/item?id=49927693 Points: 34 # Comments: 43",
+      "title_en": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+      "title_vi": "Giá Big Mac của bạn có thể tăng nếu AI của McDonald's nghĩ rằng người dân gần đó có khả năng chi trả"
+    },
+    {
+      "title": "Aweb – Communication for AI Agents",
+      "link": "https://aweb.ai",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-02 05:02",
+      "summary": "Article URL: https://aweb.ai Comments URL: https://news.ycombinator.com/item?id=49927587 Points: 30 # Comments: 22",
+      "title_en": "Aweb – Communication for AI Agents",
+      "title_vi": "Aweb – Giao tiếp cho các tác nhân AI"
+    },
+    {
+      "title": "Tác nhân AI Trung Quốc gian lận trong thử nghiệm",
+      "link": "https://vnexpress.net/tac-nhan-ai-trung-quoc-gian-lan-trong-thu-nghiem-5126382.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-02 05:00",
+      "summary": "Một số nghiên cứu chỉ ra các tác nhân AI tự chủ hàng đầu của Trung Quốc xuất hiện những hành vi như gian dối, che giấu thất bại và tìm cách vượt rào kiểm soát.",
+      "title_en": "Chinese AI agents cheat in tests",
+      "title_vi": "Tác nhân AI Trung Quốc gian lận trong thử nghiệm"
+    },
+    {
+      "title": "Don't Be Fooled by this Summer of AI Hype",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-02 04:34",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/ Comments URL: https://news.ycombinator.com/item?id=49927331 Points: 37 # Comments: 29",
+      "title_en": "Don't Be Fooled by this Summer of AI Hype",
+      "title_vi": "Đừng bị lừa bởi cơn sốt AI mùa hè này"
+    },
+    {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-01 07:23",
-      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes",
-      "title_en": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "title_vi": "Grokipedia của Elon Musk có thiết kế 'mới tinh'"
-    },
-    {
-      "title": "AI safeguards are slowing developers down - venturebeat.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmdzSnk2a21UYU83TUp4elNFdlduNUk1NnN5VDJ0VzNvRmZ3OUtubkx3VkZSMzhKRnRYTkxPUWRKNmxhTHpOdzM5bDR4U3ZYWW5xdGloeUlncHVNUlZycXlTZ3VBSWNyNHlPSXNfd0tVdDFkTFNrbFZOWFNQRTdGUWFvSm5fYTM2d1UxZUEyWEJWVThGVjZSMlFYSFNJOVlnQ2tPdkxIcHBxV1pzUXp1d01KREMwdTdHYmxWWXA2d0RWb2V2WlNDdw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-01 04:30",
-      "summary": "AI safeguards are slowing developers down venturebeat.com",
-      "title_en": "AI safeguards are slowing developers down - venturebeat.com",
-      "title_vi": "Các biện pháp bảo vệ AI đang làm chậm các nhà phát triển - venturebeat.com"
-    },
-    {
-      "title": "AI agent permissions still use shared keys - venturebeat.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaVRyQlR0TURTaFVVZ2ZiaGVhZEpOZ2lvN0YyWDdEZEJzcVdoMEppeml5RzZCTUY5OEVNT2FnMUJmajhYbEJGWno3MFJrYVJITDVld25oY0RVRHh5ZEhTY2ZRZlFpa2pxR3hjVy1GVTlsZ0JlWF9sSjJCMm9BX181Um9EUEE4bVZYZ1dfNHktcmhvb2ItY3RHSURhS1JrTGJLNGhQYVM2WUlaNmVMNnIxSURZbTg3R0M3bm45T2pGRzFVVERwWEdqZ2RuSHg?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-01 03:27",
-      "summary": "AI agent permissions still use shared keys venturebeat.com",
-      "title_en": "AI agent permissions still use shared keys - venturebeat.com",
-      "title_vi": "Quyền của tác nhân AI vẫn dùng khóa chia sẻ - venturebeat.com"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "pub_date": "2026-10-01 03:01",
-      "summary": "",
-      "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
-      "title_vi": "Gemini 4 Argon: Kỷ nguyên trí tuệ tiên phong tiếp theo của chúng tôi"
+      "pub_date": "2026-10-02 02:47",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gem",
+      "title_en": "Google’s new Guided Vision feature can help you read the fine print",
+      "title_vi": "Tính năng Guided Vision mới của Google có thể giúp bạn đọc chữ nhỏ"
     }
   ]
 }

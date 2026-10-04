@@ -1,90 +1,60 @@
 {
   "headline": [
     {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-03 23:30",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "title_en": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "title_vi": "Nhân viên an toàn OpenAI từ chức, tuyên bố 'văn hóa công ty đã hỏng'"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-03 21:31",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. ",
+      "title_en": "An OpenAI safety employee has quit and is sounding the alarm",
+      "title_vi": "Một nhân viên an toàn của OpenAI đã nghỉ việc và gióng lên hồi chuông cảnh báo"
+    },
+    {
+      "title": "Không phải ChatGPT, đây mới là những nơi AI đang xuất hiện nhiều nhất trong cuộc sống của chúng ta",
+      "link": "https://genk.vn/khong-phai-chatgpt-day-moi-la-nhung-noi-ai-dang-xuat-hien-nhieu-nhat-trong-cuoc-song-cua-chung-ta-165261003161815053.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-03 16:18",
+      "summary": "AI đang dần trở thành một lớp công nghệ đứng phía sau những dịch vụ quen thuộc, giúp máy móc hiểu ngôn ngữ, xử lý dữ liệu và thực hiện một phần công việc vốn trước đây cần con người đảm nhiệm.",
+      "title_en": "Not ChatGPT, these are the places AI is appearing most in our lives",
+      "title_vi": "Không phải ChatGPT, đây mới là những nơi AI đang xuất hiện nhiều nhất trong cuộc sống của chúng ta"
+    }
+  ],
+  "product": [
+    {
       "title": "Nước đi \"điên rồ\" của Sam Altman: Ra mắt Dots giống hệt Muse AI, nhưng hét giá 100 USD/tháng, OpenAI lấy gì mà tự tin vậy?",
       "link": "https://genk.vn/nuoc-di-dien-ro-cua-sam-altman-ra-mat-dots-giong-het-muse-ai-nhung-het-gia-100-usd-thang-openai-lay-gi-ma-tu-tin-vay-165261003080229846.chn",
       "source": "GenK",
       "lang": "vi",
       "pub_date": "2026-10-03 08:02",
       "summary": "Tại hội nghị DevDay 2026, OpenAI đã tạo nên bước ngoặt lớn khi chính thức ra mắt Dots. Sự xuất hiện của Dots được xem là lời đáp trả trực diện của CEO Sam Altman gửi tới Meta, đối thủ đang gặt hái thà",
-      "title_en": "Sam Altman's \"crazy\" move: Launching Dots that is exactly like Muse AI but priced at $100/month, what makes OpenAI so confident?",
+      "title_en": "Sam Altman's 'crazy' move: Launching Dots identical to Muse AI, but charging $100/month, what makes OpenAI so confident?",
       "title_vi": "Nước đi \"điên rồ\" của Sam Altman: Ra mắt Dots giống hệt Muse AI, nhưng hét giá 100 USD/tháng, OpenAI lấy gì mà tự tin vậy?"
-    },
-    {
-      "title": "New MIT and Sakana AI framework uses an LLM judge to cut evaluation costs for self-improving coding agents",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSDVzdEplY29renRTNm9PR1Z5QjFpak9tb2RQc2FlQzV0YVlGVDdIZmEtZE9ia28wMmFpakthckd4ejlHN0FpTnBwZHY5ZUxVTW52NTg0ajR1VkpMTExGOHZKdV90VFRqV3p1UTFJSTQ2LWRxWjRScE9FUE1MVHcwcHV2TGlRdmJCR1J5VFlncXMyRVhnVGRwa3dxaDBpUkRpV3dLV3F4T19aTzVYblNNZXdlSmZzTmNTREhSem81TXNYNmNJZHdhT3JDT0pQMmxzZWd6M1NuTFVQb2lf?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-03 05:50",
-      "summary": "New MIT and Sakana AI framework uses an LLM judge to cut evaluation costs for self-improving coding agents VentureBeat",
-      "title_en": "New MIT and Sakana AI framework uses an LLM judge to cut evaluation costs for self-improving coding agents",
-      "title_vi": "Khung mới của MIT và Sakana AI dùng LLM làm giám khảo để giảm chi phí đánh giá cho các tác nhân lập trình tự cải thiện"
-    },
-    {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-03 01:00",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like us",
-      "title_en": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "title_vi": "Tác nhân Dot của OpenAI là phần mềm doanh nghiệp cũng có thể đặt bữa tối cho bạn"
-    }
-  ],
-  "product": [
-    {
-      "title": "Muốn bán AI PC, HP chọn cách để khách tự cầm, tự thử: HP Flagship Store thứ hai ra mắt tại thành phố Hồ Chí Minh",
-      "link": "https://genk.vn/muon-ban-ai-pc-hp-chon-cach-de-khach-tu-cam-tu-thu-hp-flagship-store-thu-hai-ra-mat-tai-thanh-pho-ho-chi-minh-165261002175601232.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-02 18:00",
-      "summary": "Trong bối cảnh AI len vào công việc hằng ngày, HP và DMX đặt cược vào không gian shop-in-shop để người dùng trải nghiệm máy trước khi quyết định mua.",
-      "title_en": "To sell AI PCs, HP lets customers hold and try them: Second HP Flagship Store opens in Ho Chi Minh City",
-      "title_vi": "Muốn bán AI PC, HP chọn cách để khách tự cầm, tự thử: HP Flagship Store thứ hai ra mắt tại thành phố Hồ Chí Minh"
-    },
-    {
-      "title": "HUAWEI WATCH GT 7 Series ra mắt tại Việt Nam: Hiểu cơ thể sâu hơn, thêm AI cho thể thao, pin tới 21 ngày giá từ 5,5 triệu",
-      "link": "https://genk.vn/huawei-watch-gt-7-series-ra-mat-tai-viet-nam-hieu-co-the-sau-hon-them-ai-cho-the-thao-pin-toi-21-ngay-gia-tu-55-trieu-165261002165947599.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-02 16:59",
-      "summary": "HUAWEI WATCH GT 7 Series chính thức được giới thiệu tại Việt Nam với hàng loạt nâng cấp về sức khỏe, thể thao ngoài trời và tiện ích hằng ngày. Thế hệ mới vẫn giữ thời lượng pin tối đa 21 ngày, nhưng ",
-      "title_en": "HUAWEI WATCH GT 7 Series launches in Vietnam: Deeper body understanding, AI for sports, up to 21-day battery from 5.5 million VND",
-      "title_vi": "HUAWEI WATCH GT 7 Series ra mắt tại Việt Nam: Hiểu cơ thể sâu hơn, thêm AI cho thể thao, pin tới 21 ngày giá từ 5,5 triệu"
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-02 02:18",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "title_en": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "title_vi": "Google cho rằng SpaceX’s Starship phải phóng 1.800 lần trước khi các trung tâm dữ liệu không gian thành hiện thực"
-    },
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-01 23:49",
-      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "title_en": "Amazon releases its own Jev clone as decision models flood the web",
-      "title_vi": "Amazon phát hành bản sao Jev của riêng mình khi các mô hình quyết định tràn ngập web"
-    },
-    {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-01 23:44",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "title_en": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "title_vi": "Shopify ra mắt Canvas, cách xây dựng cửa hàng trực tuyến bằng trò chuyện với AI"
     }
   ],
   "funding": [],
   "research": [
+    {
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-03 17:07",
+      "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why Comments URL: https://news.ycombinator.com/item?id=49942865 Points: 49 # Commen",
+      "title_en": "An AI agent emailed researchers for help. It told us why",
+      "title_vi": "Một tác nhân AI đã gửi email nhờ các nhà nghiên cứu giúp đỡ. Nó cho chúng tôi biết lý do"
+    },
     {
       "title": "Thất bại của AI Claude mở đường cho đột phá toán học",
       "link": "https://vnexpress.net/that-bai-cua-ai-claude-mo-duong-cho-dot-pha-toan-hoc-5127750.html",
@@ -92,7 +62,7 @@
       "lang": "vi",
       "pub_date": "2026-10-03 00:00",
       "summary": "Dù không thể giải bài toán nổi tiếng mang tên giả thuyết Riemann, mô hình Claude của Anthropic đã truyền cảm hứng cho một nhà toán học đạt bước tiến lớn ở vấn đề liên quan.",
-      "title_en": "Failure of AI Claude paves way for mathematical breakthrough",
+      "title_en": "Claude AI's failure paves the way for a mathematical breakthrough",
       "title_vi": "Thất bại của AI Claude mở đường cho đột phá toán học"
     },
     {
@@ -104,160 +74,110 @@
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "title_en": "A model guide for the GPT-6 family",
       "title_vi": "Hướng dẫn mô hình cho dòng GPT-6"
-    },
-    {
-      "title": "OpenAI sa thải ba nhà nghiên cứu vì tuồn thông tin mật",
-      "link": "https://vnexpress.net/openai-sa-thai-ba-nha-nghien-cuu-vi-tuon-thong-tin-mat-5127466.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-02 11:30",
-      "summary": "OpenAI cho biết đã cho thôi việc ba nhà nghiên cứu vì chia sẻ thông tin mật của công ty với một tổ chức an toàn AI bên thứ ba.",
-      "title_en": "OpenAI fires three researchers for leaking confidential information",
-      "title_vi": "OpenAI sa thải ba nhà nghiên cứu vì tuồn thông tin mật"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-02 01:14",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "title_en": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "title_vi": "OpenAI cắt đứt quan hệ với 3 nhà nghiên cứu an toàn, WSJ đưa tin"
     }
   ],
   "industry": [
     {
-      "title": "Vận hành doanh nghiệp với “lực lượng nhân sự AI” - Hơn 10 nghìn AI Agents của FPT đang làm việc như thế nào?",
-      "link": "https://genk.vn/van-hanh-doanh-nghiep-voi-luc-luong-nhan-su-ai-hon-10-nghin-ai-agents-cua-fpt-dang-lam-viec-nhu-the-nao-165261002223912494.chn",
+      "title": "OpenAI tham vọng biến ChatGPT thành \"kho ứng dụng\" AI",
+      "link": "https://genk.vn/openai-tham-vong-bien-chatgpt-thanh-kho-ung-dung-ai-165261003145309511.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-03 07:57",
-      "summary": "Nền tảng FPT AI EOS cho phép doanh nghiệp tạo và điều hành đội ngũ \"nhân sự AI \", từ chăm sóc khách hàng đến vận hành nội bộ , với khâu chốt cuối do con người phê duyệt.",
-      "title_en": "Running a business with an \"AI workforce\" - How do over 10,000 AI Agents of FPT work?",
-      "title_vi": "Vận hành doanh nghiệp với “lực lượng nhân sự AI” - Hơn 10 nghìn AI Agents của FPT đang làm việc như thế nào?"
+      "pub_date": "2026-10-03 14:53",
+      "summary": "VTV.vn - OpenAI ra mắt mô hình AI mới cùng các công cụ tác nhân tự hành, hướng tới biến ChatGPT thành “kho ứng dụng” AI, trong bối cảnh lo ngại về an toàn gia tăng.",
+      "title_en": "OpenAI ambitions to turn ChatGPT into an AI 'app store'",
+      "title_vi": "OpenAI tham vọng biến ChatGPT thành \"kho ứng dụng\" AI"
     },
     {
-      "title": "Sau Úc, phát hiện tác nhân AI tìm cách xâm nhập hệ thống Chính phủ Canada",
-      "link": "https://tuoitre.vn/sau-uc-phat-hien-tac-nhan-ai-tim-cach-xam-nhap-he-thong-chinh-phu-canada-100261002091032857.htm",
-      "source": "Tuổi Trẻ",
-      "lang": "vi",
-      "pub_date": "2026-10-02 09:25",
-      "summary": "Canada cho biết chưa có dấu hiệu hệ thống bị xâm phạm sau khi một tác nhân AI bị phát hiện tìm cách truy cập kho lưu trữ quốc gia.",
-      "title_en": "After Australia, AI agent discovered trying to infiltrate Canadian government systems",
-      "title_vi": "Sau Úc, phát hiện tác nhân AI tìm cách xâm nhập hệ thống Chính phủ Canada"
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-02 04:08",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "title_en": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "title_vi": "Chatbot AI Grok của Musk bị cho là đã khuyến khích Trump bắt giữ tổng thống Venezuela"
-    },
-    {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-02 00:12",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere",
-      "title_en": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "title_vi": "Thẩm phán bác bỏ các vụ kiện chống độc quyền về AI Overviews của Google"
-    },
-    {
-      "title": "95% doanh nghiệp Việt dùng AI nhưng chỉ 15% ghi nhận tăng doanh thu",
-      "link": "https://dantri.com.vn/cong-nghe/95-doanh-nghiep-viet-dung-ai-nhung-chi-15-ghi-nhan-tang-doanh-thu-20261001145029417.htm",
-      "source": "Dân trí",
-      "lang": "vi",
-      "pub_date": "2026-10-01 17:18",
-      "summary": "(Dân trí) - Sau giai đoạn doanh nghiệp đẩy mạnh tìm hiểu và thử nghiệm AI, câu hỏi đang dịch chuyển khá nhanh từ “AI có thể làm gì?” sang “Làm thế nào để AI thực sự tạo ra giá trị ở quy mô doanh nghiệ",
-      "title_en": "95% of Vietnamese businesses use AI but only 15% report revenue growth",
-      "title_vi": "95% doanh nghiệp Việt dùng AI nhưng chỉ 15% ghi nhận tăng doanh thu"
+      "pub_date": "2026-10-03 01:00",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like us",
+      "title_en": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "title_vi": "Tác nhân Dot của OpenAI là phần mềm doanh nghiệp cũng có thể gọi bữa tối cho bạn"
     }
   ],
   "other": [
     {
-      "title": "Dấu ấn Mark Zuckerberg trong thỏa thuận AI của Nhà Trắng",
-      "link": "https://vnexpress.net/dau-an-mark-zuckerberg-trong-thoa-thuan-ai-cua-nha-trang-5127520.html",
+      "title": "Google dừng chương trình trao thưởng tìm lỗi mã nguồn mở vì 'rác' AI",
+      "link": "https://vnexpress.net/google-dung-chuong-trinh-trao-thuong-tim-loi-ma-nguon-mo-vi-rac-ai-5128078.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-10-03 11:00",
-      "summary": "CEO Meta Mark Zuckerberg được đánh giá đóng vai trò chính trong thỏa thuận về AI \"có tính ràng buộc đạo đức\" mà Nhà Trắng công bố đầu tuần.",
-      "title_en": "Mark Zuckerberg's mark on the White House AI deal",
-      "title_vi": "Dấu ấn Mark Zuckerberg trong thỏa thuận AI của Nhà Trắng"
+      "pub_date": "2026-10-04 10:26",
+      "summary": "Google thông báo tạm dừng Chương trình trao thưởng tìm lỗi phần mềm mã nguồn mở cho đến 2027, sau khi hệ thống bị quá tải bởi hàng nghìn báo cáo sai sự thật do AI tạo ra.",
+      "title_en": "Google halts open-source bug bounty program due to AI 'junk'",
+      "title_vi": "Google dừng chương trình trao thưởng tìm lỗi mã nguồn mở vì 'rác' AI"
     },
     {
-      "title": "Google hạn chế quyền truy cập mô hình AI mới do lo ngại an ninh mạng",
-      "link": "https://genk.vn/google-han-che-quyen-truy-cap-mo-hinh-ai-moi-do-lo-ngai-an-ninh-mang-165261003101114004.chn",
-      "source": "GenK",
+      "title": "Tác phẩm AI bị sao chép, người sáng tạo phải làm gì để bảo vệ quyền?",
+      "link": "https://dantri.com.vn/cong-nghe/tac-pham-ai-bi-sao-chep-nguoi-sang-tao-phai-lam-gi-de-bao-ve-quyen-20261003182403991.htm",
+      "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-10-03 10:11",
-      "summary": "VTV.vn - Google tạm thời giới hạn quyền truy cập mô hình AI Gemini 4 Argon cho các chuyên gia an ninh mạng đã được kiểm duyệt, nhằm giảm nguy cơ bị lợi dụng để tấn công mạng.",
-      "title_en": "Google restricts access to new AI model due to cybersecurity concerns",
-      "title_vi": "Google hạn chế quyền truy cập mô hình AI mới do lo ngại an ninh mạng"
+      "pub_date": "2026-10-04 08:28",
+      "summary": "(Dân trí) - Một nhân vật AI có thể được tạo ra sau hàng tháng thử nghiệm, chỉnh sửa và duy trì nhất quán. Nhưng khi sản phẩm bị sao chép, người sáng tạo phải chứng minh được phần đóng góp của chính mì",
+      "title_en": "AI works being copied, what should creators do to protect their rights?",
+      "title_vi": "Tác phẩm AI bị sao chép, người sáng tạo phải làm gì để bảo vệ quyền?"
     },
     {
-      "title": "Mỹ thúc đẩy cơ chế 'công tắc ngắt khẩn cấp' cho AI",
-      "link": "https://genk.vn/my-thuc-day-co-che-cong-tac-ngat-khan-cap-cho-ai-165261003080133074.chn",
-      "source": "GenK",
+      "title": "Robot AI có 'hệ thần kinh' thông minh",
+      "link": "https://vnexpress.net/robot-ai-co-he-than-kinh-thong-minh-5127559.html",
+      "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-10-03 08:39",
-      "summary": "AI tiên tiến có thể hoạt động trên nhiều máy chủ, dịch vụ và hạ tầng khác nhau, khiến việc “tắt” chúng không đơn giản như ngắt một thiết bị điện.",
-      "title_en": "US pushes for 'emergency kill switch' mechanism for AI",
-      "title_vi": "Mỹ thúc đẩy cơ chế 'công tắc ngắt khẩn cấp' cho AI"
+      "pub_date": "2026-10-04 07:00",
+      "summary": "Công ty LimX Dynamics công bố robot AI đầu tiên trang bị kiến trúc điện tử phát triển hoàn toàn trong nước, có thể duy trì vận hành khi hỏng khớp nối, tấn công mạng và nhiễm virus.",
+      "title_en": "AI robot with an intelligent 'nervous system'",
+      "title_vi": "Robot AI có 'hệ thần kinh' thông minh"
     },
     {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-04 05:18",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 255",
+      "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "title_vi": "Lãnh đạo an toàn OpenAI từ chức, cảnh báo văn hóa công ty AI đã 'hỏng'"
+    },
+    {
+      "title": "Người dùng AI tạo sinh vượt mốc 700 triệu tại Trung Quốc",
+      "link": "https://vnexpress.net/nguoi-dung-ai-tao-sinh-vuot-moc-700-trieu-tai-trung-quoc-5127259.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-04 05:00",
+      "summary": "Trung Quốc là nước đầu tiên có số người dùng AI tạo sinh vượt 700 triệu trong nửa đầu 2026, với tỷ lệ thâm nhập hơn 50%.",
+      "title_en": "Generative AI users surpass 700 million in China",
+      "title_vi": "Người dùng AI tạo sinh vượt mốc 700 triệu tại Trung Quốc"
+    },
+    {
+      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+      "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-04 02:33",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 49 # Comments: 76",
+      "title_en": "Anthropic tried to persuade Pope that AI could be conscious being",
+      "title_vi": "Anthropic đã cố thuyết phục Giáo hoàng rằng AI có thể là một thực thể có ý thức"
+    },
+    {
+      "title": "Our AI Midwife",
+      "link": "https://www.astralcodexten.com/p/our-ai-midwife",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-04 02:12",
+      "summary": "Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 61 # Comments: 54",
+      "title_en": "Our AI Midwife",
+      "title_vi": "Bà đỡ AI của chúng tôi"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-03 07:45",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "title_en": "Meta wants your next gadget to be Muse-infused",
-      "title_vi": "Meta muốn thiết bị tiếp theo của bạn được tích hợp Muse"
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-03 04:09",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "title_en": "Sean Parker is rebuilding Stability AI around music",
-      "title_vi": "Sean Parker đang tái thiết Stability AI quanh âm nhạc"
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-03 04:08",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display t",
-      "title_en": "Meta open sources code to let you make Muse AI gadgets",
-      "title_vi": "Meta mở mã nguồn để bạn tạo ra các thiết bị Muse AI"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-03 03:08",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to ",
-      "title_en": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "title_vi": "Apple sẽ hạn chế truy cập đĩa Mac khi các tác nhân AI 'tăng đáng kể' rủi ro"
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-03 01:11",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk",
-      "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "title_vi": "Apple cho biết đang thắt chặt kiểm soát 'Full Disk Access' của macOS do rủi ro mới từ các tác nhân AI"
+      "pub_date": "2026-10-04 01:43",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "title_en": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "title_vi": "Amazon phản hồi phản ứng dữ dội về trung tâm dữ liệu, cho biết không còn sử dụng NDA"
     }
   ]
 }

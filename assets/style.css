@@ -328,6 +328,24 @@ a:hover {
   font-style: italic;
 }
 
+.footer-sources {
+  margin-top: 10px;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: #8b5a2b;
+  background: none;
+  border: none;
+  border-bottom: 1px dotted #8b5a2b;
+}
+
+.footer-sources:hover {
+  color: #1a1a1a;
+  border-bottom-color: #1a1a1a;
+}
+
 /* ===== Mobile ===== */
 @media (max-width: 600px) {
   .container {
@@ -580,6 +598,54 @@ body {
   padding: 18px 20px 22px;
 }
 
+/* ===== News sources panel ===== */
+.src-group {
+  margin: 0 0 8px;
+  padding-bottom: 6px;
+  font-family: 'Noto Serif', 'Noto Serif SC', serif;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #1a1a1a;
+}
+
+.src-group:not(:first-child) {
+  margin-top: 22px;
+}
+
+.src-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.src-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 2px 12px;
+  padding: 8px 0;
+  border-bottom: 1px dotted #c9bda8;
+}
+
+.src-list a {
+  font-weight: 700;
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.src-list a:hover {
+  color: #8b5a2b;
+  text-decoration: underline;
+}
+
+.src-note {
+  font-size: 12px;
+  font-style: italic;
+  color: #7a6a55;
+}
+
 /* ===== Heatmap calendar ===== */
 .hm {
   display: flex;
@@ -798,6 +864,7 @@ body {
 @media print {
   .report-nav,
   .history-overlay,
+  .footer-sources,
   .lang-switch {
     display: none !important;
   }

@@ -10,9 +10,12 @@ import json
 import os
 import re
 from datetime import datetime
+from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 from jinja2 import Template
+
+from fetch_news import NEWS_SOURCES
 
 PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INDEX_FILE = os.path.join(PROJECT_DIR, "index.html")
@@ -20,7 +23,7 @@ ARCHIVE_DIR = os.path.join(PROJECT_DIR, "archive")
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
 
 # Bump when assets/style.css changes so browsers and the service worker fetch the new file
-STYLE_VERSION = "3"
+STYLE_VERSION = "4"
 
 # Issue numbers count days since the first English/Vietnamese issue (Số 1)
 ISSUE_START_DATE = datetime(2026, 9, 21)
@@ -144,6 +147,7 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
         <span class="brand">AI DAILY NEWS</span>
         <span class="time">{{ t("Published " ~ gen_time, "Phát hành " ~ gen_time) }}</span>
       </div>
+      <button type="button" class="footer-sources" data-open-sources>📡 {{ t("News sources", "Nguồn tin") }} ({{ sources|length }})</button>
     </footer>
   </div>
   </main>
@@ -177,6 +181,32 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
         </div>
         <input class="tl-search" id="tlSearch" type="search" data-ph-en="🔍 Search titles / sources…" data-ph-vi="🔍 Tìm tiêu đề / nguồn…" autocomplete="off">
         <div id="tlList"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- News sources panel (opened from the footer link) -->
+  <div class="history-overlay" id="sourcesOverlay" role="dialog" aria-modal="true" data-label-en="News sources" data-label-vi="Nguồn tin">
+    <div class="hpanel">
+      <div class="hpanel-head">
+        <div>
+          <div class="hpanel-title">{{ t("News sources", "Nguồn tin") }}</div>
+          <div class="hpanel-sub">{{ t(sources|length ~ " sources, checked daily", sources|length ~ " nguồn, cập nhật mỗi ngày") }}</div>
+        </div>
+        <button class="hpanel-x" id="srcClose" data-label-en="Close" data-label-vi="Đóng">✕</button>
+      </div>
+      <div class="hpanel-scroll">
+        {% for lang, label_en, label_vi in [("en", "English", "Tiếng Anh"), ("vi", "Vietnamese", "Tiếng Việt")] %}
+        <h4 class="src-group">{{ t(label_en, label_vi) }}</h4>
+        <ul class="src-list">
+          {% for s in sources if s.lang == lang %}
+          <li>
+            <a href="{{ s.site }}" target="_blank" rel="noopener">{{ s.name }}</a>
+            <span class="src-note">{{ t("filtered to AI topics", "lọc theo chủ đề AI") if s.filtered else t("AI coverage", "chuyên mục AI") }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
       </div>
     </div>
   </div>
@@ -311,6 +341,12 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     function closeOverlay() {
       var ov = $("historyOverlay");
       if (ov) ov.classList.remove("open");
+    }
+
+    // News sources panel (static content, rendered in both languages)
+    function setSourcesOpen(open) {
+      var ov = $("sourcesOverlay");
+      if (ov) ov.classList.toggle("open", open);
     }
 
     function renderStats(m) {
@@ -625,11 +661,15 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     $("navReview").addEventListener("click", openOverlay);
     $("ovClose").addEventListener("click", closeOverlay);
     $("historyOverlay").addEventListener("click", function (e) { if (e.target === this) closeOverlay(); });
+    $("srcClose").addEventListener("click", function () { setSourcesOpen(false); });
+    $("sourcesOverlay").addEventListener("click", function (e) { if (e.target === this) setSourcesOpen(false); });
     $("tlSearch").addEventListener("input", function (e) { renderTimeline(e.target.value); });
     // Delegated: the language switch lives inside each page
     document.addEventListener("click", function (e) {
       var b = e.target.closest ? e.target.closest("[data-set-lang]") : null;
       if (b) setLang(b.getAttribute("data-set-lang"));
+      // The sources link lives in each issue's footer
+      if (e.target.closest && e.target.closest("[data-open-sources]")) setSourcesOpen(true);
     });
     window.addEventListener("resize", onResize);
 
@@ -659,7 +699,9 @@ HTML_TEMPLATE = """{%- macro t(en, vi) -%}
     }, true);
 
     document.addEventListener("keydown", function (e) {
-      var overlayOpen = $("historyOverlay").classList.contains("open");
+      var sourcesOpen = $("sourcesOverlay").classList.contains("open");
+      if (e.key === "Escape" && sourcesOpen) { setSourcesOpen(false); return; }
+      var overlayOpen = sourcesOpen || $("historyOverlay").classList.contains("open");
       if (e.key === "Escape" && overlayOpen) { closeOverlay(); return; }
       if (overlayOpen || e.altKey || e.ctrlKey || e.metaKey) return;
       var tag = (e.target.tagName || "").toLowerCase();
@@ -720,6 +762,26 @@ MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July",
              "August", "September", "October", "November", "December"]
 
 
+def build_source_list():
+    """One entry per outlet for the Sources panel (several feeds of one outlet are merged)."""
+    sources = {}
+    for config in NEWS_SOURCES.values():
+        name = config["name"]
+        if name in sources:
+            continue
+        site = config.get("site")
+        if not site:
+            parts = urlparse(config["url"])
+            site = f"{parts.scheme}://{parts.netloc}"
+        sources[name] = {
+            "name": name,
+            "lang": config["lang"],
+            "site": site,
+            "filtered": bool(config.get("keywords")),
+        }
+    return list(sources.values())
+
+
 def generate_html(categories, now=None, issue_num=None):
     """Render the report HTML for `now` (default: the current time).
 
@@ -743,6 +805,7 @@ def generate_html(categories, now=None, issue_num=None):
         issue_num=issue_num,
         categories=categories,
         sections=SECTIONS,
+        sources=build_source_list(),
         quote_en=quote_en,
         quote_vi=quote_vi,
         quote_author=quote_author,

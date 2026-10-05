@@ -67,12 +67,17 @@ ai-daily-news/
 
 | English | Vietnamese (filtered to AI topics) |
 |---|---|
-| TechCrunch (AI) | VnExpress (Khoa học - Công nghệ) |
-| The Verge (AI) | Tuổi Trẻ (Nhịp sống số) |
-| VentureBeat (AI, via Google News) | Dân trí (Công nghệ) |
-| OpenAI News | GenK |
+| TechCrunch (AI) | VnExpress (Khoa học - Công nghệ, Số hóa) |
+| The Verge (AI) | Thanh Niên (Công nghệ) |
+| MIT Technology Review (AI) | Tuổi Trẻ (Nhịp sống số) |
+| Ars Technica (AI) | Dân trí (Công nghệ) |
+| VentureBeat (AI, via Google News) | GenK |
+| OpenAI News | |
 | Google DeepMind Blog | |
 | Google AI Blog | |
+| Microsoft AI Blog | |
+| NVIDIA Blog | |
+| Hugging Face Blog | |
 | Hacker News (AI/LLM/GPT, 20+ points) | |
 
 Sources are configured in `NEWS_SOURCES` in [scripts/fetch_news.py](scripts/fetch_news.py).

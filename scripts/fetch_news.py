@@ -52,6 +52,8 @@ AI_KEYWORDS_VI = [
 
 # Feed configuration. "lang" is the language of the feed's titles;
 # an empty keyword list means every entry is AI-related.
+# "site" (optional) is the homepage shown on the report's Sources panel;
+# by default it is derived from the feed URL.
 NEWS_SOURCES = {
     # English sources
     "techcrunch_ai": {
@@ -72,6 +74,7 @@ NEWS_SOURCES = {
         "lang": "en",
         "name": "VentureBeat",
         "url": "https://news.google.com/rss/search?q=site:venturebeat.com&hl=en-US&gl=US&ceid=US:en",
+        "site": "https://venturebeat.com",
         "keywords": AI_KEYWORDS_EN,
         "strip_suffix": " - VentureBeat",
     },
@@ -93,10 +96,43 @@ NEWS_SOURCES = {
         "url": "https://blog.google/technology/ai/rss/",
         "keywords": [],
     },
+    "mit_tech_review": {
+        "lang": "en",
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "keywords": [],
+    },
+    "ars_technica": {
+        "lang": "en",
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/ai/feed/",
+        "keywords": [],
+    },
+    # The blog feed holds hundreds of entries; only the newest are read
+    "huggingface": {
+        "lang": "en",
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "keywords": [],
+    },
+    # Covers gaming and graphics too, so it needs the AI keyword filter
+    "nvidia_blog": {
+        "lang": "en",
+        "name": "NVIDIA",
+        "url": "https://blogs.nvidia.com/feed/",
+        "keywords": AI_KEYWORDS_EN,
+    },
+    "microsoft_ai": {
+        "lang": "en",
+        "name": "Microsoft AI",
+        "url": "https://www.microsoft.com/en-us/ai/blog/feed/",
+        "keywords": [],
+    },
     "hackernews": {
         "lang": "en",
         "name": "Hacker News",
         "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT&points=20",
+        "site": "https://news.ycombinator.com",
         "keywords": AI_KEYWORDS_EN,
         "can_headline": False,  # community posts, not reported news
     },
@@ -105,6 +141,18 @@ NEWS_SOURCES = {
         "lang": "vi",
         "name": "VnExpress",
         "url": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+        "keywords": AI_KEYWORDS_VI,
+    },
+    "vnexpress_sohoa": {
+        "lang": "vi",
+        "name": "VnExpress",
+        "url": "https://vnexpress.net/rss/so-hoa.rss",
+        "keywords": AI_KEYWORDS_VI,
+    },
+    "thanhnien": {
+        "lang": "vi",
+        "name": "Thanh Niên",
+        "url": "https://thanhnien.vn/rss/cong-nghe.rss",
         "keywords": AI_KEYWORDS_VI,
     },
     "tuoitre": {

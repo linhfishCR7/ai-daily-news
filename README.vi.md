@@ -67,12 +67,17 @@ ai-daily-news/
 
 | Tiếng Anh | Tiếng Việt (lọc theo chủ đề AI) |
 |---|---|
-| TechCrunch (AI) | VnExpress (Khoa học - Công nghệ) |
-| The Verge (AI) | Tuổi Trẻ (Nhịp sống số) |
-| VentureBeat (AI, qua Google News) | Dân trí (Công nghệ) |
-| OpenAI News | GenK |
+| TechCrunch (AI) | VnExpress (Khoa học - Công nghệ, Số hóa) |
+| The Verge (AI) | Thanh Niên (Công nghệ) |
+| MIT Technology Review (AI) | Tuổi Trẻ (Nhịp sống số) |
+| Ars Technica (AI) | Dân trí (Công nghệ) |
+| VentureBeat (AI, qua Google News) | GenK |
+| OpenAI News | |
 | Google DeepMind Blog | |
 | Google AI Blog | |
+| Microsoft AI Blog | |
+| NVIDIA Blog | |
+| Hugging Face Blog | |
 | Hacker News (AI/LLM/GPT, từ 20 điểm) | |
 
 Danh sách nguồn nằm trong `NEWS_SOURCES` ở [scripts/fetch_news.py](scripts/fetch_news.py).

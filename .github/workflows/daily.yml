@@ -2,8 +2,10 @@ name: AI Daily News - daily update
 
 on:
   schedule:
-    # 07:00 Vietnam time (UTC+7) = 00:00 UTC
-    - cron: '0 0 * * *'
+    # Target: report live by 07:00 Vietnam time (UTC+7).
+    # GitHub delays scheduled runs heavily at the top of the hour (00:00 UTC was
+    # landing ~4h late), so fire early at an off-peak minute: 05:37 VN = 22:37 UTC.
+    - cron: '37 22 * * *'
   workflow_dispatch:  # allow manual runs
   push:
     branches: [main]

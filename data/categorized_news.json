@@ -7,28 +7,28 @@
       "lang": "vi",
       "pub_date": "2026-10-05 10:00",
       "summary": "David Robinson, người từng giám sát báo cáo an toàn tại OpenAI và xin nghỉ việc tuần trước, chỉ trích văn hóa phát triển ưu tiên tốc độ phát hành sản phẩm của công ty.",
-      "title_en": "OpenAI safety manager resigns over concerns about speed of model development",
+      "title_en": "OpenAI safety manager resigns over concerns about AI development pace",
       "title_vi": "Một quản lý an toàn OpenAI từ chức vì lo tốc độ phát triển mô hình"
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-03 23:30",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "title_en": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "title_vi": "Nhân viên an toàn OpenAI từ chức, tuyên bố 'văn hóa công ty đã hỏng'"
+      "title": "Google sắp giới hạn Gemini miễn phí",
+      "link": "https://thanhnien.vn/google-sap-gioi-han-gemini-mien-phi-185261004180237462.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-05 08:05",
+      "summary": "Kể từ ngày 9.10, người dùng Gemini miễn phí sẽ chỉ còn truy cập Flash-Lite, thay vì Flash và Pro như trước đây.",
+      "title_en": "Google set to limit free Gemini access",
+      "title_vi": "Google sắp giới hạn Gemini miễn phí"
     },
     {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-03 21:31",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. ",
-      "title_en": "An OpenAI safety employee has quit and is sounding the alarm",
-      "title_vi": "Một nhân viên an toàn OpenAI đã nghỉ việc và lên tiếng cảnh báo"
+      "title": "OpenAI bị điều tra sau khi AI tự vượt hàng rào bảo mật",
+      "link": "https://thanhnien.vn/openai-bi-dieu-tra-sau-khi-ai-tu-vuot-hang-rao-bao-mat-185261003230617808.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-04 08:41",
+      "summary": "OpenAI bị yêu cầu cung cấp thêm thông tin sau sự cố mô hình AI vượt biện pháp cách ly, truy cập internet và hệ thống bên ngoài khi thử nghiệm.",
+      "title_en": "OpenAI under investigation after AI bypasses security safeguards",
+      "title_vi": "OpenAI bị điều tra sau khi AI tự vượt hàng rào bảo mật"
     }
   ],
   "product": [
@@ -40,7 +40,17 @@
       "pub_date": "2026-10-04 22:15",
       "summary": "This new task force is Trump's latest response to the debate over AI safety.",
       "title_en": "Trump unveils his new Super Intelligence Force",
-      "title_vi": "Trump công bố Lực lượng Siêu Trí tuệ mới"
+      "title_vi": "Trump ra mắt Lực lượng Siêu Trí tuệ mới"
+    },
+    {
+      "title": "Gemini có thêm tính năng dành riêng cho người dùng điện thoại",
+      "link": "https://thanhnien.vn/gemini-co-them-tinh-nang-danh-rieng-cho-nguoi-dung-dien-thoai-185261003133532616.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-03 20:18",
+      "summary": "Thay vì nhập tên địa điểm, người dùng Gemini có thể chọn trực tiếp một khu vực trên bản đồ rồi yêu cầu AI tìm hiểu.",
+      "title_en": "Gemini adds features exclusively for mobile users",
+      "title_vi": "Gemini có thêm tính năng dành riêng cho người dùng điện thoại"
     }
   ],
   "funding": [],
@@ -53,7 +63,7 @@
       "pub_date": "2026-10-04 14:53",
       "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 59 # Comments: 46",
       "title_en": "What's the future for pure math research in the age of AI?",
-      "title_vi": "Tương lai của nghiên cứu toán học thuần túy trong kỷ nguyên AI là gì?"
+      "title_vi": "Tương lai của nghiên cứu toán học thuần túy trong kỷ nguyên AI?"
     },
     {
       "title": "An AI agent emailed researchers for help. It told us why",
@@ -63,7 +73,7 @@
       "pub_date": "2026-10-03 17:07",
       "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why Comments URL: https://news.ycombinator.com/item?id=49942865 Points: 49 # Commen",
       "title_en": "An AI agent emailed researchers for help. It told us why",
-      "title_vi": "Một tác nhân AI đã gửi email nhờ các nhà nghiên cứu giúp đỡ. Nó đã kể cho chúng tôi lý do"
+      "title_vi": "Một tác nhân AI đã gửi email nhờ các nhà nghiên cứu giúp đỡ. Nó cho biết lý do"
     }
   ],
   "industry": [],
@@ -75,7 +85,7 @@
       "lang": "vi",
       "pub_date": "2026-10-05 12:51",
       "summary": "Được sản xuất hàng loạt với số lượng khổng lồ, cơn lũ phim ngắn AI của Trung Quốc vừa bùng nổ đã sắp lụi tàn vì một vấn đề đau đầu: người xem quá bội thực với những nội dung na ná nhau.",
-      "title_en": "Chinese AI short films face 'oversupply crisis': Audiences overwhelmed, platforms shift back to paying real people",
+      "title_en": "Chinese AI short films hit by 'overproduction crisis': Audience overloaded, platforms return to paying humans",
       "title_vi": "Phim ngắn AI Trung Quốc rơi vào “khủng hoảng thừa”: Khán giả bội thực, nền tảng quay lại chi tiền cho người thật"
     },
     {
@@ -95,7 +105,7 @@
       "lang": "vi",
       "pub_date": "2026-10-05 11:07",
       "summary": "Những cảnh báo về khả năng trí tuệ nhân tạo (AI) một ngày nào đó trở thành mối đe dọa đối với sự tồn vong của loài người ngày càng xuất hiện nhiều hơn. Nhưng giữa một hệ thống AI ngày càng thông minh ",
-      "title_en": "AI scenario threatens human extinction",
+      "title_en": "AI scenarios posing existential threats to humanity",
       "title_vi": "Kịch bản AI đe dọa tồn vong loài người"
     },
     {
@@ -105,8 +115,28 @@
       "lang": "vi",
       "pub_date": "2026-10-05 10:35",
       "summary": "Cụ thể, chủ quán tung chiêu độc là món nước đặc trưng giá chỉ 9,9 nhân dân tệ (hơn 38.000 đồng). Khách đến gọi nước và bắt Wi-Fi của quán sẽ được cấp quyền dùng DeepSeek hoàn toàn miễn phí và không gi",
-      "title_en": "Unique China: Bar offers free AI tokens to patrons, sustains heavy losses yet determined to open more branches",
+      "title_en": "China's unique: Bar gives free AI tokens to customers, despite heavy losses plans to open more branches",
       "title_vi": "Độc lạ Trung Quốc: Quán bar miễn phí token AI cho khách đến nhậu, lỗ chổng vó vẫn quyết mở thêm chi nhánh"
+    },
+    {
+      "title": "Better Choice Awards 2026 tôn vinh giải pháp AI và hạ tầng số kiến tạo quốc gia",
+      "link": "https://thanhnien.vn/better-choice-awards-2026-ton-vinh-giai-phap-ai-va-ha-tang-so-kien-tao-quoc-gia-185261005082840494.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-05 09:57",
+      "summary": "Sự hiện diện đồng thời của các nền tảng số cơ sở, giải pháp AI tự chủ và hạ tầng siêu tính toán năm nay cho thấy chuyển đổi số tại Việt Nam đang hoàn thiện từ hạ tầng phần cứng cho đến dịch vụ đầu cuố",
+      "title_en": "Better Choice Awards 2026 honors AI solutions and national digital infrastructure",
+      "title_vi": "Better Choice Awards 2026 tôn vinh giải pháp AI và hạ tầng số kiến tạo quốc gia"
+    },
+    {
+      "title": "Hacker dùng AI tấn công loạt ngân hàng Hàn Quốc, hơn 65.000 người bị lộ thông tin",
+      "link": "https://thanhnien.vn/hacker-dung-ai-tan-cong-loat-ngan-hang-han-quoc-hon-65000-nguoi-bi-lo-thong-tin-185261005074453359.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-05 08:57",
+      "summary": "Chỉ trong vài ngày, 6 ngân hàng lớn của Hàn Quốc bị tấn công liên tục với sự xuất hiện của các công cụ AI, nguy cơ rò rỉ dữ liệu của hàng chục nghìn người.",
+      "title_en": "Hackers use AI to attack South Korean banks, over 65,000 people affected",
+      "title_vi": "Hacker dùng AI tấn công loạt ngân hàng Hàn Quốc, hơn 65.000 người bị lộ thông tin"
     },
     {
       "title": "Google thử nghiệm chip AI trong không gian",
@@ -115,7 +145,7 @@
       "lang": "vi",
       "pub_date": "2026-10-05 08:06",
       "summary": "VTV.vn - Google đã phóng vệ tinh mang 4 chip TPU lên quỹ đạo thấp để thử nghiệm khả năng hoạt động của chip AI trong môi trường khắc nghiệt của không gian.",
-      "title_en": "Google tests AI chip in space",
+      "title_en": "Google tests AI chips in space",
       "title_vi": "Google thử nghiệm chip AI trong không gian"
     },
     {
@@ -125,28 +155,8 @@
       "lang": "vi",
       "pub_date": "2026-10-05 05:34",
       "summary": "Apple cho biết sẽ thay đổi cơ chế bảo mật trên macOS nhằm kiểm soát chặt chẽ hơn khi các ứng dụng AI yêu cầu truy cập toàn bộ dữ liệu máy tính Mac.",
-      "title_en": "Apple tightens data access controls on macOS due to AI",
+      "title_en": "Apple tightens data access on macOS due to AI",
       "title_vi": "Apple siết quyền truy cập dữ liệu trên macOS vì AI"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-05 03:31",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "title_en": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "title_vi": "Google đóng băng chương trình tiền thưởng lỗ hổng mã nguồn mở do 'sự gia tăng đáng kể' các bài nộp từ AI"
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-05 03:08",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "title_en": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "title_vi": "Liệu 'siêu trí tuệ' và một thỏa thuận an toàn không ràng buộc có giải quyết được vấn đề hình ảnh của AI?"
     }
   ]
 }

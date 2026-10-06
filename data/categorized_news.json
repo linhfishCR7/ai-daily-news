@@ -1,37 +1,67 @@
 {
   "headline": [
     {
-      "title": "Một quản lý an toàn OpenAI từ chức vì lo tốc độ phát triển mô hình",
-      "link": "https://vnexpress.net/mot-quan-ly-an-toan-openai-tu-chuc-vi-lo-toc-do-phat-trien-mo-hinh-5128333.html",
-      "source": "VnExpress",
+      "title": "Tin buồn cho người dùng Gemini miễn phí",
+      "link": "https://genk.vn/tin-buon-cho-nguoi-dung-gemini-mien-phi-165261006081516351.chn",
+      "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-05 10:00",
-      "summary": "David Robinson, người từng giám sát báo cáo an toàn tại OpenAI và xin nghỉ việc tuần trước, chỉ trích văn hóa phát triển ưu tiên tốc độ phát hành sản phẩm của công ty.",
-      "title_en": "OpenAI safety manager resigns over concerns about AI development pace",
-      "title_vi": "Một quản lý an toàn OpenAI từ chức vì lo tốc độ phát triển mô hình"
+      "pub_date": "2026-10-06 09:05",
+      "summary": "Kể từ ngày 9/10, người dùng Gemini miễn phí sẽ chỉ còn truy cập Flash-Lite, thay vì Flash và Pro như trước đây.",
+      "title_en": "Bad news for free Gemini users",
+      "title_vi": "Tin buồn cho người dùng Gemini miễn phí"
     },
     {
-      "title": "Google sắp giới hạn Gemini miễn phí",
-      "link": "https://thanhnien.vn/google-sap-gioi-han-gemini-mien-phi-185261004180237462.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-10-05 08:05",
-      "summary": "Kể từ ngày 9.10, người dùng Gemini miễn phí sẽ chỉ còn truy cập Flash-Lite, thay vì Flash và Pro như trước đây.",
-      "title_en": "Google set to limit free Gemini access",
-      "title_vi": "Google sắp giới hạn Gemini miễn phí"
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-06 06:09",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory s",
+      "title_en": "Gemini Call for Me might tell your mom you’re running late",
+      "title_vi": "Gemini Call for Me có thể nói với mẹ bạn rằng bạn đang đến muộn"
     },
     {
-      "title": "OpenAI bị điều tra sau khi AI tự vượt hàng rào bảo mật",
-      "link": "https://thanhnien.vn/openai-bi-dieu-tra-sau-khi-ai-tu-vuot-hang-rao-bao-mat-185261003230617808.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-10-04 08:41",
-      "summary": "OpenAI bị yêu cầu cung cấp thêm thông tin sau sự cố mô hình AI vượt biện pháp cách ly, truy cập internet và hệ thống bên ngoài khi thử nghiệm.",
-      "title_en": "OpenAI under investigation after AI bypasses security safeguards",
-      "title_vi": "OpenAI bị điều tra sau khi AI tự vượt hàng rào bảo mật"
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-06 03:36",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "title_en": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "title_vi": "OpenAI sẽ bắt đầu đóng dấu bản quyền văn bản ChatGPT tại EU"
     }
   ],
   "product": [
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-06 02:33",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste",
+      "title_en": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "title_vi": "Reflection ra mắt Beam, mô hình AI trọng số mở cạnh tranh với các mô hình Trung Quốc với chi phí tính toán thấp hơn"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-06 01:29",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "title_en": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "title_vi": "TikTok triển khai trợ lý mua sắm AI và thanh toán một chạm"
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-05 22:14",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "title_en": "OpenAI launches visual ads that appear alongside image generation results",
+      "title_vi": "OpenAI ra mắt quảng cáo trực quan xuất hiện cùng kết quả tạo hình ảnh"
+    },
     {
       "title": "Trump unveils his new Super Intelligence Force",
       "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
@@ -40,123 +70,144 @@
       "pub_date": "2026-10-04 22:15",
       "summary": "This new task force is Trump's latest response to the debate over AI safety.",
       "title_en": "Trump unveils his new Super Intelligence Force",
-      "title_vi": "Trump ra mắt Lực lượng Siêu Trí tuệ mới"
-    },
-    {
-      "title": "Gemini có thêm tính năng dành riêng cho người dùng điện thoại",
-      "link": "https://thanhnien.vn/gemini-co-them-tinh-nang-danh-rieng-cho-nguoi-dung-dien-thoai-185261003133532616.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-10-03 20:18",
-      "summary": "Thay vì nhập tên địa điểm, người dùng Gemini có thể chọn trực tiếp một khu vực trên bản đồ rồi yêu cầu AI tìm hiểu.",
-      "title_en": "Gemini adds features exclusively for mobile users",
-      "title_vi": "Gemini có thêm tính năng dành riêng cho người dùng điện thoại"
+      "title_vi": "Trump công bố Lực lượng Siêu trí tuệ mới của mình"
     }
   ],
   "funding": [],
   "research": [
+    {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-05 21:35",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "title_en": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "title_vi": "Các nhà nghiên cứu đang theo dõi một 'hạm đội tác nhân' AI Trung Quốc"
+    },
     {
       "title": "What's the future for pure math research in the age of AI?",
       "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-10-04 14:53",
-      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 59 # Comments: 46",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 67 # Comments: 52",
       "title_en": "What's the future for pure math research in the age of AI?",
-      "title_vi": "Tương lai của nghiên cứu toán học thuần túy trong kỷ nguyên AI?"
-    },
-    {
-      "title": "An AI agent emailed researchers for help. It told us why",
-      "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-03 17:07",
-      "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why Comments URL: https://news.ycombinator.com/item?id=49942865 Points: 49 # Commen",
-      "title_en": "An AI agent emailed researchers for help. It told us why",
-      "title_vi": "Một tác nhân AI đã gửi email nhờ các nhà nghiên cứu giúp đỡ. Nó cho biết lý do"
+      "title_vi": "Tương lai nào cho nghiên cứu toán thuần túy trong kỷ nguyên AI?"
     }
   ],
-  "industry": [],
+  "industry": [
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "pub_date": "2026-10-05 22:47",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
+      "title_en": "Connecting AI agents to enterprise knowledge",
+      "title_vi": "Kết nối các tác nhân AI với tri thức doanh nghiệp"
+    },
+    {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-05 21:30",
+      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — ",
+      "title_en": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "title_vi": "Thượng nghị sĩ Adam Schiff về quy định AI, tự do ngôn luận và luận tội Trump một lần nữa"
+    },
+    {
+      "title": "AI glasses face their first major government crackdown",
+      "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-05 20:39",
+      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+      "title_en": "AI glasses face their first major government crackdown",
+      "title_vi": "Kính AI đối mặt với đợt trấn áp lớn đầu tiên từ chính phủ"
+    }
+  ],
   "other": [
     {
-      "title": "Phim ngắn AI Trung Quốc rơi vào “khủng hoảng thừa”: Khán giả bội thực, nền tảng quay lại chi tiền cho người thật",
-      "link": "https://genk.vn/phim-ngan-ai-trung-quoc-roi-vao-khung-hoang-thua-khan-gia-boi-thuc-nen-tang-quay-lai-chi-tien-cho-nguoi-that-165261005114746051.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-05 12:51",
-      "summary": "Được sản xuất hàng loạt với số lượng khổng lồ, cơn lũ phim ngắn AI của Trung Quốc vừa bùng nổ đã sắp lụi tàn vì một vấn đề đau đầu: người xem quá bội thực với những nội dung na ná nhau.",
-      "title_en": "Chinese AI short films hit by 'overproduction crisis': Audience overloaded, platforms return to paying humans",
-      "title_vi": "Phim ngắn AI Trung Quốc rơi vào “khủng hoảng thừa”: Khán giả bội thực, nền tảng quay lại chi tiền cho người thật"
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "link": "https://edworkingpapers.com/ai26-1551",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-06 07:00",
+      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 32 # Comments: 22",
+      "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "title_vi": "Dạy kèm AI với Khanmigo trong một thí nghiệm trường học hai năm"
     },
     {
-      "title": "Trải nghiệm máy pha trà AI ChaXplorer N5 tại Gala Better Choice Awards 2026",
-      "link": "https://genk.vn/trai-nghiem-may-pha-tra-ai-chaxplorer-n5-tai-gala-better-choice-awards-2026-165261005120815024.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-05 12:07",
-      "summary": "Đóng vai trò như một nghệ nhân trà đạo thu nhỏ, ChaXplorer N5 biến quy trình pha trà công phu phức tạp thành trải nghiệm thảnh thơi, trọn vẹn chỉ sau vài câu lệnh.",
-      "title_en": "Experience the ChaXplorer N5 AI tea maker at the Better Choice Awards 2026 Gala",
-      "title_vi": "Trải nghiệm máy pha trà AI ChaXplorer N5 tại Gala Better Choice Awards 2026"
-    },
-    {
-      "title": "Kịch bản AI đe dọa tồn vong loài người",
-      "link": "https://genk.vn/kich-ban-ai-de-doa-ton-vong-loai-nguoi-165261005110748938.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-05 11:07",
-      "summary": "Những cảnh báo về khả năng trí tuệ nhân tạo (AI) một ngày nào đó trở thành mối đe dọa đối với sự tồn vong của loài người ngày càng xuất hiện nhiều hơn. Nhưng giữa một hệ thống AI ngày càng thông minh ",
-      "title_en": "AI scenarios posing existential threats to humanity",
-      "title_vi": "Kịch bản AI đe dọa tồn vong loài người"
-    },
-    {
-      "title": "Độc lạ Trung Quốc: Quán bar miễn phí token AI cho khách đến nhậu, lỗ chổng vó vẫn quyết mở thêm chi nhánh",
-      "link": "https://genk.vn/doc-la-trung-quoc-quan-bar-mien-phi-token-ai-cho-khach-den-nhau-lo-chong-vo-van-quyet-mo-them-chi-nhanh-165261005103515674.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-05 10:35",
-      "summary": "Cụ thể, chủ quán tung chiêu độc là món nước đặc trưng giá chỉ 9,9 nhân dân tệ (hơn 38.000 đồng). Khách đến gọi nước và bắt Wi-Fi của quán sẽ được cấp quyền dùng DeepSeek hoàn toàn miễn phí và không gi",
-      "title_en": "China's unique: Bar gives free AI tokens to customers, despite heavy losses plans to open more branches",
-      "title_vi": "Độc lạ Trung Quốc: Quán bar miễn phí token AI cho khách đến nhậu, lỗ chổng vó vẫn quyết mở thêm chi nhánh"
-    },
-    {
-      "title": "Better Choice Awards 2026 tôn vinh giải pháp AI và hạ tầng số kiến tạo quốc gia",
-      "link": "https://thanhnien.vn/better-choice-awards-2026-ton-vinh-giai-phap-ai-va-ha-tang-so-kien-tao-quoc-gia-185261005082840494.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-10-05 09:57",
-      "summary": "Sự hiện diện đồng thời của các nền tảng số cơ sở, giải pháp AI tự chủ và hạ tầng siêu tính toán năm nay cho thấy chuyển đổi số tại Việt Nam đang hoàn thiện từ hạ tầng phần cứng cho đến dịch vụ đầu cuố",
-      "title_en": "Better Choice Awards 2026 honors AI solutions and national digital infrastructure",
-      "title_vi": "Better Choice Awards 2026 tôn vinh giải pháp AI và hạ tầng số kiến tạo quốc gia"
-    },
-    {
-      "title": "Hacker dùng AI tấn công loạt ngân hàng Hàn Quốc, hơn 65.000 người bị lộ thông tin",
-      "link": "https://thanhnien.vn/hacker-dung-ai-tan-cong-loat-ngan-hang-han-quoc-hon-65000-nguoi-bi-lo-thong-tin-185261005074453359.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-10-05 08:57",
-      "summary": "Chỉ trong vài ngày, 6 ngân hàng lớn của Hàn Quốc bị tấn công liên tục với sự xuất hiện của các công cụ AI, nguy cơ rò rỉ dữ liệu của hàng chục nghìn người.",
-      "title_en": "Hackers use AI to attack South Korean banks, over 65,000 people affected",
-      "title_vi": "Hacker dùng AI tấn công loạt ngân hàng Hàn Quốc, hơn 65.000 người bị lộ thông tin"
-    },
-    {
-      "title": "Google thử nghiệm chip AI trong không gian",
-      "link": "https://genk.vn/google-thu-nghiem-chip-ai-trong-khong-gian-165261005080614182.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-05 08:06",
-      "summary": "VTV.vn - Google đã phóng vệ tinh mang 4 chip TPU lên quỹ đạo thấp để thử nghiệm khả năng hoạt động của chip AI trong môi trường khắc nghiệt của không gian.",
-      "title_en": "Google tests AI chips in space",
-      "title_vi": "Google thử nghiệm chip AI trong không gian"
-    },
-    {
-      "title": "Apple siết quyền truy cập dữ liệu trên macOS vì AI",
-      "link": "https://vnexpress.net/apple-siet-quyen-truy-cap-du-lieu-tren-macos-vi-ai-5128081.html",
+      "title": "Nỗi lo 'xâm phạm quyền riêng tư' của động vật thời AI",
+      "link": "https://vnexpress.net/noi-lo-xam-pham-quyen-rieng-tu-cua-dong-vat-thoi-ai-5128123.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-10-05 05:34",
-      "summary": "Apple cho biết sẽ thay đổi cơ chế bảo mật trên macOS nhằm kiểm soát chặt chẽ hơn khi các ứng dụng AI yêu cầu truy cập toàn bộ dữ liệu máy tính Mac.",
-      "title_en": "Apple tightens data access on macOS due to AI",
-      "title_vi": "Apple siết quyền truy cập dữ liệu trên macOS vì AI"
+      "pub_date": "2026-10-06 07:00",
+      "summary": "AI thúc đẩy quá trình giải mã tiếng kêu của động vật, làm dấy lên lo ngại con người can thiệp quá sâu vào đời sống của chúng.",
+      "title_en": "Concerns about 'privacy invasion' of animals in the AI era",
+      "title_vi": "Nỗi lo 'xâm phạm quyền riêng tư' của động vật thời AI"
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-06 05:26",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "title_en": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "title_vi": "MCP cho giao tiếp giữa các tác nhân có thể là giao thức rủi ro nhất mà bạn chưa từng nghe đến"
+    },
+    {
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-06 03:14",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI",
+      "title_en": "This startup is issuing AI-generated acne prescriptions",
+      "title_vi": "Startup này đang cấp đơn thuốc trị mụn do AI tạo ra"
+    },
+    {
+      "title": "AI Companies Are Parasites",
+      "link": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-06 02:30",
+      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 62 # Comments: 35",
+      "title_en": "AI Companies Are Parasites",
+      "title_vi": "Các công ty AI là ký sinh trùng"
+    },
+    {
+      "title": "All the drama around AI’s takeover of mathematics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-06 02:28",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current syst",
+      "title_en": "All the drama around AI’s takeover of mathematics",
+      "title_vi": "Tất cả những tranh cãi xung quanh việc AI thống trị toán học"
+    },
+    {
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-06 02:14",
+      "summary": "The tool can free up over 12GB of storage.",
+      "title_en": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "title_vi": "Công cụ dòng lệnh nhanh chóng loại bỏ Apple Intelligence khỏi macOS 27"
+    },
+    {
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-06 02:05",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some a",
+      "title_en": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "title_vi": "Nhà điều hành Wikipedia nói rằng các bot 'lừa đảo' của OpenAI có thể liên quan đến sự cố gián đoạn hồi tháng Năm"
     }
   ]
 }

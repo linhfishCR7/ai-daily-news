@@ -1,37 +1,47 @@
 {
   "headline": [
     {
-      "title": "Tin buồn cho người dùng Gemini miễn phí",
-      "link": "https://genk.vn/tin-buon-cho-nguoi-dung-gemini-mien-phi-165261006081516351.chn",
+      "title": "24 tuổi, bỏ OpenAI để đặt cược vào AGI, từng được định giá 45 tỷ USD rồi phải bán tài sản cho tỷ phú Ken Griffin",
+      "link": "https://genk.vn/24-tuoi-bo-openai-de-dat-cuoc-vao-agi-tung-duoc-dinh-gia-45-ty-usd-roi-phai-ban-tai-san-cho-ty-phu-ken-griffin-16526100707212021.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-06 09:05",
-      "summary": "Kể từ ngày 9/10, người dùng Gemini miễn phí sẽ chỉ còn truy cập Flash-Lite, thay vì Flash và Pro như trước đây.",
-      "title_en": "Bad news for free Gemini users",
-      "title_vi": "Tin buồn cho người dùng Gemini miễn phí"
+      "pub_date": "2026-10-07 08:40",
+      "summary": "Chàng trai 24 tuổi này tin AGI sẽ đến vào năm 2027, để rồi chứng kiến đế chế AI của mình bốc hơi hàng chục tỷ USD.",
+      "title_en": "At 24, left OpenAI to bet on AGI, once valued at $45 billion then had to sell assets to billionaire Ken Griffin",
+      "title_vi": "24 tuổi, bỏ OpenAI để đặt cược vào AGI, từng được định giá 45 tỷ USD rồi phải bán tài sản cho tỷ phú Ken Griffin"
     },
     {
-      "title": "Gemini Call for Me might tell your mom you’re running late",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "title": "Tin tặc giả danh nhân viên Anthropic để nhắm vào chuyên gia AI Mỹ",
+      "link": "https://thanhnien.vn/tin-tac-gia-danh-nhan-vien-anthropic-de-nham-vao-chuyen-gia-ai-my-185261007021248398.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-07 08:08",
+      "summary": "Các chuyên gia AI tại Mỹ trở thành mục tiêu khi nhóm TA419 giả danh nhân viên Anthropic, xây dựng lòng tin rồi tìm cách đánh cắp thông tin đăng nhập.",
+      "title_en": "Hackers impersonate Anthropic employees to target American AI experts",
+      "title_vi": "Tin tặc giả danh nhân viên Anthropic để nhắm vào chuyên gia AI Mỹ"
+    },
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-06 06:09",
-      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory s",
-      "title_en": "Gemini Call for Me might tell your mom you’re running late",
-      "title_vi": "Gemini Call for Me có thể nói với mẹ bạn rằng bạn đang đến muộn"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-06 03:36",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "title_en": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "title_vi": "OpenAI sẽ bắt đầu đóng dấu bản quyền văn bản ChatGPT tại EU"
+      "pub_date": "2026-10-07 06:26",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related ",
+      "title_en": "OpenAI drops another batch of mathematical breakthroughs",
+      "title_vi": "OpenAI tung ra loạt đột phá toán học mới"
     }
   ],
   "product": [
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-07 01:22",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "title_en": "Hark releases an AI personal assistant with a focus on privacy",
+      "title_vi": "Hark ra mắt trợ lý AI cá nhân tập trung vào quyền riêng tư"
+    },
     {
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
       "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
@@ -63,40 +73,111 @@
       "title_vi": "OpenAI ra mắt quảng cáo trực quan xuất hiện cùng kết quả tạo hình ảnh"
     },
     {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch",
+      "title": "Hirundo Releases Westernized Qwen, Cutting Censored and CCP-Aligned Answers From 89.8% to 2.8% in the Leading Chinese AI Model",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSmc3ZmdMZmZrZGZ1bUI1aTJoeW92ajJQMFdJQk1iRkdGM203RzY1bmxqUk1OaUVfbkVxMTJUelo4anA0eUpjci1FVTYwaDFxM21DY19mc0ZBN182ejg4b3F4ZFpuUWZra3ZQR3B0dTFmRHdxVzFEWi04ZXZtMEZ6aWFGWnFROVd0bmp1aDlVaEM2LWZuMDhkQ0dkYUlvV19mWC10dlFXckU3QnBEMGtZM1dfNWhpM2VEcXByWEdramYta1hhaHhwUnBkdlpIOG9EYkZ6TGFfVWE3NEJ1Ni1FOHlQb3Baam5CNkE?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-10-04 22:15",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "title_en": "Trump unveils his new Super Intelligence Force",
-      "title_vi": "Trump công bố Lực lượng Siêu trí tuệ mới của mình"
+      "pub_date": "2026-10-05 20:05",
+      "summary": "Hirundo Releases Westernized Qwen, Cutting Censored and CCP-Aligned Answers From 89.8% to 2.8% in the Leading Chinese AI Model VentureBeat",
+      "title_en": "Hirundo Releases Westernized Qwen, Cutting Censored and CCP-Aligned Answers From 89.8% to 2.8% in the Leading Chinese AI Model",
+      "title_vi": "Hirundo phát hành Qwen Tây hóa, cắt giảm câu trả lời bị kiểm duyệt và theo CCP từ 89,8% xuống 2,8% trong mô hình AI hàng đầu Trung Quốc"
     }
   ],
-  "funding": [],
-  "research": [
+  "funding": [
     {
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-05 21:35",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "title_en": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "title_vi": "Các nhà nghiên cứu đang theo dõi một 'hạm đội tác nhân' AI Trung Quốc"
+      "pub_date": "2026-10-07 05:34",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "title_en": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "title_vi": "Cựu kỹ sư Ramp huy động 20 triệu USD cho nền tảng Melius sau khi hủy bỏ sản phẩm đầu tiên"
     },
     {
-      "title": "What's the future for pure math research in the age of AI?",
-      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "source": "Hacker News",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-04 14:53",
-      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 67 # Comments: 52",
-      "title_en": "What's the future for pure math research in the age of AI?",
-      "title_vi": "Tương lai nào cho nghiên cứu toán thuần túy trong kỷ nguyên AI?"
+      "pub_date": "2026-10-07 03:00",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "title_en": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "title_vi": "Công ty khởi nghiệp điện toán AI Lambda huy động 4 tỷ USD trước kế hoạch IPO"
+    }
+  ],
+  "research": [
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "pub_date": "2026-10-07 02:57",
+      "summary": "",
+      "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "title_vi": "EmbeddingGemma 2: mô hình nhúng đa phương thức nhẹ, mở"
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-06 23:35",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research ",
+      "title_en": "Mirror Particle is building a ‘world model’ of human behavior",
+      "title_vi": "Mirror Particle đang xây dựng 'mô hình thế giới' về hành vi con người"
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-06 21:33",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "title_en": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "title_vi": "Mô hình 1T mới của Mistral nhằm vượt qua các đối thủ đóng và mở"
+    },
+    {
+      "title": "Atlassian deepens its OpenAI partnership with a spend commitment — but its platform stays firmly multi-model",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ01GakxYZUVSM1Q2MmZxbDFHNGQ2WGV2SEVqdEtacmFWSVVybUdiNUI3S2I5R0g1aEd4WjJtcTJpSWVaYnJzMFdnNTZGeC0tWmFXdE9VUE95a3ZBSW05M3FQUFhFMTNiNXZJcVVCU25HT2VhZVJKaHA2MlRQUDNBRzZqdm81WlhJbDFVOVhoXzh6bVgtZDExa1BLUmdFaER1VGFNWGxMejdwUWtfUVYybzFPTGxPa3BUeTBkaDRmcDFzVlpxWERnVHlQaE9jcWk4WWExQ1pqOWlDMlVM?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-06 20:17",
+      "summary": "Atlassian deepens its OpenAI partnership with a spend commitment — but its platform stays firmly multi-model VentureBeat",
+      "title_en": "Atlassian deepens its OpenAI partnership with a spend commitment — but its platform stays firmly multi-model",
+      "title_vi": "Atlassian làm sâu sắc quan hệ đối tác OpenAI với cam kết chi tiêu — nhưng nền tảng vẫn đa mô hình vững chắc"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-10-06 19:00",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+      "title_vi": "Jump Trading mở rộng quy mô nghiên cứu định lượng với ChatGPT như thế nào"
     }
   ],
   "industry": [
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-10-06 23:00",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "title_vi": "Atlassian và OpenAI mở rộng quan hệ đối tác để biến kiến thức doanh nghiệp thành hành động"
+    },
+    {
+      "title": "Agentic Enterprise: Khi AI đi vào lõi vận hành",
+      "link": "https://genk.vn/agentic-enterprise-khi-ai-di-vao-loi-van-hanh-165261006150804652.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-06 16:00",
+      "summary": "Khi AI Agent bắt đầu xử lý nghiệp vụ trên ERP/CRM, doanh nghiệp phải giải quyết một bài toán lớn hơn việc lựa chọn mô hình đó là tổ chức lại cách dữ liệu, hệ thống và con người phối hợp.",
+      "title_en": "Agentic Enterprise: When AI enters the core of operations",
+      "title_vi": "Agentic Enterprise: Khi AI đi vào lõi vận hành"
+    },
     {
       "title": "Connecting AI agents to enterprise knowledge",
       "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
@@ -105,17 +186,7 @@
       "pub_date": "2026-10-05 22:47",
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
       "title_en": "Connecting AI agents to enterprise knowledge",
-      "title_vi": "Kết nối các tác nhân AI với tri thức doanh nghiệp"
-    },
-    {
-      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-05 21:30",
-      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — ",
-      "title_en": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "title_vi": "Thượng nghị sĩ Adam Schiff về quy định AI, tự do ngôn luận và luận tội Trump một lần nữa"
+      "title_vi": "Kết nối tác nhân AI với kiến thức doanh nghiệp"
     },
     {
       "title": "AI glasses face their first major government crackdown",
@@ -125,89 +196,89 @@
       "pub_date": "2026-10-05 20:39",
       "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
       "title_en": "AI glasses face their first major government crackdown",
-      "title_vi": "Kính AI đối mặt với đợt trấn áp lớn đầu tiên từ chính phủ"
+      "title_vi": "Kính AI đối mặt đợt trấn áp lớn đầu tiên từ chính phủ"
     }
   ],
   "other": [
     {
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "link": "https://edworkingpapers.com/ai26-1551",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-06 07:00",
-      "summary": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 32 # Comments: 22",
-      "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "title_vi": "Dạy kèm AI với Khanmigo trong một thí nghiệm trường học hai năm"
-    },
-    {
-      "title": "Nỗi lo 'xâm phạm quyền riêng tư' của động vật thời AI",
-      "link": "https://vnexpress.net/noi-lo-xam-pham-quyen-rieng-tu-cua-dong-vat-thoi-ai-5128123.html",
-      "source": "VnExpress",
+      "title": "Điều hòa AI có thực sự đáng tiền hay chỉ là chiêu quảng cáo?",
+      "link": "https://thanhnien.vn/dieu-hoa-ai-co-thuc-su-dang-tien-hay-chi-la-chieu-quang-cao-18526100523483061.htm",
+      "source": "Thanh Niên",
       "lang": "vi",
-      "pub_date": "2026-10-06 07:00",
-      "summary": "AI thúc đẩy quá trình giải mã tiếng kêu của động vật, làm dấy lên lo ngại con người can thiệp quá sâu vào đời sống của chúng.",
-      "title_en": "Concerns about 'privacy invasion' of animals in the AI era",
-      "title_vi": "Nỗi lo 'xâm phạm quyền riêng tư' của động vật thời AI"
+      "pub_date": "2026-10-07 07:47",
+      "summary": "Điều hòa AI có thể nhận biết người trong phòng và dự đoán tải nhiệt, nhưng lợi ích chưa chắc tương xứng chi phí.",
+      "title_en": "Is AI air conditioning really worth the money or just a marketing gimmick?",
+      "title_vi": "Điều hòa AI có thực sự đáng tiền hay chỉ là chiêu quảng cáo?"
     },
     {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-06 05:26",
-      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-      "title_en": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "title_vi": "MCP cho giao tiếp giữa các tác nhân có thể là giao thức rủi ro nhất mà bạn chưa từng nghe đến"
-    },
-    {
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-06 03:14",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI",
-      "title_en": "This startup is issuing AI-generated acne prescriptions",
-      "title_vi": "Startup này đang cấp đơn thuốc trị mụn do AI tạo ra"
-    },
-    {
-      "title": "AI Companies Are Parasites",
-      "link": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-06 02:30",
-      "summary": "Article URL: https://www.coryd.dev/posts/2026/ai-companies-are-parasites Comments URL: https://news.ycombinator.com/item?id=49969369 Points: 62 # Comments: 35",
-      "title_en": "AI Companies Are Parasites",
-      "title_vi": "Các công ty AI là ký sinh trùng"
+      "pub_date": "2026-10-07 06:50",
+      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 27 # Comments: 3",
+      "title_en": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "title_vi": "Hàn Quốc cho biết tác nhân AI có vẻ đã được dùng để tấn công các ngân hàng nước này"
     },
     {
-      "title": "All the drama around AI’s takeover of mathematics",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "source": "The Verge",
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-06 02:28",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current syst",
-      "title_en": "All the drama around AI’s takeover of mathematics",
-      "title_vi": "Tất cả những tranh cãi xung quanh việc AI thống trị toán học"
+      "pub_date": "2026-10-07 05:17",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 405 # Comments: 329",
+      "title_en": "Sharing AI progress in mathematics",
+      "title_vi": "Chia sẻ tiến bộ AI trong toán học"
     },
     {
-      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "link": "https://penguin-mail.com/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-07 04:59",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 63 # Comments: 19",
+      "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "title_vi": "Penguin Mail – ứng dụng email Rust mã nguồn mở cho Linux có AI"
+    },
+    {
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
       "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-10-06 02:14",
-      "summary": "The tool can free up over 12GB of storage.",
-      "title_en": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-      "title_vi": "Công cụ dòng lệnh nhanh chóng loại bỏ Apple Intelligence khỏi macOS 27"
+      "pub_date": "2026-10-07 03:50",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "title_en": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "title_vi": "OpenAI sẽ đóng dấu mặc định đầu ra ChatGPT—nhưng chỉ ở EU"
     },
     {
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "source": "The Verge",
+      "title": "How AI decision models could change content moderation",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-06 02:05",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some a",
-      "title_en": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "title_vi": "Nhà điều hành Wikipedia nói rằng các bot 'lừa đảo' của OpenAI có thể liên quan đến sự cố gián đoạn hồi tháng Năm"
+      "pub_date": "2026-10-07 03:35",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "title_en": "How AI decision models could change content moderation",
+      "title_vi": "Mô hình quyết định AI có thể thay đổi kiểm duyệt nội dung như thế nào"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-07 02:56",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand",
+      "title_en": "The next hurdle for AI agents: getting websites to let them in",
+      "title_vi": "Rào cản tiếp theo cho tác nhân AI: khiến các website cho phép chúng vào"
+    },
+    {
+      "title": "Few AI agents rely on semantic layers",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWjllM2V1NTFFNFNlem8xNGZlRy1nVWxFdFc3YTlRXzRyYThXSVY3LWNjUzNVb21RMDVYZGlDdElXV2U2VFFfU0FSSExpdDFuS0JUT3Q2NlY4SlZKb0NqdV9pbFc1YU45UnRrbXE2NTh0ZXFoWjJ5VzhWX2NUYVdRYVpnUVhZNk9fcEJkM2NNYnpSd1dobzBVSXhadzAxcVdFVVdoMVBjNWYwRFZBYm9SekZrSkZ1aXpIUWRZeDZmNF94MGM2enZpR2VpUkFGYVlUS2c?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-07 00:57",
+      "summary": "Few AI agents rely on semantic layers VentureBeat",
+      "title_en": "Few AI agents rely on semantic layers",
+      "title_vi": "Ít tác nhân AI dựa vào lớp ngữ nghĩa"
     }
   ]
 }

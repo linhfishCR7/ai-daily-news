@@ -1,6 +1,26 @@
 {
   "headline": [
     {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-10 21:41",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"",
+      "title_en": "Anthropic is cutting off its internal evaluations from the internet",
+      "title_vi": "Anthropic đang cắt đứt các đánh giá nội bộ khỏi internet"
+    },
+    {
+      "title": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải",
+      "link": "https://vnexpress.net/cuoc-doi-dau-giua-openai-va-ba-nha-nghien-cuu-bi-sa-thai-5130579.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-10 11:00",
+      "summary": "OpenAI sa thải ba nhà nghiên cứu với lý do tuồn thông tin mật, nhưng nhóm này khẳng định nguyên nhân thực chất liên quan đến an toàn AI.",
+      "title_en": "The showdown between OpenAI and three fired researchers",
+      "title_vi": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải"
+    },
+    {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "source": "TechCrunch",
@@ -8,27 +28,7 @@
       "pub_date": "2026-10-10 07:18",
       "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
       "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "title_vi": "Anthropic không thể kiểm soát đáng tin cậy các tác nhân AI của mình. Thay vào đó, họ cắt đứt các đánh giá nội bộ khỏi internet trực tiếp"
-    },
-    {
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-10 04:15",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the P",
-      "title_en": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "title_vi": "AI của Anthropic cung cấp cho cảnh sát Philadelphia một mẹo giả về vụ án mạng chưa được giải quyết"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-10 02:36",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "title_vi": "Mô hình AI của Anthropic gửi mẹo giả về vụ giết người cho cảnh sát Philadelphia"
+      "title_vi": "Anthropic không thể kiểm soát đáng tin cậy các tác nhân AI của mình. Thay vào đó, họ đang cắt đứt các đánh giá nội bộ khỏi internet trực tiếp"
     }
   ],
   "product": [
@@ -51,39 +51,19 @@
       "summary": "ZoomInfo Launches Native ClickUp Integration Through GTM.AI VentureBeat",
       "title_en": "ZoomInfo Launches Native ClickUp Integration Through GTM.AI",
       "title_vi": "ZoomInfo ra mắt tích hợp ClickUp gốc thông qua GTM.AI"
-    },
-    {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-09 04:53",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic secur",
-      "title_en": "Anthropic launches free AI security scans for open-source projects",
-      "title_vi": "Anthropic ra mắt quét bảo mật AI miễn phí cho các dự án mã nguồn mở"
-    },
-    {
-      "title": "Magnific One launches to give teams an image generator that avoids the 'AI look' and automatically upholds their brand kit",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT0F6RlNTamdleGJpOUs2Vmp5R296alQ1TEJUY3dGdTBrdmtCaUw1NVJ5NFczMG5BNmEwWWpLMHBabUR3VTVub2dxYnd4Y2lPTVg2T1B4TXNwVlRfQjcySG5lcWRRQlBDM240MENla0JpRkhadDlqT1d2U3p6LVN3U0w2bHNWT25sdTk5NjlBeW9qRHhlQm9ZRjY2dzhOSkJsbjZYd01aNkFybmlSako1bllxcjBRMmhNay1UeUk2MVBRZXMyOGtGdFJKM3dxMVBoLU5IWkUwbGlLMnpHZC1ELV81TDd6UXF4RnREOXVKNA?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-09 04:11",
-      "summary": "Magnific One launches to give teams an image generator that avoids the 'AI look' and automatically upholds their brand kit VentureBeat",
-      "title_en": "Magnific One launches to give teams an image generator that avoids the 'AI look' and automatically upholds their brand kit",
-      "title_vi": "Magnific One ra mắt để cung cấp cho các nhóm một trình tạo hình ảnh tránh 'vẻ ngoài AI' và tự động duy trì bộ nhận diện thương hiệu của họ"
-    },
-    {
-      "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
-      "link": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-09 02:43",
-      "summary": "Article URL: https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics Comments URL: https://news.ycombinator.com/item?id=50011028 Points: 39",
-      "title_en": "License update: AI derivation prohibited on all my art, lore, stories, comics",
-      "title_vi": "Cập nhật giấy phép: Cấm phái sinh AI trên tất cả nghệ thuật, truyền thuyết, câu chuyện, truyện tranh của tôi"
     }
   ],
   "funding": [
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-11 01:48",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 115 # Comments: 82",
+      "title_en": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "title_vi": "Nvidia đang đàm phán mua lại công ty khởi nghiệp mô hình 'mở' của Mỹ Reflection AI"
+    },
     {
       "title": "Batman Ben Affleck am hiểu AI đến khó tin: Biết lập trình Python, thành lập startup AI được Netflix mua lại",
       "link": "https://genk.vn/batman-ben-affleck-am-hieu-ai-den-kho-tin-biet-lap-trinh-python-thanh-lap-startup-ai-duoc-netflix-mua-lai-165261010075452586.chn",
@@ -91,7 +71,7 @@
       "lang": "vi",
       "pub_date": "2026-10-10 08:19",
       "summary": "VTV.vn - Không chỉ vậy, tài tử Hollywood này còn cho rằng AI sẽ là công cụ hỗ trợ hữu ích thay vì thay thế con người trong lĩnh vực nghệ thuật.",
-      "title_en": "Batman Ben Affleck understands AI incredibly well: Knows Python programming, founded AI startup acquired by Netflix",
+      "title_en": "Batman Ben Affleck is incredibly AI-savvy: knows Python programming, founded an AI startup that was bought by Netflix",
       "title_vi": "Batman Ben Affleck am hiểu AI đến khó tin: Biết lập trình Python, thành lập startup AI được Netflix mua lại"
     },
     {
@@ -100,51 +80,31 @@
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-10-10 00:02",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 273 # Comments: 209",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 431 # Comments: 343",
       "title_en": "Typesafe AI raises $870M at $7.5B",
       "title_vi": "Typesafe AI huy động 870 triệu USD ở mức định giá 7,5 tỷ USD"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-09 01:19",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "title_en": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "title_vi": "Bảng xếp hạng AI phổ biến Arena gần như tăng gấp đôi định giá lên 3,1 tỷ USD trong 10 tháng"
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-09 01:19",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "title_en": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "title_vi": "Doanh thu của OpenAI được báo cáo thấp hơn 20 tỷ USD so với dự kiến trước đây"
-    },
-    {
-      "title": "TP HCM muốn đầu tư mạo hiểm để đưa nghiên cứu AI ra thị trường",
-      "link": "https://vnexpress.net/tp-hcm-muon-dau-tu-mao-hiem-de-dua-nghien-cuu-ai-ra-thi-truong-5129981.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-08 16:58",
-      "summary": "Phó chủ tịch TP HCM Trương Minh Huy Vũ cho biết thành phố đang chuẩn bị hạ tầng, dữ liệu và cơ chế vốn để các nhóm nghiên cứu AI đưa sản phẩm ra thực tế, có thêm nhiều startup công nghệ tỷ USD.",
-      "title_en": "Ho Chi Minh City wants venture investment to bring AI research to market",
-      "title_vi": "TP HCM muốn đầu tư mạo hiểm để đưa nghiên cứu AI ra thị trường"
     }
   ],
   "research": [
     {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
       "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-10-10 05:00",
       "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 P",
-      "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "title_vi": "Mô hình AI của Anthropic gửi mẹo giả về vụ giết người chưa được giải quyết ở Philly"
+      "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "title_vi": "Cảnh sát cho biết mô hình AI của Anthropic gửi thông tin sai lệch về vụ án mạng chưa được giải quyết ở Philly"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to the police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-10 02:44",
+      "summary": "Article URL: https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50025713 Points: 20 # Comments",
+      "title_en": "An Anthropic AI model sent a false homicide tip to the police",
+      "title_vi": "Một mô hình AI của Anthropic đã gửi thông tin sai lệch về vụ giết người cho cảnh sát"
     },
     {
       "title": "OpenAI doubles down on decision to fire three AI safety researchers",
@@ -164,30 +124,40 @@
       "pub_date": "2026-10-09 14:00",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "title_vi": "Asana cắt giảm chi phí mô hình 76 lần trong thử nghiệm trình duyệt với GPT-6.1 Sol"
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-09 03:04",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet",
-      "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "title_vi": "Các nhà nghiên cứu an toàn AI bị OpenAI sa thải phản đối cáo buộc hành vi sai trái, cảnh báo về hiệu ứng làm nản lòng"
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-09 01:16",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele",
-      "title_en": "Anthropic changes usage policy to ban model abuse and election interference",
-      "title_vi": "Anthropic thay đổi chính sách sử dụng để cấm lạm dụng mô hình và can thiệp bầu cử"
+      "title_vi": "Asana cắt giảm chi phí mô hình 76 lần trong các bài kiểm tra trình duyệt với GPT-6.1 Sol"
     }
   ],
   "industry": [
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-11 02:50",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "title_en": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "title_vi": "Apple tiết lộ thỏa thuận thuê nhóm và cấp phép công nghệ từ công ty khởi nghiệp podcast cá nhân hóa Huxe"
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-11 01:52",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t",
+      "title_en": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "title_vi": "DistroKid đã lặng lẽ gỡ bỏ các bài hát để đáp trả vụ kiện của UMG"
+    },
+    {
+      "title": "Từ 15/11, chuyển tiền trên 10 triệu đồng, 50 triệu đồng trong có thêm quy định mới liên quan đến AI",
+      "link": "https://genk.vn/tu-15-11-chuyen-tien-tren-10-trieu-dong-50-trieu-dong-trong-co-them-quy-dinh-moi-lien-quan-den-ai-165261010173232241.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-10 17:32",
+      "summary": "Từ 15/11/2026, hệ thống AI tự động thực hiện giao dịch thanh toán trên 10 triệu đồng/lần với khách hàng cá nhân, trên 50 triệu đồng/lần với khách hàng tổ chức được xác định thuộc nhóm rủi ro cao, phải",
+      "title_en": "From November 15, transfers over 10 million VND, 50 million VND will have new regulations related to AI",
+      "title_vi": "Từ 15/11, chuyển tiền trên 10 triệu đồng, 50 triệu đồng trong có thêm quy định mới liên quan đến AI"
+    },
     {
       "title": "Ông Trump tuyên bố không được gọi AI phải là SI, gọi sai sẽ bị coi là kẻ thù của nhà Trắng: Elon Musk hứa đổi tên thành SpaceXSI",
       "link": "https://genk.vn/ong-trump-tuyen-bo-khong-duoc-goi-ai-phai-la-si-goi-sai-se-bi-coi-la-ke-thu-cua-nha-trang-elon-musk-hua-doi-ten-thanh-spacexsi-165261010083910881.chn",
@@ -195,7 +165,7 @@
       "lang": "vi",
       "pub_date": "2026-10-10 08:39",
       "summary": "“Hoặc là SI, hoặc không gì cả.”",
-      "title_en": "Mr. Trump declares AI must not be called SI, calling it wrongly will be considered an enemy of the White House: Elon Musk promises to rename it to SpaceXSI",
+      "title_en": "Trump declares AI must not be called SI, misnaming will be considered an enemy of the White House: Elon Musk promises to rename to SpaceXSI",
       "title_vi": "Ông Trump tuyên bố không được gọi AI phải là SI, gọi sai sẽ bị coi là kẻ thù của nhà Trắng: Elon Musk hứa đổi tên thành SpaceXSI"
     },
     {
@@ -207,118 +177,88 @@
       "summary": "VTV.vn - Google cùng các đối tác tại Việt Nam vừa công bố 750 dự án ứng dụng AI được phát triển trong khuôn khổ sáng kiến AI Riser 2026.",
       "title_en": "Google promotes practical AI applications in Vietnam, 750 projects developed",
       "title_vi": "Google thúc đẩy ứng dụng AI thực tiễn tại Việt Nam, 750 dự án được phát triển"
-    },
-    {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-09 21:25",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" ",
-      "title_en": "Trump’s attempt to rename AI is looking awfully artificial",
-      "title_vi": "Nỗ lực đổi tên AI của Trump trông rất giả tạo"
-    },
-    {
-      "title": "\"Hố đen\" AI hút tiền: Elon Musk muốn huy động 40 tỷ USD để SpaceX mua chip NVIDIA",
-      "link": "https://genk.vn/ho-den-ai-hut-tien-elon-musk-muon-huy-dong-40-ty-usd-de-spacex-mua-chip-nvidia-165261009094443267.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-09 09:44",
-      "summary": "SpaceX của Elon Musk đang tìm cách huy động khoảng 40 tỷ USD trong một thương vụ do Apollo Global Management dẫn dắt, nhằm tài trợ cho việc mua chip NVIDIA.",
-      "title_en": "\"Black hole\" AI sucking money: Elon Musk wants to raise 40 billion USD for SpaceX to buy NVIDIA chips",
-      "title_vi": "\"Hố đen\" AI hút tiền: Elon Musk muốn huy động 40 tỷ USD để SpaceX mua chip NVIDIA"
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-08 18:15",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-      "title_en": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "title_vi": "Vụ cá cược lớn của Nvidia vào AI vật lý nhằm mục tiêu robotaxi an toàn hơn, robot hình người"
     }
   ],
   "other": [
     {
-      "title": "Thiếu niên kẹt trên vách núi sau khi dùng AI lên lộ trình",
-      "link": "https://vnexpress.net/thieu-nien-ket-tren-vach-nui-sau-khi-dung-ai-len-lo-trinh-5130305.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-10 08:00",
-      "summary": "Bryce Vincent Gowryluk, 16 tuổi, dùng chatbot AI Claude hỗ trợ lập tuyến đường di chuyển, nhưng sau đó mắc kẹt trên vách núi và được giải cứu khẩn cấp.",
-      "title_en": "Teenager stuck on cliff after using AI to plan route",
-      "title_vi": "Thiếu niên kẹt trên vách núi sau khi dùng AI lên lộ trình"
-    },
-    {
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-10 05:04",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "title_en": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "title_vi": "Máy bay không người lái của Ukraine phá hủy trung tâm dữ liệu AI thuộc về 'Google của Nga'"
-    },
-    {
-      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-      "link": "https://codeberg.org/ethical-foss/open-slopware",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-10 02:50",
-      "summary": "Article URL: https://codeberg.org/ethical-foss/open-slopware Comments URL: https://news.ycombinator.com/item?id=50025767 Points: 25 # Comments: 10",
-      "title_en": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-      "title_vi": "open-slopware – Các lựa chọn thay thế cho các dự án FOSS chọn sử dụng LLM/AI"
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-10 02:43",
-      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-      "title_en": "AI coding agents generate more code, but not more software",
-      "title_vi": "Các tác nhân lập trình AI tạo ra nhiều mã hơn, nhưng không tạo ra nhiều phần mềm hơn"
-    },
-    {
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-10 02:09",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr",
-      "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "title_vi": "'Hoàn toàn điên rồ': Các nhà toán học sẽ cần nhiều năm để hiểu được bản phát hành mới nhất của OpenAI"
+      "pub_date": "2026-10-11 05:10",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t",
+      "title_en": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "title_vi": "Satya Nadella nói chúng ta nên cho rằng tất cả các mô hình AI đều 'bị xâm phạm'"
     },
     {
-      "title": "AI disqualification yields new Nikon Small World in Motion winner",
-      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-      "source": "Ars Technica",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-10 01:44",
-      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-      "title_en": "AI disqualification yields new Nikon Small World in Motion winner",
-      "title_vi": "Việc loại do AI mang lại người chiến thắng mới cho Nikon Small World in Motion"
+      "pub_date": "2026-10-11 04:47",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "title_en": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "title_vi": "Satya Nadella của Microsoft nói rằng các mô hình AI cần một 'phanh khẩn cấp'"
     },
     {
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "source": "The Verge",
+      "title": "AI agents can be unpredictable. Your control layer shouldn't be.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVBMb093OXRMVVF5Y0pPU0RXaTJNVkFTNFRHejFUWHRQYl9hNjV5aVZHYm9vVm9vOGhoRkxxQzBPckVtd0c1aXNibkp4eE40SXNmeURPSzZaX05YOEg1S01ydDQtazFCVjAta0d4Y2xjT0lJNHdtMWVNMWxBZTlzUjViVGZBQVVFclFlZElKOFg1M1g2OEEya0lGYVEwb1Zy?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-10-10 01:06",
-      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place",
-      "title_en": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "title_vi": "Người chiến thắng cuộc thi video hiển vi Nikon bị loại vì sử dụng AI tạo sinh"
+      "pub_date": "2026-10-11 04:05",
+      "summary": "AI agents can be unpredictable. Your control layer shouldn't be. VentureBeat",
+      "title_en": "AI agents can be unpredictable. Your control layer shouldn't be.",
+      "title_vi": "Các tác nhân AI có thể không thể đoán trước. Lớp kiểm soát của bạn không nên như vậy."
     },
     {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+      "link": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-10 00:42",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=",
-      "title_en": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "title_vi": "Những điều các nhà toán học nên biết về Lean Theorem Prover: độ tin cậy & AI"
+      "pub_date": "2026-10-11 02:39",
+      "summary": "Article URL: https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/ Comments URL: https://news.ycombinator.com/item?id=50036390 Points: 28 # Comments: 11",
+      "title_en": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+      "title_vi": "Nicolas Cage từ chối ký thỏa thuận AI của Amazon: 'Tôi không phải là diễn viên thân thiện với AI'"
+    },
+    {
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-11 01:10",
+      "summary": "Article URL: https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50035550 Points: 40 # Comments",
+      "title_en": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "title_vi": "Anthropic tiết lộ vụ gửi thông tin sai lệch cho cảnh sát từ 2 tháng trước trong số các sự cố AI mới"
+    },
+    {
+      "title": "AI Is Throwing a Roadside Picnic",
+      "link": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-10 23:19",
+      "summary": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 45 # Comments: 45",
+      "title_en": "AI Is Throwing a Roadside Picnic",
+      "title_vi": "AI đang tổ chức một buổi dã ngoại bên đường"
+    },
+    {
+      "title": "My personal AI agent posted my bank details on company Slack",
+      "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-10 21:46",
+      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 60 # Comments: 64",
+      "title_en": "My personal AI agent posted my bank details on company Slack",
+      "title_vi": "Tác nhân AI cá nhân của tôi đã đăng chi tiết ngân hàng của tôi lên Slack công ty"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-10 21:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "title_en": "Here are the top AI agents that can live in your text messages",
+      "title_vi": "Đây là những tác nhân AI hàng đầu có thể sống trong tin nhắn văn bản của bạn"
     }
   ]
 }

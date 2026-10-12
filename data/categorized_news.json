@@ -1,56 +1,46 @@
 {
   "headline": [
     {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-10 21:41",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"",
-      "title_en": "Anthropic is cutting off its internal evaluations from the internet",
-      "title_vi": "Anthropic đang cắt đứt các đánh giá nội bộ khỏi internet"
-    },
-    {
-      "title": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải",
-      "link": "https://vnexpress.net/cuoc-doi-dau-giua-openai-va-ba-nha-nghien-cuu-bi-sa-thai-5130579.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-10 11:00",
-      "summary": "OpenAI sa thải ba nhà nghiên cứu với lý do tuồn thông tin mật, nhưng nhóm này khẳng định nguyên nhân thực chất liên quan đến an toàn AI.",
-      "title_en": "The showdown between OpenAI and three fired researchers",
-      "title_vi": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-10 07:18",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "title_vi": "Anthropic không thể kiểm soát đáng tin cậy các tác nhân AI của mình. Thay vào đó, họ đang cắt đứt các đánh giá nội bộ khỏi internet trực tiếp"
+      "pub_date": "2026-10-11 21:00",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "title_en": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "title_vi": "Các giám đốc này cho rằng AI giọng nói chưa đạt đến khoảnh khắc ChatGPT của nó"
+    },
+    {
+      "title": "Google tiếp tục làm khó người dùng Gemini miễn phí",
+      "link": "https://thanhnien.vn/google-tiep-tuc-lam-kho-nguoi-dung-gemini-mien-phi-18526101116330207.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-11 20:10",
+      "summary": "Google bắt đầu triển khai thay đổi trên Gemini, khiến người dùng miễn phí mất quyền tự chọn mô hình AI (trí tuệ nhân tạo) như trước đây.",
+      "title_en": "Google continues to make things difficult for free Gemini users",
+      "title_vi": "Google tiếp tục làm khó người dùng Gemini miễn phí"
+    },
+    {
+      "title": "Tuyên bố “phần mềm đã hết thời”, một lập trình viên dùng Claude Opus vibe-code 7 phần mềm của Adobe, phát miễn phí cho người dùng",
+      "link": "https://genk.vn/tuyen-bo-phan-mem-da-het-thoi-mot-lap-trinh-vien-dung-claude-opus-vibe-code-7-phan-mem-cua-adobe-phat-mien-phi-cho-nguoi-dung-165261011151831585.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-11 15:18",
+      "summary": "Động lực ban đầu của Thomas là sự khó chịu khi phải trả phí để được hủy thuê bao của Adobe.",
+      "title_en": "Claiming “software is over,” a programmer uses Claude Opus to vibe-code 7 Adobe software programs, releasing them for free",
+      "title_vi": "Tuyên bố “phần mềm đã hết thời”, một lập trình viên dùng Claude Opus vibe-code 7 phần mềm của Adobe, phát miễn phí cho người dùng"
     }
   ],
   "product": [
     {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-10 04:41",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "title_en": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "title_vi": "Nhà sản xuất mô hình AI phi văn bản Jev được định giá 7,5 tỷ USD chỉ vài tuần sau khi ra mắt"
-    },
-    {
-      "title": "ZoomInfo Launches Native ClickUp Integration Through GTM.AI",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa04tTlVmVTN0dTdFNmlhT2tUbVMzeDdHQXpFcm9XZ3NMQ2ZmbUpvTHdBTmZfajRGV3ZNdDJDS1B5YlZUTkFJczVLSVhLUnRZYnpwemRPR1J5TTZzZ25ZSlMwcDMwaGxqRU0zbGlPbzBHVThCVjZLbkFEazh6eWoyMzRxaTl5R1ROa2FOOUI5S1ZCd2RPclE?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-09 19:30",
-      "summary": "ZoomInfo Launches Native ClickUp Integration Through GTM.AI VentureBeat",
-      "title_en": "ZoomInfo Launches Native ClickUp Integration Through GTM.AI",
-      "title_vi": "ZoomInfo ra mắt tích hợp ClickUp gốc thông qua GTM.AI"
+      "title": "Hiếu PC cảnh báo AI đang tiếp tay cho tội phạm mạng, cùng FPT giới thiệu chương trình thạc sĩ AIoT với học bổng 42 triệu đồng",
+      "link": "https://genk.vn/hieu-pc-canh-bao-ai-dang-tiep-tay-cho-toi-pham-mang-cung-fpt-gioi-thieu-chuong-trinh-thac-si-aiot-voi-hoc-bong-42-trieu-dong-165261011203453002.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-11 20:34",
+      "summary": "Tại hội thảo về an toàn thông tin trong kỷ nguyên AI, chuyên gia Hiếu PC chỉ ra những nguy cơ tấn công mạng mới khi AI và IoT ngày càng phổ biến. Cùng dịp này, FPT công bố chương trình thạc sĩ Công ng",
+      "title_en": "Hiếu PC warns AI is enabling cybercriminals, partners with FPT to introduce an AIoT master's program with a 42 million VND scholarship",
+      "title_vi": "Hiếu PC cảnh báo AI đang tiếp tay cho tội phạm mạng, cùng FPT giới thiệu chương trình thạc sĩ AIoT với học bổng 42 triệu đồng"
     }
   ],
   "funding": [
@@ -60,74 +50,44 @@
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-10-11 01:48",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 115 # Comments: 82",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 113",
       "title_en": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "title_vi": "Nvidia đang đàm phán mua lại công ty khởi nghiệp mô hình 'mở' của Mỹ Reflection AI"
-    },
-    {
-      "title": "Batman Ben Affleck am hiểu AI đến khó tin: Biết lập trình Python, thành lập startup AI được Netflix mua lại",
-      "link": "https://genk.vn/batman-ben-affleck-am-hieu-ai-den-kho-tin-biet-lap-trinh-python-thanh-lap-startup-ai-duoc-netflix-mua-lai-165261010075452586.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-10 08:19",
-      "summary": "VTV.vn - Không chỉ vậy, tài tử Hollywood này còn cho rằng AI sẽ là công cụ hỗ trợ hữu ích thay vì thay thế con người trong lĩnh vực nghệ thuật.",
-      "title_en": "Batman Ben Affleck is incredibly AI-savvy: knows Python programming, founded an AI startup that was bought by Netflix",
-      "title_vi": "Batman Ben Affleck am hiểu AI đến khó tin: Biết lập trình Python, thành lập startup AI được Netflix mua lại"
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-10 00:02",
-      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 431 # Comments: 343",
-      "title_en": "Typesafe AI raises $870M at $7.5B",
-      "title_vi": "Typesafe AI huy động 870 triệu USD ở mức định giá 7,5 tỷ USD"
+      "title_vi": "Nvidia đang đàm phán mua lại công ty khởi nghiệp mô hình 'mở' Reflection AI của Mỹ"
     }
   ],
   "research": [
     {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-10 05:00",
-      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 P",
-      "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "title_vi": "Cảnh sát cho biết mô hình AI của Anthropic gửi thông tin sai lệch về vụ án mạng chưa được giải quyết ở Philly"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to the police",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-10 02:44",
-      "summary": "Article URL: https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50025713 Points: 20 # Comments",
-      "title_en": "An Anthropic AI model sent a false homicide tip to the police",
-      "title_vi": "Một mô hình AI của Anthropic đã gửi thông tin sai lệch về vụ giết người cho cảnh sát"
-    },
-    {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-09 16:48",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine",
-      "title_en": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "title_vi": "OpenAI kiên quyết với quyết định sa thải ba nhà nghiên cứu an toàn AI"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-10-09 14:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "title_vi": "Asana cắt giảm chi phí mô hình 76 lần trong các bài kiểm tra trình duyệt với GPT-6.1 Sol"
+      "title": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải",
+      "link": "https://vnexpress.net/cuoc-doi-dau-giua-openai-va-ba-nha-nghien-cuu-bi-sa-thai-5130579.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-10 11:00",
+      "summary": "OpenAI sa thải ba nhà nghiên cứu với lý do tuồn thông tin mật, nhưng nhóm này khẳng định nguyên nhân thực chất liên quan đến an toàn AI.",
+      "title_en": "The confrontation between OpenAI and three fired researchers",
+      "title_vi": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải"
     }
   ],
   "industry": [
+    {
+      "title": "Your AI agents can execute every tool call correctly and still break every enterprise rule",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWRyWVFWSWlQV1ZtUURtaURMbjlJUXFad05xaEVhOFdyTG9pV2wyY1VkOUxaYldrTURFX1BTYzlMQXV5eFh2ZjNNT1lMSVdRaGRQeUwyVU9YMHpVaTA2NFpPejVtWW5XdFItTEJMeUN5RlltbzVDQl9IcUhNZnd6aXptNjBNN3lwODZidTVHbExtRHFWVEFBZUhjblJCeTJKT2F6Nk1lV2g5eXZtaUZQUVVQaHh6bi1RX3F3SkVnTzkzVlhXdHRR?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-12 02:00",
+      "summary": "Your AI agents can execute every tool call correctly and still break every enterprise rule VentureBeat",
+      "title_en": "Your AI agents can execute every tool call correctly and still break every enterprise rule",
+      "title_vi": "Các tác nhân AI của bạn có thể thực hiện đúng mọi lệnh gọi công cụ nhưng vẫn phá vỡ mọi quy tắc của doanh nghiệp"
+    },
+    {
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-12 01:33",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu",
+      "title_en": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "title_vi": "Thung lũng Silicon đang hùa theo nỗ lực đổi tên AI của Trump"
+    },
     {
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
@@ -146,7 +106,7 @@
       "pub_date": "2026-10-11 01:52",
       "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t",
       "title_en": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "title_vi": "DistroKid đã lặng lẽ gỡ bỏ các bài hát để đáp trả vụ kiện của UMG"
+      "title_vi": "DistroKid lặng lẽ gỡ bài hát sau vụ kiện của UMG"
     },
     {
       "title": "Từ 15/11, chuyển tiền trên 10 triệu đồng, 50 triệu đồng trong có thêm quy định mới liên quan đến AI",
@@ -155,110 +115,90 @@
       "lang": "vi",
       "pub_date": "2026-10-10 17:32",
       "summary": "Từ 15/11/2026, hệ thống AI tự động thực hiện giao dịch thanh toán trên 10 triệu đồng/lần với khách hàng cá nhân, trên 50 triệu đồng/lần với khách hàng tổ chức được xác định thuộc nhóm rủi ro cao, phải",
-      "title_en": "From November 15, transfers over 10 million VND, 50 million VND will have new regulations related to AI",
+      "title_en": "From November 15, new AI-related regulations for transfers over 10 million VND and 50 million VND",
       "title_vi": "Từ 15/11, chuyển tiền trên 10 triệu đồng, 50 triệu đồng trong có thêm quy định mới liên quan đến AI"
-    },
-    {
-      "title": "Ông Trump tuyên bố không được gọi AI phải là SI, gọi sai sẽ bị coi là kẻ thù của nhà Trắng: Elon Musk hứa đổi tên thành SpaceXSI",
-      "link": "https://genk.vn/ong-trump-tuyen-bo-khong-duoc-goi-ai-phai-la-si-goi-sai-se-bi-coi-la-ke-thu-cua-nha-trang-elon-musk-hua-doi-ten-thanh-spacexsi-165261010083910881.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-10 08:39",
-      "summary": "“Hoặc là SI, hoặc không gì cả.”",
-      "title_en": "Trump declares AI must not be called SI, misnaming will be considered an enemy of the White House: Elon Musk promises to rename to SpaceXSI",
-      "title_vi": "Ông Trump tuyên bố không được gọi AI phải là SI, gọi sai sẽ bị coi là kẻ thù của nhà Trắng: Elon Musk hứa đổi tên thành SpaceXSI"
-    },
-    {
-      "title": "Google thúc đẩy ứng dụng AI thực tiễn tại Việt Nam, 750 dự án được phát triển",
-      "link": "https://genk.vn/google-thuc-day-ung-dung-ai-thuc-tien-tai-viet-nam-750-du-an-duoc-phat-trien-165261010075250169.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-10 07:59",
-      "summary": "VTV.vn - Google cùng các đối tác tại Việt Nam vừa công bố 750 dự án ứng dụng AI được phát triển trong khuôn khổ sáng kiến AI Riser 2026.",
-      "title_en": "Google promotes practical AI applications in Vietnam, 750 projects developed",
-      "title_vi": "Google thúc đẩy ứng dụng AI thực tiễn tại Việt Nam, 750 dự án được phát triển"
     }
   ],
   "other": [
     {
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "title": "Nhà sáng tạo vật lộn chứng minh 'tính người' trong thời AI",
+      "link": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-trong-thoi-ai-5128776.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-12 05:00",
+      "summary": "AI đang tạo nên \"kỷ nguyên của sự ngờ vực\", khiến người làm nội dung phải tìm nhiều cách chứng minh như viết sai chính tả, ghi hình quá trình sáng tác, thuê luật sư.",
+      "title_en": "Creators struggle to prove 'humanity' in the AI era",
+      "title_vi": "Nhà sáng tạo vật lộn chứng minh 'tính người' trong thời AI"
+    },
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-12 04:14",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "title_en": "Will the HomeView be Apple’s first smart home success?",
+      "title_vi": "Liệu HomeView có phải là thành công nhà thông minh đầu tiên của Apple?"
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-12 03:20",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 244 # Comments: 396",
+      "title_en": "The gap in shared understanding of LLM capability is widening",
+      "title_vi": "Khoảng cách trong hiểu biết chung về khả năng của LLM đang ngày càng rộng"
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-11 23:52",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "title_en": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "title_vi": "Ngành AI có thể thuyết phục những người phản đối trung tâm dữ liệu bằng cách loại bỏ NDA không?"
+    },
+    {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-11 18:34",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 70 # Comments: 114",
+      "title_en": "AI is creating a 'human premium' for art created by people",
+      "title_vi": "AI đang tạo ra 'phần thưởng con người' cho nghệ thuật do con người tạo ra"
+    },
+    {
+      "title": "Tỷ phú Bezos: AI sẽ đưa trở lại mô hình gia đình chỉ một người đi làm",
+      "link": "https://vnexpress.net/ty-phu-bezos-ai-se-dua-tro-lai-mo-hinh-gia-dinh-chi-mot-nguoi-di-lam-5130811.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-11 18:30",
+      "summary": "Nhà sáng lập Amazon Jeff Bezos tin AI sẽ giúp con người dễ dàng trang trải cuộc sống hơn, rút ngắn số ngày làm việc, đưa xã hội trở lại xu hướng gia đình chỉ một người đi làm.",
+      "title_en": "Billionaire Bezos: AI will bring back the single-income family model",
+      "title_vi": "Tỷ phú Bezos: AI sẽ đưa trở lại mô hình gia đình chỉ một người đi làm"
+    },
+    {
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-11 18:03",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50",
+      "title_en": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "title_vi": "Nicolas Cage nói sẽ không làm việc với Amazon nữa vì tranh chấp AI"
+    },
+    {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-11 05:10",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t",
-      "title_en": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "title_vi": "Satya Nadella nói chúng ta nên cho rằng tất cả các mô hình AI đều 'bị xâm phạm'"
-    },
-    {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-11 04:47",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "title_en": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "title_vi": "Satya Nadella của Microsoft nói rằng các mô hình AI cần một 'phanh khẩn cấp'"
-    },
-    {
-      "title": "AI agents can be unpredictable. Your control layer shouldn't be.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVBMb093OXRMVVF5Y0pPU0RXaTJNVkFTNFRHejFUWHRQYl9hNjV5aVZHYm9vVm9vOGhoRkxxQzBPckVtd0c1aXNibkp4eE40SXNmeURPSzZaX05YOEg1S01ydDQtazFCVjAta0d4Y2xjT0lJNHdtMWVNMWxBZTlzUjViVGZBQVVFclFlZElKOFg1M1g2OEEya0lGYVEwb1Zy?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-11 04:05",
-      "summary": "AI agents can be unpredictable. Your control layer shouldn't be. VentureBeat",
-      "title_en": "AI agents can be unpredictable. Your control layer shouldn't be.",
-      "title_vi": "Các tác nhân AI có thể không thể đoán trước. Lớp kiểm soát của bạn không nên như vậy."
-    },
-    {
-      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-      "link": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-11 02:39",
-      "summary": "Article URL: https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/ Comments URL: https://news.ycombinator.com/item?id=50036390 Points: 28 # Comments: 11",
-      "title_en": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-      "title_vi": "Nicolas Cage từ chối ký thỏa thuận AI của Amazon: 'Tôi không phải là diễn viên thân thiện với AI'"
-    },
-    {
-      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-11 01:10",
-      "summary": "Article URL: https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50035550 Points: 40 # Comments",
-      "title_en": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "title_vi": "Anthropic tiết lộ vụ gửi thông tin sai lệch cho cảnh sát từ 2 tháng trước trong số các sự cố AI mới"
-    },
-    {
-      "title": "AI Is Throwing a Roadside Picnic",
-      "link": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-10 23:19",
-      "summary": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 45 # Comments: 45",
-      "title_en": "AI Is Throwing a Roadside Picnic",
-      "title_vi": "AI đang tổ chức một buổi dã ngoại bên đường"
-    },
-    {
-      "title": "My personal AI agent posted my bank details on company Slack",
-      "link": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-10 21:46",
-      "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 60 # Comments: 64",
-      "title_en": "My personal AI agent posted my bank details on company Slack",
-      "title_vi": "Tác nhân AI cá nhân của tôi đã đăng chi tiết ngân hàng của tôi lên Slack công ty"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-10 21:00",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "title_en": "Here are the top AI agents that can live in your text messages",
-      "title_vi": "Đây là những tác nhân AI hàng đầu có thể sống trong tin nhắn văn bản của bạn"
+      "pub_date": "2026-10-11 18:00",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly p",
+      "title_en": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "title_vi": "Học sử dụng AI cục bộ vừa thú vị, vừa choáng ngợp và bực bội"
     }
   ]
 }

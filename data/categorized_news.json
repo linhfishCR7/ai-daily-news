@@ -1,204 +1,213 @@
 {
   "headline": [
     {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-10-11 21:00",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "title_en": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "title_vi": "Các giám đốc này cho rằng AI giọng nói chưa đạt đến khoảnh khắc ChatGPT của nó"
+      "pub_date": "2026-10-13 01:21",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "title_en": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "title_vi": "Chatbot Claude của Anthropic gửi mẹo sai về vụ giết người cho cảnh sát Philadelphia"
     },
     {
-      "title": "Google tiếp tục làm khó người dùng Gemini miễn phí",
-      "link": "https://thanhnien.vn/google-tiep-tuc-lam-kho-nguoi-dung-gemini-mien-phi-18526101116330207.htm",
-      "source": "Thanh Niên",
+      "title": "Anthropic cấm người dùng 'bắt nạt' chatbot Claude",
+      "link": "https://vnexpress.net/anthropic-cam-nguoi-dung-bat-nat-chatbot-claude-5131204.html",
+      "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-10-11 20:10",
-      "summary": "Google bắt đầu triển khai thay đổi trên Gemini, khiến người dùng miễn phí mất quyền tự chọn mô hình AI (trí tuệ nhân tạo) như trước đây.",
-      "title_en": "Google continues to make things difficult for free Gemini users",
-      "title_vi": "Google tiếp tục làm khó người dùng Gemini miễn phí"
+      "pub_date": "2026-10-12 11:41",
+      "summary": "Anthropic thông báo cấm người dùng có \"hành vi lạm dụng kéo dài và không cần thiết\" với Claude trong bối cảnh lo ngại ngày càng tăng về an toàn AI.",
+      "title_en": "Anthropic bans users from bullying its Claude chatbot",
+      "title_vi": "Anthropic cấm người dùng 'bắt nạt' chatbot Claude"
     },
     {
-      "title": "Tuyên bố “phần mềm đã hết thời”, một lập trình viên dùng Claude Opus vibe-code 7 phần mềm của Adobe, phát miễn phí cho người dùng",
-      "link": "https://genk.vn/tuyen-bo-phan-mem-da-het-thoi-mot-lap-trinh-vien-dung-claude-opus-vibe-code-7-phan-mem-cua-adobe-phat-mien-phi-cho-nguoi-dung-165261011151831585.chn",
-      "source": "GenK",
+      "title": "Anthropic cấm người dùng ngược đãi Claude, quy định gây tranh cãi",
+      "link": "https://dantri.com.vn/cong-nghe/anthropic-cam-nguoi-dung-nguoc-dai-claude-quy-dinh-gay-tranh-cai-20261012003853424.htm",
+      "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-10-11 15:18",
-      "summary": "Động lực ban đầu của Thomas là sự khó chịu khi phải trả phí để được hủy thuê bao của Adobe.",
-      "title_en": "Claiming “software is over,” a programmer uses Claude Opus to vibe-code 7 Adobe software programs, releasing them for free",
-      "title_vi": "Tuyên bố “phần mềm đã hết thời”, một lập trình viên dùng Claude Opus vibe-code 7 phần mềm của Adobe, phát miễn phí cho người dùng"
+      "pub_date": "2026-10-12 08:04",
+      "summary": "(Dân trí) - Anthropic bổ sung quy định cấm người dùng có hành vi ngược đãi hoặc tàn nhẫn kéo dài, vô cớ đối với các mô hình AI của công ty. Chính sách mới có hiệu lực từ ngày 12/11.",
+      "title_en": "Anthropic bans mistreating Claude, controversial rule",
+      "title_vi": "Anthropic cấm người dùng ngược đãi Claude, quy định gây tranh cãi"
     }
   ],
   "product": [
     {
-      "title": "Hiếu PC cảnh báo AI đang tiếp tay cho tội phạm mạng, cùng FPT giới thiệu chương trình thạc sĩ AIoT với học bổng 42 triệu đồng",
-      "link": "https://genk.vn/hieu-pc-canh-bao-ai-dang-tiep-tay-cho-toi-pham-mang-cung-fpt-gioi-thieu-chuong-trinh-thac-si-aiot-voi-hoc-bong-42-trieu-dong-165261011203453002.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-11 20:34",
-      "summary": "Tại hội thảo về an toàn thông tin trong kỷ nguyên AI, chuyên gia Hiếu PC chỉ ra những nguy cơ tấn công mạng mới khi AI và IoT ngày càng phổ biến. Cùng dịp này, FPT công bố chương trình thạc sĩ Công ng",
-      "title_en": "Hiếu PC warns AI is enabling cybercriminals, partners with FPT to introduce an AIoT master's program with a 42 million VND scholarship",
-      "title_vi": "Hiếu PC cảnh báo AI đang tiếp tay cho tội phạm mạng, cùng FPT giới thiệu chương trình thạc sĩ AIoT với học bổng 42 triệu đồng"
-    }
-  ],
-  "funding": [
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "source": "Hacker News",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-11 01:48",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 176 # Comments: 113",
-      "title_en": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "title_vi": "Nvidia đang đàm phán mua lại công ty khởi nghiệp mô hình 'mở' Reflection AI của Mỹ"
-    }
-  ],
-  "research": [
+      "pub_date": "2026-10-13 00:56",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex",
+      "title_en": "Meta releases its first frontier model, Muse Wonder",
+      "title_vi": "Meta phát hành mô hình frontier đầu tiên, Muse Wonder"
+    },
     {
-      "title": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải",
-      "link": "https://vnexpress.net/cuoc-doi-dau-giua-openai-va-ba-nha-nghien-cuu-bi-sa-thai-5130579.html",
+      "title": "Lý do công ty AI Trung Quốc liên tục ra mắt mô hình mới",
+      "link": "https://vnexpress.net/ly-do-cong-ty-ai-trung-quoc-lien-tuc-ra-mat-mo-hinh-moi-5129581.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-10-10 11:00",
-      "summary": "OpenAI sa thải ba nhà nghiên cứu với lý do tuồn thông tin mật, nhưng nhóm này khẳng định nguyên nhân thực chất liên quan đến an toàn AI.",
-      "title_en": "The confrontation between OpenAI and three fired researchers",
-      "title_vi": "Cuộc đối đầu giữa OpenAI và ba nhà nghiên cứu bị sa thải"
+      "pub_date": "2026-10-13 00:00",
+      "summary": "Tần suất nâng cấp dày đặc, giá dịch vụ lao dốc và cạnh tranh gay gắt khiến các mô hình trí tuệ nhân tạo (AI) mới ngày càng chật vật để tạo dựng dấu ấn riêng trên thị trường.",
+      "title_en": "Why Chinese AI companies keep releasing new models",
+      "title_vi": "Lý do công ty AI Trung Quốc liên tục ra mắt mô hình mới"
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-12 19:47",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan",
+      "title_en": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "title_vi": "Cựu giám đốc Plaud huy động 26 triệu USD cho ứng dụng AI nghe lén trong nền"
+    }
+  ],
+  "funding": [],
+  "research": [
+    {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-13 03:59",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "title_vi": "Epic Games được cho là chuyển sang mô hình phát triển game 'AI first'"
     }
   ],
   "industry": [
     {
-      "title": "Your AI agents can execute every tool call correctly and still break every enterprise rule",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWRyWVFWSWlQV1ZtUURtaURMbjlJUXFad05xaEVhOFdyTG9pV2wyY1VkOUxaYldrTURFX1BTYzlMQXV5eFh2ZjNNT1lMSVdRaGRQeUwyVU9YMHpVaTA2NFpPejVtWW5XdFItTEJMeUN5RlltbzVDQl9IcUhNZnd6aXptNjBNN3lwODZidTVHbExtRHFWVEFBZUhjblJCeTJKT2F6Nk1lV2g5eXZtaUZQUVVQaHh6bi1RX3F3SkVnTzkzVlhXdHRR?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-12 02:00",
-      "summary": "Your AI agents can execute every tool call correctly and still break every enterprise rule VentureBeat",
-      "title_en": "Your AI agents can execute every tool call correctly and still break every enterprise rule",
-      "title_vi": "Các tác nhân AI của bạn có thể thực hiện đúng mọi lệnh gọi công cụ nhưng vẫn phá vỡ mọi quy tắc của doanh nghiệp"
+      "title": "Doanh nghiệp bàn về hệ thống quản trị AI trong sản xuất",
+      "link": "https://vnexpress.net/doanh-nghiep-ban-ve-he-thong-quan-tri-ai-trong-san-xuat-5131125.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-13 09:30",
+      "summary": "Tọa đàm trực tuyến \"The Next AI ERP: Tăng tốc vận hành cho ngành sản xuất\" quy tụ lãnh đạo doanh nghiệp và chuyên gia công nghệ, phát sóng ngày 14/10.",
+      "title_en": "Businesses discuss AI governance systems in manufacturing",
+      "title_vi": "Doanh nghiệp bàn về hệ thống quản trị AI trong sản xuất"
     },
     {
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-12 01:33",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu",
-      "title_en": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "title_vi": "Thung lũng Silicon đang hùa theo nỗ lực đổi tên AI của Trump"
-    },
-    {
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-11 02:50",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "title_en": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "title_vi": "Apple tiết lộ thỏa thuận thuê nhóm và cấp phép công nghệ từ công ty khởi nghiệp podcast cá nhân hóa Huxe"
+      "pub_date": "2026-10-12 22:31",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "title_en": "Microsoft president says UK is best placed to drive AI regulation",
+      "title_vi": "Chủ tịch Microsoft nói Anh là nơi tốt nhất thúc đẩy quy định về AI"
     },
     {
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "source": "NVIDIA",
+      "lang": "en",
+      "pub_date": "2026-10-12 22:00",
+      "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more re",
+      "title_en": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "title_vi": "OCP Global Summit: Giữa việc áp dụng hệ sinh thái, NVIDIA mở kiến trúc Vera Rubin để mở rộng nhà máy AI toàn cầu"
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-11 01:52",
-      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t",
-      "title_en": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "title_vi": "DistroKid lặng lẽ gỡ bài hát sau vụ kiện của UMG"
+      "pub_date": "2026-10-12 20:00",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost an",
+      "title_en": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "title_vi": "Chip AI mới của Microsoft giúp giảm phụ thuộc vào GPU của Nvidia"
     },
     {
-      "title": "Từ 15/11, chuyển tiền trên 10 triệu đồng, 50 triệu đồng trong có thêm quy định mới liên quan đến AI",
-      "link": "https://genk.vn/tu-15-11-chuyen-tien-tren-10-trieu-dong-50-trieu-dong-trong-co-them-quy-dinh-moi-lien-quan-den-ai-165261010173232241.chn",
+      "title": "Game thủ sắp mất RTX 5090? NVIDIA bị đồn gom chip mạnh nhất cho AI, đưa RTX 5080 24 GB lên thay",
+      "link": "https://genk.vn/game-thu-sap-mat-rtx-5090-nvidia-bi-don-gom-chip-manh-nhat-cho-ai-dua-rtx-5080-24-gb-len-thay-165261110174338464.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-10 17:32",
-      "summary": "Từ 15/11/2026, hệ thống AI tự động thực hiện giao dịch thanh toán trên 10 triệu đồng/lần với khách hàng cá nhân, trên 50 triệu đồng/lần với khách hàng tổ chức được xác định thuộc nhóm rủi ro cao, phải",
-      "title_en": "From November 15, new AI-related regulations for transfers over 10 million VND and 50 million VND",
-      "title_vi": "Từ 15/11, chuyển tiền trên 10 triệu đồng, 50 triệu đồng trong có thêm quy định mới liên quan đến AI"
+      "pub_date": "2026-10-12 18:43",
+      "summary": "Card đồ họa mạnh nhất dành cho game thủ có thể sắp biến mất khỏi dây chuyền sản xuất. Phần chip bên trong nó được cho là sẽ được chuyển sang những sản phẩm sinh lời tốt hơn.",
+      "title_en": "Gamers about to lose RTX 5090? NVIDIA rumored to reserve most powerful chip for AI, replace with RTX 5080 24 GB",
+      "title_vi": "Game thủ sắp mất RTX 5090? NVIDIA bị đồn gom chip mạnh nhất cho AI, đưa RTX 5080 24 GB lên thay"
     }
   ],
   "other": [
     {
-      "title": "Nhà sáng tạo vật lộn chứng minh 'tính người' trong thời AI",
-      "link": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-trong-thoi-ai-5128776.html",
-      "source": "VnExpress",
+      "title": "AI tác tử thay đổi vai trò của người lãnh đạo công nghệ",
+      "link": "https://thanhnien.vn/ai-tac-tu-thay-doi-vai-tro-cua-nguoi-lanh-dao-cong-nghe-185261013083220903.htm",
+      "source": "Thanh Niên",
       "lang": "vi",
-      "pub_date": "2026-10-12 05:00",
-      "summary": "AI đang tạo nên \"kỷ nguyên của sự ngờ vực\", khiến người làm nội dung phải tìm nhiều cách chứng minh như viết sai chính tả, ghi hình quá trình sáng tác, thuê luật sư.",
-      "title_en": "Creators struggle to prove 'humanity' in the AI era",
-      "title_vi": "Nhà sáng tạo vật lộn chứng minh 'tính người' trong thời AI"
+      "pub_date": "2026-10-13 09:10",
+      "summary": "Trong kỷ nguyên AI tác tử, vai trò của một trưởng nhóm công nghệ không còn là người trực tiếp viết từng dòng mã lập trình, mà trở thành những \"huấn luyện viên\" xây dựng nguyên tắc vận hành cho tập thể",
+      "title_en": "AI agents change the role of technology leaders",
+      "title_vi": "AI tác tử thay đổi vai trò của người lãnh đạo công nghệ"
     },
     {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-12 04:14",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "title_en": "Will the HomeView be Apple’s first smart home success?",
-      "title_vi": "Liệu HomeView có phải là thành công nhà thông minh đầu tiên của Apple?"
-    },
-    {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "link": "https://twitter.com/karpathy/status/2109361546505966046",
+      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-12 03:20",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 244 # Comments: 396",
-      "title_en": "The gap in shared understanding of LLM capability is widening",
-      "title_vi": "Khoảng cách trong hiểu biết chung về khả năng của LLM đang ngày càng rộng"
+      "pub_date": "2026-10-13 06:07",
+      "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 129 # Comments: 83",
+      "title_en": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "title_vi": "Tôi biến Kindle không dùng thành khung ảnh với GPT-6 Astra"
     },
     {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-11 23:52",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "title_en": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "title_vi": "Ngành AI có thể thuyết phục những người phản đối trung tâm dữ liệu bằng cách loại bỏ NDA không?"
-    },
-    {
-      "title": "AI is creating a 'human premium' for art created by people",
-      "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+      "link": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-11 18:34",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 70 # Comments: 114",
-      "title_en": "AI is creating a 'human premium' for art created by people",
-      "title_vi": "AI đang tạo ra 'phần thưởng con người' cho nghệ thuật do con người tạo ra"
+      "pub_date": "2026-10-13 05:05",
+      "summary": "Article URL: https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/ Comments URL: https://news.ycombinator.com/item?id=50063707 Points: 20 # Comments: 4",
+      "title_en": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+      "title_vi": "CEO Broadcom và Intel nói thẳng về AI và ROI"
     },
     {
-      "title": "Tỷ phú Bezos: AI sẽ đưa trở lại mô hình gia đình chỉ một người đi làm",
-      "link": "https://vnexpress.net/ty-phu-bezos-ai-se-dua-tro-lai-mo-hinh-gia-dinh-chi-mot-nguoi-di-lam-5130811.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-11 18:30",
-      "summary": "Nhà sáng lập Amazon Jeff Bezos tin AI sẽ giúp con người dễ dàng trang trải cuộc sống hơn, rút ngắn số ngày làm việc, đưa xã hội trở lại xu hướng gia đình chỉ một người đi làm.",
-      "title_en": "Billionaire Bezos: AI will bring back the single-income family model",
-      "title_vi": "Tỷ phú Bezos: AI sẽ đưa trở lại mô hình gia đình chỉ một người đi làm"
-    },
-    {
-      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "title": "AI is a tool and using it well takes skill",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-11 18:03",
-      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50",
-      "title_en": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-      "title_vi": "Nicolas Cage nói sẽ không làm việc với Amazon nữa vì tranh chấp AI"
+      "pub_date": "2026-10-13 04:40",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 251 # Comments: 218",
+      "title_en": "AI is a tool and using it well takes skill",
+      "title_vi": "AI là công cụ và dùng tốt cần kỹ năng"
     },
     {
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source": "The Verge",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-11 18:00",
-      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly p",
-      "title_en": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "title_vi": "Học sử dụng AI cục bộ vừa thú vị, vừa choáng ngợp và bực bội"
+      "pub_date": "2026-10-13 04:35",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 92 # Comments: 36",
+      "title_en": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "title_vi": "Bộ tăng tốc AI Intel D270 GPU – lên đến 480 GB LPDDR5X"
+    },
+    {
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "link": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-13 03:07",
+      "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 78 # Comments: 62",
+      "title_en": "Epic Games tells employees to use AI to get Disney game done",
+      "title_vi": "Epic Games yêu cầu nhân viên dùng AI để hoàn thành game Disney"
+    },
+    {
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "link": "https://www.anthropic.com/research/self-replicating-ai",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-13 02:25",
+      "summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 78 # Comments: 95",
+      "title_en": "AI models may be capable of self-replicating without access to a datacenter",
+      "title_vi": "Mô hình AI có thể tự nhân bản mà không cần trung tâm dữ liệu"
+    },
+    {
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-13 01:00",
+      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 232 # Comments: 116",
+      "title_en": "'AI' Is Not a Tool by Rich Hickey",
+      "title_vi": "'AI' không phải công cụ của Rich Hickey"
     }
   ]
 }

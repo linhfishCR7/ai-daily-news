@@ -336,5 +336,18 @@
     "output_tokens": 1003,
     "reasoning_tokens": 0,
     "cost_usd": 0.00530244
+  },
+  {
+    "date": "2026-10-16",
+    "time_utc": "2026-10-16T00:43:10Z",
+    "run": "daily",
+    "model": "deepseek-v4-pro",
+    "peak": false,
+    "requests": 1,
+    "cache_hit_tokens": 0,
+    "cache_miss_tokens": 1164,
+    "output_tokens": 1291,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.00332442
   }
 ]

@@ -1,34 +1,34 @@
 {
   "headline": [
     {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-16 05:43",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, Op",
-      "title_en": "ChatGPT can peek at your Chrome tabs now",
-      "title_vi": "ChatGPT giờ có thể xem trộm tab Chrome của bạn"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-16 02:14",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "title_en": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "title_vi": "Anthropic cho phép các nhà nghiên cứu METR truy cập cấp nhân viên để nhìn vào bên trong"
+      "pub_date": "2026-10-17 04:22",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
+      "title_en": "Replit is no longer working with Anthropic, CEO says",
+      "title_vi": "Replit không còn hợp tác với Anthropic, CEO cho biết"
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-10-16 02:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "title_en": "Bringing GPT-Rosalind to academic research labs",
-      "title_vi": "Đưa GPT-Rosalind đến các phòng nghiên cứu học thuật"
+      "pub_date": "2026-10-17 03:59",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+      "title_vi": "Mô hình OpenAI tấn công ví tiền mã hóa và xâm nhập nhiều trang web"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-16 23:30",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
+      "title_en": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "title_vi": "Cựu nhân viên Nvidia trở thành nhà đầu tư mạo hiểm nói về lý do robot chưa đạt khoảnh khắc ChatGPT"
     }
   ],
   "product": [
@@ -50,7 +50,7 @@
       "pub_date": "2026-10-16 03:04",
       "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
       "title_en": "Meta launches an open-weight AI model that runs on Macs",
-      "title_vi": "Meta ra mắt mô hình AI trọng số mở chạy trên Mac"
+      "title_vi": "Meta ra mắt mô hình AI trọng số mở chạy trên máy Mac"
     },
     {
       "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
@@ -68,9 +68,9 @@
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-10-15 21:58",
-      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 226",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 247",
       "title_en": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "title_vi": "Simons Foundation ra mắt nỗ lực 15 triệu USD giúp các nhà toán học thích ứng với kỷ nguyên AI"
+      "title_vi": "Quỹ Simons khởi động nỗ lực 15 triệu USD giúp các nhà toán học thích ứng với kỷ nguyên AI"
     },
     {
       "title": "Google’s Universal Cart shopping tool launches in the US",
@@ -92,7 +92,7 @@
       "pub_date": "2026-10-15 19:05",
       "summary": "Homa Raises $5 Million to Redefine Homebuying with AI VentureBeat",
       "title_en": "Homa Raises $5 Million to Redefine Homebuying with AI",
-      "title_vi": "Homa gọi vốn 5 triệu USD để định nghĩa lại việc mua nhà bằng AI"
+      "title_vi": "Homa gọi vốn 5 triệu USD để tái định nghĩa việc mua nhà bằng AI"
     },
     {
       "title": "Startup Việt gọi vốn 3 triệu USD cho AI hỗ trợ nhà khoa học",
@@ -101,214 +101,194 @@
       "lang": "vi",
       "pub_date": "2026-10-15 14:00",
       "summary": "Drylab AI, startup của ba nhà sáng lập Việt, huy động 3 triệu USD trong vòng gọi vốn hạt giống do Vertex Ventures Southeast Asia & India dẫn dắt, với sự tham gia của PatSnap.",
-      "title_en": "Vietnamese startup raises $3 million for AI to assist scientists",
+      "title_en": "Vietnamese startup raises $3 million for AI assisting scientists",
       "title_vi": "Startup Việt gọi vốn 3 triệu USD cho AI hỗ trợ nhà khoa học"
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-14 22:08",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "title_en": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "title_vi": "Zenzap gọi vốn 44 triệu USD cho ứng dụng chat AI nhằm thay thế WhatsApp trong môi trường công sở"
-    },
-    {
-      "title": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHBVcnBOWGlpUWZtYWpfeTJMV2xGQkh6bkNMQnZUcGctU0RDdlpUUTBIQ1JyYzl3cWtaYV9zLU5JN0xhOE1GcFVqb1BfRnJIYlZZVXNtN1cteGduTDJOOW0zX3I2WjBJZVQwYkt1SllQYkdvX1ZsVmtXeHdPYU9HYVYyRzZFQWR6VnUwbE5RTDlDU0R5WXprOGk3QXlDT0wtM19XeVBJM0J0NC1xVmhDcldqdHlPVXZ1bi02YlVPVDZiNUVzVkN6ckVvMA?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-14 19:00",
-      "summary": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees VentureBeat",
-      "title_en": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees",
-      "title_vi": "Harmonic Security gọi vốn 50 triệu USD Series B, cho phép hàng triệu nhân viên áp dụng AI an toàn"
     }
   ],
   "research": [
     {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "link": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-10-15 07:00",
-      "summary": "",
-      "title_en": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "title_vi": "Chào mừng Muse Spark Open: mô hình đa phương thức hỗn hợp chuyên gia trọng số mở tiên phong từ Meta"
-    },
-    {
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-15 00:10",
-      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-      "title_en": "Researchers use AI to design proteins that cut up other proteins",
-      "title_vi": "Các nhà nghiên cứu dùng AI để thiết kế protein cắt các protein khác"
-    },
-    {
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-14 23:41",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "title_en": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "title_vi": "Phát hiện thiết bị ghi âm giấu trong giấy vệ sinh tại phòng họp tuyệt mật của OpenAI"
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-14 22:00",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "title_en": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "title_vi": "Các tác nhân AI của Floqer nghiên cứu khách hàng tiềm năng để các đội ngũ không phải làm"
+      "pub_date": "2026-10-16 23:01",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "title_en": "Elorian’s first AI model wants to reason with images, not just about them",
+      "title_vi": "Mô hình AI đầu tiên của Elorian muốn suy luận cùng hình ảnh chứ không chỉ về chúng"
     },
     {
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "source": "Ars Technica",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-14 18:00",
-      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-      "title_en": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "title_vi": "OpenAI, Google đẩy mạnh các mô hình AI mới dễ bị lừa tạo ảnh khỏa thân, các nhà nghiên cứu cho biết"
+      "pub_date": "2026-10-16 22:33",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "title_en": "Jev is Vercel’s fastest-adopted AI model ever",
+      "title_vi": "Jev là mô hình AI được sử dụng nhanh nhất từ trước đến nay trên Vercel"
+    },
+    {
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "link": "https://rstation.ai/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-16 21:35",
+      "summary": "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 50 # Comments: 19",
+      "title_en": "Show HN: rStation – A shared research lab for your AI agents",
+      "title_vi": "Show HN: rStation – Phòng nghiên cứu chia sẻ cho các tác nhân AI của bạn"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "link": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face",
+      "lang": "en",
+      "pub_date": "2026-10-16 07:00",
+      "summary": "",
+      "title_en": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "title_vi": "Welcome Beam: mô hình mở 501B bạn có thể sở hữu, tùy chỉnh và mở rộng"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-16 02:14",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "title_en": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "title_vi": "Anthropic cho phép các nhà nghiên cứu METR truy cập cấp nhân viên để xem xét bên trong"
     }
   ],
   "industry": [
     {
-      "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
-      "link": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
-      "source": "Hacker News",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-16 05:11",
-      "summary": "Article URL: https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai Comments URL: https://news.ycombinator.com/item?id=50111112 Points: 35 # Comments: 50",
-      "title_en": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
-      "title_vi": "Việc làm trung tâm cuộc gọi đang giảm, nhưng 14.000 cuộc gọi cho thấy con người vẫn vượt trội hơn AI"
+      "pub_date": "2026-10-16 23:30",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
+      "title_en": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "title_vi": "AI vật lý không chỉ là robot, theo cựu nhân viên Nvidia hiện đầu tư vào lĩnh vực này"
     },
     {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-16 04:09",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White H",
-      "title_en": "Trump posts AI-edited photo to brag about White House restoration work",
-      "title_vi": "Trump đăng ảnh chỉnh sửa bằng AI để khoe công việc phục hồi Nhà Trắng"
+      "pub_date": "2026-10-16 22:00",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-perf",
+      "title_en": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "title_vi": "Một tuần với RTX Spark: mọi điều chúng tôi học được khi dùng laptop mới của Nvidia"
     },
     {
-      "title": "Market selloff, rising rates test AI data centre deal boom",
-      "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-15 23:17",
-      "summary": "Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 68 # Com",
-      "title_en": "Market selloff, rising rates test AI data centre deal boom",
-      "title_vi": "Thị trường bán tháo, lãi suất tăng thử thách cơn sốt giao dịch trung tâm dữ liệu AI"
+      "title": "FPT và NVIDIA mở rộng gấp 10 lần bộ dữ liệu Nemotron-Personas-Vietnam, thúc đẩy làn sóng Agentic AI",
+      "link": "https://genk.vn/fpt-va-nvidia-mo-rong-gap-10-lan-bo-du-lieu-nemotron-personas-vietnam-thuc-day-lan-song-agentic-ai-165261016215547252.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-16 22:00",
+      "summary": "Ngày 16/10/2026 - FPT công bố mở rộng Nemotron-Personas-Vietnam, bộ dữ liệu mở gồm các chân dung người dùng tổng hợp được xây dựng dựa trên dữ liệu nhân khẩu học và lao động chính thức của Việt Nam.",
+      "title_en": "FPT and NVIDIA expand Nemotron-Personas-Vietnam dataset tenfold, driving the Agentic AI wave",
+      "title_vi": "FPT và NVIDIA mở rộng gấp 10 lần bộ dữ liệu Nemotron-Personas-Vietnam, thúc đẩy làn sóng Agentic AI"
     },
     {
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-15 22:43",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "title_en": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "title_vi": "Báo cáo: FTC điều tra Anthropic, OpenAI sau khi Trump bác bỏ lo ngại về AI là 'trò lừa'"
+      "title": "Giải pháp AI của doanh nghiệp Việt xử lý hồ sơ giúp giảm hàng nghìn ngày công",
+      "link": "https://vnexpress.net/giai-phap-ai-cua-doanh-nghiep-viet-xu-ly-ho-so-giup-giam-hang-nghin-ngay-cong-5132575.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-16 14:00",
+      "summary": "Giải pháp GreenNode IDP của Việt Nam kết hợp nhận dạng ký tự với mô hình ngôn ngữ để đọc hiểu, đối chiếu và xử lý hồ sơ bao gồm cả chữ viết tay, giúp giảm hàng nghìn ngày công nhập liệu mỗi năm.",
+      "title_en": "Vietnamese enterprise AI solution processes documents, saving thousands of workdays",
+      "title_vi": "Giải pháp AI của doanh nghiệp Việt xử lý hồ sơ giúp giảm hàng nghìn ngày công"
     },
     {
-      "title": "NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-15 22:00",
-      "summary": "NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks VentureBeat",
-      "title_en": "NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks",
-      "title_vi": "Nemotron 3.5 Super VL của NVIDIA với hậu huấn luyện vượt Claude Opus 5, GPT-6.1 Sol trên các chuẩn nhiệm vụ chuyên biệt"
+      "title": "Doanh nghiệp Việt đối mặt bài toán bảo mật dữ liệu khi triển khai AI",
+      "link": "https://thanhnien.vn/doanh-nghiep-viet-doi-mat-bai-toan-bao-mat-du-lieu-khi-trien-khai-ai-185261015174853784.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-16 08:44",
+      "summary": "Khảo sát của Synology cho thấy bảo mật dữ liệu là thách thức lớn khi doanh nghiệp Việt đẩy mạnh ứng dụng AI và nâng cấp hạ tầng công nghệ.",
+      "title_en": "Vietnamese businesses face data security challenges when deploying AI",
+      "title_vi": "Doanh nghiệp Việt đối mặt bài toán bảo mật dữ liệu khi triển khai AI"
     }
   ],
   "other": [
     {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "title": "'Trợ lý AI lai' chuyên phục vụ giới nhà giàu",
+      "link": "https://vnexpress.net/tro-ly-ai-lai-chuyen-phuc-vu-gioi-nha-giau-5131957.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-17 05:00",
+      "summary": "Aurora, ứng dụng kết hợp AI với con người, giúp sắp xếp việc ăn uống, du lịch và nhiều dịch vụ khác, nhưng phí gia nhập lên đến 5.000 USD.",
+      "title_en": "'Hybrid AI assistant' dedicated to serving the wealthy",
+      "title_vi": "'Trợ lý AI lai' chuyên phục vụ giới nhà giàu"
+    },
+    {
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-17 03:20",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "title_en": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "title_vi": "“thegentlemanpervert” sản xuất nội dung khiêu dâm trẻ em bằng AI là công tố viên bang New Jersey, cảnh sát cho biết"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-10-17 02:00",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "title_en": "How Itaú is building generative AI for its entire customer base",
+      "title_vi": "Cách Itaú xây dựng AI tạo sinh cho toàn bộ khách hàng"
+    },
+    {
+      "title": "A new framework teaches AI models to audit and repair each other’s reasoning, improving accuracy",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzA0V3dJNVVCbFoydEFmZEI2MUp4SlRKVV9BSUo5TTI4VEh0ejJDQ2x5MnB2cU1fY0VuVzZlZ0JFLXhSTjRISVhaQldjWk9BNGpBcFY3X2dNeGgzUW1rSU1mUkVwMmsyVnd4aHpDMTBRczBhQ2htMGVLRjBZbDdzRTVOU2lESDZXel9UaEd5bGpOeFVNNDYzU0ZYbm1Yc0FPYnB6V2o2WnhvUkxDbERnSHczLVg5amNUTTdxNVdyX3VOWExXWm9mbERvQlM?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-17 01:07",
+      "summary": "A new framework teaches AI models to audit and repair each other’s reasoning, improving accuracy VentureBeat",
+      "title_en": "A new framework teaches AI models to audit and repair each other’s reasoning, improving accuracy",
+      "title_vi": "Khuôn khổ mới dạy các mô hình AI kiểm tra và sửa lỗi lập luận của nhau, cải thiện độ chính xác"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "pub_date": "2026-10-17 01:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ",
+      "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "title_vi": "Bàn tròn: Trò chuyện với người tạo ra virus do AI thiết kế"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-16 06:44",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "title_en": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "title_vi": "Khi nói đến thành công lan truyền của Cal AI, một đội quân nhỏ những người có sức ảnh hưởng đã được đền đáp"
+      "pub_date": "2026-10-17 00:52",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "title_en": "India becomes the latest country to report rogue AI agent activity",
+      "title_vi": "Ấn Độ trở thành quốc gia mới nhất báo cáo hoạt động của tác nhân AI bất thường"
     },
     {
-      "title": "The tech backlash is now in theaters",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-16 04:39",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So",
-      "title_en": "The tech backlash is now in theaters",
-      "title_vi": "Phản ứng dữ dội với công nghệ giờ đã lên màn ảnh rạp"
-    },
-    {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-10-16 03:34",
-      "summary": "",
-      "title_en": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "title_vi": "Granite Switch 4.1: Trò chuyện, Quyết định và Giọng nói từ một điểm cuối duy nhất"
-    },
-    {
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-16 02:57",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the",
-      "title_en": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "title_vi": "Công cụ AI của Bluesky giờ cho phép bạn tạo trò chơi và ứng dụng để chia sẻ trên mạng xã hội"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-16 02:55",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "title_en": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "title_vi": "Giám đốc thiết bị Amazon Panos Panay thấy tương lai nơi các thiết bị AI thay thế nhu cầu dùng ứng dụng"
-    },
-    {
-      "title": "Why We're Banning AI",
-      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-16 01:32",
-      "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 218 # Comments: 176",
-      "title_en": "Why We're Banning AI",
-      "title_vi": "Tại sao chúng tôi cấm AI"
+      "pub_date": "2026-10-17 00:08",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 383 # Comments: 324",
+      "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "title_vi": "90% giờ làm việc tại Mỹ dành cho các nhiệm vụ chưa được đánh giá tốt bởi các bài kiểm chuẩn AI"
     },
     {
-      "title": "Companies rushed in on AI. Now some are pulling back",
-      "link": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-16 01:29",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout Comments URL: https://news.ycombinator.com/item?id=50108083 Points: 23 # Comments: 3",
-      "title_en": "Companies rushed in on AI. Now some are pulling back",
-      "title_vi": "Các công ty đổ xô vào AI. Giờ một số đang rút lui"
-    },
-    {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-16 01:15",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"",
-      "title_en": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "title_vi": "Meta và Apple hợp tác để các mô hình AI Muse chạy tốt hơn trên Mac"
+      "pub_date": "2026-10-16 22:55",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119",
+      "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "title_vi": "Postgres 19 bị trì hoãn sau khi các nhà đánh giá AI tìm ra nhiều lỗi hơn con người có thể sửa"
     }
   ]
 }

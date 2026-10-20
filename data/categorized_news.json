@@ -1,163 +1,224 @@
 {
   "headline": [
     {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-19 03:37",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "title_en": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "title_vi": "Anthropic tuyên bố cam kết 5% cổ phần vào 'quỹ phúc lợi công cộng'"
+      "pub_date": "2026-10-20 06:39",
+      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "title_vi": "Nscale và Anthropic được cho là đang đàm phán một thỏa thuận điện toán trị giá 45 tỷ USD nữa"
     },
     {
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "title": "Anthropic giảm nhân viên cấp thấp, tăng họp do AI",
+      "link": "https://vnexpress.net/anthropic-giam-nhan-vien-cap-thap-tang-hop-do-ai-5134145.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-20 05:00",
+      "summary": "Anthropic, nhà phát triển chatbot Claude, cho biết cơ cấu nhân sự và cách làm việc tại startup này đã thay đổi đáng kể sau khi ứng dụng AI.",
+      "title_en": "Anthropic cuts junior staff, boosts meetings due to AI",
+      "title_vi": "Anthropic giảm nhân viên cấp thấp, tăng họp do AI"
+    },
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
       "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-10-18 23:25",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "title_en": "Anthropic gives outside AI watchdog “employee-like” access",
-      "title_vi": "Anthropic trao cho cơ quan giám sát AI bên ngoài quyền truy cập 'như nhân viên'"
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-18 03:21",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "title_vi": "Anthropic cho biết lực lượng lao động của họ đã bớt thiếu kinh nghiệm và dành nhiều thời gian hơn cho các cuộc họp"
+      "pub_date": "2026-10-20 03:21",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "title_vi": "Nghi phạm gián điệp OpenAI có thư mục tên “Tài liệu Chính phủ Saudi,” FBI cho biết"
     }
   ],
   "product": [
     {
-      "title": "FPT ra mắt FPT AI EOS, Kubernetes Engine với GPU và Token Factory, đưa AI từ thử nghiệm vào vận hành",
-      "link": "https://genk.vn/fpt-ra-mat-fpt-ai-eos-kubernetes-engine-voi-gpu-va-token-factory-dua-ai-tu-thu-nghiem-vao-van-hanh-165261018121707151.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-18 12:16",
-      "summary": "Tại FPT TRANSFORM 2026 ở Hà Nội, FPT giới thiệu ba giải pháp bao phủ từ ứng dụng, mô hình đến hạ tầng AI, cho phép doanh nghiệp tự chọn mức độ tự chủ phù hợp.",
-      "title_en": "FPT launches FPT AI EOS, Kubernetes Engine with GPU and Token Factory, bringing AI from experimentation to operation",
-      "title_vi": "FPT ra mắt FPT AI EOS, Kubernetes Engine với GPU và Token Factory, đưa AI từ thử nghiệm vào vận hành"
+      "title": "fal launches FLUX 3 Max, claiming 22× faster AI video generation than Seedance 2.5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFVLS0pGdHQxVUxCRkhNcDlnbElEcU1SU2FpYzhqU29HMnZZOTAwR25hUVRXTm12VDFocHd2a2VDUUU1RnVXSHBSMUUzb1RwdW1fSHRPcENmR2o0eWVxd2JYd0hOWmduZkFka3dPc0hDcFZadENMZUQ1Qk1HTVVTeDBOM2lMWENoaWQ3MERIcm84WE01VEt1STNjU3NmbGNYby1Rb09Cc3FTNzlIbVdQSlBOaElSQQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-20 05:29",
+      "summary": "fal launches FLUX 3 Max, claiming 22× faster AI video generation than Seedance 2.5 VentureBeat",
+      "title_en": "fal launches FLUX 3 Max, claiming 22× faster AI video generation than Seedance 2.5",
+      "title_vi": "fal ra mắt FLUX 3 Max, tuyên bố tạo video AI nhanh hơn 22 lần so với Seedance 2.5"
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-19 22:37",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "title_en": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "title_vi": "Nvidia ra mắt các mô hình mở mới để chạy tác nhân trong doanh nghiệp và trên PC"
     }
   ],
   "funding": [
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-18 04:31",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "title_en": "Meta removes language that raised scraping and AI training concerns",
-      "title_vi": "Meta gỡ bỏ ngôn ngữ làm dấy lên lo ngại về thu thập dữ liệu và đào tạo AI"
+      "pub_date": "2026-10-20 01:37",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "title_en": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "title_vi": "Tenstorrent đạt định giá 6,2 tỷ USD để mở rộng chip AI trọng số mở"
     }
   ],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch",
+      "title": "Why the enterprise AI security gap starts below the model",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE5YeTg2dFR6WjZqWmlIUXluVkJ4d2dUM3VqdEFqOGs2bXdTRmk1WDRnZ3kwUlRZTG1aOGdlY0VWV0tWZUwxNXJyTXlhUzEwVExTQjJqem0ybDBtajRaWmhOTXdxc0xvSndERkx0MzRNbk1VcnpjaDVXaC1EWWRTM1BhakZfcjl2V1VuaW5OMkw?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-10-18 23:30",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
-      "title_en": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "title_vi": "Disney đồng ý tuyển dụng phần lớn nhân viên của Character.AI"
+      "pub_date": "2026-10-19 21:05",
+      "summary": "Why the enterprise AI security gap starts below the model VentureBeat",
+      "title_en": "Why the enterprise AI security gap starts below the model",
+      "title_vi": "Vì sao khoảng cách bảo mật AI doanh nghiệp bắt đầu từ bên dưới mô hình"
     },
     {
-      "title": "Loạt giải pháp AI cho doanh nghiệp tại FPT Transform 2026",
-      "link": "https://vnexpress.net/hon-1-000-chuyen-gia-cong-nghe-quy-tu-tai-fpt-transform-2026-5132972-tong-thuat.html",
-      "source": "VnExpress",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "pub_date": "2026-10-19 16:08",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini",
+      "title_en": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "title_vi": "Các nhà nghiên cứu AI bỏ mặc Claude trên đảo hoang ảo. Nó bắt đầu “chơi đùa.”"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-20 05:49",
+      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. Howe",
+      "title_en": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "title_vi": "Các bộ đánh giá AI nhúng sẽ không phải là giải pháp dễ dàng, giám đốc chính sách của Hugging Face nói"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-20 03:09",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "title_en": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "title_vi": "Amazon tung đòn tấn công lớn nhất vào Nvidia với công cụ phát triển TorchNeuron mới"
+    },
+    {
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "source": "NVIDIA",
+      "lang": "en",
+      "pub_date": "2026-10-20 02:27",
+      "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particul",
+      "title_en": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "title_vi": "Đức muốn dẫn đầu thế giới về AI công nghiệp: NVIDIA sẽ hỗ trợ như thế nào"
+    },
+    {
+      "title": "Dùng Claude Opus để ‘mổ xẻ’ TV LG cũ, lập trình viên tăng tốc ứng dụng gấp 10 lần",
+      "link": "https://genk.vn/dung-claude-opus-de-mo-xe-tv-lg-cu-lap-trinh-vien-tang-toc-ung-dung-gap-10-lan-165261019193600164.chn",
+      "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-17 10:00",
-      "summary": "FPT giới thiệu giải pháp FPT AI EOS, FPT Kubernetes Engine với GPU và FPT Token Factory, hướng tới giải quyết bài toán then chốt khi doanh nghiệp đưa AI từ thử nghiệm vào vận hành thực tế, ngày 17/10.",
-      "title_en": "A series of AI solutions for enterprises at FPT Transform 2026",
-      "title_vi": "Loạt giải pháp AI cho doanh nghiệp tại FPT Transform 2026"
+      "pub_date": "2026-10-19 19:35",
+      "summary": "Trong khi LG không công khai bộ công cụ phát triển ứng dụng cho TV của mình, lập trình viên này phải dùng đến AI Claude để xây dựng bộ ứng dụng mới cho thiết bị.",
+      "title_en": "Using Claude Opus to 'dissect' an old LG TV, programmer speeds up app 10x",
+      "title_vi": "Dùng Claude Opus để ‘mổ xẻ’ TV LG cũ, lập trình viên tăng tốc ứng dụng gấp 10 lần"
+    },
+    {
+      "title": "FPT và Nvidia mở rộng dữ liệu mô phỏng 1 triệu người Việt để phát triển AI",
+      "link": "https://thanhnien.vn/fpt-va-nvidia-mo-rong-du-lieu-mo-phong-1-trieu-nguoi-viet-de-phat-trien-ai-185261019113131712.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-10-19 13:45",
+      "summary": "Nguồn dữ liệu này giúp kiểm thử chatbot, đánh giá thiên lệch của mô hình và mô phỏng các tình huống tương tác với người dùng.",
+      "title_en": "FPT and Nvidia expand simulation data of 1 million Vietnamese people for AI development",
+      "title_vi": "FPT và Nvidia mở rộng dữ liệu mô phỏng 1 triệu người Việt để phát triển AI"
     }
   ],
   "other": [
     {
-      "title": "Nở rộ công cụ 'tăng tính người' cho nội dung AI",
-      "link": "https://vnexpress.net/no-ro-cong-cu-tang-tinh-nguoi-cho-noi-dung-ai-5131701.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-19 05:00",
-      "summary": "Hàng trăm công cụ \"nhân hóa\" văn bản AI đang xuất hiện nhằm giúp chỉnh sửa câu chữ tự nhiên hơn, bắt chước văn phong con người.",
-      "title_en": "Tools to 'humanize' AI content are booming",
-      "title_vi": "Nở rộ công cụ 'tăng tính người' cho nội dung AI"
-    },
-    {
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-19 01:28",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're t",
-      "title_en": "A woman was arrested in Philly for blocking a delivery robot",
-      "title_vi": "Một phụ nữ bị bắt tại Philly vì chặn robot giao hàng"
-    },
-    {
-      "title": "Khám phá khả năng xử lý AI cục bộ trên laptop",
-      "link": "https://thanhnien.vn/kham-pha-kha-nang-xu-ly-ai-cuc-bo-tren-laptop-185261015170943139.htm",
+      "title": "Sony đăng ký bằng sáng chế AI tạo khung hình trước khi GPU xử lý",
+      "link": "https://thanhnien.vn/sony-dang-ky-bang-sang-che-ai-tao-khung-hinh-truoc-khi-gpu-xu-ly-185261020001049793.htm",
       "source": "Thanh Niên",
       "lang": "vi",
-      "pub_date": "2026-10-18 17:27",
-      "summary": "Kết hợp GPU Blackwell với bộ nhớ hợp nhất dung lượng lớn, Nvidia RTX Spark hướng đến việc xử lý các tác vụ AI phức tạp trực tiếp trên laptop Windows.",
-      "title_en": "Explore on-device AI processing capabilities on laptops",
-      "title_vi": "Khám phá khả năng xử lý AI cục bộ trên laptop"
+      "pub_date": "2026-10-20 08:07",
+      "summary": "Bằng sáng chế mới của Sony mô tả công nghệ AI có thể tạo khung hình tiếp theo mà không cần chờ GPU hoàn tất quá trình kết xuất.",
+      "title_en": "Sony patents AI that generates frames before GPU processing",
+      "title_vi": "Sony đăng ký bằng sáng chế AI tạo khung hình trước khi GPU xử lý"
     },
     {
-      "title": "AI Trung Quốc có thể 'giả vờ ngoan' để qua mặt đánh giá",
-      "link": "https://vnexpress.net/ai-trung-quoc-co-the-gia-vo-ngoan-de-qua-mat-danh-gia-5133788.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-18 12:51",
-      "summary": "GLM-5.3 - mô hình mới nhất của phòng thí nghiệm trí tuệ nhân tạo Trung Quốc Z.AI (còn gọi là Zhipu) có thể đủ tinh vi để \"giả vờ\" vượt qua bài kiểm tra an toàn.",
-      "title_en": "Chinese AI may 'pretend to be good' to fool evaluations",
-      "title_vi": "AI Trung Quốc có thể 'giả vờ ngoan' để qua mặt đánh giá"
-    },
-    {
-      "title": "Bác sĩ tâm thần cảnh báo sự biến đổi đáng sợ của não bộ khi nghiện phim ngắn AI",
-      "link": "https://genk.vn/bac-si-tam-than-canh-bao-su-bien-doi-dang-so-cua-nao-bo-khi-nghien-phim-ngan-ai-165261018100931419.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-18 11:42",
-      "summary": "Nhờ các xung đột cảm xúc dồn dập và cảm giác thỏa mãn tức thì, phim ngắn AI đang trở thành món thức ăn nhanh kỹ thuật số cho mọi lứa tuổi. Tuy nhiên, giới chuyên môn cảnh báo loại hình này đang âm thầ",
-      "title_en": "Psychiatrist warns about the scary brain changes when addicted to AI-made short videos",
-      "title_vi": "Bác sĩ tâm thần cảnh báo sự biến đổi đáng sợ của não bộ khi nghiện phim ngắn AI"
-    },
-    {
-      "title": "Bỏ học MIT, thành tỷ phú ở tuổi 29, Alexandr Wang được Mark Zuckerberg đặt cược để đưa Meta trở lại cuộc đua AI",
-      "link": "https://genk.vn/bo-hoc-mit-thanh-ty-phu-o-tuoi-29-alexandr-wang-duoc-mark-zuckerberg-dat-cuoc-de-dua-meta-tro-lai-cuoc-dua-ai-165261018080952128.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-18 08:40",
-      "summary": "Ở tuổi 29, vị tỷ phú trẻ thậm chí được xem là ứng viên tiềm năng kế nhiệm vị trí CEO của Mark Zuckerberg.",
-      "title_en": "Dropping out of MIT, becoming a billionaire at 29, Alexandr Wang is the bet Mark Zuckerberg places to bring Meta back into the AI race",
-      "title_vi": "Bỏ học MIT, thành tỷ phú ở tuổi 29, Alexandr Wang được Mark Zuckerberg đặt cược để đưa Meta trở lại cuộc đua AI"
-    },
-    {
-      "title": "Triệt phá vụ án lợi dụng AI lừa đảo phí tác quyền nền tảng âm nhạc: Làm nhạc AI, tạo 10 nghìn bot nghe nhạc, trục lợi 8 triệu USD tiền bản quyền",
-      "link": "https://genk.vn/triet-pha-vu-an-loi-dung-ai-lua-dao-phi-tac-quyen-nen-tang-am-nhac-lam-nhac-ai-tao-10-nghin-bot-nghe-nhac-truc-loi-8-trieu-usd-tien-ban-quyen-165261018080455946.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-18 08:21",
-      "summary": "Sử dụng công nghệ AI để tạo ra hàng ngàn bài hát \"rác\" kết hợp cùng đội quân 10.000 tài khoản bot chạy ngầm, một người đàn ông tại Mỹ đã âm thầm \"rút ruột\" hơn 8 triệu USD tiền bản quyền từ các nền tả",
-      "title_en": "Busting a case of using AI to defraud music platform copyright fees: Creating AI music, making 10,000 listening bots, profiting $8 million in royalties",
-      "title_vi": "Triệt phá vụ án lợi dụng AI lừa đảo phí tác quyền nền tảng âm nhạc: Làm nhạc AI, tạo 10 nghìn bot nghe nhạc, trục lợi 8 triệu USD tiền bản quyền"
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-18 01:48",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_vi": "Replit chọn OpenAI làm mặc định thay vì Anthropic, CEO cho biết"
+      "pub_date": "2026-10-20 05:04",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "title_en": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "title_vi": "Microsoft nói các tác nhân AI giống như mối đe dọa nội bộ vì 'các mô hình tiên tiến không thể tin cậy'"
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-20 04:48",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more ",
+      "title_en": "The fossil fuel comeback is here",
+      "title_vi": "Sự trở lại của nhiên liệu hóa thạch đã đến"
+    },
+    {
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-20 04:28",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L",
+      "title_en": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "title_vi": "Nợ của CoreWeave đang trở thành vấn đề của toàn ngành AI"
+    },
+    {
+      "title": "AI cloud security needs to prove control before agents reach production",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTRDNVJVdUZVV2ZLQm51eWtyVFo1Q2MzUG1zVzBGZEZPb0VmVmxfZHpxajdNRjBzM1lzZWl2WXFjSDdpd1gwcTdULWtCak5zTVNjdEIxLThLUktCbEE3bGtweUYwZnBCb0FIakFKM0VTcFdMR3JJOGNtd1RJQnVZMERFU0dGX0lXRzhuYlJIeU1ncmNfYVpJNE1KVEhXSWdpb05BazgxVQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-20 03:52",
+      "summary": "AI cloud security needs to prove control before agents reach production VentureBeat",
+      "title_en": "AI cloud security needs to prove control before agents reach production",
+      "title_vi": "Bảo mật đám mây AI cần chứng minh khả năng kiểm soát trước khi các tác nhân đi vào sản xuất"
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-20 02:28",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to",
+      "title_en": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "title_vi": "Tin tặc tấn công công cụ lập trình AI OpenCode, làm tăng chi phí trên tài khoản AI của người dùng"
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-20 02:00",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "title_en": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "title_vi": "Tolan huy động được 30 triệu USD cho trợ lý AI giúp người dùng định hướng cuộc sống"
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-20 01:49",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "title_en": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "title_vi": "Người sáng lập Replika đã xây dựng trợ lý AI mà cô giới thiệu tại Disrupt 12 năm trước"
     }
   ]
 }

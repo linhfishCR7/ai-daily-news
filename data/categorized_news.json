@@ -1,37 +1,77 @@
 {
   "headline": [
     {
-      "title": "Anthropic’s answer to Muse is here: Claude Duet, a mobile and desktop AI agent that takes actions proactively",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMGVsZHBaNS13ZDBBdVRTdW9LSmp1QnJjbGVBRlhINl83NE95eGJsUEpNX3ZRdVhrTUNrUVdxSGdyYU9ReHp3YzJwTERrY18xdVlFQTlCTDI4QVFRWGIwU25xbnZBRDlMVTdJSmdpQmo1bkFYeUJnSm4zWktsZ3dUTWkyNk5yYUc4N3NWVThWdUxZOFV5dy0xRGk1YUZ0RTN0N3ZNd0FwS3hhbjJUY2VlVlMtRVBpeE5XUEJlT2RLLVdTUThXeEk0cjhyTzRMUGp4UVp4a01jeHM?oc=5",
-      "source": "VentureBeat",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-22 03:44",
-      "summary": "Anthropic’s answer to Muse is here: Claude Duet, a mobile and desktop AI agent that takes actions proactively VentureBeat",
-      "title_en": "Anthropic’s answer to Muse is here: Claude Duet, a mobile and desktop AI agent that takes actions proactively",
-      "title_vi": "Câu trả lời của Anthropic cho Muse đã đến: Claude Duet, tác nhân AI trên di động và máy tính chủ động hành động"
+      "pub_date": "2026-10-23 05:08",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title_vi": "OpenAI đang huy động 30 tỷ USD với định giá 1,25 nghìn tỷ USD trước thềm IPO"
     },
     {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "The Verge",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-22 02:53",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,",
-      "title_en": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "title_vi": "Anthropic đối đầu Muse với Claude Duet, tác nhân AI mới của mình"
+      "pub_date": "2026-10-23 02:00",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title_en": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "title_vi": "OpenAI phổ biến rộng rãi đối thủ của Jev khi cạnh tranh mô hình quyết định nóng lên"
     },
     {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "source": "Ars Technica",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-22 01:51",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "title_en": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "title_vi": "Các mô hình AI mới nhất của OpenAI sắp có mặt trên Google Cloud và Antigravity"
+      "pub_date": "2026-10-22 23:00",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "title_en": "Uber puts all 30,000 employees on ChatGPT Work",
+      "title_vi": "Uber đưa toàn bộ 30.000 nhân viên lên ChatGPT Work"
     }
   ],
   "product": [
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-23 02:07",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "title_en": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "title_vi": "1Password ra mắt cách để tác nhân AI đăng nhập thay bạn mà không thấy mật khẩu"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-23 02:00",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "title_en": "Canva releases its first image generation model",
+      "title_vi": "Canva phát hành mô hình tạo ảnh đầu tiên"
+    },
+    {
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "source": "NVIDIA",
+      "lang": "en",
+      "pub_date": "2026-10-22 22:00",
+      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then ",
+      "title_en": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "title_vi": "NVIDIA ra mắt Minerva mang đến khả năng giám sát toàn diện cho các nhà máy AI"
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-22 20:53",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "title_en": "Claude Duet app is Anthropic’s bet on agents",
+      "title_vi": "Ứng dụng Claude Duet là cược của Anthropic vào các tác nhân"
+    },
     {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
       "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
@@ -40,89 +80,59 @@
       "pub_date": "2026-10-22 03:27",
       "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
       "title_en": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "title_vi": "Recursive ra mắt Flint, mô hình lập trình trên laptop được cho là phần lớn do AI xây dựng"
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-22 02:30",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp",
-      "title_en": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "title_vi": "Trong khi Amazon chặn tác nhân AI, Walmart mở rộng cửa chào đón"
-    },
-    {
-      "title": "Deel launches Pangaea AI models for HR and payroll, betting specialists can cut the cost of answers by 98%",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTBmWTE2VnY1UVdVa1lNRndEYXMyUDZQQVNpNlpmcWh2MWlOd3ktWEhrRFl2SFk4N1ZULWp2RjU1VVVUNDBHN3U4eDhtLVlUOUpTYTR0R0hPVEJpN3gybjNUQm91V0hqTjAtMDJPd3JMT2RIcHJ0ZkRqQ1AxZnZwcUYxcERBNzN6UXpnQ1Mxa21PSlhudWV2WWgybG1XS1RLOWRuTTZVLTZHSlVfUTZCMElZRlJwdGtHQXRha2x2dDNnOEpDTy1SREJwVVRiZw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-21 23:28",
-      "summary": "Deel launches Pangaea AI models for HR and payroll, betting specialists can cut the cost of answers by 98% VentureBeat",
-      "title_en": "Deel launches Pangaea AI models for HR and payroll, betting specialists can cut the cost of answers by 98%",
-      "title_vi": "Deel ra mắt các mô hình AI Pangaea cho nhân sự và tính lương, đặt cược chuyên gia có thể cắt giảm 98% chi phí trả lời"
-    },
-    {
-      "title": "CTGT releases open source tool Concordance to trace why AI agents make inconsistent decisions",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEVWaDlzRlhCcGZzeFhOaVRRbG53amdFOWw2M2h5UXpacC1vUkZEdEtVbzBockV3SkpneDR1bU8yMHBvVTBVeGNVdkkxR3Zpd29DdXkyU0Utamc1REFaeHJzTDJ3Wm8wbGg5ZHRRREk0WXZPdWZBdnhEaVM2VWsxN0FTbXBhQk5oV1haaFNOcldnTnRFcE1JWWZENktVOHh0ekM3YTBfcjBPd3FOMjhnMXBfTXI2UmhIUlpNRkRHZw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-21 22:42",
-      "summary": "CTGT releases open source tool Concordance to trace why AI agents make inconsistent decisions VentureBeat",
-      "title_en": "CTGT releases open source tool Concordance to trace why AI agents make inconsistent decisions",
-      "title_vi": "CTGT phát hành công cụ mã nguồn mở Concordance để truy vết lý do tác nhân AI đưa ra quyết định thiếu nhất quán"
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-21 01:38",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "title_en": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "title_vi": "Google tham gia cùng Amazon tấn công thành trì của Nvidia với các nhà phát triển ứng dụng AI"
+      "title_vi": "Recursive ra mắt Flint, mô hình lập trình trên laptop được cho là do AI xây dựng phần lớn"
     }
   ],
   "funding": [
     {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "title": "Formic Raises $50 Million to Scale Physical AI Across American Manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2ZiNTdqTWZFSWw3TG9velpoaW9rbFd3VnlRMkZqb2k1YTRHTlJtWmlVX2FyQW1JSFN4dnhZT2lSYjlCOGgwV1dpZXFhYzM4Sk1MY1lwakNicG5CLWlhbEMwcUF5LUE3MjFzd05mVVEyLUxxcUUwLWxkQ1ZDOWMwTTVma2RDZWxiYTV4eERzc3BtZXV1Z0dTOGpiNWV0WXdVWDhESUNHRVRia0st?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-23 03:00",
+      "summary": "Formic Raises $50 Million to Scale Physical AI Across American Manufacturing VentureBeat",
+      "title_en": "Formic Raises $50 Million to Scale Physical AI Across American Manufacturing",
+      "title_vi": "Formic huy động 50 triệu USD để mở rộng AI vật lý trong sản xuất Mỹ"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-22 00:18",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "title_en": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "title_vi": "Blacksmith đạt định giá kỳ lân sau khi Sequoia dẫn dắt vòng Series C"
+      "pub_date": "2026-10-22 20:26",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "title_en": "Nirva raises $33M for a pendant that only listens to you",
+      "title_vi": "Nirva huy động 33 triệu USD cho mặt dây chuyền chỉ lắng nghe bạn"
     },
     {
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-21 22:14",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "title_en": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "title_vi": "Công ty khởi nghiệp AI chạy quảng cáo trị giá 15 tỷ đô la mà bác sĩ của bạn có thể đang dùng"
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI Blog",
-      "lang": "en",
-      "pub_date": "2026-10-21 11:00",
-      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature ",
-      "title_en": "Southeast Asia’s digital economy to hit $368 billion",
-      "title_vi": "Nền kinh tế số Đông Nam Á sẽ đạt 368 tỷ đô la"
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-21 03:35",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
-      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "title_vi": "OpenAI mua lại công ty khởi nghiệp Orchestra Bio để tăng cường mảng công nghệ sinh học"
+      "pub_date": "2026-10-22 20:11",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
+      "title_vi": "DeepSeek được cho là huy động 15 tỷ USD chỉ vài ngày sau lệnh hạn chế của Mỹ"
+    },
+    {
+      "title": "Chapter Acquires Ridgeway to Expand Leadership Position in AI and Transform Retirement for American Seniors",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbXYwanZxOTF0TkhVV21rMHRQLVhRNDVHVXhXWGJPYkxJT3ZWbWI4eTRXdXc3RUlnV1N4WVFMMEY1SjM2RDllZ1Q0TmJjX1pLUjNKc3Z3MXhXSXI3YzJISUxaZ3hpUmFic1p3cFN0UmVCTGM5NVNyWUFkcmlkT004ZGp4WXRObnRONE5SbmpuN3FZQ2FiVWtHelZKUkxoWUIzakpVNU95Z2gzeWk0a3duVE9vRHVmakNCZHBPenhCT1dXeG55RUU4VnBWR20tWHE4eUNOeHl1UQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-22 20:00",
+      "summary": "Chapter Acquires Ridgeway to Expand Leadership Position in AI and Transform Retirement for American Seniors VentureBeat",
+      "title_en": "Chapter Acquires Ridgeway to Expand Leadership Position in AI and Transform Retirement for American Seniors",
+      "title_vi": "Chapter mua lại Ridgeway để mở rộng vị thế dẫn đầu về AI và chuyển đổi hưu trí cho người cao tuổi Mỹ"
+    },
+    {
+      "title": "Có phải cơn sốt AI sắp hạ nhiệt? Doanh thu Anthropic tăng 45%, định giá IPO có thể giảm 500 tỷ USD",
+      "link": "https://genk.vn/co-phai-con-sot-ai-sap-ha-nhiet-doanh-thu-anthropic-tang-45-dinh-gia-ipo-co-the-giam-500-ty-usd-165261022142810618.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-22 14:50",
+      "summary": "Cho dù doanh thu quý vừa qua của Anthropic đạt một mức tăng đáng mơ ước so với các công ty khác, nhưng giới đầu tư vẫn không hài lòng về con số này.",
+      "title_en": "Is the AI craze about to cool down? Anthropic revenue up 45%, IPO valuation may drop $500B",
+      "title_vi": "Có phải cơn sốt AI sắp hạ nhiệt? Doanh thu Anthropic tăng 45%, định giá IPO có thể giảm 500 tỷ USD"
     }
   ],
   "research": [
@@ -131,10 +141,40 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE5YeTg2dFR6WjZqWmlIUXluVkJ4d2dUM3VqdEFqOGs2bXdTRmk1WDRnZ3kwUlRZTG1aOGdlY0VWV0tWZUwxNXJyTXlhUzEwVExTQjJqem0ybDBtajRaWmhOTXdxc0xvSndERkx0MzRNbk1VcnpjaDVXaC1EWWRTM1BhakZfcjl2V1VuaW5OMkw?oc=5",
       "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-10-22 07:09",
+      "pub_date": "2026-10-23 07:16",
       "summary": "Why the enterprise AI security gap starts below the model VentureBeat",
       "title_en": "Why the enterprise AI security gap starts below the model",
-      "title_vi": "Vì sao khoảng trống bảo mật AI doanh nghiệp bắt đầu từ bên dưới mô hình"
+      "title_vi": "Vì sao lỗ hổng bảo mật AI doanh nghiệp bắt đầu từ bên dưới mô hình"
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-23 04:51",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a",
+      "title_en": "Canva’s first AI image model plans designs before generating them",
+      "title_vi": "Mô hình tạo ảnh AI đầu tiên của Canva lên kế hoạch thiết kế trước khi tạo"
+    },
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "Hugging Face",
+      "lang": "en",
+      "pub_date": "2026-10-22 23:11",
+      "summary": "",
+      "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "title_vi": "OlmoEarth v1.3: Nhúng hiện đại nhất cho toàn bộ hành tinh"
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-22 23:08",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 223 # Comments: 273",
+      "title_en": "Every AI model has the same \"controversial\" take on humans",
+      "title_vi": "Mọi mô hình AI đều có cùng quan điểm 'gây tranh cãi' về con người"
     },
     {
       "title": "Researchers made AI agents better by turning academic papers into working code — no retraining required",
@@ -145,170 +185,140 @@
       "summary": "Researchers made AI agents better by turning academic papers into working code — no retraining required VentureBeat",
       "title_en": "Researchers made AI agents better by turning academic papers into working code — no retraining required",
       "title_vi": "Các nhà nghiên cứu cải thiện tác nhân AI bằng cách biến bài báo học thuật thành mã hoạt động — không cần đào tạo lại"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-21 06:01",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "title_vi": "Anthropic đề xuất dự luật an toàn AI có thể chặn mô hình nếu hơn 50 người có thể thiệt mạng"
-    },
-    {
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-21 01:07",
-      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report publ",
-      "title_en": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "title_vi": "Meta tạm dừng chia sẻ Muse sau khi các nhà nghiên cứu phát hiện các cuộc trò chuyện AI trên web"
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-20 23:00",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "title_en": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "title_vi": "Thực vật có thể giao tiếp bằng điện, vì vậy công ty khởi nghiệp này xây dựng mô hình AI để giải mã ngôn ngữ của chúng"
     }
   ],
   "industry": [
     {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face",
+      "title": "Nvidia pitches AI factories as GPUs sit idle",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHNIcF82cDJTQl9VOHJNeFFDcHFMYlY5bGhiSVY1T0x3eGdkSXk5aXB5SGxSMTJfUm9iODdzSnBvbEJ1T3ptaW12YjBVT2pORmk0RGFLR2lldFlsSnJRTmt1NFRYS2E4a2R0TDhTMTVkR09ZTjkzbXU4aW9mcTNya25HSGcwcDhmZERTbU1CSVBzTExrRF9JUzBNSG1rWm5LNXFTanZKRE5zd2IzVm1yUTN2NEM0ekNVLWpJdVFOcTMyUTROQmFsV2t0WkF3cUk?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-10-22 01:26",
-      "summary": "",
-      "title_en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "title_vi": "NVIDIA Kumo Relational vượt trội so với học máy có giám sát trên dữ liệu quan hệ, không cần đào tạo"
+      "pub_date": "2026-10-23 01:57",
+      "summary": "Nvidia pitches AI factories as GPUs sit idle VentureBeat",
+      "title_en": "Nvidia pitches AI factories as GPUs sit idle",
+      "title_vi": "Nvidia giới thiệu nhà máy AI khi GPU nhàn rỗi"
     },
     {
-      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-22 01:20",
-      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-      "title_en": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "title_vi": "Thẩm phán bác bỏ tuyên bố ngông cuồng của Trump rằng EPA có thể bác bỏ các vụ kiện ô nhiễm từ trung tâm dữ liệu"
-    },
-    {
-      "title": "Laptop AI dùng chip NVIDIA giá gần 195 triệu đồng tại Việt Nam",
-      "link": "https://dantri.com.vn/cong-nghe/laptop-ai-dung-chip-nvidia-gia-gan-195-trieu-dong-tai-viet-nam-20261018023221836.htm",
-      "source": "Dân trí",
-      "lang": "vi",
-      "pub_date": "2026-10-21 18:56",
-      "summary": "(Dân trí) - Asus mở bán dòng laptop cao cấp ProArt tại thị trường Việt Nam, sử dụng chip AI do NVIDIA phát triển, có giá khởi điểm 114,99 triệu đồng và cao nhất 194,99 triệu đồng.",
-      "title_en": "Laptop AI with NVIDIA chip costs nearly 195 million VND in Vietnam",
-      "title_vi": "Laptop AI dùng chip NVIDIA giá gần 195 triệu đồng tại Việt Nam"
-    },
-    {
-      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-      "source": "NVIDIA",
-      "lang": "en",
-      "pub_date": "2026-10-21 17:30",
-      "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-st",
-      "title_en": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "title_vi": "Các đối tác đám mây của NVIDIA mở rộng khắp châu Âu — Tự chủ, mở và được xây dựng cho các tác nhân AI an toàn"
-    },
-    {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-21 06:04",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As ",
-      "title_en": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "title_vi": "Thẩm phán bác bỏ vụ kiện lạm dụng tình dục của em gái Sam Altman"
+      "pub_date": "2026-10-22 22:50",
+      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the",
+      "title_en": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "title_vi": "OpenAI, Anthropic và Nvidia có quý vận động hành lang kỷ lục"
+    },
+    {
+      "title": "Schneider Electric, NVIDIA và HPE bắt tay phát triển tác nhân AI tự giám sát và xử lý sự cố trong nhà máy",
+      "link": "https://genk.vn/schneider-electric-nvidia-va-hpe-bat-tay-phat-trien-tac-nhan-ai-tu-giam-sat-va-xu-ly-su-co-trong-nha-may-165261022171910878.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-22 18:30",
+      "summary": "Thay vì chỉ phân tích dữ liệu, các tác nhân AI mới có thể phát hiện bất thường, đề xuất biện pháp khắc phục và tối ưu hóa năng lượng ngay tại nhà máy.",
+      "title_en": "Schneider Electric, NVIDIA and HPE join forces to develop self-monitoring and incident-handling AI agents in factories",
+      "title_vi": "Schneider Electric, NVIDIA và HPE bắt tay phát triển tác nhân AI tự giám sát và xử lý sự cố trong nhà máy"
+    },
+    {
+      "title": "Tin tặc dùng AI tự động tấn công hơn 1.200 website, xâm nhập hơn 100 doanh nghiệp",
+      "link": "https://tuoitre.vn/tin-tac-dung-ai-tu-dong-tan-cong-hon-1200-website-xam-nhap-hon-100-doanh-nghiep-100261022115306142.htm",
+      "source": "Tuổi Trẻ",
+      "lang": "vi",
+      "pub_date": "2026-10-22 12:27",
+      "summary": "Hơn 1.200 website bị nhắm tới, hơn 100 doanh nghiệp bị xâm nhập trong chiến dịch tin tặc dùng AI tự tìm lỗ hổng, khai thác và cài cửa hậu.",
+      "title_en": "Hackers use AI to automatically attack over 1,200 websites, infiltrating more than 100 businesses",
+      "title_vi": "Tin tặc dùng AI tự động tấn công hơn 1.200 website, xâm nhập hơn 100 doanh nghiệp"
+    },
+    {
+      "title": "Tổng giám đốc FPT Smart Cloud: 'Cần chấp nhận rủi ro khi ứng dụng AI'",
+      "link": "https://vnexpress.net/tong-giam-doc-fpt-smart-cloud-can-chap-nhan-rui-ro-khi-ung-dung-ai-5134630.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-22 09:00",
+      "summary": "Trong bối cảnh AI còn mới, doanh nghiệp cần chủ động thử nghiệm, chấp nhận rủi ro và đánh giá hiệu quả từ thực tế thay vì chờ đủ cơ sở mới bắt đầu, theo ông Lê Hồng Việt, Tổng giám đốc FPT Smart Cloud",
+      "title_en": "FPT Smart Cloud CEO: 'Need to accept risks when applying AI'",
+      "title_vi": "Tổng giám đốc FPT Smart Cloud: 'Cần chấp nhận rủi ro khi ứng dụng AI'"
     }
   ],
   "other": [
     {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-22 05:51",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "title_en": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "title_vi": "Jas Khaira của Blackstone cho rằng lo ngại về nợ xây dựng AI là thổi phồng quá mức"
+      "pub_date": "2026-10-23 07:45",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "title_en": "Left alone with nothing to do, AI agents started playing",
+      "title_vi": "Bị bỏ lại một mình không có việc gì làm, các tác nhân AI bắt đầu chơi đùa"
     },
     {
-      "title": "Data centers could erase decades of air quality gains",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "title": "Chuyên gia AI Việt nói điều đáng lo hơn viễn cảnh AI hủy diệt loài người",
+      "link": "https://dantri.com.vn/cong-nghe/chuyen-gia-ai-viet-noi-dieu-dang-lo-hon-vien-canh-ai-huy-diet-loai-nguoi-20261020160502221.htm",
+      "source": "Dân trí",
+      "lang": "vi",
+      "pub_date": "2026-10-23 05:50",
+      "summary": "(Dân trí) - Theo chuyên gia Nguyễn Chiến Thắng, hiểm họa AI đáng lo nhất không phải viễn cảnh robot nổi loạn, mà là khi con người trao cho công nghệ quyền lực vượt ngoài khả năng kiểm soát.",
+      "title_en": "Vietnamese AI expert says something more worrying than AI destroying humanity",
+      "title_vi": "Chuyên gia AI Việt nói điều đáng lo hơn viễn cảnh AI hủy diệt loài người"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "lang": "en",
+      "pub_date": "2026-10-23 05:24",
+      "summary": "",
+      "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "title_vi": "Biến chấm điểm cơ sở dữ liệu thành phần thưởng RL: Hậu đào tạo tác nhân với ThinkingBox"
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "pub_date": "2026-10-23 04:17",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
+      "title_en": "Designing an AI serving harness built to last",
+      "title_vi": "Thiết kế bộ khung phục vụ AI bền vững"
+    },
+    {
+      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "link": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-23 03:51",
+      "summary": "Article URL: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085 Comments URL: https://news.ycombinator.com/item?id=50200843 Points: 39 # Comments",
+      "title_en": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "title_vi": "Đa số người Mỹ cho rằng AI có hại cho xã hội, phản đối thêm trung tâm dữ liệu"
+    },
+    {
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-22 05:33",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New an",
-      "title_en": "Data centers could erase decades of air quality gains",
-      "title_vi": "Các trung tâm dữ liệu có thể xóa sổ nhiều thập kỷ cải thiện chất lượng không khí"
+      "pub_date": "2026-10-23 03:32",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address ",
+      "title_en": "Meta’s AI could still scrape news sites, legal experts say",
+      "title_vi": "AI của Meta vẫn có thể thu thập các trang tin tức, theo các chuyên gia pháp lý"
     },
     {
-      "title": "Khi AI khiến người dùng từ bỏ dịch vụ",
-      "link": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-22 05:00",
-      "summary": "Vào website một thương hiệu quen để mua giày, Thu Hà nhíu mày khi video giới thiệu được tạo từ AI chứ không phải tự quay như trước.",
-      "title_en": "When AI makes users abandon services",
-      "title_vi": "Khi AI khiến người dùng từ bỏ dịch vụ"
-    },
-    {
-      "title": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
-      "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-22 05:00",
-      "summary": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.",
-      "title_en": "What happens if AI agents 'speak' their own language?",
-      "title_vi": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?"
-    },
-    {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "title": "Meta turns Muse sharing back on",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-22 04:30",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward p",
-      "title_en": "Meta to create a new class of shares to fund AI push",
-      "title_vi": "Meta sẽ tạo ra loại cổ phiếu mới để tài trợ cho nỗ lực AI"
+      "pub_date": "2026-10-23 03:24",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketi",
+      "title_en": "Meta turns Muse sharing back on",
+      "title_vi": "Meta bật lại tính năng chia sẻ Muse"
     },
     {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-22 04:16",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
-      "title_en": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "title_vi": "TechCrunch Founder Summit 2026: Mọi điều bạn cần biết"
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-22 04:14",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-      "title_en": "Meta says Muse has over 10M users, with shopping a top activity",
-      "title_vi": "Meta cho biết Muse có hơn 10 triệu người dùng, với mua sắm là hoạt động hàng đầu"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-10-22 04:00",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "title_en": "Broad access through consistent standards",
-      "title_vi": "Truy cập rộng rãi thông qua các tiêu chuẩn nhất quán"
+      "pub_date": "2026-10-23 02:45",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis",
+      "title_en": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "title_vi": "Được thôi, hãy gộp SpaceX và Tesla lại, ai quan tâm chứ"
     }
   ]
 }

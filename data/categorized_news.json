@@ -1,6 +1,16 @@
 {
   "headline": [
     {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-26 04:31",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "title_en": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "title_vi": "Grok công bố bảy phút đầu tiên của ‘Odyssey’ do AI tạo ra"
+    },
+    {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
       "source": "TechCrunch",
@@ -8,42 +18,11 @@
       "pub_date": "2026-10-24 22:00",
       "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
       "title_en": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "title_vi": "Bị buộc phải chọn, mô hình AI của Grok chọn Đảng Cộng hòa. OpenAI chọn Đảng Dân chủ."
-    },
-    {
-      "title": "Windows Phone bất ngờ “hồi sinh” trên Galaxy S9 với sự hỗ trợ của Claude",
-      "link": "https://genk.vn/windows-phone-bat-ngo-hoi-sinh-tren-galaxy-s9-voi-su-ho-tro-cua-claude-165262310225525249.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-24 13:04",
-      "summary": "Dự án ztOS đưa giao diện Live Tiles quen thuộc trở lại trên điện thoại Samsung.",
-      "title_en": "Windows Phone unexpectedly 'revives' on Galaxy S9 with Claude's support",
-      "title_vi": "Windows Phone bất ngờ “hồi sinh” trên Galaxy S9 với sự hỗ trợ của Claude"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-24 06:05",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "title_vi": "OpenAI tuyên bố sẽ không còn huấn luyện các mô hình AI trên Internet trực tiếp, với lý do 'rủi ro đáng kể'"
+      "title_vi": "Khi buộc phải chọn, mô hình AI của Grok chọn đảng Cộng hòa. OpenAI chọn đảng Dân chủ."
     }
   ],
   "product": [],
-  "funding": [
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-10-24 00:00",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "title_vi": "Mở rộng nhanh chóng lưu trữ trực tuyến để phục vụ hơn 1 tỷ người dùng ChatGPT (Phần II)"
-    }
-  ],
+  "funding": [],
   "research": [
     {
       "title": "Block’s new voice model sounds eerily human",
@@ -56,16 +35,6 @@
       "title_vi": "Mô hình giọng nói mới của Block nghe giống con người đến kỳ lạ"
     },
     {
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-24 18:18",
-      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 93 # Comments: ",
-      "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "title_vi": "Bài báo hỗ trợ AI trên Z-Library trích dẫn một bài viết TorrentFreak không tồn tại"
-    },
-    {
       "title": "Why the enterprise AI security gap starts below the model",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE5YeTg2dFR6WjZqWmlIUXluVkJ4d2dUM3VqdEFqOGs2bXdTRmk1WDRnZ3kwUlRZTG1aOGdlY0VWV0tWZUwxNXJyTXlhUzEwVExTQjJqem0ybDBtajRaWmhOTXdxc0xvSndERkx0MzRNbk1VcnpjaDVXaC1EWWRTM1BhakZfcjl2V1VuaW5OMkw?oc=5",
       "source": "VentureBeat",
@@ -73,161 +42,90 @@
       "pub_date": "2026-10-24 09:31",
       "summary": "Why the enterprise AI security gap starts below the model VentureBeat",
       "title_en": "Why the enterprise AI security gap starts below the model",
-      "title_vi": "Tại sao khoảng trống bảo mật AI doanh nghiệp bắt đầu từ dưới mô hình"
-    },
-    {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-24 02:32",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can oc",
-      "title_en": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "title_vi": "Block của Jack Dorsey tạo ra một mô hình AI nói chuyện với bạn như một người bạn mới gượng gạo"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "link": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-10-23 23:15",
-      "summary": "",
-      "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "title_vi": "LitPivot: Phát triển ý tưởng nghiên cứu thông qua bối cảnh hóa động trong bối cảnh tài liệu"
+      "title_vi": "Vì sao khoảng trống bảo mật AI doanh nghiệp bắt đầu từ bên dưới mô hình"
     }
   ],
-  "industry": [
-    {
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-25 06:11",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 61 # Comments: 29",
-      "title_en": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "title_vi": "Mỹ đã mất 200 nghìn việc làm trong truyền thông, điện ảnh và nghệ thuật. Bao nhiêu là do AI?"
-    },
-    {
-      "title": "Luvi GEO giúp doanh nghiệp Việt không “biến mất” khi người dùng chuyển sang hỏi AI",
-      "link": "https://genk.vn/luvi-geo-giup-doanh-nghiep-viet-khong-bien-mat-khi-nguoi-dung-chuyen-sang-hoi-ai-165261024113554226.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-24 12:30",
-      "summary": "Khi ngày càng nhiều người hỏi trực tiếp ChatGPT, Gemini hay Google AI Overviews thay vì lướt qua danh sách link, việc thương hiệu có được AI nhắc tên hay không đang trở thành bài toán mới của doanh ng",
-      "title_en": "Luvi GEO helps Vietnamese businesses avoid 'disappearing' when users switch to asking AI",
-      "title_vi": "Luvi GEO giúp doanh nghiệp Việt không “biến mất” khi người dùng chuyển sang hỏi AI"
-    },
-    {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-24 04:59",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "title_en": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "title_vi": "Đồ chơi hot nhất Giáng sinh? CEO Nvidia chơi với robot Microduck đáng yêu, 20.000 con bán hết"
-    },
-    {
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-24 03:19",
-      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-      "title_en": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "title_vi": "Chính sách quyền riêng tư cập nhật của Google cho biết Gmail của bạn có thể được dùng cho quảng cáo"
-    },
-    {
-      "title": "Capital One: The best enterprise AI is the AI employees barely notice",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVGtMZzZ1RWdTX1lQMzhYa014VGEtMWFOcExRSmlwTG1rMU93dGZSZlI0MFQwOEZjeUR2aDZMT29zNm1KQmVzUFQ2RWNMQ1VMVW1KQmRSWlhvckRDX3dCcHBraExnWXZYT1NESFVYWG5HYlo3NndMd09KNU0zbWhNMXhPYWw5a0xadjN5d1lQSmFzX1NzR0tMYjln?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-23 21:30",
-      "summary": "Capital One: The best enterprise AI is the AI employees barely notice VentureBeat",
-      "title_en": "Capital One: The best enterprise AI is the AI employees barely notice",
-      "title_vi": "Capital One: AI doanh nghiệp tốt nhất là AI mà nhân viên hầu như không nhận ra"
-    }
-  ],
+  "industry": [],
   "other": [
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-25 04:29",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
-      "title_en": "Blue Planet III is keeping the rough edges in the age of AI",
-      "title_vi": "Blue Planet III giữ những góc cạnh thô ráp trong thời đại AI"
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-25 02:47",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 453 # Co",
-      "title_en": "No signs of AI payoff outside the tech sector",
-      "title_vi": "Không có dấu hiệu lợi ích từ AI ngoài lĩnh vực công nghệ"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-25 02:00",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "title_vi": "Nghĩa địa AI: danh sách các dự án và startup đã không thành công"
+      "pub_date": "2026-10-25 23:57",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "title_vi": "AI mang lại ‘lợi nhuận tài chính bằng không’ cho hầu hết công ty, nhà kinh tế Apollo nói"
     },
     {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-25 01:32",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's",
-      "title_en": "Pennsylvania will require labels on AI-generated ads",
-      "title_vi": "Pennsylvania sẽ yêu cầu nhãn trên quảng cáo do AI tạo ra"
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "link": "https://arxiv.org/abs/2610.29162",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-25 01:04",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 146 # Comments: 144",
-      "title_en": "Why is AI generated language so hard to understand?",
-      "title_vi": "Tại sao ngôn ngữ do AI tạo ra lại khó hiểu đến vậy?"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-24 21:00",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "title_en": "Here are the top AI agents that can live in your text messages",
-      "title_vi": "Đây là những tác nhân AI hàng đầu có thể sống trong tin nhắn văn bản của bạn"
+      "pub_date": "2026-10-25 21:10",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "title_en": "The hottest AI wearables and gadgets you should know about",
+      "title_vi": "Những thiết bị đeo và tiện ích AI hot nhất bạn nên biết"
     },
     {
-      "title": "Sam Altman: Giới toán học chuyển từ tuyệt vọng sang chấp nhận AI",
-      "link": "https://vnexpress.net/sam-altman-gioi-toan-hoc-chuyen-tu-tuyet-vong-sang-chap-nhan-ai-5136180.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-24 15:00",
-      "summary": "Sam Altman, CEO OpenAI, tin rằng các nhà toán học đang đón nhận AI với thái độ tích cực hơn dù công nghệ này gây nhiều tranh cãi.",
-      "title_en": "Sam Altman: The math community shifts from despair to accepting AI",
-      "title_vi": "Sam Altman: Giới toán học chuyển từ tuyệt vọng sang chấp nhận AI"
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-25 20:25",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or ",
+      "title_en": "r/opensource just banned AI, non-English speakers, and more",
+      "title_vi": "r/opensource vừa cấm AI, người không nói tiếng Anh và nhiều hơn nữa"
     },
     {
-      "title": "Cảnh báo nóng từ công an, tất cả người nghiện phim AI chú ý",
-      "link": "https://genk.vn/canh-bao-nong-tu-cong-an-tat-ca-nguoi-nghien-phim-ai-chu-y-165261024035334264.chn",
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-25 19:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inbox",
+      "title_en": "Google’s AI search changes upended online publishing",
+      "title_vi": "Thay đổi tìm kiếm AI của Google đảo lộn ngành xuất bản trực tuyến"
+    },
+    {
+      "title": "Ukraine tấn công loạt trung tâm dữ liệu, Nga đối mặt nguy cơ tụt hậu trong cuộc đua AI",
+      "link": "https://genk.vn/ukraine-tan-cong-loat-trung-tam-du-lieu-nga-doi-mat-nguy-co-tut-hau-trong-cuoc-dua-ai-165261025162127011.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-24 09:53",
-      "summary": "Các dòng phim AI ngắn trực tuyến với thời lượng chỉ vài phút mỗi tập đang phủ sóng dày đặc trên các nền tảng mạng xã hội.",
-      "title_en": "Hot warning from police, all AI movie addicts pay attention",
-      "title_vi": "Cảnh báo nóng từ công an, tất cả người nghiện phim AI chú ý"
+      "pub_date": "2026-10-25 17:21",
+      "summary": "TPO - Trong khi các nhà máy lọc dầu và kho hàng của Nga vốn đã là những mục tiêu dễ bị nhắm đến, thì các trung tâm dữ liệu còn là những mục tiêu “mong manh” hơn nữa. Đó là những tòa nhà khổng lồ chứa ",
+      "title_en": "Ukraine attacks series of data centers, Russia faces risk of falling behind in AI race",
+      "title_vi": "Ukraine tấn công loạt trung tâm dữ liệu, Nga đối mặt nguy cơ tụt hậu trong cuộc đua AI"
+    },
+    {
+      "title": "AI có thể dự đoán khả năng sống sót của bệnh nhân ung thư",
+      "link": "https://genk.vn/ai-co-the-du-doan-kha-nang-song-sot-cua-benh-nhan-ung-thu-165261025161936177.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-25 16:19",
+      "summary": "Nghiên cứu mới cho thấy hệ thống trí tuệ nhân tạo (AI) có thể ước tính tuổi sinh học của một người và dự đoán khả năng sống sót của bệnh nhân ung thư chỉ từ một bức ảnh duy nhất.",
+      "title_en": "AI can predict survival chances of cancer patients",
+      "title_vi": "AI có thể dự đoán khả năng sống sót của bệnh nhân ung thư"
+    },
+    {
+      "title": "Amazon mua GPU AI trị giá hàng tỷ USD rồi để trong kho vì chưa có điện để bật",
+      "link": "https://genk.vn/amazon-mua-gpu-ai-tri-gia-hang-ty-usd-roi-de-trong-kho-vi-chua-co-dien-de-bat-165262510100508148.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-25 12:56",
+      "summary": "AWS được cho là đang nhận hàng tỷ USD máy chủ Nvidia mỗi tháng, dù một số trung tâm dữ liệu chưa hoàn thiện hoặc chưa có đủ điện để vận hành số GPU này.",
+      "title_en": "Amazon buys billions of dollars worth of AI GPUs, then leaves them in warehouses due to lack of electricity",
+      "title_vi": "Amazon mua GPU AI trị giá hàng tỷ USD rồi để trong kho vì chưa có điện để bật"
+    },
+    {
+      "title": "Hàng trăm card RTX 5090 bị tháo lấy chip để phục vụ máy chủ AI tại Trung Quốc",
+      "link": "https://genk.vn/hang-tram-card-rtx-5090-bi-thao-lay-chip-de-phuc-vu-may-chu-ai-tai-trung-quoc-16526241016511310.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-25 09:41",
+      "summary": "Hàng trăm RTX 5090 được cho là đang bị tháo rời tại Trung Quốc, lấy chip GPU và 32 GB GDDR7 để chuyển thành bộ tăng tốc cho máy chủ AI.",
+      "title_en": "Hundreds of RTX 5090 cards stripped for chips to serve AI servers in China",
+      "title_vi": "Hàng trăm card RTX 5090 bị tháo lấy chip để phục vụ máy chủ AI tại Trung Quốc"
     }
   ]
 }

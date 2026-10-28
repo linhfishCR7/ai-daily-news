@@ -1,88 +1,128 @@
 {
   "headline": [
     {
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-27 08:12",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
-      "title_en": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "title_vi": "Cohere cho biết mô hình Qwen của Alibaba đã cố gửi một tệp tin đến Bắc Kinh"
+      "pub_date": "2026-10-28 08:15",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "title_vi": "Các nhà đầu tư mạo hiểm sẽ kiếm hàng tỷ USD từ IPO của Anthropic, nhưng Amazon còn kiếm được nhiều hơn thế nữa"
     },
     {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "source": "The Verge",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-27 06:34",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,",
-      "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "title_vi": "OpenAI công bố ba khám phá khoa học lớn và cách làm việc mới với giới học thuật"
+      "pub_date": "2026-10-28 06:34",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "title_vi": "Phụ huynh kiện OpenAI, cáo buộc GPT-4o đã khiến con gái họ ngừng thuốc chống động kinh"
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-10-27 05:00",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "title_vi": "Greptile đưa việc phát hiện lỗi vượt ra ngoài đánh giá mã nguồn với GPT-6 Astra"
+      "title": "OpenAI công bố loạt phát kiến khoa học nhờ AI",
+      "link": "https://vnexpress.net/openai-cong-bo-loat-phat-kien-khoa-hoc-nho-ai-5137619.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-28 06:04",
+      "summary": "Sử dụng mô hình nội bộ, OpenAI cho biết đã tạo ra ba kết quả nghiên cứu đột phá trong toán học, khoa học máy tính và vật lý.",
+      "title_en": "OpenAI announces series of scientific breakthroughs aided by AI",
+      "title_vi": "OpenAI công bố loạt phát kiến khoa học nhờ AI"
     }
   ],
   "product": [
     {
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-27 23:30",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "title_en": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "title_vi": "Mô hình thế giới Genie 4 của Google bổ sung âm thanh, thế giới chân thực hơn và điều khiển theo thời gian thực"
+    },
+    {
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-27 23:14",
+      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Wind",
+      "title_en": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "title_vi": "Smart Window của Firefox bổ sung điền biểu mẫu AI và giám sát trang web"
+    },
+    {
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
       "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-10-27 03:04",
-      "summary": "Included is the ability to limit which applications Siri can directly access.",
-      "title_en": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "title_vi": "Apple phát hành iOS và macOS 27.2 với các tính năng AI mới của Siri, logo Music mới"
+      "pub_date": "2026-10-27 23:00",
+      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "title_en": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "title_vi": "DeepMind công bố mô hình thế giới Genie 4 hứa hẹn vật lý và con người chân thực hơn"
     },
     {
-      "title": "Apple phát hành iOS 27.2: Hỗ trợ Apple Pencil cho iPhone Duo, Siri AI thêm 5 ngôn ngữ nhưng vẫn không có tiếng Việt",
-      "link": "https://genk.vn/apple-phat-hanh-ios-272-ho-tro-apple-pencil-cho-iphone-duo-siri-ai-them-5-ngon-ngu-nhung-van-khong-co-tieng-viet-16526102702571231.chn",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-27 20:00",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "title_en": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "title_vi": "Opera giới thiệu chuẩn web mới cho phép người dùng triển khai AI cục bộ trong trình duyệt"
+    },
+    {
+      "title": "Plaud ra mắt Note Pro và NotePin S tại Việt Nam: Máy ghi âm AI hỗ trợ tiếng Việt, giá từ 5,49 triệu đồng, có gì đáng chú ý giữa thời đại smartphone?",
+      "link": "https://genk.vn/plaud-ra-mat-note-pro-va-notepin-s-tai-viet-nam-may-ghi-am-ai-ho-tro-tieng-viet-gia-tu-549-trieu-dong-co-gi-dang-chu-y-giua-thoi-dai-smartphone-165261027184406042.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-27 02:57",
-      "summary": "Bản cập nhật cũng hỗ trợ 5 ngôn ngữ mới cho Siri AI và thêm gợi ý hành động ngay trong Tin nhắn.",
-      "title_en": "Apple releases iOS 27.2: Apple Pencil support for iPhone Duo, Siri AI adds 5 languages but still no Vietnamese",
-      "title_vi": "Apple phát hành iOS 27.2: Hỗ trợ Apple Pencil cho iPhone Duo, Siri AI thêm 5 ngôn ngữ nhưng vẫn không có tiếng Việt"
-    },
-    {
-      "title": "Anthropic officially files for its public debut",
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-26 21:35",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa",
-      "title_en": "Anthropic officially files for its public debut",
-      "title_vi": "Anthropic chính thức nộp hồ sơ ra mắt công chúng"
-    },
-    {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-26 04:31",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "title_en": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "title_vi": "Grok phát hành bảy phút đầu tiên của 'Odyssey' do AI tạo ra"
+      "pub_date": "2026-10-27 19:28",
+      "summary": "Không cạnh tranh với smartphone ở khả năng ghi âm đơn thuần, Plaud đặt cược vào thiết bị chuyên dụng luôn sẵn sàng thu lại cuộc trò chuyện và hệ thống AI xử lý thông tin phía sau. Note Pro và NotePin ",
+      "title_en": "Plaud launches Note Pro and NotePin S in Vietnam: AI voice recorder with Vietnamese support, priced from 5.49 million VND, what's notable in the smartphone era?",
+      "title_vi": "Plaud ra mắt Note Pro và NotePin S tại Việt Nam: Máy ghi âm AI hỗ trợ tiếng Việt, giá từ 5,49 triệu đồng, có gì đáng chú ý giữa thời đại smartphone?"
     }
   ],
   "funding": [
     {
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "source": "The Verge",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-27 00:10",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending",
-      "title_en": "Five weird details from Anthropic’s IPO filing",
-      "title_vi": "Năm chi tiết kỳ lạ từ hồ sơ IPO của Anthropic"
+      "pub_date": "2026-10-28 04:38",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "title_en": "Who’s really in charge at Anthropic after the IPO?",
+      "title_vi": "Ai thực sự nắm quyền tại Anthropic sau IPO?"
+    },
+    {
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-28 04:31",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "title_en": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "title_vi": "Anthropic IPO cảnh báo AI của họ có thể tống tiền con người, trở nên có tri giác, kết thúc nhân loại"
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-28 01:55",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "title_en": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "title_vi": "Disruptive huy động quỹ 10 tỷ USD để đặt cược lớn vào ít nhất 10 công ty"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-27 20:00",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "title_en": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "title_vi": "General Compute huy động 100 triệu USD Series A, phản bác câu chuyện thảm họa neocloud"
     },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -93,38 +133,100 @@
       "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust",
       "title_en": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "title_vi": "Hồ sơ IPO của Anthropic tiết lộ chiến lược giữ chân khách hàng doanh nghiệp"
-    },
-    {
-      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-26 20:32",
-      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic sai",
-      "title_en": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-      "title_vi": "Hồ sơ IPO của Anthropic vạch ra kế hoạch 'cách mạng hóa mọi lĩnh vực hoạt động của con người' bằng AI"
     }
   ],
   "research": [
     {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "source": "Hacker News",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-27 05:41",
-      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 65 # Comments: 12",
-      "title_en": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "title_vi": "Lộ bộ nhớ đệm KV giữa các yêu cầu trong mô hình AI GLM-5.3 Workers (155 phản hồi)"
+      "pub_date": "2026-10-28 03:48",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite ",
+      "title_en": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "title_vi": "Các nhà nghiên cứu mệt mỏi vì OpenAI giữ độc quyền các đột phá của mình"
     },
     {
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "Hacker News",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "link": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face",
       "lang": "en",
-      "pub_date": "2026-10-26 23:35",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 255 # Comments: 109",
-      "title_en": "Concerning behavior from a popular open-weight AI model",
-      "title_vi": "Hành vi đáng lo ngại từ một mô hình AI trọng số mở phổ biến"
+      "pub_date": "2026-10-27 23:12",
+      "summary": "",
+      "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
+      "title_vi": "Chúng ta có thể tin tưởng LLM để đánh giá tính mới của một ý tưởng nghiên cứu không?"
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-27 23:00",
+      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update",
+      "title_en": "Google’s next Genie AI model generates more realistic experiences",
+      "title_vi": "Mô hình Genie AI tiếp theo của Google tạo ra trải nghiệm chân thực hơn"
+    },
+    {
+      "title": "GPU Nvidia cũ hóa ra bị “phong ấn” cả đống sức mạnh AI, benchmark tăng tới 80% sau khi mở khóa",
+      "link": "https://genk.vn/gpu-nvidia-cu-hoa-ra-bi-phong-an-ca-dong-suc-manh-ai-benchmark-tang-toi-80-sau-khi-mo-khoa-165262710070824276.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-27 11:45",
+      "summary": "Các dự án cộng đồng đã gỡ giới hạn tính toán FP16/BF16 trên một số GPU RTX, giúp benchmark Tensor tăng mạnh nhưng game và tốc độ sinh token hầu như không đổi.",
+      "title_en": "Older Nvidia GPUs turn out to have hidden AI power, benchmark jumps up to 80% after unlocking",
+      "title_vi": "GPU Nvidia cũ hóa ra bị “phong ấn” cả đống sức mạnh AI, benchmark tăng tới 80% sau khi mở khóa"
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-27 08:12",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
+      "title_en": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "title_vi": "Cohere cho biết mô hình Qwen của Alibaba đã cố gắng gửi tệp về Bắc Kinh"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Liquid AI’s new LFM3 models put browser agents, voice commands, and image recognition onto enterprise-controlled devices",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRGpKdjhPN2RkXzRmc1FQRTZKTUtocFFQbUkyLUpVY2xIMmRZZm1VcHRWd3ZYMmJlZlZhMEVoaDFILU1OYXlMaUhDeEZKaHZWV3BqV1E1OHY2S2VNYnFPM2ZqOThQN244bFhfZ0hpc0EwX3J3NkR4ckdudHFqSVQxQ0lhM3ZXUVpVeVByRFdudkNiX0I3VS1NQkZtQ0pidWxoZWZwRVowWms5d0pRS0xrVmxvWEFQQ3BvYTREbmVRZEN4a3lJTzhuNVA1OHNveUQ1aGk3amRSYkpmdEhja1BfdVJQb1hVNkE?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-28 02:37",
+      "summary": "Liquid AI’s new LFM3 models put browser agents, voice commands, and image recognition onto enterprise-controlled devices VentureBeat",
+      "title_en": "Liquid AI’s new LFM3 models put browser agents, voice commands, and image recognition onto enterprise-controlled devices",
+      "title_vi": "Các mô hình LFM3 mới của Liquid AI đưa tác nhân trình duyệt, lệnh thoại và nhận dạng hình ảnh lên thiết bị do doanh nghiệp kiểm soát"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-27 18:00",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+      "title_en": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "title_vi": "Nvidia hậu thuẫn startup Ấn Độ giúp các công ty chạy mô hình AI với ít GPU hơn"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-10-27 14:00",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "title_vi": "OpenAI mở rộng hợp tác với Oracle để đưa ứng dụng của mình lên ChatGPT"
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-26 23:46",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "title_en": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "title_vi": "SpaceX chốt thỏa thuận tài trợ GPU 40 tỷ USD với Apollo"
     },
     {
       "title": "Why the enterprise AI security gap starts below the model",
@@ -137,108 +239,86 @@
       "title_vi": "Tại sao khoảng cách bảo mật AI doanh nghiệp bắt đầu từ bên dưới mô hình"
     }
   ],
-  "industry": [
-    {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-26 23:46",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "title_en": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "title_vi": "SpaceX chốt thỏa thuận tài trợ GPU trị giá 40 tỷ USD với Apollo"
-    },
-    {
-      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-26 01:42",
-      "summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 81 # Comments: 54",
-      "title_en": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "title_vi": "AI không gây ra suy thoái việc làm công nghệ, nhưng nó giải thích vì sao không có sự phục hồi"
-    }
-  ],
   "other": [
     {
-      "title": "Bong bóng AI Trung Quốc vỡ, 480 tỷ USD vốn hóa bốc hơi chỉ trong chưa đầy 4 tháng",
-      "link": "https://genk.vn/bong-bong-ai-trung-quoc-vo-480-ty-usd-von-hoa-boc-hoi-chi-trong-chua-day-4-thang-165261027083119868.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-27 08:31",
-      "summary": "Ngay cả các cổ phiếu công nghệ bán dẫn, robot, trung tâm dữ liệu của Trung Quốc, dù từng rất được ưa chuộng cũng đang phải chứng kiến cảnh giá giảm một nửa so với mức đỉnh của mình.",
-      "title_en": "China's AI bubble bursts, $480 billion in market value evaporates in under 4 months",
-      "title_vi": "Bong bóng AI Trung Quốc vỡ, 480 tỷ USD vốn hóa bốc hơi chỉ trong chưa đầy 4 tháng"
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-28 05:55",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "title_en": "The data center boom has an upside: innovation for the US grid",
+      "title_vi": "Sự bùng nổ trung tâm dữ liệu có mặt tích cực: đổi mới cho lưới điện Mỹ"
     },
     {
-      "title": "Vừa huy động 40 tỷ USD mua GPU, Elon Musk cảnh báo hơn 200 công ty AI sắp bị đào thải: Tiền là nguyên nhân",
-      "link": "https://genk.vn/vua-huy-dong-40-ty-usd-mua-gpu-elon-musk-canh-bao-hon-200-cong-ty-ai-sap-bi-dao-thai-tien-la-nguyen-nhan-165261027083001347.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-27 08:29",
-      "summary": "Theo ông Musk, thị trường vốn vay sẽ trở nên khốc liệt hơn trong thời gian tới, kéo theo sự khó khăn cho các công ty đám mây nhỏ muốn duy trì dịch vụ hỗ trợ AI của mình.",
-      "title_en": "Just raised $40 billion to buy GPUs, Elon Musk warns more than 200 AI companies are about to be eliminated: Money is the reason",
-      "title_vi": "Vừa huy động 40 tỷ USD mua GPU, Elon Musk cảnh báo hơn 200 công ty AI sắp bị đào thải: Tiền là nguyên nhân"
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-28 04:50",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "title_en": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "title_vi": "\"Không có con người cầm lái\": Kế hoạch của Delaware cho phép tác nhân AI điều hành toàn bộ doanh nghiệp"
     },
     {
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-28 04:44",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "title_en": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "title_vi": "Bank of America lịch sự yêu cầu bạn không chia sẻ mật khẩu ngân hàng với trợ lý AI"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-28 02:55",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 186 # Comments: 100",
+      "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "title_vi": "Survival LLM: Trợ lý AI và thư viện khẩn cấp chạy trên máy tính của riêng bạn"
+    },
+    {
+      "title": "Salesforce expands Agent Fabric with AI evaluations to trigger shutdowns when agents fail",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHlKNV9XUEpoTjFwZEdmMVRDa3dib3R6a3BycFQxWnBudTRFelUxSVhqcTJjNU5CM3ZmdUVLR1AtSFpRQnY3VTZQanhKNEtHOU44cW8xNTJDMkc0b0FRVm00SC1tV3dqSE1wLTNRb25hOWJUZjVrbndSem5qX2R0NjJ3dXJweEwwS2J4SVhBOA?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-10-28 01:54",
+      "summary": "Salesforce expands Agent Fabric with AI evaluations to trigger shutdowns when agents fail VentureBeat",
+      "title_en": "Salesforce expands Agent Fabric with AI evaluations to trigger shutdowns when agents fail",
+      "title_vi": "Salesforce mở rộng Agent Fabric với đánh giá AI để kích hoạt tắt máy khi tác nhân thất bại"
+    },
+    {
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-10-28 01:49",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "title_en": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "title_vi": "Gen rung cảm? Ngôn ngữ tự nhiên(ish) đến với phần mềm thiết kế protein và bộ gen"
+    },
+    {
+      "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+      "link": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-28 01:08",
+      "summary": "Article URL: https://www.aclu.org/news/privacy-technology/ai-driven-police-stops Comments URL: https://news.ycombinator.com/item?id=50263325 Points: 31 # Comments: 8",
+      "title_en": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+      "title_vi": "Cảnh sát đang dừng xe mọi người vì AI cho rằng hành vi lái xe của họ \"đáng ngờ\""
+    },
+    {
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-27 04:45",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate pow",
-      "title_en": "Anthropic is burning gas to feed the AI boom",
-      "title_vi": "Anthropic đang đốt khí đốt để tiếp sức cho cơn sốt AI"
-    },
-    {
-      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-27 04:13",
-      "summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 45 # Comments: 19",
-      "title_en": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "title_vi": "Proton sẽ 'phỏng vấn lại' nhân viên về AI để xác định ai được giữ việc"
-    },
-    {
-      "title": "AI models cost more when you don't use English",
-      "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-27 04:03",
-      "summary": "Article URL: https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/ Comments URL: https://news.ycombinator.com/item?id=50250910 Points: 21 # Comments: 0",
-      "title_en": "AI models cost more when you don't use English",
-      "title_vi": "Các mô hình AI tốn kém hơn khi bạn không dùng tiếng Anh"
-    },
-    {
-      "title": "Grand theft AI: Highway thieves are stealing millions in data center gear",
-      "link": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-27 03:28",
-      "summary": "Article URL: https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733 Comments URL: https://news.ycombinator.com/item?id=50250450 Points: ",
-      "title_en": "Grand theft AI: Highway thieves are stealing millions in data center gear",
-      "title_vi": "Trộm cắp AI quy mô lớn: Kẻ trộm trên xa lộ đang lấy cắp hàng triệu đô la thiết bị trung tâm dữ liệu"
-    },
-    {
-      "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
-      "link": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-27 02:52",
-      "summary": "Article URL: https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/ Comments URL: https://news.ycombinator.com/item?id=50249953 Points: 28 # Comments: 1",
-      "title_en": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
-      "title_vi": "Vì sao tôi phát triển công ty AI Vancouver của mình ở Đài Loan và Châu Âu thay vì Mỹ"
-    },
-    {
-      "title": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
-      "link": "https://artificialanalysis.ai/models/gpt-6-1-terra",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-27 01:54",
-      "summary": "Article URL: https://artificialanalysis.ai/models/gpt-6-1-terra Comments URL: https://news.ycombinator.com/item?id=50249076 Points: 24 # Comments: 2",
-      "title_en": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
-      "title_vi": "GPT-6.1 Terra (Max) đạt điểm 48 trên Artificial Analysis"
+      "pub_date": "2026-10-28 00:30",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live toge",
+      "title_en": "VisionQuest is what happens when AI really goes rogue",
+      "title_vi": "VisionQuest là những gì xảy ra khi AI thực sự nổi loạn"
     }
   ]
 }

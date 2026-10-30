@@ -1,89 +1,109 @@
 {
   "headline": [
     {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-29 04:34",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
-      "title_en": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "title_vi": "Microsoft ghi nhận doanh thu 10 tỷ đô la từ OpenAI"
+      "title": "Startup Mỹ dùng tác nhân AI xâm nhập hệ thống Anthropic",
+      "link": "https://vnexpress.net/startup-my-dung-tac-nhan-ai-xam-nhap-he-thong-anthropic-5138480.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-30 08:24",
+      "summary": "Startup Cathedral tìm được đường truy cập dữ liệu của Anthropic trong chưa đầy 12 tiếng, làm dấy lên lo ngại về an ninh tại các công ty AI.",
+      "title_en": "US startup uses AI agents to infiltrate Anthropic systems",
+      "title_vi": "Startup Mỹ dùng tác nhân AI xâm nhập hệ thống Anthropic"
     },
     {
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-29 03:03",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to",
-      "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "title_vi": "Google ra mắt Gemini 4 Carbon với 'bước nhảy vọt đáng kể' về an ninh mạng"
+      "title": "Claude tung tính năng mới 'tranh việc' với luật sư, còn nghề nào AI chưa nhòm ngó?",
+      "link": "https://genk.vn/claude-tung-tinh-nang-moi-tranh-viec-voi-luat-su-con-nghe-nao-ai-chua-nhom-ngo-165261030080417723.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-30 08:20",
+      "summary": "Rà hợp đồng, kiểm tra trích dẫn, theo dõi quy định mới: Claude đang nhận thêm việc của luật sư, sau khi đã tiến vào lập trình, thiết kế, tài chính và nhân sự.",
+      "title_en": "Claude launches new feature to 'steal jobs' from lawyers, which professions has AI not yet eyed?",
+      "title_vi": "Claude tung tính năng mới 'tranh việc' với luật sư, còn nghề nào AI chưa nhòm ngó?"
     },
     {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-29 02:19",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "title_vi": "Anthropic vừa ra mắt công cụ cho thấy công ty đang chi tiêu cho AI để mua gì"
+      "pub_date": "2026-10-30 02:56",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "title_en": "OpenAI-backed Thrive Holdings acquires ADT",
+      "title_vi": "Thrive Holdings được OpenAI hậu thuẫn mua lại ADT"
     }
   ],
   "product": [
     {
-      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-30 02:14",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca",
+      "title_en": "Meta quietly launches an AI fashion app called Style Sketch",
+      "title_vi": "Meta âm thầm ra mắt ứng dụng thời trang AI mang tên Style Sketch"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-30 00:00",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "title_en": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "title_vi": "Mistral công bố trọng số cho mô hình AI nghìn tỷ tham số, nhắm tới an ninh mạng"
+    },
+    {
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-29 23:21",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit ar",
+      "title_en": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "title_vi": "Cựu lãnh đạo Palantir ra mắt Dream với 17 triệu USD từ a16z để xây dựng mô hình thế giới AI cho xây dựng"
+    },
+    {
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "link": "https://news.ycombinator.com/item?id=50291116",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-29 07:16",
-      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Po",
-      "title_en": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "title_vi": "New York Times bổ sung thêm nhiều tính năng AI cho ứng dụng Cooking. Người dùng không hài lòng"
+      "pub_date": "2026-10-29 22:56",
+      "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Siman",
+      "title_en": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "title_vi": "Ra mắt HN: Simantic (YC F26) – Mô phỏng phần sụn cho tác nhân AI"
     },
     {
-      "title": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1BfSV9DNVl1aW5HV3A3SVc1bDFqZEhFT3VpekhjVDIwaVNKOTc2Z0c2WEJaaWtiNmFfc3BWWXBKWEtqUWpvaGRTOWMwNHBwYlRmbGIyX1FVN1M0Y0xWVGYzMnFWV2NYaFBlZ0JIZzlfR2p1Y2szTDIybXFTQ3FFOUtkazNVbzNoRUJQZV9GNXZLN3V1MWdOVmpCLS1IS2ZIQmRXbE01ZWNHVTNyLTZRWDV5YmFTbjJNZ1Y2VmoycFBnYlFpd1JuY3pRYUlWREMxSmE2b2FEYThGTVJhODA4?oc=5",
-      "source": "VentureBeat",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-10-29 01:25",
-      "summary": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited VentureBeat",
-      "title_en": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited",
-      "title_vi": "Google công bố Gemini 4 Carbon, giành lại vị trí số 1 thế giới trên các chuẩn đánh giá mới, khó hơn - nhưng quyền truy cập bị hạn chế"
-    },
-    {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-29 00:00",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "title_en": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "title_vi": "Tính năng Autofill hỗ trợ AI của Chrome giờ có thể đào sâu vào Gmail của bạn để điền biểu mẫu"
-    },
-    {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-28 22:00",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools",
-      "title_en": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "title_vi": "AI giọng nói đang thịnh hành: Nvidia phát hành mô hình phiên âm mở mới"
-    },
-    {
-      "title": "Synthflow Launches Vector, a Long-Horizon AI Agent for Lenders That Doesn’t Stop When the Call Ends",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGdqMUNLMm1UQTJ5aE41Y3o1WHhTU3d6QWRhWl9ublFpQUpDVjVqUVI4TnM5WGNMMWR4UGc3dG0wazNKSTdva1NSTkdOZGtXNHZsUXFkTGtLQlRJNFM0SG1hclBqVlJMSU5DWnA0U1RyZVh6MzgtNVVleHAxNm5HMGM2S0FNRjdFcnNlc1dlWmdEWXdvM3RldXdfT2x1dktIcy1HWTYteG9YOXZ2NnZ4TVQ0ejVjY0ZSUThfTXM0Rmp5ajFBVVUtWkp3?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-10-28 20:35",
-      "summary": "Synthflow Launches Vector, a Long-Horizon AI Agent for Lenders That Doesn’t Stop When the Call Ends VentureBeat",
-      "title_en": "Synthflow Launches Vector, a Long-Horizon AI Agent for Lenders That Doesn’t Stop When the Call Ends",
-      "title_vi": "Synthflow ra mắt Vector, tác nhân AI tầm xa dành cho người cho vay không dừng lại khi cuộc gọi kết thúc"
+      "pub_date": "2026-10-29 21:39",
+      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko an",
+      "title_en": "The NYT Cooking app is testing AI recipe modifications",
+      "title_vi": "Ứng dụng NYT Cooking đang thử nghiệm điều chỉnh công thức bằng AI"
     }
   ],
   "funding": [
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-29 21:35",
+      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "title_en": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "title_vi": "Wabi, tác nhân AI xây dựng ứng dụng mini, được định giá 1,25 tỷ USD sau vòng gọi vốn mới nhất"
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-29 20:00",
+      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "title_en": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "title_vi": "Deepgram mua lại Daily, nhà sản xuất Pipecat, để tăng cường hạ tầng AI giọng nói"
+    },
     {
       "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
       "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
@@ -92,7 +112,17 @@
       "pub_date": "2026-10-29 04:58",
       "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
       "title_en": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "title_vi": "Microsoft vừa chia sẻ doanh thu thực tế của Azure bằng đô la: 33,2 tỷ đô la"
+      "title_vi": "Microsoft vừa công bố doanh thu thực tế của Azure bằng USD: 33,2 tỷ USD"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-29 04:34",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
+      "title_en": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "title_vi": "Microsoft ghi nhận doanh thu 10 tỷ USD từ OpenAI"
     },
     {
       "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
@@ -100,42 +130,42 @@
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-10-28 20:56",
-      "summary": "Article URL: https://github.com/thomasunise/casecite Comments URL: https://news.ycombinator.com/item?id=50273623 Points: 69 # Comments: 37",
+      "summary": "Article URL: https://github.com/thomasunise/casecite Comments URL: https://news.ycombinator.com/item?id=50273623 Points: 69 # Comments: 38",
       "title_en": "Harvey raised 500M for legal AI, I built the same and open sourced it",
-      "title_vi": "Harvey huy động 500 triệu đô la cho AI pháp lý, tôi đã xây dựng cái tương tự và mở mã nguồn"
-    },
-    {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-28 08:15",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "title_vi": "Các nhà đầu tư mạo hiểm sẽ kiếm hàng tỷ đô la từ IPO của Anthropic, nhưng Amazon có thể kiếm được nhiều hơn (nhiều hơn nữa)"
-    },
-    {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-28 04:38",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "title_en": "Who’s really in charge at Anthropic after the IPO?",
-      "title_vi": "Ai thực sự nắm quyền tại Anthropic sau IPO?"
-    },
-    {
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-28 04:31",
-      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-      "title_en": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "title_vi": "IPO của Anthropic cảnh báo AI của họ có thể tống tiền con người, trở nên có tri giác, kết thúc nhân loại"
+      "title_vi": "Harvey gọi vốn 500 triệu USD cho AI pháp lý, tôi xây dựng sản phẩm tương tự và mã nguồn mở"
     }
   ],
   "research": [
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-10-30 00:00",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "title_en": "An updated Model Spec for more capable and beneficial AI",
+      "title_vi": "Bản cập nhật Model Spec cho AI năng lực cao hơn và có lợi hơn"
+    },
+    {
+      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+      "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-29 17:08",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-generated-scientific-papers Comments URL: https://news.ycombinator.com/item?id=50286738 Points: 47 # Comments: 26",
+      "title_en": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+      "title_vi": "Tôi dùng AI để làm giả một bài báo khoa học. Đây là những gì đã xảy ra"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-10-29 16:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "title_en": "How we detect frontier model misalignment",
+      "title_vi": "Cách chúng tôi phát hiện sự lệch hướng của mô hình tiên tiến"
+    },
     {
       "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
       "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
@@ -144,7 +174,7 @@
       "pub_date": "2026-10-29 01:47",
       "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
       "title_en": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "title_vi": "Google công bố Gemini 4 Carbon, mô hình AI tiên phong mới nhất mà bạn không thể sử dụng"
+      "title_vi": "Google công bố Gemini 4 Carbon, mô hình AI tiên tiến mới nhất mà bạn không thể dùng"
     },
     {
       "title": "Gemini 4 Carbon: Our next frontier model",
@@ -154,171 +184,141 @@
       "pub_date": "2026-10-29 00:00",
       "summary": "",
       "title_en": "Gemini 4 Carbon: Our next frontier model",
-      "title_vi": "Gemini 4 Carbon: Mô hình tiên phong tiếp theo của chúng tôi"
-    },
-    {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-28 03:48",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite ",
-      "title_en": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "title_vi": "Các nhà nghiên cứu đang mệt mỏi với việc OpenAI giữ kín các đột phá của mình"
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "link": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-10-27 23:12",
-      "summary": "",
-      "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-      "title_vi": "Chúng ta có thể tin tưởng LLM để đánh giá xem một ý tưởng nghiên cứu có mới lạ không?"
-    },
-    {
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-27 23:00",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "title_en": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "title_vi": "DeepMind hé lộ mô hình thế giới Genie 4 hứa hẹn vật lý và con người chân thực hơn"
+      "title_vi": "Gemini 4 Carbon: Mô hình tiên tiến tiếp theo của chúng tôi"
     }
   ],
   "industry": [
     {
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-      "source": "Hacker News",
+      "title": "Trump declares robot imports a national security threat",
+      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-10-29 07:30",
-      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 30 # Comments: 24",
-      "title_en": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "title_vi": "MicroZig sẽ áp dụng chính sách nghiêm ngặt không LLM / không AI"
+      "pub_date": "2026-10-30 02:07",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "title_en": "Trump declares robot imports a national security threat",
+      "title_vi": "Trump tuyên bố nhập khẩu robot là mối đe dọa an ninh quốc gia"
     },
     {
-      "title": "Creating AI value with enterprise context",
-      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-29 03:32",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
-      "title_en": "Creating AI value with enterprise context",
-      "title_vi": "Tạo giá trị AI với bối cảnh doanh nghiệp"
+      "pub_date": "2026-10-29 23:42",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "title_en": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "title_vi": "Mỹ điều tra âm mưu gián điệp Trung Quốc nhắm vào CEO Nvidia"
     },
     {
-      "title": "'Vỡ mộng' vì vội ứng dụng AI",
-      "link": "https://vnexpress.net/vo-mong-vi-voi-ung-dung-ai-5137139.html",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-29 23:00",
+      "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the si",
+      "title_en": "Microsoft’s AI future has fewer jobs",
+      "title_vi": "Tương lai AI của Microsoft có ít việc làm hơn"
+    },
+    {
+      "title": "Việt Nam đề xuất ba hướng hợp tác AI với Hàn Quốc",
+      "link": "https://vnexpress.net/viet-nam-de-xuat-ba-huong-hop-tac-ai-voi-han-quoc-5138410.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-10-29 00:00",
-      "summary": "Nhiều công ty trên thế giới đang đau đầu giải quyết mớ hỗn độn do vội vã ứng dụng AI khi công cụ chưa thực sự ổn định, dẫn đến mất thời gian của nhân viên, lộ bí mật thông tin và tăng chi phí.",
-      "title_en": "Disillusioned by rushing to apply AI",
-      "title_vi": "'Vỡ mộng' vì vội ứng dụng AI"
+      "pub_date": "2026-10-29 19:00",
+      "summary": "Thứ trưởng Trần Trung Tính đề xuất Việt Nam và Hàn Quốc tăng cường hợp tác nghiên cứu, phát triển hạ tầng và đào tạo nhân lực AI, hướng tới sản phẩm thương mại hóa.",
+      "title_en": "Vietnam proposes three directions for AI cooperation with South Korea",
+      "title_vi": "Việt Nam đề xuất ba hướng hợp tác AI với Hàn Quốc"
     },
     {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-10-28 21:58",
-      "summary": "",
-      "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "title_vi": "NVIDIA Nemotron 3.5 Transcribe và Granary v2: Phiên âm đa ngôn ngữ thông minh mà bạn có thể gợi ý và điều chỉnh"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-10-28 20:15",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "title_vi": "OpenAI và ServiceNow mở rộng quan hệ đối tác trên toàn quy trình làm việc doanh nghiệp"
+      "title": "Cựu kỹ sư Amazon tử vong sau khi nghe ChatGPT giảm thuốc, OpenAI đối mặt vụ kiện mới",
+      "link": "https://genk.vn/cuu-ky-su-amazon-tu-vong-sau-khi-nghe-chatgpt-giam-thuoc-openai-doi-mat-vu-kien-moi-165261029150634039.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-10-29 15:06",
+      "summary": "Theo đơn kiện, một nữ kỹ sư 31 tuổi mắc động kinh đã được ChatGPT lên lịch giảm thuốc chống co giật từ 400mg về 0 trong 25 ngày, kèm lời dặn đừng nói với bác sĩ. Gần đúng ngày lịch trình ấy kết thúc, ",
+      "title_en": "Former Amazon engineer dies after ChatGPT reduced medication, OpenAI faces new lawsuit",
+      "title_vi": "Cựu kỹ sư Amazon tử vong sau khi nghe ChatGPT giảm thuốc, OpenAI đối mặt vụ kiện mới"
     }
   ],
   "other": [
     {
-      "title": "Công ty Trung Quốc CXMT sắp sản xuất chip nhớ AI tiên tiến",
-      "link": "https://vnexpress.net/cong-ty-trung-quoc-cxmt-sap-san-xuat-chip-nho-ai-tien-tien-5138021.html",
-      "source": "VnExpress",
+      "title": "Meta One xuất hiện tại Việt Nam, tích hợp Facebook Plus và nhiều công cụ AI",
+      "link": "https://thanhnien.vn/meta-one-xuat-hien-tai-viet-nam-tich-hop-facebook-plus-va-nhieu-cong-cu-ai-185261029223409843.htm",
+      "source": "Thanh Niên",
       "lang": "vi",
-      "pub_date": "2026-10-29 08:00",
-      "summary": "\"Ngôi sao bán dẫn Trung Quốc\" CXMT được cho là sớm sản xuất HBM3E, chip nhớ băng thông cao tiên tiến dùng trong bộ xử lý AI, bất chấp tỷ lệ thành phẩm thấp.",
-      "title_en": "Chinese company CXMT about to produce advanced AI memory chips",
-      "title_vi": "Công ty Trung Quốc CXMT sắp sản xuất chip nhớ AI tiên tiến"
+      "pub_date": "2026-10-30 08:37",
+      "summary": "Gói Meta One bắt đầu xuất hiện tại Việt Nam với giá từ 149.900 đồng/tháng, tích hợp các dịch vụ Plus và nhiều công cụ AI.",
+      "title_en": "Meta One arrives in Vietnam, integrates Facebook Plus and many AI tools",
+      "title_vi": "Meta One xuất hiện tại Việt Nam, tích hợp Facebook Plus và nhiều công cụ AI"
     },
     {
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-29 06:05",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's",
-      "title_en": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "title_vi": "Adam Mosseri nói rằng tiêu cực xung quanh AI 'sẽ trở nên tồi tệ hơn'"
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-29 04:48",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "title_en": "Google expands AI Search ads globally as core ad growth slows",
-      "title_vi": "Google mở rộng quảng cáo tìm kiếm AI toàn cầu khi tăng trưởng quảng cáo cốt lõi chậm lại"
+      "pub_date": "2026-10-30 08:20",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "title_en": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "title_vi": "Bạn không cần tin vào thần linh để được miễn trừ tôn giáo khi sử dụng AI tại nơi làm việc"
     },
     {
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-29 04:34",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers",
-      "title_en": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "title_vi": "Akai đang chấp nhận các bản mod được mã hóa theo phong cách vibe với MPC mã nguồn mở"
+      "title": "AI trên smartphone đang thay đổi ra sao?",
+      "link": "https://dantri.com.vn/cong-nghe/ai-tren-smartphone-dang-thay-doi-ra-sao-20261029220005366.htm",
+      "source": "Dân trí",
+      "lang": "vi",
+      "pub_date": "2026-10-30 07:07",
+      "summary": "(Dân trí) - Trí tuệ nhân tạo (AI) trên smartphone đang trải qua một bước chuyển dịch mang tính bước ngoặt, từ những công cụ đơn lẻ trở thành một phần cốt lõi của toàn bộ hệ điều hành.",
+      "title_en": "How is AI on smartphones changing?",
+      "title_vi": "AI trên smartphone đang thay đổi ra sao?"
     },
     {
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-29 04:25",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
-      "title_en": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "title_vi": "Microsoft đạt 10 quý liên tiếp doanh thu kỷ lục"
+      "pub_date": "2026-10-30 06:42",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title_vi": "Jassy nói AWS sẽ là doanh nghiệp nghìn tỷ USD. Nhưng trước tiên, họ sẽ chi tiêu lớn."
     },
     {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-29 03:10",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 130 # Comments: 63",
-      "title_en": "Google AI gets cagey when asked who won the 2020 elections",
-      "title_vi": "AI của Google trở nên dè dặt khi được hỏi ai đã thắng cuộc bầu cử năm 2020"
+      "pub_date": "2026-10-30 05:22",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 34 # Comments: 9",
+      "title_en": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "title_vi": "Giá trị Google lao dốc 500 tỷ USD khi lo ngại về AI làm rung chuyển Phố Wall"
     },
     {
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-29 02:05",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
-      "title_en": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "title_vi": "CTO của Wiz nói về PHP2Shell và 'vulnpocalypse' sắp tới"
+      "title": "Xe chở thiết bị cho trung tâm dữ liệu AI thành mục tiêu của kẻ trộm",
+      "link": "https://vnexpress.net/xe-cho-thiet-bi-cho-trung-tam-du-lieu-ai-thanh-muc-tieu-cua-ke-trom-5138083.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-30 05:00",
+      "summary": "Vài tháng qua, nhiều nhóm trộm xâm nhập hệ thống của các công ty vận tải, tấn công xe chở thiết bị phục vụ trung tâm dữ liệu AI.",
+      "title_en": "Trucks carrying equipment for AI data centers become targets for thieves",
+      "title_vi": "Xe chở thiết bị cho trung tâm dữ liệu AI thành mục tiêu của kẻ trộm"
     },
     {
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-      "source": "TechCrunch",
+      "title": "Proton goes all in on using AI",
+      "link": "https://convo.casa/@b/117525936178835007",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-29 01:50",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
-      "title_en": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "title_vi": "'Vulnpocalypse' đang đến với mã cũ của internet, CTO của Wiz nói"
+      "pub_date": "2026-10-30 04:49",
+      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 77 # Comments: 71",
+      "title_en": "Proton goes all in on using AI",
+      "title_vi": "Proton dốc toàn lực vào sử dụng AI"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-30 04:40",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 165 # Comments: 62",
+      "title_en": "We ran AI agent swarms in Minecraft and Mindustry",
+      "title_vi": "Chúng tôi chạy các đàn tác nhân AI trong Minecraft và Mindustry"
     }
   ]
 }

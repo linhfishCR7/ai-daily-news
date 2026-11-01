@@ -1,25 +1,38 @@
 {
   "headline": [
     {
-      "title": "Khoảnh khắc Elon Musk sửa lỗi Sam Altman và màn \"bẻ lái\" lịch sử biến OpenAI thành cỗ máy 300 tỷ USD",
-      "link": "https://genk.vn/khoanh-khac-elon-musk-sua-loi-sam-altman-va-man-be-lai-lich-su-bien-openai-thanh-co-may-300-ty-usd-165261031083341933.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-31 08:40",
-      "summary": "Một đoạn video từ năm 2016 đang trở thành tâm điểm chú ý khi ghi lại khoảnh khắc Elon Musk \"chỉnh đốn\" Sam Altman về bản chất phi lợi nhuận của OpenAI. Sự dịch chuyển thành một đế chế thương mại 300 t",
-      "title_en": "Moment Elon Musk corrects Sam Altman and the historic 'U-turn' that turned OpenAI into a $300 billion machine",
-      "title_vi": "Khoảnh khắc Elon Musk sửa lỗi Sam Altman và màn \"bẻ lái\" lịch sử biến OpenAI thành cỗ máy 300 tỷ USD"
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-10-31 23:12",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "title_en": "OpenAI reportedly lowers funding target for new round",
+      "title_vi": "OpenAI được cho là đã hạ mục tiêu huy động vốn cho vòng mới"
     },
     {
-      "title": "Claude Max 20x đổi tên thành Ultra, bỏ giới hạn 5 giờ",
-      "link": "https://genk.vn/claude-max-20x-doi-ten-thanh-ultra-bo-gioi-han-5-gio-165261031051847601.chn",
+      "title": "AI bắt đầu tranh việc của bác sĩ phẫu thuật: Claude Sonnet tự chọn thuốc, quyết định cách điều trị rồi trực tiếp mổ não",
+      "link": "https://genk.vn/ai-bat-dau-tranh-viec-cua-bac-si-phau-thuat-claude-sonnet-tu-chon-thuoc-quyet-dinh-cach-dieu-tri-roi-truc-tiep-mo-nao-165261031171756145.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-10-31 05:16",
-      "summary": "Giá và hạn mức theo tuần không đổi, nhưng cái tên mới đặt lại câu hỏi \"20x\" thực chất là gấp bao nhiêu lần gói Pro.",
-      "title_en": "Claude Max 20x renamed to Ultra, 5-hour limit removed",
-      "title_vi": "Claude Max 20x đổi tên thành Ultra, bỏ giới hạn 5 giờ"
+      "pub_date": "2026-10-31 19:17",
+      "summary": "Không chỉ đóng vai trò trợ lý hay phụ tá cho bác sĩ, lần này Claude AI tự mình đưa ra hướng điều trị và trực tiếp thực hiện ca phẫu thuật não cho chuột để chữa trị cho nó.",
+      "title_en": "AI starts taking surgeons' jobs: Claude Sonnet chooses medication, decides treatment, then directly operates on brain",
+      "title_vi": "AI bắt đầu tranh việc của bác sĩ phẫu thuật: Claude Sonnet tự chọn thuốc, quyết định cách điều trị rồi trực tiếp mổ não"
     },
+    {
+      "title": "Nhân viên OpenAI, Anthropic giấu danh tính vì lo 'sập bẫy'",
+      "link": "https://vnexpress.net/nhan-vien-openai-anthropic-giau-danh-tinh-vi-lo-sap-bay-5138555.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-10-31 16:30",
+      "summary": "Nhân viên OpenAI, Anthropic được hướng dẫn giấu danh tính nơi công cộng, đề phòng thủ đoạn moi thông tin như nghe lén hay lợi dụng tình cảm.",
+      "title_en": "OpenAI, Anthropic employees hide identities fearing 'trap'",
+      "title_vi": "Nhân viên OpenAI, Anthropic giấu danh tính vì lo 'sập bẫy'"
+    }
+  ],
+  "product": [],
+  "funding": [
     {
       "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
       "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
@@ -28,52 +41,8 @@
       "pub_date": "2026-10-31 04:52",
       "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
       "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "title_vi": "Anthropic dự kiến nhận xếp hạng 'rác' cao từ các cơ quan tín dụng sau IPO, theo báo cáo của FT"
-    }
-  ],
-  "product": [
-    {
-      "title": "Claude tung tính năng mới 'tranh việc' với luật sư, còn nghề nào AI chưa nhòm ngó?",
-      "link": "https://genk.vn/claude-tung-tinh-nang-moi-tranh-viec-voi-luat-su-con-nghe-nao-ai-chua-nhom-ngo-165261030080417723.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-30 08:20",
-      "summary": "Rà hợp đồng, kiểm tra trích dẫn, theo dõi quy định mới: Claude đang nhận thêm việc của luật sư, sau khi đã tiến vào lập trình, thiết kế, tài chính và nhân sự.",
-      "title_en": "Claude launches new feature 'competing' with lawyers, which profession hasn't AI eyed yet?",
-      "title_vi": "Claude tung tính năng mới 'tranh việc' với luật sư, còn nghề nào AI chưa nhòm ngó?"
+      "title_vi": "Anthropic dự kiến nhận xếp hạng 'junk' cao từ các tổ chức tín dụng sau IPO, FT cho biết"
     },
-    {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-30 02:14",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca",
-      "title_en": "Meta quietly launches an AI fashion app called Style Sketch",
-      "title_vi": "Meta âm thầm ra mắt ứng dụng thời trang AI có tên Style Sketch"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-10-29 20:37",
-      "summary": "",
-      "title_en": "Granite Switch 4.1.1 — Update models like you update software",
-      "title_vi": "Granite Switch 4.1.1 — Cập nhật mô hình như cập nhật phần mềm"
-    },
-    {
-      "title": "Samsung tung tính năng AI cảnh báo ngưng thở khi ngủ",
-      "link": "https://thanhnien.vn/samsung-tung-tinh-nang-ai-canh-bao-ngung-tho-khi-ngu-185261029131120447.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-10-29 13:42",
-      "summary": "Samsung vừa công bố tính năng AI phát hiện chứng ngưng thở khi ngủ trên dòng Galaxy Watch và Galaxy Ring.",
-      "title_en": "Samsung launches AI feature to warn of sleep apnea",
-      "title_vi": "Samsung tung tính năng AI cảnh báo ngưng thở khi ngủ"
-    }
-  ],
-  "funding": [
     {
       "title": "Silicon Valley wants you to invest in miracles",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
@@ -83,41 +52,30 @@
       "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario",
       "title_en": "Silicon Valley wants you to invest in miracles",
       "title_vi": "Thung lũng Silicon muốn bạn đầu tư vào những điều kỳ diệu"
-    },
+    }
+  ],
+  "research": [],
+  "industry": [
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-30 02:56",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "title_en": "OpenAI-backed Thrive Holdings acquires ADT",
-      "title_vi": "Thrive Holdings được OpenAI hậu thuẫn mua lại ADT"
-    }
-  ],
-  "research": [
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-10-30 00:00",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "title_en": "An updated Model Spec for more capable and beneficial AI",
-      "title_vi": "Bản cập nhật Model Spec cho AI năng lực hơn và hữu ích hơn"
+      "pub_date": "2026-11-01 04:17",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "title_vi": "Thẩm phán cho phép vụ kiện của NAACP về ô nhiễm trung tâm dữ liệu xAI tiếp tục"
     },
     {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
+      "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-10-29 16:00",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "title_en": "How we detect frontier model misalignment",
-      "title_vi": "Cách chúng tôi phát hiện sự sai lệch của mô hình tiên phong"
-    }
-  ],
-  "industry": [
+      "pub_date": "2026-11-01 00:21",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804 Comments URL: https://news.ycombinator.",
+      "title_en": "Amazon sends chills through its workforce with mixed message memo about AI use",
+      "title_vi": "Amazon khiến nhân viên rùng mình với bản ghi nhớ thông điệp lẫn lộn về việc sử dụng AI"
+    },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -126,7 +84,7 @@
       "pub_date": "2026-10-31 08:20",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "title_vi": "Nvidia cân nhắc đứng ra bảo lãnh cho trung tâm dữ liệu AI của Nscale tại Tây Virginia"
+      "title_vi": "Nvidia cân nhắc đóng vai trò người bảo lãnh cho trung tâm dữ liệu AI của Nscale tại Tây Virginia"
     },
     {
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
@@ -136,7 +94,7 @@
       "pub_date": "2026-10-31 04:54",
       "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
       "title_en": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "title_vi": "Cổ phiếu Intel lao dốc, thổi bay 12 tỷ USD khỏi cổ phần của chính phủ"
+      "title_vi": "Cổ phiếu Intel lao dốc, xóa sổ 12 tỷ USD khỏi cổ phần của chính phủ"
     },
     {
       "title": "Áp lực họp hành thúc đẩy thị trường thiết bị AI tại Việt Nam",
@@ -147,108 +105,88 @@
       "summary": "Tốc độ số hóa nhanh cùng thói quen làm việc đa nhiệm đang biến Việt Nam thành một trong những thị trường có độ mở cao ở khu vực châu Á - Thái Bình Dương đối với giải pháp phần cứng tích hợp AI phục vụ",
       "title_en": "Meeting pressure drives AI device market in Vietnam",
       "title_vi": "Áp lực họp hành thúc đẩy thị trường thiết bị AI tại Việt Nam"
-    },
-    {
-      "title": "Trump declares robot imports a national security threat",
-      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-30 02:07",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "title_en": "Trump declares robot imports a national security threat",
-      "title_vi": "Trump tuyên bố nhập khẩu robot là mối đe dọa an ninh quốc gia"
-    },
-    {
-      "title": "Việt Nam đề xuất ba hướng hợp tác AI với Hàn Quốc",
-      "link": "https://vnexpress.net/viet-nam-de-xuat-ba-huong-hop-tac-ai-voi-han-quoc-5138410.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-29 19:00",
-      "summary": "Thứ trưởng Trần Trung Tính đề xuất Việt Nam và Hàn Quốc tăng cường hợp tác nghiên cứu, phát triển hạ tầng và đào tạo nhân lực AI, hướng tới sản phẩm thương mại hóa.",
-      "title_en": "Vietnam proposes three AI cooperation directions with South Korea",
-      "title_vi": "Việt Nam đề xuất ba hướng hợp tác AI với Hàn Quốc"
     }
   ],
   "other": [
     {
-      "title": "Công nghệ ‘két sắt mù’ giúp AI tự mua hàng: Khỏi lo lộ thẻ, coi chừng... cháy túi",
-      "link": "https://tuoitre.vn/cong-nghe-ket-sat-mu-giup-ai-tu-mua-hang-khoi-lo-lo-the-coi-chung-chay-tui-10026103015083963.htm",
-      "source": "Tuổi Trẻ",
-      "lang": "vi",
-      "pub_date": "2026-10-31 06:33",
-      "summary": "Công nghệ mới giúp AI tự quẹt thẻ mua hàng mà không nhìn thấy mật khẩu hay số thẻ, nhưng lại tiềm ẩn nguy cơ mua nhầm làm ‘cháy túi’ chủ nhân.",
-      "title_en": "'Blind safe' technology lets AI shop on its own: No worries about card leaks, beware... empty wallet",
-      "title_vi": "Công nghệ ‘két sắt mù’ giúp AI tự mua hàng: Khỏi lo lộ thẻ, coi chừng... cháy túi"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-31 05:56",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "title_en": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "title_vi": "Ollie, trợ lý AI tập trung vào quyền riêng tư, sẽ đóng cửa"
-    },
-    {
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-31 05:32",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
-      "title_en": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "title_vi": "Apple Intelligence cuối cùng cũng đến Trung Quốc với iOS 27.3"
-    },
-    {
-      "title": "GitHub phải bổ sung bốn triệu nhân CPU vì 'bão code AI'",
-      "link": "https://vnexpress.net/github-phai-bo-sung-bon-trieu-nhan-cpu-vi-bao-code-ai-5138530.html",
+      "title": "Musk và Zuckerberg dùng 'siêu trí tuệ' thay 'AI'",
+      "link": "https://vnexpress.net/musk-va-zuckerberg-dung-sieu-tri-tue-thay-ai-5139138.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-10-31 05:00",
-      "summary": "GitHub, nền tảng lưu trữ mã nguồn lớn nhất thế giới, cho biết phải bổ sung bốn triệu nhân CPU và 160 PB lưu trữ chỉ trong một năm vì lượng mã do AI tạo ra tăng vọt.",
-      "title_en": "GitHub must add four million CPU cores due to 'AI code storm'",
-      "title_vi": "GitHub phải bổ sung bốn triệu nhân CPU vì 'bão code AI'"
+      "pub_date": "2026-11-01 06:00",
+      "summary": "Elon Musk và Mark Zuckerberg đều sử dụng cụm từ \"siêu trí tuệ\" trong báo cáo tài chính, theo yêu cầu được Tổng thống Mỹ Donald Trump đưa ra hồi tháng 9.",
+      "title_en": "Musk and Zuckerberg use 'superintelligence' instead of 'AI'",
+      "title_vi": "Musk và Zuckerberg dùng 'siêu trí tuệ' thay 'AI'"
     },
     {
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-10-31 04:41",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "title_en": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "title_vi": "Máy bay siêu thanh bị nghi ngờ khi công ty chuyển sang cung cấp năng lượng cho các trung tâm dữ liệu AI"
-    },
-    {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-31 04:26",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "title_en": "Last-minute Halloween costumes for tech nerds",
-      "title_vi": "Trang phục Halloween phút chót cho dân công nghệ"
+      "pub_date": "2026-11-01 04:41",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "title_en": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title_vi": "CEO Apple nói công ty không 'muốn ship AI chỉ vì AI'"
     },
     {
-      "title": "Cracks are emerging in the AI spending boom",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-31 04:17",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "title_en": "Cracks are emerging in the AI spending boom",
-      "title_vi": "Những vết nứt xuất hiện trong cơn sốt chi tiêu cho AI"
+      "pub_date": "2026-11-01 04:36",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
+      "title_en": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "title_vi": "Còn 4 ngày: TechCrunch Founder Summit giúp bạn tạo thêm các kết nối hữu ích để mở rộng quy mô"
     },
     {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "source": "Ars Technica",
+      "title": "Open-weight AI models are getting cheaper and better. Here's how to use them without taking on the cost of running them",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkNoTS1LdUFJYVlNakI0TEFDVWM3UXI4ekc5amllcEtMeG4xaTFKeDZEMzVhUUVHbHB3bXZtWmplTU93UVdnaF9RejdUVldHUkxCTzVvcEYtQkh0aGFKVGZkeUFnNGlQMnpqX2NDakhRcjBBYmk0NGxrWWlsREVjLVU4ejVjOTdlRUxTR2kxRklicDFGUG42bWNqV1FuVGhmNzVWQW16eXQwRklvWmx3VWQ0aGh0ZEtaV0ItVmU0ajZjV3JXWWVxdkVoM1hjQk53cHhpUFpXcjMxNHFzclRCd2RWLXhBN1c1bHRN?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-10-31 04:09",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "title_en": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "title_vi": "Tiện ích mở rộng VS Code của Anthropic trên Cursor bị cài cửa hậu gần 12 giờ"
+      "pub_date": "2026-11-01 02:00",
+      "summary": "Open-weight AI models are getting cheaper and better. Here's how to use them without taking on the cost of running them VentureBeat",
+      "title_en": "Open-weight AI models are getting cheaper and better. Here's how to use them without taking on the cost of running them",
+      "title_vi": "Các mô hình AI trọng số mở đang rẻ hơn và tốt hơn. Đây là cách sử dụng chúng mà không phải chịu chi phí vận hành"
+    },
+    {
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-01 01:50",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 156 # Comments: 172",
+      "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "title_vi": "GPT-5.6 Sol có thể đánh bại Factorio ở chế độ hòa bình"
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-01 01:02",
+      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 73 # Comments: 49",
+      "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "title_vi": "Tác động của AI tạo sinh đến tư duy phản biện: Tự báo cáo (2025)"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-10-31 23:05",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a",
+      "title_en": "I built an AI Tamagotchi before Meta could",
+      "title_vi": "Tôi đã xây dựng một AI Tamagotchi trước khi Meta kịp làm"
+    },
+    {
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "link": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-10-31 21:41",
+      "summary": "Article URL: https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games Comments URL: https://news.ycombinator.com/item?id=50316635 Points:",
+      "title_en": "Anthropic orders AI tool Claude to stop remaking video games",
+      "title_vi": "Anthropic ra lệnh công cụ AI Claude ngừng làm lại các trò chơi điện tử"
     }
   ]
 }

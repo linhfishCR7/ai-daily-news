@@ -1,6 +1,50 @@
 {
   "headline": [
     {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-02 04:55",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title_vi": "OpenAI có thể đổi tên các trung tâm dữ liệu thành 'khuôn viên điện toán AI'"
+    },
+    {
+      "title": "Tin cực vui cho người dùng Claude",
+      "link": "https://genk.vn/tin-cuc-vui-cho-nguoi-dung-claude-165261101153659141.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-01 19:19",
+      "summary": "Từ giữa tháng 9 đến cuối tháng 10/2026, Anthropic liên tục tung ra các thay đổi có lợi cho người dùng Claude. Người dùng miễn phí có thêm công cụ làm slide, tài liệu, thiết kế. Người trả phí được gỡ g",
+      "title_en": "Great news for Claude users",
+      "title_vi": "Tin cực vui cho người dùng Claude"
+    },
+    {
+      "title": "Google sắp cho Gemini Live hoạt động ngay cả khi không có internet",
+      "link": "https://thanhnien.vn/google-sap-cho-gemini-live-hoat-dong-ngay-ca-khi-khong-co-internet-185261031221326238.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-11-01 07:36",
+      "summary": "Gemini Live có thể sắp thoát khỏi sự phụ thuộc vào internet, nhưng khả năng xử lý và độ chính xác khi ngoại tuyến vẫn chưa rõ.",
+      "title_en": "Google to make Gemini Live work even without internet",
+      "title_vi": "Google sắp cho Gemini Live hoạt động ngay cả khi không có internet"
+    }
+  ],
+  "product": [
+    {
+      "title": "Ra mắt OVOffice, ứng dụng văn phòng hoàn toàn miễn phí tích hợp AI cho người Việt",
+      "link": "https://genk.vn/ra-mat-ovoffice-ung-dung-van-phong-hoan-toan-mien-phi-tich-hop-ai-cho-nguoi-viet-165261101132706739.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-01 14:12",
+      "summary": "Được xây dựng trong hai năm bởi đội ngũ kỹ sư trẻ tài năng, OVOffice mang tới làn gió mới cho bộ công cụ làm việc hiện đại: Nhanh hơn, thông minh hơn và tối ưu cho thói quen người dùng Việt.",
+      "title_en": "OVOffice launched: a completely free AI-integrated office app for Vietnamese",
+      "title_vi": "Ra mắt OVOffice, ứng dụng văn phòng hoàn toàn miễn phí tích hợp AI cho người Việt"
+    }
+  ],
+  "funding": [
+    {
       "title": "OpenAI reportedly lowers funding target for new round",
       "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "source": "TechCrunch",
@@ -8,54 +52,21 @@
       "pub_date": "2026-10-31 23:12",
       "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "title_en": "OpenAI reportedly lowers funding target for new round",
-      "title_vi": "OpenAI được cho là đã hạ mục tiêu huy động vốn cho vòng mới"
-    },
-    {
-      "title": "AI bắt đầu tranh việc của bác sĩ phẫu thuật: Claude Sonnet tự chọn thuốc, quyết định cách điều trị rồi trực tiếp mổ não",
-      "link": "https://genk.vn/ai-bat-dau-tranh-viec-cua-bac-si-phau-thuat-claude-sonnet-tu-chon-thuoc-quyet-dinh-cach-dieu-tri-roi-truc-tiep-mo-nao-165261031171756145.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-10-31 19:17",
-      "summary": "Không chỉ đóng vai trò trợ lý hay phụ tá cho bác sĩ, lần này Claude AI tự mình đưa ra hướng điều trị và trực tiếp thực hiện ca phẫu thuật não cho chuột để chữa trị cho nó.",
-      "title_en": "AI starts taking surgeons' jobs: Claude Sonnet chooses medication, decides treatment, then directly operates on brain",
-      "title_vi": "AI bắt đầu tranh việc của bác sĩ phẫu thuật: Claude Sonnet tự chọn thuốc, quyết định cách điều trị rồi trực tiếp mổ não"
-    },
-    {
-      "title": "Nhân viên OpenAI, Anthropic giấu danh tính vì lo 'sập bẫy'",
-      "link": "https://vnexpress.net/nhan-vien-openai-anthropic-giau-danh-tinh-vi-lo-sap-bay-5138555.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-10-31 16:30",
-      "summary": "Nhân viên OpenAI, Anthropic được hướng dẫn giấu danh tính nơi công cộng, đề phòng thủ đoạn moi thông tin như nghe lén hay lợi dụng tình cảm.",
-      "title_en": "OpenAI, Anthropic employees hide identities fearing 'trap'",
-      "title_vi": "Nhân viên OpenAI, Anthropic giấu danh tính vì lo 'sập bẫy'"
-    }
-  ],
-  "product": [],
-  "funding": [
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-31 04:52",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
-      "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "title_vi": "Anthropic dự kiến nhận xếp hạng 'junk' cao từ các tổ chức tín dụng sau IPO, FT cho biết"
-    },
-    {
-      "title": "Silicon Valley wants you to invest in miracles",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-30 20:11",
-      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario",
-      "title_en": "Silicon Valley wants you to invest in miracles",
-      "title_vi": "Thung lũng Silicon muốn bạn đầu tư vào những điều kỳ diệu"
+      "title_vi": "OpenAI được cho là hạ mục tiêu gọi vốn cho vòng mới"
     }
   ],
   "research": [],
   "industry": [
+    {
+      "title": "Thúc đẩy hợp tác và phát triển AI",
+      "link": "https://genk.vn/thuc-day-hop-tac-va-phat-trien-ai-165261101153440091.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-01 15:00",
+      "summary": "VTV.vn - Bên cạnh những kinh nghiệm quản trị AI, giải pháp công nghệ, Tập đoàn FPT còn đề xuất hợp tác với doanh nghiệp Nhật Bản nhằm phát triển, triển khai AI tại Việt Nam.",
+      "title_en": "Promoting AI cooperation and development",
+      "title_vi": "Thúc đẩy hợp tác và phát triển AI"
+    },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
@@ -65,128 +76,88 @@
       "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
       "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "title_vi": "Thẩm phán cho phép vụ kiện của NAACP về ô nhiễm trung tâm dữ liệu xAI tiếp tục"
-    },
-    {
-      "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-01 00:21",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804 Comments URL: https://news.ycombinator.",
-      "title_en": "Amazon sends chills through its workforce with mixed message memo about AI use",
-      "title_vi": "Amazon khiến nhân viên rùng mình với bản ghi nhớ thông điệp lẫn lộn về việc sử dụng AI"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-31 08:20",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "title_vi": "Nvidia cân nhắc đóng vai trò người bảo lãnh cho trung tâm dữ liệu AI của Nscale tại Tây Virginia"
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-10-31 04:54",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "title_en": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "title_vi": "Cổ phiếu Intel lao dốc, xóa sổ 12 tỷ USD khỏi cổ phần của chính phủ"
-    },
-    {
-      "title": "Áp lực họp hành thúc đẩy thị trường thiết bị AI tại Việt Nam",
-      "link": "https://thanhnien.vn/ap-luc-hop-hanh-thuc-day-thi-truong-thiet-bi-ai-tai-viet-nam-185261029142303405.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-10-30 10:45",
-      "summary": "Tốc độ số hóa nhanh cùng thói quen làm việc đa nhiệm đang biến Việt Nam thành một trong những thị trường có độ mở cao ở khu vực châu Á - Thái Bình Dương đối với giải pháp phần cứng tích hợp AI phục vụ",
-      "title_en": "Meeting pressure drives AI device market in Vietnam",
-      "title_vi": "Áp lực họp hành thúc đẩy thị trường thiết bị AI tại Việt Nam"
     }
   ],
   "other": [
     {
-      "title": "Musk và Zuckerberg dùng 'siêu trí tuệ' thay 'AI'",
-      "link": "https://vnexpress.net/musk-va-zuckerberg-dung-sieu-tri-tue-thay-ai-5139138.html",
+      "title": "Cho rằng Google AI là lý do chính khiến nền tảng \"bay màu” 7 tỷ USD trong 2 ngày: Reddit dựng tường lửa bắt người dùng phải đăng nhập",
+      "link": "https://genk.vn/cho-rang-google-ai-la-ly-do-chinh-khien-nen-tang-bay-mau-7-ty-usd-trong-2-ngay-reddit-dung-tuong-lua-bat-nguoi-dung-phai-dang-nhap-165261102080713659.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-02 08:23",
+      "summary": "Trước sự càn quét của các công cụ tìm kiếm tích hợp AI khiến lượng truy cập tự nhiên sụt giảm nghiêm trọng, Reddit vừa chính thức đưa ra bước ngoặt mang tính lịch sử khi chuẩn bị siết chặt quyền xem n",
+      "title_en": "Blaming Google AI as the main reason the platform 'lost' $7 billion in 2 days: Reddit builds a wall requiring users to log in",
+      "title_vi": "Cho rằng Google AI là lý do chính khiến nền tảng \"bay màu” 7 tỷ USD trong 2 ngày: Reddit dựng tường lửa bắt người dùng phải đăng nhập"
+    },
+    {
+      "title": "Người dùng ngôn ngữ ít phổ biến tốn nhiều tiền hơn cho AI",
+      "link": "https://vnexpress.net/nguoi-dung-ngon-ngu-it-pho-bien-ton-nhieu-tien-hon-cho-ai-5139003.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-01 06:00",
-      "summary": "Elon Musk và Mark Zuckerberg đều sử dụng cụm từ \"siêu trí tuệ\" trong báo cáo tài chính, theo yêu cầu được Tổng thống Mỹ Donald Trump đưa ra hồi tháng 9.",
-      "title_en": "Musk and Zuckerberg use 'superintelligence' instead of 'AI'",
-      "title_vi": "Musk và Zuckerberg dùng 'siêu trí tuệ' thay 'AI'"
+      "pub_date": "2026-11-02 07:00",
+      "summary": "Khi sử dụng ngôn ngữ ít phổ biến, AI tiêu thụ nhiều token hơn, khiến người dùng gặp bất lợi so với người nói tiếng Anh hoặc ngôn ngữ thịnh hành khác.",
+      "title_en": "Users of less common languages pay more for AI",
+      "title_vi": "Người dùng ngôn ngữ ít phổ biến tốn nhiều tiền hơn cho AI"
     },
     {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-01 04:41",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "title_en": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "title_vi": "CEO Apple nói công ty không 'muốn ship AI chỉ vì AI'"
+      "pub_date": "2026-11-02 03:57",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "title_vi": "AI có thể giúp cuộc sống của các CEO công nghệ dễ dàng hơn. Còn những người khác thì sao?"
     },
     {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-01 04:36",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id",
-      "title_en": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "title_vi": "Còn 4 ngày: TechCrunch Founder Summit giúp bạn tạo thêm các kết nối hữu ích để mở rộng quy mô"
-    },
-    {
-      "title": "Open-weight AI models are getting cheaper and better. Here's how to use them without taking on the cost of running them",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkNoTS1LdUFJYVlNakI0TEFDVWM3UXI4ekc5amllcEtMeG4xaTFKeDZEMzVhUUVHbHB3bXZtWmplTU93UVdnaF9RejdUVldHUkxCTzVvcEYtQkh0aGFKVGZkeUFnNGlQMnpqX2NDakhRcjBBYmk0NGxrWWlsREVjLVU4ejVjOTdlRUxTR2kxRklicDFGUG42bWNqV1FuVGhmNzVWQW16eXQwRklvWmx3VWQ0aGh0ZEtaV0ItVmU0ajZjV3JXWWVxdkVoM1hjQk53cHhpUFpXcjMxNHFzclRCd2RWLXhBN1c1bHRN?oc=5",
+      "title": "AI agents don't have to break security controls to go rogue. Here's how to keep them in check",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNUa2VUODV4eEZqVHd2bmtJZTFxclhQSFB6c3FsRlZTNUpvanJpc1I2bXpOT2lFSUNnMTJSRTZybGNCMFdKckx5dVdsRVVuSGxrV3NKcjhPalNHN2p2M3Y0V1BMT0JDLUI0M1RPWWVMVk82YnN0OEpBSG9mZXV1SDBRVmkweFpSdWJ4TW0wOFkwR1RaNHRFdlFlT3Riby0zR2s3RS1rc1NRY3Jyc1VuQk1kSV93V1BIZ2lHQ2FYSUs?oc=5",
       "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-01 02:00",
-      "summary": "Open-weight AI models are getting cheaper and better. Here's how to use them without taking on the cost of running them VentureBeat",
-      "title_en": "Open-weight AI models are getting cheaper and better. Here's how to use them without taking on the cost of running them",
-      "title_vi": "Các mô hình AI trọng số mở đang rẻ hơn và tốt hơn. Đây là cách sử dụng chúng mà không phải chịu chi phí vận hành"
+      "pub_date": "2026-11-02 03:00",
+      "summary": "AI agents don't have to break security controls to go rogue. Here's how to keep them in check VentureBeat",
+      "title_en": "AI agents don't have to break security controls to go rogue. Here's how to keep them in check",
+      "title_vi": "Tác nhân AI không cần phá vỡ kiểm soát an ninh để trở nên nguy hiểm. Đây là cách kiểm soát chúng"
     },
     {
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-01 01:50",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 156 # Comments: 172",
-      "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "title_vi": "GPT-5.6 Sol có thể đánh bại Factorio ở chế độ hòa bình"
+      "title": "Ngân hàng cần thay đổi cách phòng thủ trước các cuộc tấn công bằng AI",
+      "link": "https://genk.vn/ngan-hang-can-thay-doi-cach-phong-thu-truoc-cac-cuoc-tan-cong-bang-ai-165261101180458081.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-01 18:34",
+      "summary": "Theo ông Lê Quang Hà, Phó Giám đốc Công ty TNHH MTV An ninh mạng Viettel, việc bảo vệ hệ thống trước nguy cơ bị tấn công mạng không chỉ dừng ở phát hiện, ngăn chặn mà còn cần chú trọng khả năng phản ứ",
+      "title_en": "Banks need to change defense strategies against AI-powered attacks",
+      "title_vi": "Ngân hàng cần thay đổi cách phòng thủ trước các cuộc tấn công bằng AI"
     },
     {
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-01 01:02",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 73 # Comments: 49",
-      "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "title_vi": "Tác động của AI tạo sinh đến tư duy phản biện: Tự báo cáo (2025)"
+      "title": "Phát động thi AI cho học sinh cấp 3 cả nước, giải nhất 100 triệu đồng",
+      "link": "https://genk.vn/phat-dong-thi-ai-cho-hoc-sinh-cap-3-ca-nuoc-giai-nhat-100-trieu-dong-165261101153820977.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-01 16:31",
+      "summary": "TPO - Cuộc thi AI or Behind cho học sinh THPT trên toàn quốc vừa được phát động, sử dụng bài thi chuẩn quốc tế, với giải Nhất trị giá 100 triệu đồng.",
+      "title_en": "AI contest launched for high school students nationwide, first prize 100 million VND",
+      "title_vi": "Phát động thi AI cho học sinh cấp 3 cả nước, giải nhất 100 triệu đồng"
     },
     {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-10-31 23:05",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a",
-      "title_en": "I built an AI Tamagotchi before Meta could",
-      "title_vi": "Tôi đã xây dựng một AI Tamagotchi trước khi Meta kịp làm"
+      "title": "Elon Musk: Tác nhân AI sẽ hack hệ thống để kiếm tiền cho chính chúng",
+      "link": "https://vnexpress.net/elon-musk-tac-nhan-ai-se-hack-he-thong-de-kiem-tien-cho-chinh-chung-5139352.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-01 15:54",
+      "summary": "Sau thông tin Binance bị tin tặc đánh cắp 6,3 tỷ USD tiền số, Elon Musk bình luận tác nhân AI có thể làm điều tương tự trong tương lai.",
+      "title_en": "Elon Musk: AI agents will hack systems to make money for themselves",
+      "title_vi": "Elon Musk: Tác nhân AI sẽ hack hệ thống để kiếm tiền cho chính chúng"
     },
     {
-      "title": "Anthropic orders AI tool Claude to stop remaking video games",
-      "link": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-10-31 21:41",
-      "summary": "Article URL: https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games Comments URL: https://news.ycombinator.com/item?id=50316635 Points:",
-      "title_en": "Anthropic orders AI tool Claude to stop remaking video games",
-      "title_vi": "Anthropic ra lệnh công cụ AI Claude ngừng làm lại các trò chơi điện tử"
+      "title": "Cụm máy tính AI gần 1.550 tỷ đồng được rao bán trên eBay, phí ship hàng chỉ hơn 1 triệu đồng",
+      "link": "https://genk.vn/cum-may-tinh-ai-gan-1550-ty-dong-duoc-rao-ban-tren-ebay-phi-ship-hang-chi-hon-1-trieu-dong-165261101134119626.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-01 13:40",
+      "summary": "Ba trăm tủ máy, 9.600 GPU Nvidia và mức giá 59,7 triệu USD (khoảng 1.550 tỷ đồng). Điều khó tin hơn là lựa chọn giao qua đêm được ghi nhận với phí chỉ 50 USD, tương đương khoảng 1,3 triệu đồng.",
+      "title_en": "AI computer cluster worth nearly 1,550 billion VND listed on eBay, shipping fee only over 1 million VND",
+      "title_vi": "Cụm máy tính AI gần 1.550 tỷ đồng được rao bán trên eBay, phí ship hàng chỉ hơn 1 triệu đồng"
     }
   ]
 }

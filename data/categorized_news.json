@@ -1,163 +1,194 @@
 {
   "headline": [
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "'Like gene editing for neural networks': MIT researchers used GPT-6 Astra to edit Qwen's open weights directly, boosting math performance",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVE9yblFoMWhHbklPREJlcjM5SjJ1UDNDQkdXOE1UUUR6MVFvaWNtamE4M1ZCMmhrSFZPeHNOcmRuNXh3LWNHREpzSnVGRlJTdmJVWWZrSDdkZXp0cUVTMDdMZzJnaTZwTW4zRHBDNVB1R2tLdTdKbWFQV3pSa2Z2SVpiTHJnZFR3UVdNX2VWNHIwQ2xxZ2ZnT0lURWVzQXNjWnNMLVZVM09Wd2p5ZVRTLVpRT2FiWmc5d2xNX0lqLUg3aWxic2ExSWlRTFVzTjVxX0tjampCWEVkaE1jaDctbkRYb0Vka1UzQjRRREh6REYybUtBekxHNm82Zw?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-03 05:16",
+      "summary": "'Like gene editing for neural networks': MIT researchers used GPT-6 Astra to edit Qwen's open weights directly, boosting math performance VentureBeat",
+      "title_en": "'Like gene editing for neural networks': MIT researchers used GPT-6 Astra to edit Qwen's open weights directly, boosting math performance",
+      "title_vi": "'Như chỉnh sửa gen cho mạng nơ-ron': Các nhà nghiên cứu MIT dùng GPT-6 Astra để chỉnh sửa trực tiếp trọng số mở của Qwen, tăng hiệu suất toán"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-02 04:55",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "title_vi": "OpenAI có thể đổi tên các trung tâm dữ liệu thành 'khuôn viên điện toán AI'"
+      "pub_date": "2026-11-03 05:14",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "title_en": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "title_vi": "Anthropic cảnh báo rằng họ đang rất gần với khả năng RSI, tức AI tự xây dựng"
     },
     {
-      "title": "Tin cực vui cho người dùng Claude",
-      "link": "https://genk.vn/tin-cuc-vui-cho-nguoi-dung-claude-165261101153659141.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-01 19:19",
-      "summary": "Từ giữa tháng 9 đến cuối tháng 10/2026, Anthropic liên tục tung ra các thay đổi có lợi cho người dùng Claude. Người dùng miễn phí có thêm công cụ làm slide, tài liệu, thiết kế. Người trả phí được gỡ g",
-      "title_en": "Great news for Claude users",
-      "title_vi": "Tin cực vui cho người dùng Claude"
-    },
-    {
-      "title": "Google sắp cho Gemini Live hoạt động ngay cả khi không có internet",
-      "link": "https://thanhnien.vn/google-sap-cho-gemini-live-hoat-dong-ngay-ca-khi-khong-co-internet-185261031221326238.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-01 07:36",
-      "summary": "Gemini Live có thể sắp thoát khỏi sự phụ thuộc vào internet, nhưng khả năng xử lý và độ chính xác khi ngoại tuyến vẫn chưa rõ.",
-      "title_en": "Google to make Gemini Live work even without internet",
-      "title_vi": "Google sắp cho Gemini Live hoạt động ngay cả khi không có internet"
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-03 01:56",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with ",
+      "title_en": "Anthropic clamps down on Claude’s AI video game clones",
+      "title_vi": "Anthropic siết chặt các bản sao trò chơi điện tử AI của Claude"
     }
   ],
   "product": [
     {
-      "title": "Ra mắt OVOffice, ứng dụng văn phòng hoàn toàn miễn phí tích hợp AI cho người Việt",
-      "link": "https://genk.vn/ra-mat-ovoffice-ung-dung-van-phong-hoan-toan-mien-phi-tich-hop-ai-cho-nguoi-viet-165261101132706739.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-01 14:12",
-      "summary": "Được xây dựng trong hai năm bởi đội ngũ kỹ sư trẻ tài năng, OVOffice mang tới làn gió mới cho bộ công cụ làm việc hiện đại: Nhanh hơn, thông minh hơn và tối ưu cho thói quen người dùng Việt.",
-      "title_en": "OVOffice launched: a completely free AI-integrated office app for Vietnamese",
-      "title_vi": "Ra mắt OVOffice, ứng dụng văn phòng hoàn toàn miễn phí tích hợp AI cho người Việt"
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-02 22:00",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "title_en": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "title_vi": "Omen AI bổ sung bí quyết chất lỏng trong thương vụ mua lại Aquatic Labs trị giá 16 triệu USD"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-02 22:00",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "title_en": "Introducing the Grid Protectors Program",
+      "title_vi": "Giới thiệu Chương trình Người bảo vệ Lưới điện"
     }
   ],
   "funding": [
     {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-10-31 23:12",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "title_en": "OpenAI reportedly lowers funding target for new round",
-      "title_vi": "OpenAI được cho là hạ mục tiêu gọi vốn cho vòng mới"
+      "pub_date": "2026-11-03 06:13",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "title_en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "title_vi": "Trajectory huy động 45 triệu USD để giúp việc huấn luyện mô hình AI trở nên dễ tiếp cận với chuyên gia phi kỹ thuật"
     }
   ],
-  "research": [],
-  "industry": [
+  "research": [
     {
-      "title": "Thúc đẩy hợp tác và phát triển AI",
-      "link": "https://genk.vn/thuc-day-hop-tac-va-phat-trien-ai-165261101153440091.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-01 15:00",
-      "summary": "VTV.vn - Bên cạnh những kinh nghiệm quản trị AI, giải pháp công nghệ, Tập đoàn FPT còn đề xuất hợp tác với doanh nghiệp Nhật Bản nhằm phát triển, triển khai AI tại Việt Nam.",
-      "title_en": "Promoting AI cooperation and development",
-      "title_vi": "Thúc đẩy hợp tác và phát triển AI"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-01 04:17",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "title_vi": "Thẩm phán cho phép vụ kiện của NAACP về ô nhiễm trung tâm dữ liệu xAI tiếp tục"
+      "pub_date": "2026-11-02 23:30",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "title_en": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "title_vi": "42AI ra mắt với 62,5 triệu USD và mô hình thế giới có thể 'dự đoán hành vi con người'"
+    }
+  ],
+  "industry": [
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-03 00:51",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t",
+      "title_en": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "title_vi": "The New York Times kiện trình duyệt web Brave vì thu thập dữ liệu AI và vượt tường phí"
+    },
+    {
+      "title": "Startup Việt thắng giải Doanh nghiệp khởi nghiệp AI tại Hàn Quốc",
+      "link": "https://vnexpress.net/startup-viet-thang-giai-doanh-nghiep-khoi-nghiep-ai-tai-han-quoc-5139806.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-02 16:30",
+      "summary": "Enfarm Agritech, nền tảng trí tuệ nhân tạo hỗ trợ nông dân ra quyết định canh tác, vượt qua bốn startup để chiến thắng AI Startup Award 2026.",
+      "title_en": "Vietnamese startup wins AI Startup Enterprise award in South Korea",
+      "title_vi": "Startup Việt thắng giải Doanh nghiệp khởi nghiệp AI tại Hàn Quốc"
+    },
+    {
+      "title": "Từng làm cho Bộ ngoại giao Nhật Bản, người đàn ông này giờ đang phát triển ứng dụng dịch thuật món ăn ngay giữa thời đại AI",
+      "link": "https://genk.vn/tung-lam-cho-bo-ngoai-giao-nhat-ban-nguoi-dan-ong-nay-gio-dang-phat-trien-ung-dung-dich-thuat-mon-an-ngay-giua-thoi-dai-ai-165261102112824138.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-02 11:28",
+      "summary": "Du lịch Nhật Bản luôn hấp dẫn, nhưng rào cản ngôn ngữ tại các quán ăn địa phương lại là nỗi ám ảnh lớn. MENU-PAAN, một ứng dụng AI đột phá, ra đời để giải quyết triệt để vấn đề này, biến các thực đơn ",
+      "title_en": "Formerly working for Japan's Ministry of Foreign Affairs, this man is now developing a food translation app in the AI era",
+      "title_vi": "Từng làm cho Bộ ngoại giao Nhật Bản, người đàn ông này giờ đang phát triển ứng dụng dịch thuật món ăn ngay giữa thời đại AI"
     }
   ],
   "other": [
     {
-      "title": "Cho rằng Google AI là lý do chính khiến nền tảng \"bay màu” 7 tỷ USD trong 2 ngày: Reddit dựng tường lửa bắt người dùng phải đăng nhập",
-      "link": "https://genk.vn/cho-rang-google-ai-la-ly-do-chinh-khien-nen-tang-bay-mau-7-ty-usd-trong-2-ngay-reddit-dung-tuong-lua-bat-nguoi-dung-phai-dang-nhap-165261102080713659.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-02 08:23",
-      "summary": "Trước sự càn quét của các công cụ tìm kiếm tích hợp AI khiến lượng truy cập tự nhiên sụt giảm nghiêm trọng, Reddit vừa chính thức đưa ra bước ngoặt mang tính lịch sử khi chuẩn bị siết chặt quyền xem n",
-      "title_en": "Blaming Google AI as the main reason the platform 'lost' $7 billion in 2 days: Reddit builds a wall requiring users to log in",
-      "title_vi": "Cho rằng Google AI là lý do chính khiến nền tảng \"bay màu” 7 tỷ USD trong 2 ngày: Reddit dựng tường lửa bắt người dùng phải đăng nhập"
-    },
-    {
-      "title": "Người dùng ngôn ngữ ít phổ biến tốn nhiều tiền hơn cho AI",
-      "link": "https://vnexpress.net/nguoi-dung-ngon-ngu-it-pho-bien-ton-nhieu-tien-hon-cho-ai-5139003.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-02 07:00",
-      "summary": "Khi sử dụng ngôn ngữ ít phổ biến, AI tiêu thụ nhiều token hơn, khiến người dùng gặp bất lợi so với người nói tiếng Anh hoặc ngôn ngữ thịnh hành khác.",
-      "title_en": "Users of less common languages pay more for AI",
-      "title_vi": "Người dùng ngôn ngữ ít phổ biến tốn nhiều tiền hơn cho AI"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-02 03:57",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "title_vi": "AI có thể giúp cuộc sống của các CEO công nghệ dễ dàng hơn. Còn những người khác thì sao?"
+      "pub_date": "2026-11-03 10:30",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "title_en": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "title_vi": "Google đưa Dreambeans đến Ấn Độ nhằm mang những câu chuyện cá nhân do AI tạo ra đến với đại chúng"
     },
     {
-      "title": "AI agents don't have to break security controls to go rogue. Here's how to keep them in check",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNUa2VUODV4eEZqVHd2bmtJZTFxclhQSFB6c3FsRlZTNUpvanJpc1I2bXpOT2lFSUNnMTJSRTZybGNCMFdKckx5dVdsRVVuSGxrV3NKcjhPalNHN2p2M3Y0V1BMT0JDLUI0M1RPWWVMVk82YnN0OEpBSG9mZXV1SDBRVmkweFpSdWJ4TW0wOFkwR1RaNHRFdlFlT3Riby0zR2s3RS1rc1NRY3Jyc1VuQk1kSV93V1BIZ2lHQ2FYSUs?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-02 03:00",
-      "summary": "AI agents don't have to break security controls to go rogue. Here's how to keep them in check VentureBeat",
-      "title_en": "AI agents don't have to break security controls to go rogue. Here's how to keep them in check",
-      "title_vi": "Tác nhân AI không cần phá vỡ kiểm soát an ninh để trở nên nguy hiểm. Đây là cách kiểm soát chúng"
-    },
-    {
-      "title": "Ngân hàng cần thay đổi cách phòng thủ trước các cuộc tấn công bằng AI",
-      "link": "https://genk.vn/ngan-hang-can-thay-doi-cach-phong-thu-truoc-cac-cuoc-tan-cong-bang-ai-165261101180458081.chn",
+      "title": "Nước Mỹ bứt phá năng suất lạnh người: AI không làm thế giới thông minh hơn, nó chỉ kéo dãn khoảng cách giữa người biết dùng và kẻ \"mua về để đấy\"",
+      "link": "https://genk.vn/nuoc-my-but-pha-nang-suat-lanh-nguoi-ai-khong-lam-the-gioi-thong-minh-hon-no-chi-keo-dan-khoang-cach-giua-nguoi-biet-dung-va-ke-mua-ve-de-day-165261103081647757.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-01 18:34",
-      "summary": "Theo ông Lê Quang Hà, Phó Giám đốc Công ty TNHH MTV An ninh mạng Viettel, việc bảo vệ hệ thống trước nguy cơ bị tấn công mạng không chỉ dừng ở phát hiện, ngăn chặn mà còn cần chú trọng khả năng phản ứ",
-      "title_en": "Banks need to change defense strategies against AI-powered attacks",
-      "title_vi": "Ngân hàng cần thay đổi cách phòng thủ trước các cuộc tấn công bằng AI"
+      "pub_date": "2026-11-03 09:34",
+      "summary": "Báo cáo từ Financial Times và Dallas Fed dội gáo nước lạnh vào ảo tưởng công nghệ, khi thế giới chỉ dùng AI để gõ văn bản, Mỹ đã biến nó thành động cơ bứt phá năng suất lao động, nới rộng khoảng cách ",
+      "title_en": "America's productivity surge is chilling: AI isn't making the world smarter, it's just widening the gap between those who know how to use it and those who 'buy it and let it sit'",
+      "title_vi": "Nước Mỹ bứt phá năng suất lạnh người: AI không làm thế giới thông minh hơn, nó chỉ kéo dãn khoảng cách giữa người biết dùng và kẻ \"mua về để đấy\""
     },
     {
-      "title": "Phát động thi AI cho học sinh cấp 3 cả nước, giải nhất 100 triệu đồng",
-      "link": "https://genk.vn/phat-dong-thi-ai-cho-hoc-sinh-cap-3-ca-nuoc-giai-nhat-100-trieu-dong-165261101153820977.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-01 16:31",
-      "summary": "TPO - Cuộc thi AI or Behind cho học sinh THPT trên toàn quốc vừa được phát động, sử dụng bài thi chuẩn quốc tế, với giải Nhất trị giá 100 triệu đồng.",
-      "title_en": "AI contest launched for high school students nationwide, first prize 100 million VND",
-      "title_vi": "Phát động thi AI cho học sinh cấp 3 cả nước, giải nhất 100 triệu đồng"
-    },
-    {
-      "title": "Elon Musk: Tác nhân AI sẽ hack hệ thống để kiếm tiền cho chính chúng",
-      "link": "https://vnexpress.net/elon-musk-tac-nhan-ai-se-hack-he-thong-de-kiem-tien-cho-chinh-chung-5139352.html",
+      "title": "Tại sao công ty Trung Quốc 'cho không' mô hình AI?",
+      "link": "https://vnexpress.net/tai-sao-cong-ty-trung-quoc-cho-khong-mo-hinh-ai-5139609.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-01 15:54",
-      "summary": "Sau thông tin Binance bị tin tặc đánh cắp 6,3 tỷ USD tiền số, Elon Musk bình luận tác nhân AI có thể làm điều tương tự trong tương lai.",
-      "title_en": "Elon Musk: AI agents will hack systems to make money for themselves",
-      "title_vi": "Elon Musk: Tác nhân AI sẽ hack hệ thống để kiếm tiền cho chính chúng"
+      "pub_date": "2026-11-03 09:00",
+      "summary": "Chỉ trong 7 tháng đầu năm 2026, các công ty Trung Quốc tung ra 178 mô hình AI mã nguồn mở và hầu hết cho người dùng tải về miễn phí, bao gồm cả mục đích thương mại.",
+      "title_en": "Why are Chinese companies 'giving away' AI models?",
+      "title_vi": "Tại sao công ty Trung Quốc 'cho không' mô hình AI?"
     },
     {
-      "title": "Cụm máy tính AI gần 1.550 tỷ đồng được rao bán trên eBay, phí ship hàng chỉ hơn 1 triệu đồng",
-      "link": "https://genk.vn/cum-may-tinh-ai-gan-1550-ty-dong-duoc-rao-ban-tren-ebay-phi-ship-hang-chi-hon-1-trieu-dong-165261101134119626.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-01 13:40",
-      "summary": "Ba trăm tủ máy, 9.600 GPU Nvidia và mức giá 59,7 triệu USD (khoảng 1.550 tỷ đồng). Điều khó tin hơn là lựa chọn giao qua đêm được ghi nhận với phí chỉ 50 USD, tương đương khoảng 1,3 triệu đồng.",
-      "title_en": "AI computer cluster worth nearly 1,550 billion VND listed on eBay, shipping fee only over 1 million VND",
-      "title_vi": "Cụm máy tính AI gần 1.550 tỷ đồng được rao bán trên eBay, phí ship hàng chỉ hơn 1 triệu đồng"
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-03 08:49",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "title_en": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "title_vi": "Apple có thể cố tăng doanh thu bằng cách... làm gì đó với các ứng dụng AI của bên thứ ba"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-03 07:35",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "title_en": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "title_vi": "Garry Tan của Y Combinator dùng AI agent nhiều đến mức chi tới 200 nghìn USD mỗi năm cho token"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-03 02:25",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "title_en": "Web host Squarespace lays off 19% of its employees",
+      "title_vi": "Nhà cung cấp web hosting Squarespace sa thải 19% nhân viên"
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-03 02:19",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe",
+      "title_en": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "title_vi": "New York Times và các tờ báo khác kiện trình duyệt web Brave vì cáo buộc thu thập nội dung trái phép"
+    },
+    {
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-03 01:32",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "title_en": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "title_vi": "Sắp ra mắt vào năm 2027: Robot gia đình giá 1.000 USD của Apple cho FaceTime và bật đèn"
     }
   ]
 }

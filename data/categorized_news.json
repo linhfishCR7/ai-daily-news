@@ -1,66 +1,66 @@
 {
   "headline": [
     {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-04 05:41",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "title_en": "Anthropic is working on a system to prove AI models’ identity",
-      "title_vi": "Anthropic đang phát triển hệ thống chứng minh danh tính các mô hình AI"
+      "pub_date": "2026-11-05 04:25",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "title_en": "OpenAI is already trying to shape the 2028 election",
+      "title_vi": "OpenAI đang tìm cách định hình cuộc bầu cử năm 2028"
     },
     {
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-04 01:30",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t",
-      "title_en": "OpenAI says ChatGPT is catching up to Google in search",
-      "title_vi": "OpenAI cho biết ChatGPT đang bắt kịp Google trong lĩnh vực tìm kiếm"
+      "pub_date": "2026-11-05 03:23",
+      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a",
+      "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
+      "title_vi": "Gemini for Home tích hợp với hệ thống an ninh thông minh của AT&T"
     },
     {
-      "title": "Anthropic is still grappling with the economics of compute",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "source": "TechCrunch",
+      "title": "ChatGPT will now make you animated GIFs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-04 00:07",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "title_en": "Anthropic is still grappling with the economics of compute",
-      "title_vi": "Anthropic vẫn đang vật lộn với bài toán kinh tế về sức mạnh tính toán"
+      "pub_date": "2026-11-05 01:00",
+      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation spe",
+      "title_en": "ChatGPT will now make you animated GIFs",
+      "title_vi": "ChatGPT giờ đây có thể tạo ảnh GIF động cho bạn"
     }
   ],
   "product": [
     {
-      "title": "Trong khi Siri AI đã có tiếng Việt, iPhone ở Trung Quốc giờ mới chuẩn bị được cập nhật Apple Intelligence, Siri AI còn không hỗ trợ",
-      "link": "https://genk.vn/trong-khi-siri-ai-da-co-tieng-viet-iphone-o-trung-quoc-gio-moi-chuan-bi-duoc-cap-nhat-apple-intelligence-siri-ai-con-khong-ho-tro-165261104015529121.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-04 01:55",
-      "summary": "Apple xác nhận Apple Intelligence tới iPhone ở Trung Quốc đại lục cùng iOS 27.3 vào tháng 12, bản thử nghiệm mở từ 4/11, với Qwen xử lý những yêu cầu Siri không tự làm được.",
-      "title_en": "While Siri AI already has Vietnamese, iPhones in China are just now preparing to get Apple Intelligence, and Siri AI doesn't even support it",
-      "title_vi": "Trong khi Siri AI đã có tiếng Việt, iPhone ở Trung Quốc giờ mới chuẩn bị được cập nhật Apple Intelligence, Siri AI còn không hỗ trợ"
-    },
-    {
-      "title": "Apple phát hành iOS 27.3 beta: Siri AI đã hỗ trợ tiếng Việt",
-      "link": "https://genk.vn/apple-phat-hanh-ios-273-beta-siri-ai-da-ho-tro-tieng-viet-165261104012942831.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-04 01:29",
-      "summary": "Bản cập nhật iOS 27.3 beta bổ sung tiếng Việt cho Siri AI, kèm ứng dụng Sức Khoẻ mới",
-      "title_en": "Apple releases iOS 27.3 beta: Siri AI now supports Vietnamese",
-      "title_vi": "Apple phát hành iOS 27.3 beta: Siri AI đã hỗ trợ tiếng Việt"
-    },
-    {
-      "title": "Indie games are missing launch dates because Steam is backed up",
-      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-04 01:14",
-      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss t",
-      "title_en": "Indie games are missing launch dates because Steam is backed up",
-      "title_vi": "Game indie đang lỡ ngày phát hành vì Steam quá tải"
+      "pub_date": "2026-11-05 01:26",
+      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI oper",
+      "title_en": "Nothing teases a screen-free AI device ahead of launch next month",
+      "title_vi": "Nothing hé lộ thiết bị AI không màn hình trước khi ra mắt vào tháng sau"
+    },
+    {
+      "title": "Siri AI hỗ trợ tiếng Việt qua bản cập nhật iOS 27.3 beta",
+      "link": "https://thanhnien.vn/siri-ai-ho-tro-tieng-viet-qua-ban-cap-nhat-ios-273-beta-185261104113905734.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-11-04 14:38",
+      "summary": "Người dùng iPhone giờ đây có thể trải nghiệm Siri AI bằng tiếng Việt thông qua bản cập nhật iOS 27.3 beta.",
+      "title_en": "Siri AI supports Vietnamese via iOS 27.3 beta update",
+      "title_vi": "Siri AI hỗ trợ tiếng Việt qua bản cập nhật iOS 27.3 beta"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-04 07:00",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "title_en": "Introducing Images 2.6",
+      "title_vi": "Giới thiệu Images 2.6"
     },
     {
       "title": "LiveX Unveils AI City - Bringing Physical AI to Everyday Spaces with NVIDIA",
@@ -70,20 +70,40 @@
       "pub_date": "2026-11-03 22:15",
       "summary": "LiveX Unveils AI City - Bringing Physical AI to Everyday Spaces with NVIDIA VentureBeat",
       "title_en": "LiveX Unveils AI City - Bringing Physical AI to Everyday Spaces with NVIDIA",
-      "title_vi": "LiveX ra mắt AI City - Đưa AI vật lý vào không gian hàng ngày cùng NVIDIA"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-11-02 22:00",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "title_en": "Introducing the Grid Protectors Program",
-      "title_vi": "Giới thiệu Chương trình Bảo vệ Lưới điện"
+      "title_vi": "LiveX ra mắt AI City - Đưa AI vật lý vào không gian sống hàng ngày cùng NVIDIA"
     }
   ],
   "funding": [
+    {
+      "title": "AI race raises GPU, memory and software bills",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcndYcnBMZks1TXZaTjFIVUN6Z3pvS1BGV0JaaEwtczFNbmJ2S2xNd2RxV1hKQnRReDNzQW9TSm1FVUwzOFlUNVB3UExNSmRsVmo2Y0NKUHhrQ1M1aExyeTBXNERlNEsxM0VsU3VlUzFZYjZCcy1IMEo1UGg3R2hteDNWU1VseHpEa09FMHljY1FhVDRIODJWWlZsVGx1VWVCSllucHdGVlhIbkRFeHJXS1d6SkY?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-05 06:00",
+      "summary": "AI race raises GPU, memory and software bills VentureBeat",
+      "title_en": "AI race raises GPU, memory and software bills",
+      "title_vi": "Cuộc đua AI làm tăng chi phí GPU, bộ nhớ và phần mềm"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-05 04:10",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "title_en": "Meta acquires AI coding startup Conductor",
+      "title_vi": "Meta mua lại công ty khởi nghiệp lập trình AI Conductor"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-04 21:30",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "title_vi": "OpenAI sẽ mua lại Pierre Computer Company, Inc."
+    },
     {
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
@@ -92,39 +112,19 @@
       "pub_date": "2026-11-04 02:34",
       "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
       "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "title_vi": "Startup suy luận AI Fal tăng gấp đôi định giá lên 16 tỷ USD khi nhu cầu tăng vọt"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-03 06:13",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "title_en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "title_vi": "Trajectory huy động 45 triệu USD để giúp việc đào tạo mô hình AI trở nên dễ tiếp cận với chuyên gia không chuyên kỹ thuật"
-    },
-    {
-      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-03 02:36",
-      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f Comments URL: https://news.ycombinator.com/item?id=50342424 Points: 74 # Comments: 44",
-      "title_en": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "title_vi": "Anthropic tiết lộ cam kết chi tiêu AI 900 tỷ USD trước thềm IPO"
+      "title_vi": "Công ty khởi nghiệp suy luận AI Fal tăng gấp đôi định giá lên 16 tỷ USD khi nhu cầu tăng vọt"
     }
   ],
   "research": [
     {
-      "title": "Google researchers demand freedom to tell the world what they know about AI",
-      "link": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-04 00:55",
-      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/ Comments URL: https://news.ycombinator.com/item?id=50355504 Points: 84",
-      "title_en": "Google researchers demand freedom to tell the world what they know about AI",
-      "title_vi": "Các nhà nghiên cứu Google yêu cầu quyền tự do nói cho thế giới biết những gì họ biết về AI"
+      "title": "Sợ AI cướp công, các nhà toán học hàng đầu thế giới phải giấu ý tưởng nghiên cứu",
+      "link": "https://genk.vn/so-ai-cuop-cong-cac-nha-toan-hoc-hang-dau-the-gioi-phai-giau-y-tuong-nghien-cuu-165261104193948113.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-04 19:39",
+      "summary": "Cho dù AI đang giúp giải quyết những bài toán hóc búa đã tồn tại hàng chục năm nay, nhưng nó lại đang tạo nên một nghịch lý trong nghiên cứu, có thể kéo lùi sự phát triển của toán học.",
+      "title_en": "Fearing AI stealing their work, top mathematicians hide research ideas",
+      "title_vi": "Sợ AI cướp công, các nhà toán học hàng đầu thế giới phải giấu ý tưởng nghiên cứu"
     },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -134,151 +134,141 @@
       "pub_date": "2026-11-03 23:35",
       "summary": "",
       "title_en": "Palette: teaching a small model to build decks in your design language",
-      "title_vi": "Palette: dạy một mô hình nhỏ tạo bộ bài theo ngôn ngữ thiết kế của bạn"
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-11-03 07:00",
-      "summary": "",
-      "title_en": "Transformers Model Integration Contracts",
-      "title_vi": "Hợp đồng tích hợp mô hình Transformers"
-    },
-    {
-      "title": "'Like gene editing for neural networks': MIT researchers used GPT-6 Astra to edit Qwen's open weights directly, boosting math performance",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVE9yblFoMWhHbklPREJlcjM5SjJ1UDNDQkdXOE1UUUR6MVFvaWNtamE4M1ZCMmhrSFZPeHNOcmRuNXh3LWNHREpzSnVGRlJTdmJVWWZrSDdkZXp0cUVTMDdMZzJnaTZwTW4zRHBDNVB1R2tLdTdKbWFQV3pSa2Z2SVpiTHJnZFR3UVdNX2VWNHIwQ2xxZ2ZnT0lURWVzQXNjWnNMLVZVM09Wd2p5ZVRTLVpRT2FiWmc5d2xNX0lqLUg3aWxic2ExSWlRTFVzTjVxX0tjampCWEVkaE1jaDctbkRYb0Vka1UzQjRRREh6REYybUtBekxHNm82Zw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-03 05:16",
-      "summary": "'Like gene editing for neural networks': MIT researchers used GPT-6 Astra to edit Qwen's open weights directly, boosting math performance VentureBeat",
-      "title_en": "'Like gene editing for neural networks': MIT researchers used GPT-6 Astra to edit Qwen's open weights directly, boosting math performance",
-      "title_vi": "'Giống như chỉnh sửa gen cho mạng nơ-ron': Các nhà nghiên cứu MIT dùng GPT-6 Astra để chỉnh sửa trực tiếp trọng số mở của Qwen, cải thiện hiệu suất toán học"
-    },
-    {
-      "title": "South Korea targets ' highest performance' sovereign AI model",
-      "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-03 01:46",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html Comments URL: https://news.ycombinator.com/item?id=50341585 Points: 24 # Comments: 2",
-      "title_en": "South Korea targets ' highest performance' sovereign AI model",
-      "title_vi": "Hàn Quốc nhắm tới mô hình AI có chủ quyền 'hiệu suất cao nhất'"
+      "title_vi": "Palette: dạy mô hình nhỏ tạo bộ bài theo ngôn ngữ thiết kế của bạn"
     }
   ],
   "industry": [
     {
-      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-      "source": "NVIDIA",
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-11-03 14:00",
-      "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physica",
-      "title_en": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "title_vi": "Các thành phố trên toàn thế giới xây dựng và mở rộng dịch vụ AI với AI vật lý và AI tác nhân của NVIDIA"
+      "pub_date": "2026-11-05 03:55",
+      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "title_en": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "title_vi": "Big Tech cho rằng phản ứng của cử tri đối với AI là 'chống Trump' chứ không phải 'chống công nghệ'"
     },
     {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-05 02:29",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "title_en": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "title_vi": "DuckDuckGo tiếp thị đến trường học giữa làn sóng phản đối chính sách AI của Google"
+    },
+    {
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-05 01:44",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
+      "title_en": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "title_vi": "Xây dựng trên AI mã nguồn mở? Giám đốc chính sách của Hugging Face nói về chi phí, rủi ro và đánh đổi"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "source": "MIT Technology Review",
       "lang": "en",
-      "pub_date": "2026-11-03 11:18",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o",
-      "title_en": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "title_vi": "Đây là những ai đang xếp hàng theo bài kiểm tra lòng trung thành 'Siêu trí tuệ' của Trump"
+      "pub_date": "2026-11-04 20:00",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
+      "title_en": "Securing the agentic enterprise with data lineage",
+      "title_vi": "Bảo mật doanh nghiệp tự hành với dòng dõi dữ liệu"
     },
     {
-      "title": "Startup Việt thắng giải Doanh nghiệp khởi nghiệp AI tại Hàn Quốc",
-      "link": "https://vnexpress.net/startup-viet-thang-giai-doanh-nghiep-khoi-nghiep-ai-tai-han-quoc-5139806.html",
+      "title": "Ứng dụng Sức khỏe mới tích hợp AI của Apple",
+      "link": "https://vnexpress.net/ung-dung-suc-khoe-moi-tich-hop-ai-cua-apple-5140782.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-02 16:30",
-      "summary": "Enfarm Agritech, nền tảng trí tuệ nhân tạo hỗ trợ nông dân ra quyết định canh tác, vượt qua bốn startup để chiến thắng AI Startup Award 2026.",
-      "title_en": "Vietnamese startup wins AI startup award in South Korea",
-      "title_vi": "Startup Việt thắng giải Doanh nghiệp khởi nghiệp AI tại Hàn Quốc"
+      "pub_date": "2026-11-04 17:19",
+      "summary": "Ứng dụng Sức khỏe mới tích hợp trí tuệ nhân tạo Apple Intelligence bắt đầu hỗ trợ tiếng Việt, chuyển đổi dữ liệu từ Apple Watch thành hướng dẫn cá nhân hóa.",
+      "title_en": "Apple's new Health app integrates AI",
+      "title_vi": "Ứng dụng Sức khỏe mới tích hợp AI của Apple"
     }
   ],
   "other": [
     {
-      "title": "Cựu kỹ sư Google cảnh báo AI có thể xóa sổ nhân loại trong 10 năm tới, xác suất trên 50%",
-      "link": "https://genk.vn/cuu-ky-su-google-canh-bao-ai-co-the-xoa-so-nhan-loai-trong-10-nam-toi-xac-suat-tren-50-165261104073038131.chn",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-05 08:26",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "title_en": "Apple is reportedly cutting budgets for its internal AI usage",
+      "title_vi": "Apple được cho là đang cắt giảm ngân sách cho việc sử dụng AI nội bộ"
+    },
+    {
+      "title": "iOS 27.3 sẽ có Siri AI tiếng Việt",
+      "link": "https://genk.vn/ios-273-se-co-siri-ai-tieng-viet-165261105080540803.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-04 08:41",
-      "summary": "Lo ngại AI có thể hủy diệt nhân loại trong vòng 10 năm tới, cựu kỹ sư Google Nate Soares cho rằng tương lai quá bất định để tiếp tục tích lũy tiền cho tuổi nghỉ hưu.",
-      "title_en": "Former Google engineer warns AI could wipe out humanity within 10 years, with over 50% probability",
-      "title_vi": "Cựu kỹ sư Google cảnh báo AI có thể xóa sổ nhân loại trong 10 năm tới, xác suất trên 50%"
+      "pub_date": "2026-11-05 08:19",
+      "summary": "Trợ lý ảo Siri tích hợp trí tuệ nhân tạo bằng tiếng Việt đã xuất hiện trên bản cập nhật thử nghiệm iOS 27.3 Beta vừa được Apple phát hành.",
+      "title_en": "iOS 27.3 will have Vietnamese AI Siri",
+      "title_vi": "iOS 27.3 sẽ có Siri AI tiếng Việt"
     },
     {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-04 07:42",
-      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s",
-      "title_en": "The biggest modding site in PC gaming is taking a stance on AI",
-      "title_vi": "Trang mod lớn nhất trong làng game PC đang có quan điểm về AI"
-    },
-    {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-04 06:37",
-      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha",
-      "title_en": "Please stop asking me when the AI bubble will pop",
-      "title_vi": "Xin đừng hỏi tôi khi nào bong bóng AI sẽ vỡ"
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-04 05:19",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines",
-      "title_en": "Data centers are turning to old jet engines as the wait for power grows",
-      "title_vi": "Các trung tâm dữ liệu đang quay sang dùng động cơ phản lực cũ khi thời gian chờ nguồn điện tăng lên"
+      "pub_date": "2026-11-05 08:02",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "title_en": "After the midterms, a bigger clash over data centers could be coming",
+      "title_vi": "Sau cuộc bầu cử giữa kỳ, có thể sẽ có cuộc đụng độ lớn hơn về trung tâm dữ liệu"
     },
     {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "title": "Hôm nay khai mạc Ngày hội trí tuệ nhân tạo Việt Nam 2026",
+      "link": "https://vnexpress.net/hom-nay-khai-mac-ngay-hoi-tri-tue-nhan-tao-viet-nam-2026-5140602.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-05 08:00",
+      "summary": "Ngày hội Trí tuệ nhân tạo Việt Nam 2026 diễn ra lúc 14h ngày 5/11, với sự góp mặt của các nhà quản lý, chuyên gia, doanh nghiệp, bàn về AI và lễ vinh danh sản phẩm, giải pháp, tài năng AI Việt.",
+      "title_en": "Today opens the Vietnam Artificial Intelligence Day 2026",
+      "title_vi": "Hôm nay khai mạc Ngày hội trí tuệ nhân tạo Việt Nam 2026"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-04 04:43",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "title_en": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "title_vi": "Ballistic Ventures của Ted Schlein tìm kiếm 490 triệu USD cho các quỹ mới giữa bối cảnh bùng nổ an ninh mạng nhờ AI"
+      "pub_date": "2026-11-05 05:45",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "title_en": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "title_vi": "Các PAC AI đã chi hàng triệu đô để định hình Quốc hội - đây là kết quả của họ"
     },
     {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "link": "https://arxiv.org/abs/2605.29713",
-      "source": "Hacker News",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-04 04:40",
-      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 249 # Comments: 42",
-      "title_en": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "title_vi": "Cuốn sách nhỏ về nền tảng AI tạo sinh: Sơ lược toán học trực quan"
+      "pub_date": "2026-11-05 05:42",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans",
+      "title_en": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "title_vi": "Qualcomm đặt cược lớn vào trung tâm dữ liệu khi doanh số điện thoại thông minh giảm"
     },
     {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "source": "Hacker News",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-04 04:26",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=5035842",
-      "title_en": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "title_vi": "Nợ AI ẩn của các gã khổng lồ công nghệ Mỹ tăng 90% lên 3,2 nghìn tỷ USD trong 6 tháng"
+      "pub_date": "2026-11-05 05:13",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "title_en": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "title_vi": "CEO Nothing cho biết thiết bị AI bí ẩn của công ty sẽ ra mắt vào tháng tới"
     },
     {
-      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-      "source": "Hacker News",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-04 04:25",
-      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 70 # Comm",
-      "title_en": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "title_vi": "Cơn sốt AI có thể đang gieo mầm cho một cuộc khủng hoảng tài chính khác"
+      "pub_date": "2026-11-05 04:56",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "title_en": "Almost no one uses AI agents to book their Uber, company says",
+      "title_vi": "Gần như không ai sử dụng tác nhân AI để đặt Uber, công ty cho biết"
     }
   ]
 }

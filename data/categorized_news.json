@@ -1,89 +1,119 @@
 {
   "headline": [
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-06 07:37",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center proj",
-      "title_en": "OpenAI is stepping back from NDAs for data center projects",
-      "title_vi": "OpenAI rút lui khỏi các thỏa thuận bảo mật cho dự án trung tâm dữ liệu"
+      "title": "Claude giúp máy tính lượng tử giảm hàng triệu cổng tính toán",
+      "link": "https://tuoitre.vn/claude-giup-may-tinh-luong-tu-giam-hang-trieu-cong-tinh-toan-100261106204646543.htm",
+      "source": "Tuổi Trẻ",
+      "lang": "vi",
+      "pub_date": "2026-11-07 08:26",
+      "summary": "Thay vì phải lưu mọi kết quả trung gian, Claude tìm cách khôi phục chúng, giúp giảm khoảng 17 lần số cổng tính toán trong mạch lượng tử.",
+      "title_en": "Claude helps quantum computers reduce millions of computational gates",
+      "title_vi": "Claude giúp máy tính lượng tử giảm hàng triệu cổng tính toán"
     },
     {
-      "title": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTB2WEJJVjRiTUJBZmRvTHd1dkphUWRJRmJBcXlzZDNicWhqZWQxUkNMQ3E0TV9DNllQWHNZTFo5QWNiNTM5NEtOdUFjdDMtb3FDZ3FhTnpGS1liWnVPVTFWdjhuWkM3MExXTnVjMTZ1Umw5U3BRTHoycHdaNUNNNXlJS2o2MVBfNHBlQWRFV2IzbVRLZ3lIRGZiSzRwWmJhbUxKLVlMb3M0cGcwSEdXRHVtcUZHSmQxUFNlSXJKc3FZRThFaEg1aDg5WjJ2R29rbFFHaVZ1MA?oc=5",
-      "source": "VentureBeat",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-06 07:32",
-      "summary": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google VentureBeat",
-      "title_en": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google",
-      "title_vi": "OpenAI ra mắt GPT-6 Cyber với nghiên cứu khai thác mạnh mẽ hơn và giá API cao hơn Anthropic và Google"
+      "pub_date": "2026-11-07 05:53",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title_vi": "OpenAI được cho là huy động thêm 11 tỷ USD với định giá 1,25 nghìn tỷ USD"
     },
     {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "source": "Ars Technica",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-06 04:40",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "title_en": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "title_vi": "Google: Trường học có thể giữ tìm kiếm và bỏ qua Gemini, nhưng tìm kiếm AI là không thể thiếu"
+      "pub_date": "2026-11-06 22:54",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "title_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "title_vi": "Dữ liệu từ Ramp cho thấy chi tiêu cho AI chững lại ngay khi Anthropic sắp IPO"
     }
   ],
   "product": [
     {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-06 05:26",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects",
-      "title_en": "Perplexity launches its own take on AI agents for work",
-      "title_vi": "Perplexity ra mắt phiên bản tác nhân AI riêng cho công việc"
+      "title": "Hơn 400 ứng dụng chỉnh ảnh thú cưng, làm đẹp trên App Store và Play Store bị phanh phui trò tráo giao diện từ xa để tạo ảnh khỏa thân bằng AI",
+      "link": "https://genk.vn/hon-400-ung-dung-chinh-anh-thu-cung-lam-dep-tren-app-store-va-play-store-bi-phanh-phui-tro-trao-giao-dien-tu-xa-de-tao-anh-khoa-than-bang-ai-165261107081559861.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-07 08:40",
+      "summary": "Báo cáo điều tra công bố ngày 02/11/2026 của tổ chức phi lợi nhuận AI Forensics và hãng bảo mật Infoblox đã vạch trần hơn 400 ứng dụng di động dùng máy chủ từ xa để bí mật biến ứng dụng chỉnh ảnh vô h",
+      "title_en": "Over 400 pet photo editing and beauty apps on App Store and Play Store exposed for remotely switching interfaces to create AI nudes",
+      "title_vi": "Hơn 400 ứng dụng chỉnh ảnh thú cưng, làm đẹp trên App Store và Play Store bị phanh phui trò tráo giao diện từ xa để tạo ảnh khỏa thân bằng AI"
     },
     {
-      "title": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmVlQ0o0aVF2SFJjUWtwdy00eXBZVVB4NnVQYW4xZG1wcHpNTk9Od0tYZHR6Z1lSVlJyVVdWSGNaNDhtTFhTMm51QXpzRkdjQUwyMFVlejEyYUI0V1hTODN4ZnBYc21yU0hELTNIMHpfSk9OQTgwYUthVW9UWjdwNFJQMk1aSGJyNjQ3SzhzMTd3c2xib0FxUllqMkp4RElhWjQ2RFUxU2JRLU1HTFRmWjJlbWg2djRtTW5HeERfWGw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-06 05:13",
-      "summary": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs VentureBeat",
-      "title_en": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs",
-      "title_vi": "AWS ra mắt bot AI Kiro có trí nhớ và hỗ trợ công việc phát triển định kỳ"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-06 02:06",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "title_en": "OpenAI released a new cybersecurity model. Is that enough?",
-      "title_vi": "OpenAI phát hành mô hình an ninh mạng mới. Liệu đã đủ?"
+      "pub_date": "2026-11-07 01:44",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "title_en": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "title_vi": "Meta giới thiệu Spaces, cách mới để cộng tác với tác nhân Muse của bạn"
     },
     {
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-07 01:10",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tr",
+      "title_en": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "title_vi": "AI Muse của Meta có thể tạo ‘không gian’ tùy chỉnh cho phiên bản ứng dụng bạn cần ngay"
+    },
+    {
+      "title": "Perplexity launches AI agents for work",
+      "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-07 00:59",
+      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 59 # Comments: 51",
+      "title_en": "Perplexity launches AI agents for work",
+      "title_vi": "Perplexity ra mắt tác nhân AI cho công việc"
+    },
+    {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
       "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-11-05 19:00",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "title_en": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "title_vi": "Màn ra mắt Nasdaq của Agility Robotics mời gọi sự soi xét thị trường robot hình người"
-    },
-    {
-      "title": "Siri AI hỗ trợ tiếng Việt qua bản cập nhật iOS 27.3 beta",
-      "link": "https://thanhnien.vn/siri-ai-ho-tro-tieng-viet-qua-ban-cap-nhat-ios-273-beta-185261104113905734.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-04 14:38",
-      "summary": "Người dùng iPhone giờ đây có thể trải nghiệm Siri AI bằng tiếng Việt thông qua bản cập nhật iOS 27.3 beta.",
-      "title_en": "Siri AI supports Vietnamese through iOS 27.3 beta update",
-      "title_vi": "Siri AI hỗ trợ tiếng Việt qua bản cập nhật iOS 27.3 beta"
+      "pub_date": "2026-11-07 00:43",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "title_en": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "title_vi": "“Meta nghĩ chúng ta không biết đọc à?” Meta từ bỏ bản cập nhật điều khoản thương mại mờ ám."
     }
   ],
   "funding": [
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-06 20:00",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "title_en": "Physicl raises $10M to make the digital world real enough for robots",
+      "title_vi": "Physicl huy động 10 triệu USD để làm cho thế giới số đủ thực tế cho robot"
+    },
+    {
+      "title": "Thêm \"bộ não\" AI cho cảm biến: vì sao Analog Devices mua lại Alif Semiconductor?",
+      "link": "https://genk.vn/them-bo-nao-ai-cho-cam-bien-vi-sao-analog-devices-mua-lai-alif-semiconductor-1652611061135046.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-06 13:26",
+      "summary": "Analog Devices (ADI) vừa hoàn tất thương vụ mua lại Alif Semiconductor, ghép dòng vi điều khiển và bộ xử lý AI-native của Alif với thế mạnh cảm biến, xử lý tín hiệu của mình. Họ mong muốn tạo ra những",
+      "title_en": "Adding an AI \"brain\" to sensors: why is Analog Devices buying Alif Semiconductor?",
+      "title_vi": "Thêm \"bộ não\" AI cho cảm biến: vì sao Analog Devices mua lại Alif Semiconductor?"
+    },
+    {
+      "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+      "link": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-06 08:11",
+      "summary": "Article URL: https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50386909 Poin",
+      "title_en": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+      "title_vi": "Nhà đầu tư xóa sổ 2,5 nghìn tỷ USD khỏi Nasdaq khi làn sóng xanh dấy lên lo ngại về AI"
+    },
     {
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
@@ -95,69 +125,89 @@
       "title_vi": "Chủ tịch OpenAI Greg Brockman cho biết công ty có thể sẵn sàng IPO vào năm 2027"
     },
     {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch",
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-05 22:19",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "title_en": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "title_vi": "Dropbox mua lại Tigris Data với giá 350 triệu USD để tăng cường hạ tầng AI"
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "link": "https://openai.com/index/franklin-templeton",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-11-05 07:00",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "title_en": "Franklin Templeton uses OpenAI to support investment research",
-      "title_vi": "Franklin Templeton sử dụng OpenAI để hỗ trợ nghiên cứu đầu tư"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-05 04:10",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "title_en": "Meta acquires AI coding startup Conductor",
-      "title_vi": "Meta mua lại công ty khởi nghiệp mã hóa AI Conductor"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-11-04 21:30",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "title_vi": "OpenAI sẽ mua lại Pierre Computer Company, Inc."
+      "pub_date": "2026-11-06 01:00",
+      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 191",
+      "title_en": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "title_vi": "Nasdaq giảm 5% khi nhà đầu tư rút lui khỏi giao dịch AI sau bầu cử"
     }
   ],
   "research": [
     {
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "source": "The Verge",
+      "title": "AI is dramatically accelerating AI research",
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-06 00:00",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the proces",
-      "title_en": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "title_vi": "OpenAI cho biết mô hình an ninh mạng mới của họ tốt hơn trong việc không tấn công các công ty khác"
+      "pub_date": "2026-11-07 03:27",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 206 # Comments: 158",
+      "title_en": "AI is dramatically accelerating AI research",
+      "title_vi": "AI đang tăng tốc đáng kể nghiên cứu AI"
     },
     {
-      "title": "Why AI model choice is now an infrastructure decision",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlBkejU5cDhtNDVEYW01Smw3UEs0LXZjZ3NaRFBYSFhFV1NMYUVGcVdmSnFqNk1aME9tejNzcHR1ZVl4Qm5Fd3pObU5Ra2c4MXR1LTkwZWpEcThESFJBWGtDT0pRanU2ZVhGY1BobGUwOVhQT3J1X1BCVWVrMDVvM2dJUjRWNVc4dEswSjN0N09YZXhGalJB?oc=5",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-06 20:02",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "title_en": "Underdog shows off a 32MB speech model in new demo",
+      "title_vi": "Underdog trình diễn mô hình giọng nói 32MB trong bản demo mới"
+    },
+    {
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "link": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-06 16:13",
+      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 88 # Comments: 37",
+      "title_en": "AI for scientific discovery: How researchers use Claude",
+      "title_vi": "AI cho khám phá khoa học: Cách các nhà nghiên cứu sử dụng Claude"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTB2WEJJVjRiTUJBZmRvTHd1dkphUWRJRmJBcXlzZDNicWhqZWQxUkNMQ3E0TV9DNllQWHNZTFo5QWNiNTM5NEtOdUFjdDMtb3FDZ3FhTnpGS1liWnVPVTFWdjhuWkM3MExXTnVjMTZ1Umw5U3BRTHoycHdaNUNNNXlJS2o2MVBfNHBlQWRFV2IzbVRLZ3lIRGZiSzRwWmJhbUxKLVlMb3M0cGcwSEdXRHVtcUZHSmQxUFNlSXJKc3FZRThFaEg1aDg5WjJ2R29rbFFHaVZ1MA?oc=5",
       "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-05 22:30",
-      "summary": "Why AI model choice is now an infrastructure decision VentureBeat",
-      "title_en": "Why AI model choice is now an infrastructure decision",
-      "title_vi": "Vì sao lựa chọn mô hình AI giờ là quyết định về hạ tầng"
+      "pub_date": "2026-11-06 07:32",
+      "summary": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google VentureBeat",
+      "title_en": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google",
+      "title_vi": "OpenAI ra mắt GPT-6 Cyber với nghiên cứu khai thác mạnh hơn và giá API cao hơn Anthropic và Google"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-06 02:06",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "title_en": "OpenAI released a new cybersecurity model. Is that enough?",
+      "title_vi": "OpenAI phát hành mô hình an ninh mạng mới. Liệu đã đủ?"
     }
   ],
   "industry": [
+    {
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-07 01:04",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points",
+      "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "title_vi": "Microsoft đang thu hẹp thỏa thuận với Oracle để thuê năng lực đám mây AI"
+    },
+    {
+      "title": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmVlQ0o0aVF2SFJjUWtwdy00eXBZVVB4NnVQYW4xZG1wcHpNTk9Od0tYZHR6Z1lSVlJyVVdWSGNaNDhtTFhTMm51QXpzRkdjQUwyMFVlejEyYUI0V1hTODN4ZnBYc21yU0hELTNIMHpfSk9OQTgwYUthVW9UWjdwNFJQMk1aSGJyNjQ3SzhzMTd3c2xib0FxUllqMkp4RElhWjQ2RFUxU2JRLU1HTFRmWjJlbWg2djRtTW5HeERfWGw?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-06 05:13",
+      "summary": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs VentureBeat",
+      "title_en": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs",
+      "title_vi": "AWS ra mắt bot AI tác nhân Kiro có bộ nhớ và hỗ trợ các công việc phát triển định kỳ"
+    },
     {
       "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
       "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
@@ -179,16 +229,6 @@
       "title_vi": "Mô hình mở NVIDIA Cosmos 3 mới cho mô phỏng thế giới tương tác"
     },
     {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-05 21:00",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "title_en": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "title_vi": "Box sử dụng Nemotron của Nvidia cho hệ thống truy xuất nội dung ưu tiên tác nhân mới"
-    },
-    {
       "title": "5 doanh nghiệp AI tiêu biểu tại AI Awards 2026",
       "link": "https://vnexpress.net/5-doanh-nghiep-ai-tieu-bieu-tai-ai-awards-2026-5140794.html",
       "source": "VnExpress",
@@ -197,98 +237,88 @@
       "summary": "Hạng mục Doanh nghiệp AI tiêu biểu tại AI Awards 2026 vinh danh 5 công ty có đóng góp tích cực trong việc phát triển trí tuệ nhân tạo, tạo ra giá trị kinh tế, xã hội.",
       "title_en": "5 outstanding AI enterprises at AI Awards 2026",
       "title_vi": "5 doanh nghiệp AI tiêu biểu tại AI Awards 2026"
-    },
-    {
-      "title": "AI Awards 2026 vinh danh tài năng, doanh nghiệp và ứng dụng AI Việt",
-      "link": "https://vnexpress.net/ai-awards-2026-vinh-danh-tai-nang-doanh-nghiep-va-ung-dung-ai-viet-5141329.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-05 20:28",
-      "summary": "AI Awards 2026 ghi nhận đóng góp nghiên cứu, ứng dụng công nghệ trong giáo dục, giao thông, tài chính và quản trị doanh nghiệp.",
-      "title_en": "AI Awards 2026 honors Vietnamese AI talents, enterprises and applications",
-      "title_vi": "AI Awards 2026 vinh danh tài năng, doanh nghiệp và ứng dụng AI Việt"
     }
   ],
   "other": [
     {
-      "title": "HP bổ nhiệm CEO mới đón đầu làn sóng AI tại biên",
-      "link": "https://thanhnien.vn/hp-bo-nhiem-ceo-moi-don-dau-lan-song-ai-tai-bien-185261105114649231.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-06 08:00",
-      "summary": "Bước chuyển giao nhân sự tại HP diễn ra vào thời điểm ngành sản xuất thiết bị đầu cuối đối mặt với sự bùng nổ của máy tính tích hợp trí tuệ nhân tạo (AI PC) và năng lực xử lý thông minh trực tiếp tại ",
-      "title_en": "HP appoints new CEO to embrace the AI wave at the edge",
-      "title_vi": "HP bổ nhiệm CEO mới đón đầu làn sóng AI tại biên"
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-07 08:40",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "title_en": "Crusoe sells troubled Wyoming data center project to Google",
+      "title_vi": "Crusoe bán dự án trung tâm dữ liệu Wyoming gặp sự cố cho Google"
     },
     {
-      "title": "Phần mềm từng xây dựng trong vài tuần, AI có thể giúp xử lý trong 20 phút",
-      "link": "https://dantri.com.vn/khoa-hoc/phan-mem-tung-xay-dung-trong-vai-tuan-ai-co-the-giup-xu-ly-trong-20-phut-20261105201356764.htm",
-      "source": "Dân trí",
+      "title": "'Vua son môi' Trung Quốc livestream bán 2.000 tỷ Token AI trong 30 phút, mở màn cho kỷ nguyên mua tài nguyên tính toán như... nạp thẻ điện thoại",
+      "link": "https://genk.vn/vua-son-moi-trung-quoc-livestream-ban-2000-ty-token-ai-trong-30-phut-mo-man-cho-ky-nguyen-mua-tai-nguyen-tinh-toan-nhu-nap-the-dien-thoai-165261107081120351.chn",
+      "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-06 07:22",
-      "summary": "(Dân trí) - Trí tuệ nhân tạo đang thay đổi cách học tập và làm việc, mở ra nhiều cơ hội nhưng cũng đặt ra yêu cầu mới về kiến thức, kỹ năng và khả năng làm chủ công nghệ.",
-      "title_en": "Software that once took weeks to build, AI can help process in 20 minutes",
-      "title_vi": "Phần mềm từng xây dựng trong vài tuần, AI có thể giúp xử lý trong 20 phút"
+      "pub_date": "2026-11-07 08:21",
+      "summary": "Trong bối cảnh cơn sốt AI đang bao trùm toàn cầu, ngành công nghiệp livestream Trung Quốc vừa chứng kiến một bước ngoặt lịch sử, lần đầu tiên trong một sự kiện chốt đơn, sản phẩm được săn đón nhất khô",
+      "title_en": "China's 'Lipstick King' livestreams selling 2,000 billion AI Tokens in 30 minutes, opening an era of buying compute resources like... topping up phone cards",
+      "title_vi": "'Vua son môi' Trung Quốc livestream bán 2.000 tỷ Token AI trong 30 phút, mở màn cho kỷ nguyên mua tài nguyên tính toán như... nạp thẻ điện thoại"
     },
     {
-      "title": "Airbnb is working on an AI travel agent",
-      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "title": "AI tools for commercial real estate are changing how deals get sourced",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2NqY3VYZFRpQjJkc0FnQU91clVaSUdjY2pUVGVkTndFNC1kcUM3cWxadlFqZzhXTW03T1JiT19lU2pGeTQ3RDM2akYxOGo0eGkzamVGQld2VFZfYW5reUlWdGF6WUc4aTZLRmhyeDhyMjZTaGRZWG1RdzQ1bkNXQ3k4Q3RlNUxub0lpZ3VXUWFxQ0RMeGJDS0VMOFNyTTdiOGtudDBn?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-07 04:40",
+      "summary": "AI tools for commercial real estate are changing how deals get sourced VentureBeat",
+      "title_en": "AI tools for commercial real estate are changing how deals get sourced",
+      "title_vi": "Công cụ AI cho bất động sản thương mại đang thay đổi cách tìm kiếm thương vụ"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-06 07:06",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents",
-      "title_en": "Airbnb is working on an AI travel agent",
-      "title_vi": "Airbnb đang phát triển một tác nhân du lịch AI"
+      "pub_date": "2026-11-07 03:02",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
+      "title_en": "All the latest updates on AI data centers",
+      "title_vi": "Tất cả cập nhật mới nhất về trung tâm dữ liệu AI"
     },
     {
-      "title": "Bill Gates: 'AI có thể gây ra đại dịch tệ hơn Covid-19'",
-      "link": "https://vnexpress.net/bill-gates-ai-co-the-gay-ra-dai-dich-te-hon-covid-19-5141238.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-06 07:00",
-      "summary": "Tỷ phú công nghệ Bill Gates cảnh báo kẻ xấu có thể dùng AI tạo ra vũ khí sinh học, gây thiệt hại khủng khiếp hơn nhiều so với Covid-19.",
-      "title_en": "Bill Gates: 'AI could cause a pandemic worse than Covid-19'",
-      "title_vi": "Bill Gates: 'AI có thể gây ra đại dịch tệ hơn Covid-19'"
-    },
-    {
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-06 05:40",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "title_en": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "title_vi": "Airbnb cho biết sẽ ra mắt tác nhân du lịch AI trong nửa đầu năm 2027"
+      "pub_date": "2026-11-07 01:44",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "title_en": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "title_vi": "Hàng trăm công cụ hack Artex AI được phát hiện công khai trên web"
     },
     {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-11-06 03:00",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "title_en": "Cult.fit builds operational muscle with Codex",
-      "title_vi": "Cult.fit xây dựng sức mạnh vận hành với Codex"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-06 02:48",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "title_en": "Meta says US users can now video chat with their Muse AI avatar",
-      "title_vi": "Meta cho biết người dùng Mỹ giờ có thể trò chuyện video với hình đại diện Muse AI của họ"
+      "pub_date": "2026-11-07 01:00",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
+      "title_en": "How a Blue Wave midterm might reshape the AI industry",
+      "title_vi": "Làn sóng xanh giữa kỳ có thể định hình lại ngành AI như thế nào"
     },
     {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "title": "AI economics: How to decide which AI investments are worth scaling",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3EwQlJKUFJkR25FUkdyTFVFSkJVbmpEQ2RVYnZWSzAzSWVyc1A2S21ad0haSkQ1TmxMOE44ejI0bW9peDNoSWktM2NDdTNaUTluTjZtWmJLRzZIYUlVNjBHMVp3ZnU5S1E2ZjBjUDZ4VkNxSkZVREdRT3BiMWh5a3FOT3A3MWZaWDhycHBHcV9XTGdFU3BjOTJrU3VtN1NOMnk5eEg0OA?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-07 00:50",
+      "summary": "AI economics: How to decide which AI investments are worth scaling VentureBeat",
+      "title_en": "AI economics: How to decide which AI investments are worth scaling",
+      "title_vi": "Kinh tế AI: Cách quyết định khoản đầu tư AI nào đáng mở rộng"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-06 02:12",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "title_vi": "Meta cảnh báo phản ứng dữ dội của cử tri đối với các trung tâm dữ liệu có thể khiến việc mở rộng AI khó khăn hơn"
+      "pub_date": "2026-11-07 00:23",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
+      "title_en": "After the midterms, is the AI industry in for a rough two years?",
+      "title_vi": "Sau kỳ bầu cử giữa kỳ, ngành AI có phải đối mặt hai năm khó khăn không?"
     }
   ]
 }

@@ -1,6 +1,26 @@
 {
   "headline": [
     {
+      "title": "Dùng ChatGPT viết tiểu thuyết, nhà văn 62 tuổi đạt giải văn học danh giá",
+      "link": "https://genk.vn/dung-chatgpt-viet-tieu-thuyet-nha-van-62-tuoi-dat-giai-van-hoc-danh-gia-165261109080441949.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-09 08:04",
+      "summary": "Chỉ một ngày sau khi đoạt giải Goncourt 2026, nhà văn Philippe Jaenada công khai chuyện đưa một phần câu văn do ChatGPT gợi ý vào tiểu thuyết. Câu chuyện gây chú ý khi ban giám khảo trước đó đã gạch t",
+      "title_en": "Using ChatGPT to write a novel, 62-year-old writer wins prestigious literary award",
+      "title_vi": "Dùng ChatGPT viết tiểu thuyết, nhà văn 62 tuổi đạt giải văn học danh giá"
+    },
+    {
+      "title": "OpenAI hoàn tất đợt gọi vốn 11 tỷ USD",
+      "link": "https://genk.vn/openai-hoan-tat-dot-goi-von-11-ty-usd-165261108132058075.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-08 13:50",
+      "summary": "VTV.vn - OpenAI đã hoàn tất đợt gọi vốn mới trị giá 11 tỷ USD. Đây là đợt huy động vốn đầu tiên nằm trong vòng gọi vốn định giá công ty ở mức 1.250 tỷ USD.",
+      "title_en": "OpenAI completes $11 billion funding round",
+      "title_vi": "OpenAI hoàn tất đợt gọi vốn 11 tỷ USD"
+    },
+    {
       "title": "Mô hình Anthropic cải tiến nhanh gấp đôi nhờ AI",
       "link": "https://vnexpress.net/mo-hinh-anthropic-cai-tien-nhanh-gap-doi-nho-ai-5141690.html",
       "source": "VnExpress",
@@ -9,7 +29,11 @@
       "summary": "Nghiên cứu độc lập cho thấy các mô hình Anthropic đang cải tiến nhanh gấp 1,9 lần so với trước nhờ AI tham gia quá trình huấn luyện.",
       "title_en": "Anthropic model improves twice as fast thanks to AI",
       "title_vi": "Mô hình Anthropic cải tiến nhanh gấp đôi nhờ AI"
-    },
+    }
+  ],
+  "product": [],
+  "funding": [],
+  "research": [
     {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
@@ -18,146 +42,50 @@
       "pub_date": "2026-11-07 19:30",
       "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slo",
       "title_en": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "title_vi": "Vì sao báo cáo mới về việc Anthropic tự động hóa phát triển AI khiến giới nghiên cứu lo ngại"
-    },
-    {
-      "title": "Anthropic và những thách thức phía sau cuộc đua AI",
-      "link": "https://genk.vn/anthropic-va-nhung-thach-thuc-phia-sau-cuoc-dua-ai-165261107135239869.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-07 15:00",
-      "summary": "VTV.vn - Đằng sau đà tăng trưởng của Anthropic là áp lực về vốn, nguồn cung chip, cạnh tranh từ các mô hình AI giá rẻ và yêu cầu kiểm soát rủi ro.",
-      "title_en": "Anthropic and the challenges behind the AI race",
-      "title_vi": "Anthropic và những thách thức phía sau cuộc đua AI"
-    }
-  ],
-  "product": [
-    {
-      "title": "Hơn 400 ứng dụng chỉnh ảnh thú cưng, làm đẹp trên App Store và Play Store bị phanh phui trò tráo giao diện từ xa để tạo ảnh khỏa thân bằng AI",
-      "link": "https://genk.vn/hon-400-ung-dung-chinh-anh-thu-cung-lam-dep-tren-app-store-va-play-store-bi-phanh-phui-tro-trao-giao-dien-tu-xa-de-tao-anh-khoa-than-bang-ai-165261107081559861.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-07 08:40",
-      "summary": "Báo cáo điều tra công bố ngày 02/11/2026 của tổ chức phi lợi nhuận AI Forensics và hãng bảo mật Infoblox đã vạch trần hơn 400 ứng dụng di động dùng máy chủ từ xa để bí mật biến ứng dụng chỉnh ảnh vô h",
-      "title_en": "Over 400 pet photo editing and beauty apps on App Store and Play Store exposed for remotely swapping interfaces to create AI nudes",
-      "title_vi": "Hơn 400 ứng dụng chỉnh ảnh thú cưng, làm đẹp trên App Store và Play Store bị phanh phui trò tráo giao diện từ xa để tạo ảnh khỏa thân bằng AI"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-07 01:44",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "title_en": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "title_vi": "Meta giới thiệu Spaces, cách mới để cộng tác với trợ lý Muse của bạn"
-    },
-    {
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-07 01:10",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tr",
-      "title_en": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "title_vi": "Trợ lý Muse của Meta có thể tạo 'không gian' tùy chỉnh cho phiên bản ứng dụng bạn cần ngay lúc này"
-    },
-    {
-      "title": "Perplexity launches AI agents for work",
-      "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-07 00:59",
-      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work Comments URL: https://news.ycombinator.com/item?id=50395866 Points: 64 # Comments: 54",
-      "title_en": "Perplexity launches AI agents for work",
-      "title_vi": "Perplexity ra mắt các tác nhân AI cho công việc"
-    },
-    {
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-07 00:43",
-      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "title_en": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "title_vi": "\"Meta nghĩ chúng ta không biết đọc à?\" Meta từ bỏ bản cập nhật điều khoản thương mại mập mờ."
-    }
-  ],
-  "funding": [
-    {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-07 06:46",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long af",
-      "title_en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "title_vi": "OpenAI được định giá 1,25 nghìn tỷ USD, trong khi đối thủ Anthropic sắp IPO"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-07 05:53",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "title_vi": "OpenAI được cho là huy động thêm 11 tỷ USD với mức định giá 1,25 nghìn tỷ USD"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-06 22:54",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "title_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "title_vi": "Dữ liệu từ Ramp cho thấy chi tiêu cho AI chững lại ngay khi Anthropic sắp IPO"
-    },
-    {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-06 20:00",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "title_en": "Physicl raises $10M to make the digital world real enough for robots",
-      "title_vi": "Physicl gọi vốn 10 triệu USD để biến thế giới số thành hiện thực đủ cho robot"
-    }
-  ],
-  "research": [
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-07 03:27",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 362 # Comments: 338",
-      "title_en": "AI is dramatically accelerating AI research",
-      "title_vi": "AI đang tăng tốc nghiên cứu AI một cách đáng kể"
-    },
-    {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-06 20:02",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "title_en": "Underdog shows off a 32MB speech model in new demo",
-      "title_vi": "Underdog trình diễn mô hình giọng nói 32MB trong bản demo mới"
-    },
-    {
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "link": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-06 16:13",
-      "summary": "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 101 # Comments: 39",
-      "title_en": "AI for scientific discovery: How researchers use Claude",
-      "title_vi": "AI cho khám phá khoa học: Cách các nhà nghiên cứu sử dụng Claude"
+      "title_vi": "Vì sao báo cáo mới về Anthropic tự động hóa phát triển AI khiến các nhà nghiên cứu lo ngại"
     }
   ],
   "industry": [
+    {
+      "title": "Ngân hàng Trung ương Anh dội \"gáo nước lạnh\" vào cơn sốt AI: 3 năm năng suất chỉ nhích thêm 0,1–0,2 điểm %/năm, hơn 80% doanh nghiệp chưa thấy hiệu quả",
+      "link": "https://genk.vn/ngan-hang-trung-uong-anh-doi-gao-nuoc-lanh-vao-con-sot-ai-3-nam-nang-suat-chi-nhich-them-0102-diem--nam-hon-80-doanh-nghiep-chua-thay-hieu-qua-165261109080806772.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-09 08:40",
+      "summary": "Sau 3 năm bùng nổ đầu tư, AI được ước tính chỉ đóng góp thêm 0,1–0,2 điểm phần trăm vào tăng trưởng năng suất lao động hằng năm tại Anh. Trong khi đó, khảo sát gần 6.000 lãnh đạo doanh nghiệp tại 4 qu",
+      "title_en": "Bank of England pours cold water on AI hype: productivity to rise only 0.1–0.2 percentage points per year over 3 years, over 80% of firms see no effect",
+      "title_vi": "Ngân hàng Trung ương Anh dội \"gáo nước lạnh\" vào cơn sốt AI: 3 năm năng suất chỉ nhích thêm 0,1–0,2 điểm %/năm, hơn 80% doanh nghiệp chưa thấy hiệu quả"
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-09 05:54",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Di",
+      "title_en": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "title_vi": "Toàn văn bản ghi nhớ của Jensen Huang gửi Nvidia"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-09 04:00",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "title_en": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "title_vi": "Nvidia sẽ điều tra mối quan hệ của CEO Jensen Huang với nghi phạm gián điệp Trung Quốc"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-09 03:22",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Secu",
+      "title_en": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "title_vi": "Nvidia đang điều tra mối quan hệ của Jensen Huang với một gián điệp Trung Quốc"
+    },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
@@ -166,119 +94,89 @@
       "pub_date": "2026-11-08 04:17",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "title_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "title_vi": "Theo bản ghi nhớ tình báo Mỹ, giám đốc điều hành Megaspeed được tuyển mộ để theo dõi CEO Nvidia"
-    },
-    {
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-07 22:43",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According ",
-      "title_en": "The US let Nvidia sell chips to an empty office in China",
-      "title_vi": "Mỹ đã để Nvidia bán chip cho một văn phòng trống ở Trung Quốc"
-    },
-    {
-      "title": "Thung lũng Silicon 'chạy theo' thuật ngữ AI mới của ông Trump",
-      "link": "https://vnexpress.net/thung-lung-silicon-chay-theo-thuat-ngu-ai-moi-cua-ong-trump-5141255.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-07 11:00",
-      "summary": "Tổng thống Mỹ Donald Trump tuyên chiến với thuật ngữ \"trí tuệ nhân tạo\" và muốn chuyển sang sử dụng \"siêu trí tuệ\", khiến Thung lũng Silicon phải thay đổi theo.",
-      "title_en": "Silicon Valley 'chases' Trump's new AI term",
-      "title_vi": "Thung lũng Silicon 'chạy theo' thuật ngữ AI mới của ông Trump"
-    },
-    {
-      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-07 01:04",
-      "summary": "Article URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/ Comments URL: https://news.ycombinator.com/item?id=50395933 Points",
-      "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "title_vi": "Microsoft đang giảm dần thỏa thuận với Oracle để thuê năng lực đám mây AI"
+      "title_vi": "Giám đốc điều hành Megaspeed bị tuyển mộ để do thám CEO Nvidia, theo bản ghi nhớ tình báo Mỹ"
     }
   ],
   "other": [
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-08 05:07",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "title_en": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "title_vi": "Sau kỳ bầu cử giữa kỳ, mọi thứ trở nên khó khăn cho Elon Musk và các trung tâm dữ liệu"
+      "title": "AI trong y sinh: ranh giới giữa phép màu và thảm họa",
+      "link": "https://vnexpress.net/ai-trong-y-sinh-ranh-gioi-giua-phep-mau-va-tham-hoa-5141687.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-09 05:10",
+      "summary": "Tại một phòng thí nghiệm ở phía nam San Francisco, nhóm nhà khoa học đang cố gắng đào tạo thế hệ kế nhiệm, nhưng không phải con người mà là robot.",
+      "title_en": "AI in biomedicine: the line between miracle and disaster",
+      "title_vi": "AI trong y sinh: ranh giới giữa phép màu và thảm họa"
     },
     {
-      "title": "The End of AI Frontiers",
-      "link": "https://hunch.net/?p=13764006",
+      "title": "How I Fight AI Brain Fry",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-08 01:04",
-      "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 81 # Comments: 4",
-      "title_en": "The End of AI Frontiers",
-      "title_vi": "Sự kết thúc của các biên giới AI"
+      "pub_date": "2026-11-09 02:37",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 153 # Comments: 130",
+      "title_en": "How I Fight AI Brain Fry",
+      "title_vi": "Cách tôi chống lại tình trạng não bị chiên do AI"
     },
     {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "title": "Apple is racing to make Siri more agentic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-07 22:50",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, b",
-      "title_en": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "title_vi": "Trợ lý AI của NYT Cooking đã cứu món gà tối giữa tuần của tôi, nhưng suýt làm hỏng chiếc bánh"
+      "pub_date": "2026-11-09 02:18",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. Wh",
+      "title_en": "Apple is racing to make Siri more agentic",
+      "title_vi": "Apple đang chạy đua để khiến Siri có khả năng tác nhân hơn"
     },
     {
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-09 01:43",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 89 # C",
+      "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "title_vi": "Thung lũng Silicon hứa hẹn AI sẽ chữa khỏi bệnh. CEO các hãng dược không tin"
+    },
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-07 22:00",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series l",
-      "title_en": "AI broke the cybersecurity world. What’s next?",
-      "title_vi": "AI đã phá vỡ thế giới an ninh mạng. Điều gì tiếp theo?"
+      "pub_date": "2026-11-09 00:23",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illega",
+      "title_en": "Elvis and Eminem rights holders are suing Suno",
+      "title_vi": "Chủ sở hữu bản quyền của Elvis và Eminem đang kiện Suno"
     },
     {
-      "title": "AI Trái Đất tìm kiếm AI ngoài hành tinh",
-      "link": "https://genk.vn/ai-trai-dat-tim-kiem-ai-ngoai-hanh-tinh-165261107172436889.chn",
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-08 22:19",
+      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up Comments URL: https://news.ycombinator.com/item?id=504140",
+      "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "title_vi": "CEO Apple thúc giục giám đốc phần mềm theo đuổi chiến lược AI tham vọng hơn"
+    },
+    {
+      "title": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á",
+      "link": "https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-07 18:14",
-      "summary": "NVIDIA hợp tác với các nhà thiên văn sử dụng AI để tìm kiếm tín hiệu từ nền văn minh ngoài Trái Đất, với giả thuyết những nền văn minh này cũng có thể sở hữu AI.",
-      "title_en": "Earth AI in search of extraterrestrial AI",
-      "title_vi": "AI Trái Đất tìm kiếm AI ngoài hành tinh"
+      "pub_date": "2026-11-08 15:56",
+      "summary": "Microsoft cho biết một nhóm hack đặt tại Campuchia từ tháng 10 dùng ARTEX, công cụ AI mã nguồn mở tự động hóa tấn công, để nhắm vào các tổ chức tài chính chủ yếu ở Đông Nam Á.",
+      "title_en": "Free AI hacks are targeting banks in Southeast Asia",
+      "title_vi": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á"
     },
     {
-      "title": "AI mở Trung Quốc đã đuổi kịp Mỹ chưa?",
-      "link": "https://genk.vn/ai-mo-trung-quoc-da-duoi-kip-my-chua-165261107173759507.chn",
+      "title": "Từng nhờ game thủ mà sống sót, giờ AMD lại ưu tiên cho AI, bỏ rơi game thủ",
+      "link": "https://genk.vn/tung-nho-game-thu-ma-song-sot-gio-amd-lai-uu-tien-cho-ai-bo-roi-game-thu-165261108095147235.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-07 17:46",
-      "summary": "Kimi cho mọi người tải về mô hình Kimi K3.1 Pro, Baidu mở bản nền ERNIE 5.5 Flash và Tencent công bố Hy4, nhưng điểm số của các mô hình này phần lớn do chính hãng tự công bố.",
-      "title_en": "Has open-source AI from China caught up with the US?",
-      "title_vi": "AI mở Trung Quốc đã đuổi kịp Mỹ chưa?"
-    },
-    {
-      "title": "Cách dùng AI tìm bằng chứng khoa học trước khi viết khóa luận",
-      "link": "https://tuoitre.vn/cach-dung-ai-tim-bang-chung-khoa-hoc-truoc-khi-viet-khoa-luan-100261107145906296.htm",
-      "source": "Tuổi Trẻ",
-      "lang": "vi",
-      "pub_date": "2026-11-07 16:06",
-      "summary": "Câu 'nhiều nghiên cứu đã chứng minh' xuất hiện rất thường xuyên trong khóa luận, luận văn, thậm chí trong bài báo đại chúng. Không ít trường hợp người viết chưa từng thấy các nghiên cứu ấy.",
-      "title_en": "How to use AI to find scientific evidence before writing your thesis",
-      "title_vi": "Cách dùng AI tìm bằng chứng khoa học trước khi viết khóa luận"
-    },
-    {
-      "title": "Tìm lại tác phẩm nghệ thuật thất lạc nhờ AI",
-      "link": "https://genk.vn/tim-lai-tac-pham-nghe-thuat-that-lac-nho-ai-165261107135109927.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-07 13:51",
-      "summary": "TP - Cảnh sát đang chuyển sang sử dụng phần mềm trí tuệ nhân tạo (AI) để tìm ra những món đồ được giấu kỹ nhất.",
-      "title_en": "Rediscovering lost artworks thanks to AI",
-      "title_vi": "Tìm lại tác phẩm nghệ thuật thất lạc nhờ AI"
+      "pub_date": "2026-11-08 09:51",
+      "summary": "Trong quý vừa qua, doanh thu từ mảng trung tâm dữ liệu của AMD tăng 97% so với cùng kỳ, trong khi doanh thu từ hoạt động game lại suy giảm 40% so với cùng kỳ năm ngoái.",
+      "title_en": "Once survived thanks to gamers, now AMD prioritizes AI, abandoning gamers",
+      "title_vi": "Từng nhờ game thủ mà sống sót, giờ AMD lại ưu tiên cho AI, bỏ rơi game thủ"
     }
   ]
 }

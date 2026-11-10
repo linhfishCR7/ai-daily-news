@@ -1,182 +1,253 @@
 {
   "headline": [
     {
-      "title": "Dùng ChatGPT viết tiểu thuyết, nhà văn 62 tuổi đạt giải văn học danh giá",
-      "link": "https://genk.vn/dung-chatgpt-viet-tieu-thuyet-nha-van-62-tuoi-dat-giai-van-hoc-danh-gia-165261109080441949.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-09 08:04",
-      "summary": "Chỉ một ngày sau khi đoạt giải Goncourt 2026, nhà văn Philippe Jaenada công khai chuyện đưa một phần câu văn do ChatGPT gợi ý vào tiểu thuyết. Câu chuyện gây chú ý khi ban giám khảo trước đó đã gạch t",
-      "title_en": "Using ChatGPT to write a novel, 62-year-old writer wins prestigious literary award",
-      "title_vi": "Dùng ChatGPT viết tiểu thuyết, nhà văn 62 tuổi đạt giải văn học danh giá"
+      "title": "Did Claude Code’s ‘don’t ask again’ option accidentally expose your enterprise's passwords and keys?",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUpkU0cwTTR0N2hiY1h6QTh4NzBaWWgzb1JyaXRmT2I0clVCMERQS1I3NWhJOVhyd3lUNWVXckJzOVhLcm9CYkVzSTI1dVNBNExfaTRWR3RSNjE4eUpHT1RJNm5nZXViaEZfcFJWQlFhWjQtZDZ1MFdYZFRlOTJPMHRVclNQZE1XdjkxeV9obVZ4Y3F4Wi1iNC1rWUszYXNBYjF3bG9EWDJaVU44Vy1LYXhiQVhBYTAzOXdUbDg2Tmd6QVFZSUE?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-10 10:49",
+      "summary": "Did Claude Code’s ‘don’t ask again’ option accidentally expose your enterprise's passwords and keys? VentureBeat",
+      "title_en": "Did Claude Code’s ‘don’t ask again’ option accidentally expose your enterprise's passwords and keys?",
+      "title_vi": "Tùy chọn 'đừng hỏi lại' của Claude Code có vô tình làm lộ mật khẩu và khóa của doanh nghiệp bạn?"
     },
     {
-      "title": "OpenAI hoàn tất đợt gọi vốn 11 tỷ USD",
-      "link": "https://genk.vn/openai-hoan-tat-dot-goi-von-11-ty-usd-165261108132058075.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-08 13:50",
-      "summary": "VTV.vn - OpenAI đã hoàn tất đợt gọi vốn mới trị giá 11 tỷ USD. Đây là đợt huy động vốn đầu tiên nằm trong vòng gọi vốn định giá công ty ở mức 1.250 tỷ USD.",
-      "title_en": "OpenAI completes $11 billion funding round",
-      "title_vi": "OpenAI hoàn tất đợt gọi vốn 11 tỷ USD"
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-10 08:27",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "title_en": "Anthropic reportedly plans to move forward with IPO plans",
+      "title_vi": "Anthropic được cho là có kế hoạch tiến hành IPO"
     },
     {
-      "title": "Mô hình Anthropic cải tiến nhanh gấp đôi nhờ AI",
-      "link": "https://vnexpress.net/mo-hinh-anthropic-cai-tien-nhanh-gap-doi-nho-ai-5141690.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-08 06:00",
-      "summary": "Nghiên cứu độc lập cho thấy các mô hình Anthropic đang cải tiến nhanh gấp 1,9 lần so với trước nhờ AI tham gia quá trình huấn luyện.",
-      "title_en": "Anthropic model improves twice as fast thanks to AI",
-      "title_vi": "Mô hình Anthropic cải tiến nhanh gấp đôi nhờ AI"
+      "title": "Meta’s proprietary Muse Ember nearly matches Claude Haiku 5.5 at 1/3 the estimated per-task cost",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWjU1RHJ4d2JfWk5VNXNzR2hCYU5WSXBxU0hUV3ducTRTMlMwN0pnQkdJc2V5RHhHWk95YlBDY1hmdVpHNGUzRFNBQVBJNmJmYm9URzNFLTMtcGxZb2xwY3l4M0t1UnRRbndMTEpOM3lmMjRhdDZaTlpGa0dKSDYwRVB3VDdOX3R0UjRLSUlkMF9WaU54dDVfZFNJN3I0bHNHVW1CSHFTSzIwRVNMRjVPb0tYaWpkVU44Q2hPR1NvY0lMMTAzQVJmZWp3?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-10 07:13",
+      "summary": "Meta’s proprietary Muse Ember nearly matches Claude Haiku 5.5 at 1/3 the estimated per-task cost VentureBeat",
+      "title_en": "Meta’s proprietary Muse Ember nearly matches Claude Haiku 5.5 at 1/3 the estimated per-task cost",
+      "title_vi": "Muse Ember độc quyền của Meta gần đạt Claude Haiku 5.5 với chi phí mỗi tác vụ ước tính chỉ bằng 1/3"
     }
   ],
-  "product": [],
+  "product": [
+    {
+      "title": "Meituan releases the open weights of its LongCat-2.5 LLM with vision under a permissive MIT License",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORVVfbE1oRVBXUE9UbEVsLUlYUVJHdEFTV0xXX0pzUjM3OEI5RlVmZW5DOHYxY0xxTUlLbnhySXBsVDcxMmVzeE84UjhaaUVfOVEwbnFGdHRxcHFlVFhON0xualpxWFhOdVhQQVlXSTgxYVRkbmZNUkhHb0k4MHJXYjlZMHpyR1RjLWxSMDYyclZtWkNnVzVzSFJZMWYzWlBVejVCMWFReUY5a21NbEFOUVQ4NjNDZGp2WGJtZUFZNXYyY0pBUm13NWJCYmpiYUU?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-10 06:04",
+      "summary": "Meituan releases the open weights of its LongCat-2.5 LLM with vision under a permissive MIT License VentureBeat",
+      "title_en": "Meituan releases the open weights of its LongCat-2.5 LLM with vision under a permissive MIT License",
+      "title_vi": "Meituan phát hành trọng số mở của LLM LongCat-2.5 có thị giác theo giấy phép MIT cho phép"
+    },
+    {
+      "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, pairing new, record-high benchmarks with 20% API cost reduction",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN0VKa1ZLaWtOam8yMHotUVNoUE84dmVtYmJ4dW1XbFZZY1MxcmRhNU5jUHV5dkVINE5ERVdNdzE0TmlDdEJhcjhxZEw2TmtpUWRuVU1yb0M0cjhTQjBQaGRQUHplUjZyZDBrSUtQOWhWc1B4aTBqUlVUNUhsaUpfaXg1M1ptc1d6aTJxcEVPaFlMaDZBWnBLZzFCc1JNX2NlU2J2TWFiNXZ5M3lzSmVLRDJuXy0zUzAwLU1scGdjUFpjd3RqLTZPS3I1UmxpOWhmRURuYUhKN2tIR2czVWY2Zg?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-10 02:55",
+      "summary": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, pairing new, record-high benchmarks with 20% API cost reduction VentureBeat",
+      "title_en": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, pairing new, record-high benchmarks with 20% API cost reduction",
+      "title_vi": "Anthropic phát hành Claude Fable 5.2 và Mythos 5.2, kết hợp các điểm chuẩn cao kỷ lục mới với việc giảm 20% chi phí API"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-10 02:24",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "title_en": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "title_vi": "Anthropic phát hành các mô hình Mythos và Fable mới giữa lo ngại về RSI"
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-10 02:00",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show impr",
+      "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "title_vi": "Anthropic ra mắt các mô hình Claude Fable và Mythos 5.2 mới"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-10 01:00",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "title_en": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "title_vi": "Meta phát hành Muse Ember, một mô hình nhẹ mới cho việc thực thi tác tử"
+    }
+  ],
   "funding": [],
   "research": [
     {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face",
       "lang": "en",
-      "pub_date": "2026-11-07 19:30",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slo",
-      "title_en": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "title_vi": "Vì sao báo cáo mới về Anthropic tự động hóa phát triển AI khiến các nhà nghiên cứu lo ngại"
+      "pub_date": "2026-11-09 22:05",
+      "summary": "",
+      "title_en": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "title_vi": "Nemotron-Personas-Finance-Japan: Bộ dữ liệu tổng hợp nắm bắt bối cảnh nhân khẩu học và tài chính của Nhật Bản"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-09 20:00",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "title_vi": "Control Room: Hệ thống trung tâm để theo dõi và dừng khối lượng công việc mô hình trên toàn bộ hạ tầng nghiên cứu của chúng tôi"
+    },
+    {
+      "title": "Nhiều đơn vị Việt Nam và Nhật Bản hợp tác nghiên cứu bán dẫn, AI",
+      "link": "https://vnexpress.net/nhieu-don-vi-viet-nam-va-nhat-ban-hop-tac-nghien-cuu-ban-dan-ai-5142475.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-09 15:18",
+      "summary": "Việt Nam và Nhật Bản thúc đẩy 11 dự án nghiên cứu chung về bán dẫn, đồng thời mở rộng hợp tác sang chế tạo thử chip, AI và công nghệ mạng thế hệ mới.",
+      "title_en": "Many Vietnamese and Japanese units cooperate on semiconductor and AI research",
+      "title_vi": "Nhiều đơn vị Việt Nam và Nhật Bản hợp tác nghiên cứu bán dẫn, AI"
     }
   ],
   "industry": [
     {
-      "title": "Ngân hàng Trung ương Anh dội \"gáo nước lạnh\" vào cơn sốt AI: 3 năm năng suất chỉ nhích thêm 0,1–0,2 điểm %/năm, hơn 80% doanh nghiệp chưa thấy hiệu quả",
-      "link": "https://genk.vn/ngan-hang-trung-uong-anh-doi-gao-nuoc-lanh-vao-con-sot-ai-3-nam-nang-suat-chi-nhich-them-0102-diem--nam-hon-80-doanh-nghiep-chua-thay-hieu-qua-165261109080806772.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-09 08:40",
-      "summary": "Sau 3 năm bùng nổ đầu tư, AI được ước tính chỉ đóng góp thêm 0,1–0,2 điểm phần trăm vào tăng trưởng năng suất lao động hằng năm tại Anh. Trong khi đó, khảo sát gần 6.000 lãnh đạo doanh nghiệp tại 4 qu",
-      "title_en": "Bank of England pours cold water on AI hype: productivity to rise only 0.1–0.2 percentage points per year over 3 years, over 80% of firms see no effect",
-      "title_vi": "Ngân hàng Trung ương Anh dội \"gáo nước lạnh\" vào cơn sốt AI: 3 năm năng suất chỉ nhích thêm 0,1–0,2 điểm %/năm, hơn 80% doanh nghiệp chưa thấy hiệu quả"
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-09 05:54",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Di",
-      "title_en": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "title_vi": "Toàn văn bản ghi nhớ của Jensen Huang gửi Nvidia"
+      "pub_date": "2026-11-10 06:47",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this ",
+      "title_en": "Here’s what Trump said he knew about Jensen Huang",
+      "title_vi": "Đây là những gì Trump nói ông biết về Jensen Huang"
     },
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-09 04:00",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "title_en": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "title_vi": "Nvidia sẽ điều tra mối quan hệ của CEO Jensen Huang với nghi phạm gián điệp Trung Quốc"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-09 03:22",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Secu",
-      "title_en": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "title_vi": "Nvidia đang điều tra mối quan hệ của Jensen Huang với một gián điệp Trung Quốc"
+      "pub_date": "2026-11-10 06:07",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporti",
+      "title_en": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "title_vi": "Mọi điều chúng ta biết đến nay về bê bối gián điệp Nvidia nhắm vào CEO Jensen Huang"
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-08 04:17",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "title_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "title_vi": "Giám đốc điều hành Megaspeed bị tuyển mộ để do thám CEO Nvidia, theo bản ghi nhớ tình báo Mỹ"
+      "pub_date": "2026-11-10 05:46",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "title_en": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "title_vi": "Một nhà bán khống đã cảnh báo về mối quan hệ của CEO Nvidia với một gián điệp Trung Quốc bị tình nghi sáu tháng trước bê bối"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-10 05:23",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insiste",
+      "title_en": "The race is on to sue Nvidia",
+      "title_vi": "Cuộc đua kiện Nvidia đang nóng lên"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-10 03:09",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "title_en": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "title_vi": "Jensen Huang rút khỏi Hội nghị thượng đỉnh ElevenLabs giữa tranh cãi về Nvidia"
     }
   ],
   "other": [
     {
-      "title": "AI trong y sinh: ranh giới giữa phép màu và thảm họa",
-      "link": "https://vnexpress.net/ai-trong-y-sinh-ranh-gioi-giua-phep-mau-va-tham-hoa-5141687.html",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-10 10:20",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 38 # Comments: 4",
+      "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "title_vi": "Lợi suất trái phiếu CoreWeave vượt 16% khi căng thẳng tín dụng AI gia tăng"
+    },
+    {
+      "title": "AI giúp 'giải đáp câu hỏi lớn của điện toán lượng tử'",
+      "link": "https://vnexpress.net/ai-giup-giai-dap-cau-hoi-lon-cua-dien-toan-luong-tu-5142424.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-09 05:10",
-      "summary": "Tại một phòng thí nghiệm ở phía nam San Francisco, nhóm nhà khoa học đang cố gắng đào tạo thế hệ kế nhiệm, nhưng không phải con người mà là robot.",
-      "title_en": "AI in biomedicine: the line between miracle and disaster",
-      "title_vi": "AI trong y sinh: ranh giới giữa phép màu và thảm họa"
+      "pub_date": "2026-11-10 09:00",
+      "summary": "Một mô hình chưa công bố của Anthropic giúp giới khoa học chứng minh giả thuyết Aaronson-Ambainis, vấn đề đã tồn tại lâu năm trong điện toán lượng tử.",
+      "title_en": "AI helps 'answer the big questions of quantum computing'",
+      "title_vi": "AI giúp 'giải đáp câu hỏi lớn của điện toán lượng tử'"
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-09 02:37",
-      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 153 # Comments: 130",
-      "title_en": "How I Fight AI Brain Fry",
-      "title_vi": "Cách tôi chống lại tình trạng não bị chiên do AI"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-09 02:18",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. Wh",
-      "title_en": "Apple is racing to make Siri more agentic",
-      "title_vi": "Apple đang chạy đua để khiến Siri có khả năng tác nhân hơn"
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-09 01:43",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 89 # C",
-      "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "title_vi": "Thung lũng Silicon hứa hẹn AI sẽ chữa khỏi bệnh. CEO các hãng dược không tin"
-    },
-    {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-09 00:23",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illega",
-      "title_en": "Elvis and Eminem rights holders are suing Suno",
-      "title_vi": "Chủ sở hữu bản quyền của Elvis và Eminem đang kiện Suno"
-    },
-    {
-      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-08 22:19",
-      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up Comments URL: https://news.ycombinator.com/item?id=504140",
-      "title_en": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "title_vi": "CEO Apple thúc giục giám đốc phần mềm theo đuổi chiến lược AI tham vọng hơn"
-    },
-    {
-      "title": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á",
-      "link": "https://genk.vn/ai-hack-mien-phi-dang-nham-vao-cac-ngan-hang-o-dong-nam-a-165261108155642289.chn",
+      "title": "FPT mang bài toán “AI chủ quyền” tới Tokyo, muốn Việt Nam và Nhật Bản cùng xây hạ tầng nhưng mỗi bên giữ dữ liệu của mình",
+      "link": "https://genk.vn/fpt-mang-bai-toan-ai-chu-quyen-toi-tokyo-muon-viet-nam-va-nhat-ban-cung-xay-ha-tang-nhung-moi-ben-giu-du-lieu-cua-minh-165261110085001988.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-08 15:56",
-      "summary": "Microsoft cho biết một nhóm hack đặt tại Campuchia từ tháng 10 dùng ARTEX, công cụ AI mã nguồn mở tự động hóa tấn công, để nhắm vào các tổ chức tài chính chủ yếu ở Đông Nam Á.",
-      "title_en": "Free AI hacks are targeting banks in Southeast Asia",
-      "title_vi": "AI hack miễn phí đang nhắm vào các ngân hàng ở Đông Nam Á"
+      "pub_date": "2026-11-10 08:49",
+      "summary": "Ông Trương Gia Bình đặt nguyên tắc làm chủ hạ tầng và dữ liệu làm nền cho năm trụ cột hợp tác, từ AI Factory, nhân lực đến quỹ đồng sáng tạo.",
+      "title_en": "FPT brings the 'sovereign AI' problem to Tokyo, wants Vietnam and Japan to build infrastructure together but each side keeps its own data",
+      "title_vi": "FPT mang bài toán “AI chủ quyền” tới Tokyo, muốn Việt Nam và Nhật Bản cùng xây hạ tầng nhưng mỗi bên giữ dữ liệu của mình"
     },
     {
-      "title": "Từng nhờ game thủ mà sống sót, giờ AMD lại ưu tiên cho AI, bỏ rơi game thủ",
-      "link": "https://genk.vn/tung-nho-game-thu-ma-song-sot-gio-amd-lai-uu-tien-cho-ai-bo-roi-game-thu-165261108095147235.chn",
-      "source": "GenK",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-10 07:28",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company",
+      "title_en": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "title_vi": "David Ellison nói AI có thể là 'bước mở khóa sáng tạo lớn nhất trong lịch sử hiện đại'"
+    },
+    {
+      "title": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-10 06:51",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced",
+      "title_en": "What could China get from Jensen Huang?",
+      "title_vi": "Trung Quốc có thể nhận được gì từ Jensen Huang?"
+    },
+    {
+      "title": "Phim AI trên nền tảng quốc tế được sản xuất tại Việt Nam ra sao?",
+      "link": "https://dantri.com.vn/cong-nghe/phim-ai-tren-nen-tang-quoc-te-duoc-san-xuat-tai-viet-nam-ra-sao-20261104212245091.htm",
+      "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-11-08 09:51",
-      "summary": "Trong quý vừa qua, doanh thu từ mảng trung tâm dữ liệu của AMD tăng 97% so với cùng kỳ, trong khi doanh thu từ hoạt động game lại suy giảm 40% so với cùng kỳ năm ngoái.",
-      "title_en": "Once survived thanks to gamers, now AMD prioritizes AI, abandoning gamers",
-      "title_vi": "Từng nhờ game thủ mà sống sót, giờ AMD lại ưu tiên cho AI, bỏ rơi game thủ"
+      "pub_date": "2026-11-10 06:30",
+      "summary": "(Dân trí) - Từ một yêu cầu của đối tác nước ngoài, ê-kíp tại Việt Nam có thể phát triển kịch bản, xây dựng nhân vật, sản xuất hàng chục tập phim AI rồi bàn giao để phát hành trên các nền tảng quốc tế.",
+      "title_en": "How are AI films on international platforms produced in Vietnam?",
+      "title_vi": "Phim AI trên nền tảng quốc tế được sản xuất tại Việt Nam ra sao?"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-10 06:28",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "title_en": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "title_vi": "Jensen Huang được cho là đã thuê một công ty PR có tiền sử xử lý các bê bối tình dục nổi tiếng một năm trước"
+    },
+    {
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-10 05:19",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 116 # Comments: 143",
+      "title_en": "A year after the 100% AI mandate nobody understands our code",
+      "title_vi": "Một năm sau chỉ thị 100% AI, không ai hiểu mã của chúng tôi"
     }
   ]
 }

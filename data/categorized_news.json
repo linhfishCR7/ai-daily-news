@@ -1,14 +1,160 @@
 {
   "headline": [
     {
-      "title": "“Đây là phần RAM tôi chưa dùng”: Công cụ tự động gửi báo cáo hằng ngày cho Sam Altman để cà khịa cơn khát RAM của OpenAI",
-      "link": "https://genk.vn/day-la-phan-ram-toi-chua-dung-cong-cu-tu-dong-gui-bao-cao-hang-ngay-cho-sam-altman-de-ca-khia-con-khat-ram-cua-openai-165261112083412447.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-12 08:47",
-      "summary": "Sau phát biểu gây tranh cãi của CEO Open AI Sam Altman về việc sở hữu RAM trên máy tính cá nhân là \"lãng phí\", cộng đồng công nghệ đã lập tức có những màn \"cà khịa\" đỉnh cao. Tiêu biểu nhất là Ram-Alt",
-      "title_en": "\"This is the RAM I haven't used\": A tool that automatically sends daily reports to Sam Altman to tease OpenAI's RAM hunger",
-      "title_vi": "“Đây là phần RAM tôi chưa dùng”: Công cụ tự động gửi báo cáo hằng ngày cho Sam Altman để cà khịa cơn khát RAM của OpenAI"
+      "title": "Anthropic brings Claude into Google Meet to draft documents and whiteboards during your meetings",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXp3SjV0UkNiXzEtc2xCQ29HekVLeFp2MjBhYUg5aUJYamJuaXJFR3gzd3NYMzVLa2VBckJZWDczQ3djbXBPTTVzbkQ0QWtCbF9Ha21Dc0xEMUhPaUxUTVF6S1BXQUstRGZVNTdIWEpsTFlMVFU1Z2VYTjZPNXlJLVE2clg0QWFiZWJOeE9PLV9wcGk0NHM1R09XOUJkeVFXdXpEMDNwVndYZVRjdDBtZGhUeVhtUjBaSkttc05UNXpwNWp0T0RvQlc0bw?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-13 05:53",
+      "summary": "Anthropic brings Claude into Google Meet to draft documents and whiteboards during your meetings VentureBeat",
+      "title_en": "Anthropic brings Claude into Google Meet to draft documents and whiteboards during your meetings",
+      "title_vi": "Anthropic đưa Claude vào Google Meet để soạn thảo tài liệu và bảng trắng trong các cuộc họp của bạn"
+    },
+    {
+      "title": "Google launches Gemini 4 Hydrogen — a faster, smarter, pricier Flash successor",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXRuQUZkeks1RVIwa2htVHJkZUlGby1iLTE5Wnh0UzZDSy1neDZyRU1WRkJRR1VnMzNLb0o3QzdmZkhmcTN0SnlGN09wU3BQVkJ1bk1oMFQwYk03eEsyQVhybEY5eE5RWllKTlhsblRTNms5MXFNSWF2UFFhSS05OWxuaTByM2dqSXY1LS1ncGlGTnFFQ2V0WnRRU3ZsWVVuSkJrZkVWWFprZW96TUE?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-13 05:30",
+      "summary": "Google launches Gemini 4 Hydrogen — a faster, smarter, pricier Flash successor VentureBeat",
+      "title_en": "Google launches Gemini 4 Hydrogen — a faster, smarter, pricier Flash successor",
+      "title_vi": "Google ra mắt Gemini 4 Hydrogen — phiên bản kế nhiệm Flash nhanh hơn, thông minh hơn và đắt hơn"
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-13 04:55",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
+      "title_en": "Google’s new Gemini model is better at understanding complicated questions",
+      "title_vi": "Mô hình Gemini mới của Google hiểu các câu hỏi phức tạp tốt hơn"
+    }
+  ],
+  "product": [
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-13 05:42",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "title_vi": "Đảng Dân chủ mở cuộc điều tra Nvidia, viết thư gay gắt về 'âm mưu' của Huang với Trump"
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-13 04:09",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 113 # Com",
+      "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "title_vi": "AI đang biến quy trình xét duyệt ứng dụng của Apple thành cơn ác mộng cho các nhà phát triển synth"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-13 02:23",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "title_en": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "title_vi": "Google triển khai Gemini 4 Hydrogen, cuối cùng thay thế Flash 3.8"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-13 02:11",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "title_en": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "title_vi": "Nectar ra mắt tác nhân AI tự động hóa việc tìm kiếm và tiếp cận người sáng tạo cho các thương hiệu"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "pub_date": "2026-11-13 01:00",
+      "summary": "",
+      "title_en": "Introducing Gemini 4 Hydrogen",
+      "title_vi": "Giới thiệu Gemini 4 Hydrogen"
+    }
+  ],
+  "funding": [
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-13 04:27",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "title_en": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "title_vi": "Nebius thử nghiệm lối chơi neocloud với kế hoạch chi tiêu 40 tỷ đô la"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-13 00:00",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "title_en": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "title_vi": "Khoản lỗ hàng tỷ đô la của SoftBank có thể đã đặt giới hạn cho tham vọng khí đốt tự nhiên của AI"
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-12 01:16",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "title_en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "title_vi": "Gã khổng lồ sản xuất chip Đài Loan TSMC sẽ đầu tư 1 tỷ đô la vào Anthropic, OpenAI"
+    },
+    {
+      "title": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcnczUjdBVTdUNkZSNWhIeE5pY1dLbFZWMzNtb3VKeWNOVzJLXzFUTGdqaEc5bGZzUnJZb2Q5NUxzZGtsdUhCTlhtTy1NNS1MNnUtNERNR3lmRDFsSkNFbS1Ia1Q2UTlrOUtkT1FTX3VhZGtYcmhFdnZtbW5xUnZmbEtyZFlxcklpTUkyVEhVN0t1enpYSnVTQ1VNN2N6RmNzTFl6WHpQNWx3VU9MZDRqZUd0OFNQVnBzbVNzWHd3ZXZpOGN3cENfNlEyaFNjR2s?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-11 17:00",
+      "summary": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers VentureBeat",
+      "title_en": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+      "title_vi": "XpertDox huy động được 20 triệu đô la Series A do Savant Growth dẫn đầu để mở rộng mã hóa y tế AI cho các nhà cung cấp dịch vụ chăm sóc sức khỏe"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "lang": "en",
+      "pub_date": "2026-11-11 12:01",
+      "summary": "",
+      "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "title_vi": "BotPsy: Trợ lý cá nhân trên thiết bị với mô hình ngôn ngữ tác tử dưới một tỷ tham số"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-13 00:00",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi ",
+      "title_en": "AI chatbots are recommending fake retail websites, study finds",
+      "title_vi": "Chatbot AI đang đề xuất các trang web bán lẻ giả mạo, nghiên cứu phát hiện"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-12 07:00",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "title_en": "Supporting research on AI and children’s safety",
+      "title_vi": "Hỗ trợ nghiên cứu về AI và an toàn của trẻ em"
     },
     {
       "title": "Google’s Gemini Decision 1 model scores up to 1,000 questions in one API call",
@@ -21,18 +167,6 @@
       "title_vi": "Mô hình Gemini Decision 1 của Google chấm điểm tới 1.000 câu hỏi trong một lần gọi API"
     },
     {
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-12 01:16",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "title_en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "title_vi": "Gã khổng lồ sản xuất chip Đài Loan TSMC đầu tư 1 tỷ USD vào Anthropic và OpenAI"
-    }
-  ],
-  "product": [
-    {
       "title": "TrustedRouter launches three new encrypted 'fusion' models that combine multiple LLMs, including one exclusively with U.S. model providers",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZkRCTXBMT1huYU40WUZma3NwSmJ3M1I4V3dEbDIwZFh3dExzdk91RmtyTEFIclhwUXJrcUoxNExqdmotcWMzNkI2dE1uV0puV3NmR1NfS0UzNFc2NDM5cUJJa0dRTTc1Tm45bUFRcjFucjVHUVBZOW5KakUwdkdxWHI4M3drZ0FtOTFDT3czbmR0akdoZ3AyUnM5ZjJUSXh2ZW10d1Q0NlZXVWNvaG5ENXUxYVM0WnFYYjlTUTMzOF9hTUpvdmRQUmRaNTlqLU9PR3FtN1R0OFNaY2RjczM2UC1CcTYwLTFOaFk1d2oxM2U0MVo3b3ZVci0xOUI1QQ?oc=5",
       "source": "VentureBeat",
@@ -40,255 +174,141 @@
       "pub_date": "2026-11-11 21:39",
       "summary": "TrustedRouter launches three new encrypted 'fusion' models that combine multiple LLMs, including one exclusively with U.S. model providers VentureBeat",
       "title_en": "TrustedRouter launches three new encrypted 'fusion' models that combine multiple LLMs, including one exclusively with U.S. model providers",
-      "title_vi": "TrustedRouter ra mắt ba mô hình \"hợp nhất\" mã hóa mới kết hợp nhiều LLM, trong đó có một mô hình độc quyền với các nhà cung cấp mô hình Hoa Kỳ"
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-11 05:35",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "title_en": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "title_vi": "Camera Ring trở nên di động khi Amazon ra mắt drone an ninh và robot hỗ trợ AI"
-    },
-    {
-      "title": "Anthropic has its own AI-powered office suite now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-11 00:30",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to co",
-      "title_en": "Anthropic has its own AI-powered office suite now",
-      "title_vi": "Anthropic hiện có bộ ứng dụng văn phòng hỗ trợ AI của riêng mình"
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI Blog",
-      "lang": "en",
-      "pub_date": "2026-11-10 20:00",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "title_en": "Google Cloud launches Gemini for healthcare.",
-      "title_vi": "Google Cloud ra mắt Gemini cho lĩnh vực chăm sóc sức khỏe."
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "pub_date": "2026-11-10 19:02",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "title_vi": "Giới thiệu AlphaProof Code: bước đột phá trong việc xác minh phần mềm phức tạp ở mức độ sâu"
-    }
-  ],
-  "funding": [
-    {
-      "title": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcnczUjdBVTdUNkZSNWhIeE5pY1dLbFZWMzNtb3VKeWNOVzJLXzFUTGdqaEc5bGZzUnJZb2Q5NUxzZGtsdUhCTlhtTy1NNS1MNnUtNERNR3lmRDFsSkNFbS1Ia1Q2UTlrOUtkT1FTX3VhZGtYcmhFdnZtbW5xUnZmbEtyZFlxcklpTUkyVEhVN0t1enpYSnVTQ1VNN2N6RmNzTFl6WHpQNWx3VU9MZDRqZUd0OFNQVnBzbVNzWHd3ZXZpOGN3cENfNlEyaFNjR2s?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-11 17:00",
-      "summary": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers VentureBeat",
-      "title_en": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
-      "title_vi": "XpertDox huy động 20 triệu USD vòng Series A do Savant Growth dẫn đầu để mở rộng mã hóa y tế bằng AI cho các nhà cung cấp dịch vụ chăm sóc sức khỏe"
-    },
-    {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "link": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-11-11 12:01",
-      "summary": "",
-      "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "title_vi": "BotPsy: Trợ lý cá nhân trên thiết bị với mô hình ngôn ngữ tác tử dưới một tỷ tham số"
-    },
-    {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-11 04:08",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "title_en": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "title_vi": "OpenAI mua lại Odessia, startup du lịch do nhà sáng lập Sonder tạo ra"
-    },
-    {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-11 02:57",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the",
-      "title_en": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "title_vi": "Cả 7 nhà sáng lập Anthropic sẽ mỗi người thu về khoảng 250 triệu USD trong đợt IPO"
-    },
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-11 02:23",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "title_en": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "title_vi": "Oura mua lại startup chăm sóc sức khỏe ban đầu dựa trên AI Counsel Health với giá 625 triệu USD"
-    }
-  ],
-  "research": [
-    {
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-10 22:00",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "title_en": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "title_vi": "DeepMind tiết lộ Gemini Robotics 2.5 và tiêu chuẩn an toàn mở \"ASIMOV-jailbreak\""
-    },
-    {
-      "title": "'Mẹ đẻ' giọng đọc AI review phim chia sẻ cách đưa nghiên cứu khoa học ra thị trường",
-      "link": "https://tuoitre.vn/me-de-giong-doc-ai-review-phim-chia-se-cach-dua-nghien-cuu-khoa-hoc-ra-thi-truong-100261110193415365.htm",
-      "source": "Tuổi Trẻ",
-      "lang": "vi",
-      "pub_date": "2026-11-10 20:16",
-      "summary": "Tiến sĩ Nguyễn Thị Thu Trang, giảng viên Đại học Bách khoa Hà Nội, người phát triển giọng đọc AI 'quốc dân' review phim, chia sẻ với sinh viên cách đưa nghiên cứu khoa học ra thị trường.",
-      "title_en": "'Mother' of AI voice reviewing movies shares how to bring scientific research to market",
-      "title_vi": "'Mẹ đẻ' giọng đọc AI review phim chia sẻ cách đưa nghiên cứu khoa học ra thị trường"
+      "title_vi": "TrustedRouter ra mắt ba mô hình 'hợp nhất' được mã hóa mới kết hợp nhiều LLM, trong đó có một mô hình độc quyền với các nhà cung cấp mô hình Hoa Kỳ"
     }
   ],
   "industry": [
     {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "pub_date": "2026-11-12 07:00",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-      "title_vi": "Gilbert + Tobin tái định hình ngành luật bằng AI"
+      "pub_date": "2026-11-13 03:16",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT",
+      "title_en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "title_vi": "Nvidia xác nhận riêng rằng họ có thể theo dõi chip để chống buôn lậu, ngay cả khi ngành công nghiệp công khai nghi ngờ tính khả thi"
     },
     {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-12 06:28",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "title_en": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "title_vi": "Cổ phiếu Nvidia giảm khi hội đồng quản trị được cho là đang chuẩn bị sa thải CEO Jensen Huang"
+      "pub_date": "2026-11-13 01:39",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n",
+      "title_en": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "title_vi": "Sự ra đi của Jensen Huang đặt dấu hỏi về sự hỗ trợ của Nvidia đối với mã nguồn mở"
     },
     {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-12 06:17",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "title_en": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "title_vi": "Jensen Huang bị cáo buộc có thêm một mối quan hệ ngoài luồng — với một giám đốc điều hành Nvidia"
+      "pub_date": "2026-11-12 23:32",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "title_en": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "title_vi": "Năm cách việc Jensen Huang bị lật đổ khỏi Nvidia có thể gây tổn hại cho ngành công nghiệp AI"
     },
     {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-12 23:12",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "title_en": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "title_vi": "Trump gợi ý Chủ tịch Apple Tim Cook làm người kế nhiệm Jensen Huang"
+    },
+    {
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-12 05:44",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w",
-      "title_en": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "title_vi": "Nvidia được cho là đang chuẩn bị sa thải Jensen Huang"
-    },
-    {
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-11 14:30",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "title_en": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "title_vi": "Khủng hoảng của Nvidia khiến các chuyên gia quản trị doanh nghiệp phải trầm trồ"
+      "pub_date": "2026-11-12 22:48",
+      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang ",
+      "title_en": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "title_vi": "Đọc các email nội bộ của Nvidia về 'giai đoạn cực kỳ khó khăn' giữa lúc thay đổi CEO"
     }
   ],
   "other": [
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-12 10:13",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "title_en": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "title_vi": "Ai có thể thay thế Jensen Huang? Danh sách những ứng viên kế nhiệm tiềm năng không hề khoa học"
-    },
-    {
-      "title": "Người dùng Việt biến PS5 \"Lock Nhật\" giá rẻ thành trạm tính toán AI cục bộ \"siêu ngon\"",
-      "link": "https://genk.vn/nguoi-dung-viet-bien-ps5-lock-nhat-gia-re-thanh-tram-tinh-toan-ai-cuc-bo-sieu-ngon-165261112100316805.chn",
+      "title": "CEO Google cảnh báo AI sẽ làm xáo trộn gần như mọi ngành nghề, lao động tri thức khó đứng ngoài cuộc",
+      "link": "https://genk.vn/ceo-google-canh-bao-ai-se-lam-xao-tron-gan-nhu-moi-nganh-nghe-lao-dong-tri-thuc-kho-dung-ngoai-cuoc-165261113072159515.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-12 10:03",
-      "summary": "Trong khi dân tình còn đang than trời vì giá GPU AI chát chúa, Sam Altman thì phàn nàn chuyện \"lãng phí RAM\", các dân chơi công nghệ Việt Nam lại vừa nghĩ ra một bài toán đến mức Sony cũng phải câm ní",
-      "title_en": "Vietnamese users turn cheap \"Japanese-locked\" PS5 into 'superb' local AI computing station",
-      "title_vi": "Người dùng Việt biến PS5 \"Lock Nhật\" giá rẻ thành trạm tính toán AI cục bộ \"siêu ngon\""
+      "pub_date": "2026-11-13 08:21",
+      "summary": "Một lời cảnh báo lạnh gáy vừa được phát ra từ thượng tầng Google. CEO Sundar Pichai thẳng thừng tuyên bố một sự thật phũ phàng: Không một ngành nghề tri thức nào có thể đứng ngoài vùng phủ sóng của cu",
+      "title_en": "Google CEO warns AI will disrupt nearly every industry, knowledge workers hard to stay out",
+      "title_vi": "CEO Google cảnh báo AI sẽ làm xáo trộn gần như mọi ngành nghề, lao động tri thức khó đứng ngoài cuộc"
     },
     {
-      "title": "CEO Google tuyên bố công nghệ AI hiện tại sẽ lạc hậu như \"điện thoại cục gạch\" chỉ sau 3 năm nữa",
-      "link": "https://genk.vn/ceo-google-tuyen-bo-cong-nghe-ai-hien-tai-se-lac-hau-nhu-dien-thoai-cuc-gach-chi-sau-3-nam-nua-165261112094427525.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-12 09:44",
-      "summary": "CEO Google Sundar Pichai vừa đưa ra một dự báo khiến cả Thung lũng Silicon phải bàng hoàng. Tốc độ tiến hóa của AI đang vọt lên theo một đường cong dốc đứng đến mức tàn nhẫn, biến mọi thành tựu hiện t",
-      "title_en": "Google CEO declares current AI technology will be as obsolete as \"brick phones\" in just three years",
-      "title_vi": "CEO Google tuyên bố công nghệ AI hiện tại sẽ lạc hậu như \"điện thoại cục gạch\" chỉ sau 3 năm nữa"
-    },
-    {
-      "title": "Fireworks AI breach hit storage holding Notion AI chats",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVhoSGprdFREcFhZWWRLR2t4RW9nbS1LVlYydlRpbVpjSk5jUlYtZi1qRDNwTmdSX0lEQ1N0cS1IWjZPM0JKVUw2SGhYMW5TREQzbF9XdFV1U3VmbllIYlJXckE4WGNBU3VRaUd2VEQ0TUpGYUpzeEF1SDlKSDhvSW9KaU4wXzZQS3JCSEtzTm5FeDhRSXRqZGZhRVpXTFBrdzRQY2lkYnhxNFdISVl3T25uaEtjNHlzaW5QN2N5Y1dreXlPR1llbVhn?oc=5",
-      "source": "VentureBeat",
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-12 09:13",
-      "summary": "Fireworks AI breach hit storage holding Notion AI chats VentureBeat",
-      "title_en": "Fireworks AI breach hit storage holding Notion AI chats",
-      "title_vi": "Vụ tấn công Fireworks AI ảnh hưởng đến kho lưu trữ chứa các cuộc trò chuyện Notion AI"
+      "pub_date": "2026-11-13 07:38",
+      "summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 57 # Comments: 19",
+      "title_en": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "title_vi": "Chicago schools nói với Google – chúng tôi thà mất Search còn hơn bị ép chấp nhận AI"
     },
     {
-      "title": "Cú sốc hạ tầng AI: Gần một nửa dự án trung tâm dữ liệu ở Mỹ hiện đang mắc kẹt hoặc \"chết yểu\" vì vấp phải \"kẻ thù\" không ngờ tới",
-      "link": "https://genk.vn/cu-soc-ha-tang-ai-gan-mot-nua-du-an-trung-tam-du-lieu-o-my-hien-dang-mac-ket-hoac-chet-yeu-vi-vap-phai-ke-thu-khong-ngo-toi-16526111208322869.chn",
-      "source": "GenK",
+      "title": "Lối đi cho startup AI giữa cuộc chơi của những ông lớn",
+      "link": "https://vnexpress.net/loi-di-cho-startup-ai-giua-cuoc-choi-cua-nhung-ong-lon-5143965.html",
+      "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-12 08:32",
-      "summary": "Giữa lúc cơn sốt AI đang càn quét toàn cầu, một cuộc khủng hoảng trầm lặng nhưng tàn khốc đang diễn ra ở hậu trường, gần một nửa số dự án trung tâm dữ liệu dự kiến triển khai trong giai đoạn 2025–2026",
-      "title_en": "AI infrastructure shock: Nearly half of US data center projects are now stuck or \"dead on arrival\" due to an unexpected \"enemy\"",
-      "title_vi": "Cú sốc hạ tầng AI: Gần một nửa dự án trung tâm dữ liệu ở Mỹ hiện đang mắc kẹt hoặc \"chết yểu\" vì vấp phải \"kẻ thù\" không ngờ tới"
+      "pub_date": "2026-11-13 07:00",
+      "summary": "Dù OpenAI, Google và Anthropic chiếm ưu thế, các startup AI vẫn hút vốn lớn nhờ nhu cầu ứng dụng, giải pháp chuyên ngành và \"ngách\" thị trường mới.",
+      "title_en": "A path for AI startups amid big players' game",
+      "title_vi": "Lối đi cho startup AI giữa cuộc chơi của những ông lớn"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "Bộ trưởng KHCN cảnh báo các cuộc tấn công ngân hàng sử dụng AI",
+      "link": "https://dantri.com.vn/cong-nghe/bo-truong-khcn-canh-bao-cac-cuoc-tan-cong-ngan-hang-su-dung-ai-20261110113634760.htm",
+      "source": "Dân trí",
+      "lang": "vi",
+      "pub_date": "2026-11-13 06:33",
+      "summary": "(Dân trí) - Trước nguy cơ giả mạo danh tính, đánh cắp dữ liệu và tấn công hệ thống ngân hàng bằng AI, Bộ trưởng Vũ Hải Quân cảnh báo những thách thức lớn trong việc bảo vệ người dân trên môi trường số",
+      "title_en": "Minister of Science and Technology warns of AI-powered bank attacks",
+      "title_vi": "Bộ trưởng KHCN cảnh báo các cuộc tấn công ngân hàng sử dụng AI"
+    },
+    {
+      "title": "Why You Should Expect an AI Crash",
+      "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-13 06:08",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 83 # Comments: 70",
+      "title_en": "Why You Should Expect an AI Crash",
+      "title_vi": "Tại sao bạn nên kỳ vọng một sự sụp đổ AI"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-13 06:06",
+      "summary": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 75 # Comments: 18",
+      "title_en": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "title_vi": "Edge0-145B: Khả năng AI tiên tiến trên máy tính của chính bạn"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-13 05:28",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "title_en": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "title_vi": "FAA mở rộng tư vấn AI để quản lý tắc nghẽn không lưu trên toàn bộ không phận Hoa Kỳ"
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-12 06:50",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "title_en": "The unfolding Jensen Huang scandal: a timeline",
-      "title_vi": "Vụ bê bối Jensen Huang đang diễn ra: dòng thời gian"
-    },
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-12 04:54",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book t",
-      "title_en": "United won’t let your AI agent book your flight",
-      "title_vi": "United không cho phép tác nhân AI của bạn đặt vé máy bay"
-    },
-    {
-      "title": "Why the data center you dread might never even be built",
-      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-12 03:15",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th",
-      "title_en": "Why the data center you dread might never even be built",
-      "title_vi": "Vì sao trung tâm dữ liệu mà bạn e ngại có thể chẳng bao giờ được xây dựng"
+      "pub_date": "2026-11-13 05:22",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "title_en": "Muse can now place calls to US businesses — if you pay",
+      "title_vi": "Muse giờ có thể gọi điện đến các doanh nghiệp Hoa Kỳ — nếu bạn trả phí"
     }
   ]
 }

@@ -1,80 +1,110 @@
 {
   "headline": [
     {
-      "title": "OpenAI ra mắt ví 'ChatGPT Wallet', cho phép các trợ lý AI thực hiện các giao dịch mua sắm thay cho người dùng",
-      "link": "https://genk.vn/openai-ra-mat-vi-chatgpt-wallet-cho-phep-cac-tro-ly-ai-thuc-hien-cac-giao-dich-mua-sam-thay-cho-nguoi-dung-165261116072931332.chn",
-      "source": "GenK",
+      "title": "CEO OpenAI Sam Altman: “Ngành AI sẽ ổn” sau khi Jensen Huang rời Nvidia",
+      "link": "https://dantri.com.vn/cong-nghe/ceo-openai-sam-altman-nganh-ai-se-on-sau-khi-jensen-huang-roi-nvidia-20261117015704499.htm",
+      "source": "Dân trí",
       "lang": "vi",
-      "pub_date": "2026-11-16 07:59",
-      "summary": "Cuộc cách mạng \"thương mại tự động\" vừa bước sang một chương mới khi OpenAI chính thức giới thiệu ChatGPT Wallet. Tính năng đột phá này cho phép các trợ lý AI thay mặt người dùng thực hiện và hoàn tất",
-      "title_en": "OpenAI launches 'ChatGPT Wallet', allowing AI assistants to make purchases on behalf of users",
-      "title_vi": "OpenAI ra mắt ví 'ChatGPT Wallet', cho phép các trợ lý AI thực hiện các giao dịch mua sắm thay cho người dùng"
+      "pub_date": "2026-11-17 07:18",
+      "summary": "(Dân trí) - Sam Altman cho rằng ngành AI vẫn có thể tiếp tục phát triển dù Nvidia không còn Jensen Huang lãnh đạo. Tuy nhiên, ông thừa nhận rất khó hình dung cuộc cách mạng AI nếu thiếu vai trò của Hu",
+      "title_en": "OpenAI CEO Sam Altman: “The AI industry will be fine” after Jensen Huang leaves Nvidia",
+      "title_vi": "CEO OpenAI Sam Altman: “Ngành AI sẽ ổn” sau khi Jensen Huang rời Nvidia"
     },
     {
-      "title": "Thứ Bảy tuần này là ngày bao nhiêu? Câu trả lời của ChatGPT gây tranh luận",
-      "link": "https://genk.vn/thu-bay-tuan-nay-la-ngay-bao-nhieu-cau-tra-loi-cua-chatgpt-gay-tranh-luan-165261115153319182.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-15 15:33",
-      "summary": "Một câu hỏi tưởng chừng rất đơn giản được đặt ra cho ChatGPT: Nếu hôm nay là Chủ Nhật 15/11/2026 thì thứ Bảy tuần này là ngày bao nhiêu? Câu trả lời của ChatGPT đã khiến nhiều cư dân mạng tranh luận, ",
-      "title_en": "What is the date this Saturday? ChatGPT's answer sparks debate",
-      "title_vi": "Thứ Bảy tuần này là ngày bao nhiêu? Câu trả lời của ChatGPT gây tranh luận"
-    },
-    {
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-14 22:00",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hele",
-      "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "title_vi": "Thành viên hội đồng quản trị OpenAI từng sa thải Sam Altman nói rằng chúng ta vẫn không thể tin tưởng các CEO AI"
+      "pub_date": "2026-11-17 03:46",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses ",
+      "title_en": "California sues OpenAI over rogue AI hacking incidents",
+      "title_vi": "California kiện OpenAI vì các vụ tấn công AI giả mạo"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-17 03:07",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "title_en": "California state AG sues OpenAI over rogue agent incidents",
+      "title_vi": "Tổng chưởng lý bang California kiện OpenAI vì các vụ việc tác nhân giả mạo"
     }
   ],
   "product": [
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-17 00:00",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "title_en": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "title_vi": "OpenAI ra mắt bộ phân loại hình ảnh mới và cảnh báo ChatGPT để chống CSAM"
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
       "source": "TechCrunch",
       "lang": "en",
       "pub_date": "2026-11-16 08:30",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "summary": "Apple's new app for a study will answer everyday medical questions.",
       "title_en": "Apple launches new app to study how people use AI for health",
-      "title_vi": "Apple ra mắt ứng dụng mới để nghiên cứu cách mọi người sử dụng AI cho sức khỏe"
+      "title_vi": "Apple ra mắt ứng dụng mới nghiên cứu cách mọi người dùng AI cho sức khỏe"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-16 07:00",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+      "title_vi": "The King’s Trust và OpenAI khởi động quan hệ đối tác trị giá 1 triệu bảng Anh"
     }
   ],
   "funding": [
     {
-      "title": "Đầu tư lớn cho AI nhưng chưa đổi cách quản trị, doanh nghiệp khó tạo giá trị",
-      "link": "https://thanhnien.vn/dau-tu-lon-cho-ai-nhung-chua-doi-cach-quan-tri-doanh-nghiep-kho-tao-gia-tri-185261114100741008.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-14 15:38",
-      "summary": "Nhiều doanh nghiệp chi mạnh cho hạ tầng công nghệ nhưng hiệu quả vận hành chưa tương xứng do quá trình chuyển đổi số mới dừng ở hình thức, chưa thay đổi phương thức điều hành của người đứng đầu.",
-      "title_en": "Heavy AI investment but unchanged governance makes it hard for businesses to create value",
-      "title_vi": "Đầu tư lớn cho AI nhưng chưa đổi cách quản trị, doanh nghiệp khó tạo giá trị"
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-17 06:32",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "title_en": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "title_vi": "Corma, startup AI an ninh mạng, đạt định giá 1 tỷ USD trong khoảng 3 tháng"
     },
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "Hacker News",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "source": "Ars Technica",
       "lang": "en",
-      "pub_date": "2026-11-14 09:52",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1099 # C",
-      "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "title_vi": "Nvidia bị cáo buộc tạo ra sự khan hiếm bằng cách tài trợ cho các startup AI mua GPU của mình"
+      "pub_date": "2026-11-17 05:58",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "title_en": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "title_vi": "Startup robot chiến binh được Eric Trump hậu thuẫn trễ lương, có thể sụp đổ"
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-16 19:30",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "title_en": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "title_vi": "Cựu nhân viên Freshworks gọi vốn 53 triệu USD để cạnh tranh với Salesforce, HubSpot bằng CRM AI bản địa"
     }
   ],
   "research": [
     {
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "source": "The Verge",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-16 08:26",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting t",
-      "title_en": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "title_vi": "Nghiên cứu mới của Apple nhằm cải thiện hiệu quả của các công cụ AI trong lĩnh vực sức khỏe"
+      "pub_date": "2026-11-17 00:02",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "title_en": "OpenAI will embed safety researchers to investigate AI subversion",
+      "title_vi": "OpenAI sẽ cài các nhà nghiên cứu an toàn để điều tra sự lật đổ AI"
     },
     {
       "title": "A step toward defining the Standard Model on a lattice",
@@ -84,141 +114,141 @@
       "pub_date": "2026-11-16 05:00",
       "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
       "title_en": "A step toward defining the Standard Model on a lattice",
-      "title_vi": "Một bước tiến tới định nghĩa Mô hình Chuẩn trên mạng tinh thể"
+      "title_vi": "Một bước tiến tới định nghĩa Mô hình Chuẩn trên mạng lưới"
     }
   ],
   "industry": [
     {
-      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "link": "https://www.hntrends.com/2026/november.html",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-17 05:03",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, ",
+      "title_en": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "title_vi": "Tất cả các câu hỏi Nvidia nên trả lời vào thứ Ba — nhưng có lẽ sẽ không"
+    },
+    {
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-17 02:12",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "title_en": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "title_vi": "Trump nói vụ ngoại tình của cựu CEO Nvidia Jensen Huang với nghi phạm gián điệp Trung Quốc không đe dọa an ninh quốc gia"
+    },
+    {
+      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-16 08:31",
-      "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 37 # Comments: 6",
-      "title_en": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "title_vi": "Các bài đăng \"Who is Hiring?\" mắc kẹt gần mức thấp nhất 12 năm khi AI đạt đến một nửa số công việc"
+      "pub_date": "2026-11-17 02:09",
+      "summary": "Article URL: https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department Comments URL: https://news.ycombinator.com/item?id=50521575 Points: 29 # Comments: 2",
+      "title_en": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "title_vi": "Mỹ thắt chặt kiểm soát truy cập từ xa vào công nghệ AI sau sự cố Nvidia"
     },
     {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-16 03:43",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of ne",
-      "title_en": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "title_vi": "Jensen Huang có thể đang âm mưu quay trở lại và thêm nhiều diễn biến mới nhất của Nvidia"
+      "pub_date": "2026-11-17 01:43",
+      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and ",
+      "title_en": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "title_vi": "Hội đồng quản trị Nvidia được cho là 'không cân nhắc' mời Jensen Huang trở lại"
     },
     {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "source": "The Verge",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-16 02:15",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republic",
-      "title_en": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "title_vi": "Quốc hội muốn thắt chặt quy định xuất khẩu chip AI sau vụ bê bối gián điệp Nvidia"
-    },
-    {
-      "title": "TP HCM đề xuất cho doanh nghiệp dùng miễn phí dữ liệu mở để huấn luyện AI",
-      "link": "https://vnexpress.net/tp-hcm-de-xuat-cho-doanh-nghiep-dung-mien-phi-du-lieu-mo-de-huan-luyen-ai-5144898.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-15 19:50",
-      "summary": "Dự thảo Nghị quyết đề xuất doanh nghiệp, tổ chức nghiên cứu hoạt động trong khu đô thị khoa học TP HCM có thể được khai thác miễn phí dữ liệu mở để huấn luyện AI, phát triển ứng dụng số.",
-      "title_en": "Ho Chi Minh City proposes free access to open data for businesses to train AI",
-      "title_vi": "TP HCM đề xuất cho doanh nghiệp dùng miễn phí dữ liệu mở để huấn luyện AI"
-    },
-    {
-      "title": "Nvidia dưới thời Jensen Huang: Từ chip đồ họa đến hạ tầng AI",
-      "link": "https://genk.vn/nvidia-duoi-thoi-jensen-huang-tu-chip-do-hoa-den-ha-tang-ai-165261115124805072.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-15 15:00",
-      "summary": "VTV.vn - Trong 33 năm dưới thời Jensen Huang, Nvidia từ một hãng chip đồ họa cho trò chơi điện tử trở thành nhà cung cấp hạ tầng trí tuệ nhân tạo hàng đầu.",
-      "title_en": "Nvidia under Jensen Huang: From graphics chips to AI infrastructure",
-      "title_vi": "Nvidia dưới thời Jensen Huang: Từ chip đồ họa đến hạ tầng AI"
+      "pub_date": "2026-11-17 01:11",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "title_en": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "title_vi": "Sam Altman về Nvidia không có Jensen Huang: Ngành công nghiệp sẽ 'ổn'"
     }
   ],
   "other": [
     {
-      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-      "source": "NVIDIA",
-      "lang": "en",
-      "pub_date": "2026-11-16 07:00",
-      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the ",
-      "title_en": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "title_vi": "AI Day Seoul quy tụ các nhà lãnh đạo ngành, startup và cộng đồng nhà phát triển Hàn Quốc"
+      "title": "Samsung khó thuyết phục người dùng trả tiền cho Galaxy AI",
+      "link": "https://thanhnien.vn/samsung-kho-thuyet-phuc-nguoi-dung-tra-tien-cho-galaxy-ai-185261116235318386.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-11-17 06:59",
+      "summary": "Samsung muốn thu phí Galaxy AI, nhưng những tính năng mới chưa đủ khác biệt để thuyết phục người dùng đăng ký thuê bao.",
+      "title_en": "Samsung struggles to convince users to pay for Galaxy AI",
+      "title_vi": "Samsung khó thuyết phục người dùng trả tiền cho Galaxy AI"
     },
     {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "source": "TechCrunch",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-16 06:30",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "title_en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "title_vi": "Startup chip Ấn Độ Bharat Semi nhận vòng hạt giống 24 triệu USD khi nhắm đến thị trường cảm biến AI toàn cầu"
+      "pub_date": "2026-11-17 06:17",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als",
+      "title_en": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "title_vi": "Các nhà lãnh đạo công nghệ tin rằng việc Jensen Huang rời đi là một âm mưu chống lại ông"
     },
     {
-      "title": "Our new blog for science",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-11-16 05:00",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "title_en": "Our new blog for science",
-      "title_vi": "Blog khoa học mới của chúng tôi"
-    },
-    {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-16 04:56",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "title_en": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "title_vi": "Tin xấu cho Jensen Huang cũng là tin xấu cho ngành AI?"
-    },
-    {
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-16 03:20",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "title_en": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "title_vi": "SNL tập hợp tất cả các ông trùm công nghệ cho một bài học về hẹn hò và kỹ năng gián điệp"
-    },
-    {
-      "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5",
+      "title": "Google says attackers built an AI framework to turn software patches into exploits without human intervention",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWXlLd3d3Z0JOanJZX0lsQ0FBMElDVzhuenVvUFlHSjNRRUtGU3lJb0VyV3QxS2RmNF94TDNWeGdzRlhuLWtYZ0tDZmRFVS1GUEdWa1djRHQ0UFlRYldTV1kwU2d6WWxKSHI1bjN2OXlzU1lEV1ZXd3FvWFliLUptRGpmdHRDR3ItM2xGWG1xVUx4VTJfRlIzZlpkRmdEVmpiRFZ4YXJFcDZBVlNFQ0R1V3hnMlhLaWlRVndSRGZteUhqaDJiS285SndIa2Ntby1zZTFOb05mZ1IyQQ?oc=5",
       "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-16 03:00",
-      "summary": "One compromised MCP server can trick an AI agent into misusing tools you already trust VentureBeat",
-      "title_en": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
-      "title_vi": "Một máy chủ MCP bị xâm nhập có thể lừa tác nhân AI lạm dụng các công cụ bạn đã tin tưởng"
+      "pub_date": "2026-11-17 04:58",
+      "summary": "Google says attackers built an AI framework to turn software patches into exploits without human intervention VentureBeat",
+      "title_en": "Google says attackers built an AI framework to turn software patches into exploits without human intervention",
+      "title_vi": "Google cho biết kẻ tấn công đã xây dựng khung AI để biến bản vá phần mềm thành khai thác mà không cần can thiệp con người"
     },
     {
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+      "link": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-16 02:39",
-      "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 63 # Comments: 61",
-      "title_en": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "title_vi": "Phụ huynh trả 75.000 USD cho trường AI của Alpha. Một nửa số học sinh không đạt mục tiêu toán"
+      "pub_date": "2026-11-17 04:12",
+      "summary": "Article URL: https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566 Comments URL: https://news.ycombinator.com/item?id=50523346 Points: 24 # Comments: 11",
+      "title_en": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+      "title_vi": "Fed lo ngại các tác nhân AI có thể gây ra một cuộc tháo chạy ngân hàng"
     },
     {
-      "title": "All AI-generated code should be Open Source",
-      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "title": "Caltech professor no longer grades homework's because everyone uses AI",
+      "link": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-15 21:46",
-      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 1094 # Comments: 595",
-      "title_en": "All AI-generated code should be Open Source",
-      "title_vi": "Mọi mã do AI tạo ra nên là mã nguồn mở"
+      "pub_date": "2026-11-17 03:47",
+      "summary": "Article URL: https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11 Comments URL: https://news.ycombinator.com/item?id=50523022 Points: 47 # Comments: 57",
+      "title_en": "Caltech professor no longer grades homework's because everyone uses AI",
+      "title_vi": "Giáo sư Caltech không còn chấm bài tập về nhà vì mọi người đều dùng AI"
+    },
+    {
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-17 03:41",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of",
+      "title_en": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "title_vi": "Sam Altman nói ông muốn mọi người 'có nhiều RAM'"
+    },
+    {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-17 03:29",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quar",
+      "title_en": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "title_vi": "Ngành hạt nhân lớn không lo lắng về việc đảng Dân chủ ngăn chặn các trung tâm dữ liệu"
+    },
+    {
+      "title": "US data centers now burn more electricity than a midsized country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-17 03:27",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electric",
+      "title_en": "US data centers now burn more electricity than a midsized country",
+      "title_vi": "Các trung tâm dữ liệu Mỹ giờ đây đốt nhiều điện hơn một quốc gia cỡ trung"
     }
   ]
 }

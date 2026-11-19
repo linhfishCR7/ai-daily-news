@@ -1,160 +1,140 @@
 {
   "headline": [
     {
-      "title": "Từ thử nghiệm đến vận hành: Tối ưu hóa khoản đầu tư AI cùng Microsoft 365 Copilot",
-      "link": "https://genk.vn/tu-thu-nghiem-den-van-hanh-toi-uu-hoa-khoan-dau-tu-ai-cung-microsoft-365-copilot-165261117161745904.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-18 09:00",
-      "summary": "Khi giai đoạn thử nghiệm AI ban đầu đã qua, các nhà quản lý doanh nghiệp vừa và nhỏ (SMB) phải đối mặt với bài toán thực tế: Làm thế nào để khoản đầu tư vào công nghệ tạo ra tác động tích cực đến tỷ s",
-      "title_en": "From pilot to production: Optimizing AI investment with Microsoft 365 Copilot",
-      "title_vi": "Từ thử nghiệm đến vận hành: Tối ưu hóa khoản đầu tư AI cùng Microsoft 365 Copilot"
-    },
-    {
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-18 07:27",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "title_en": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "title_vi": "Copilot là \"hệ điều hành mới cho công việc\", và giờ Office chạy bên trong nó"
-    },
-    {
-      "title": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0p5RXctRUhTQzMxTEdQYnJxaVozUkFlQmJOSEJrQjVfeEdrdDJBcExkcmhEUGpoZTN0dXo3dVhxajVwWlpWdVAyRzNDUTBEdi1rekFrT0l3VlgxMFVic1c1ZG9fTVpaVEh0UzAtOUdGRmtVSDdHdHpHRzRiWGY3QUVndjItemljNG8wZVJrNWo3azFrWTVHQmtWczhTcDdGblJmbjhiOFEyS0pULWNQSG9MVkNLVzhJTjBFaUtGaE16UFA0d1c2YzMtX3Z4Tkdm?oc=5",
+      "title": "Google launches Gemini 4 Neon with Opus 5.5-level coding performance at 25% lower API token prices",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTEZSUEtSV0dGT3g1ZXlGVW0xdjhfbDZnclc5RUdza3pibmNqaktCNUNOTkxuSzVabEppT2JZNEFMYzZmN3ZuNk9XNEl0cWZjTTdKQTNNUTBOZWJVNXFVc0ZyNEZrLVBjM2dLZExkc2lfbFpLQ3VmYmJLT1NRRzAyT2FJS1NRc3EybXpvdGZqTURJcFNZYVZQX2hqcVBQM08wMW5SUHVQU1VRNnBZcERuX3E3NnRSMXdQZTRmSEdIREZERzJXWlFNQ1RaV20?oc=5",
       "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-18 05:33",
-      "summary": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users VentureBeat",
-      "title_en": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
-      "title_vi": "'Về cơ bản là không dùng được': OpenAI ra mắt GPT-6.2 Astra và Sol nhận phản hồi tiêu cực từ người dùng AI chuyên sâu"
+      "pub_date": "2026-11-19 06:33",
+      "summary": "Google launches Gemini 4 Neon with Opus 5.5-level coding performance at 25% lower API token prices VentureBeat",
+      "title_en": "Google launches Gemini 4 Neon with Opus 5.5-level coding performance at 25% lower API token prices",
+      "title_vi": "Google ra mắt Gemini 4 Neon với hiệu năng lập trình ngang Opus 5.5, giá token API thấp hơn 25%"
+    },
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-19 05:11",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "title_en": "Anthropic prices IPO at $83 a share, above projected range",
+      "title_vi": "Anthropic định giá IPO 83 USD/cổ phiếu, cao hơn mức dự kiến"
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "pub_date": "2026-11-19 04:35",
+      "summary": "",
+      "title_en": "Introducing Gemini 4 Neon",
+      "title_vi": "Giới thiệu Gemini 4 Neon"
     }
   ],
   "product": [
     {
-      "title": "AI agents are coming to help hire, schedule and manage frontline workers as Fountain launches Orchestra",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFdsV3ZvUDRSS2lmY1BscUE0TlozU05GTUZLaEthb1F2dTc4RGFFU0N2dEVwUDhvU29DbmVaN0k1ZHVmbThGR3o0Q3Z5VXpPWTByVXBMUVNwVG5RbWJWMzRTMktfWmIycF9DNzdXOTRZMlVVWHdIdzNwOF9NaDlTMV9ISFlRX3pGRVJOVjBmX3pRa0V2OUJFZ0pJN2FhS2w0Y2FHNDQyZHhyVzhyQTBCdnNNZXNBeGNkS0xJNkJtMV9wSGR3cm0tZDdNV09yOHhTZ0lBUnhDNA?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-17 23:51",
-      "summary": "AI agents are coming to help hire, schedule and manage frontline workers as Fountain launches Orchestra VentureBeat",
-      "title_en": "AI agents are coming to help hire, schedule and manage frontline workers as Fountain launches Orchestra",
-      "title_vi": "Các tác nhân AI sắp hỗ trợ tuyển dụng, lên lịch và quản lý nhân viên tuyến đầu khi Fountain ra mắt Orchestra"
-    },
-    {
-      "title": "AMD ra mắt EPYC thế hệ 6: Tối đa 256 nhân, xung nhịp lên tới 5,3GHz, tăng tốc cho hệ thống AI",
-      "link": "https://genk.vn/amd-ra-mat-epyc-the-he-6-toi-da-256-nhan-xung-nhip-len-toi-53ghz-tang-toc-cho-he-thong-ai-165261117153447226.chn",
+      "title": "Ngân hàng Trung ương Hàn Quốc công bố khảo sát hơn 16.000 người đi làm: Gần 67% nhân viên đã dùng AI hàng tuần nhưng năng suất thực tế tăng rất ít",
+      "link": "https://genk.vn/ngan-hang-trung-uong-han-quoc-cong-bo-khao-sat-hon-16000-nguoi-di-lam-gan-67-nhan-vien-da-dung-ai-hang-tuan-nhung-nang-suat-thuc-te-tang-rat-it-165261119080155612.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-17 15:34",
-      "summary": "Dòng CPU máy chủ mới sử dụng kiến trúc Zen 6, hướng tới các trung tâm dữ liệu AI và ứng dụng doanh nghiệp.",
-      "title_en": "AMD launches 6th Gen EPYC: Up to 256 cores, boost up to 5.3GHz, accelerating AI systems",
-      "title_vi": "AMD ra mắt EPYC thế hệ 6: Tối đa 256 nhân, xung nhịp lên tới 5,3GHz, tăng tốc cho hệ thống AI"
+      "pub_date": "2026-11-19 09:19",
+      "summary": "Báo cáo khảo sát trên hơn 16.000 người lao động do Ngân hàng Trung ương Hàn Quốc công bố ngày 17/11/2026 cho thấy 66,5% nhân viên nước này đã dùng AI tạo sinh trong công việc, nhưng tổng năng suất doa",
+      "title_en": "Bank of Korea survey of over 16,000 workers: Nearly 67% use AI weekly, but actual productivity gains are minimal",
+      "title_vi": "Ngân hàng Trung ương Hàn Quốc công bố khảo sát hơn 16.000 người đi làm: Gần 67% nhân viên đã dùng AI hàng tuần nhưng năng suất thực tế tăng rất ít"
     },
     {
-      "title": "Ra mắt sổ tay AI hướng dẫn giáo viên soạn bài, quản lý lớp học",
-      "link": "https://tuoitre.vn/ra-mat-so-tay-ai-huong-dan-giao-vien-soan-bai-quan-ly-lop-hoc-100261117150120428.htm",
-      "source": "Tuổi Trẻ",
+      "title": "Apple giới hạn sử dụng Siri AI hằng ngày từ bản cập nhật iOS 27.3",
+      "link": "https://thanhnien.vn/apple-gioi-han-su-dung-siri-ai-hang-ngay-tu-ban-cap-nhat-ios-273-185261118201047334.htm",
+      "source": "Thanh Niên",
       "lang": "vi",
-      "pub_date": "2026-11-17 15:19",
-      "summary": "Sổ tay điện tử cung cấp các hướng dẫn, câu lệnh mẫu và tình huống thực tế, giúp giáo viên ứng dụng trí tuệ nhân tạo (AI) vào soạn bài, kiểm tra đánh giá, xây dựng học liệu và quản lý lớp học.",
-      "title_en": "AI handbook launched to guide teachers in lesson planning and classroom management",
-      "title_vi": "Ra mắt sổ tay AI hướng dẫn giáo viên soạn bài, quản lý lớp học"
+      "pub_date": "2026-11-19 08:52",
+      "summary": "Người dùng sẽ bị giới hạn số lượt yêu cầu xử lý phức tạp trên Siri AI và công cụ chỉnh sửa ảnh mỗi ngày, muốn mở rộng hạn mức buộc phải nâng cấp lên gói dung lượng iCloud+ cao hơn.",
+      "title_en": "Apple limits daily Siri AI usage starting with iOS 27.3 update",
+      "title_vi": "Apple giới hạn sử dụng Siri AI hằng ngày từ bản cập nhật iOS 27.3"
     },
     {
-      "title": "Introducing ChatGPT for Sales",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-17 15:00",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "title_en": "Introducing ChatGPT for Sales",
-      "title_vi": "Giới thiệu ChatGPT cho Bán hàng"
+      "pub_date": "2026-11-19 04:34",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "title_en": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "title_vi": "Palmer Luckey cảnh báo tấn công mạng do AI điều khiển vượt xa khả năng phòng thủ: 'Đã đến lúc phải chạy'"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
+      "title": "OpenAI's pre-release GPT-6.2 Astra was easier to jailbreak than its predecessor, UK government testers found",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3B6NGY3Z0J6Vy1ESlJkeml4OTF6elE2SllsRlZQUkE0dFh6X3MzWWF1U1NsLWtrcHZoMy1FM0hRX2haUWxqT0lCZU9GRzZBZ0RfUm9RYzgtMENvamtla1N1RmZ4RGNjR3gzSkJCYXNpWWN2QWxYMWZzc1BZeWtEMDdjeVBlLWtXTkE0Ymp3NjhnaE5mOURZc2k1d0d6ankwNUI1TmU5U3ZpaVlaWjBQMk5wVFFjaWpkMHB5OGNibHh0dzJRMkNHNFNRZVRkWUVoT3ZwNXNn?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-17 07:00",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "title_en": "Introducing OpenAI for Chile",
-      "title_vi": "Giới thiệu OpenAI cho Chile"
+      "pub_date": "2026-11-19 04:25",
+      "summary": "OpenAI's pre-release GPT-6.2 Astra was easier to jailbreak than its predecessor, UK government testers found VentureBeat",
+      "title_en": "OpenAI's pre-release GPT-6.2 Astra was easier to jailbreak than its predecessor, UK government testers found",
+      "title_vi": "GPT-6.2 Astra thử nghiệm của OpenAI dễ bị bẻ khóa hơn phiên bản trước, theo phát hiện của cơ quan kiểm tra Anh"
+    },
+    {
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "link": "https://news.ycombinator.com/item?id=50549188",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-19 00:26",
+      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents",
+      "title_en": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "title_vi": "Ra mắt HN: Maritime (YC F26) – Đám mây quản lý cho các tác nhân AI sản xuất"
     }
   ],
   "funding": [
     {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-18 05:29",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "title_vi": "Amazon và Google sẽ cùng nắm gần 30% cổ phần của Anthropic sau khi IPO"
+      "pub_date": "2026-11-18 18:30",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "title_en": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "title_vi": "Humyn Labs của Ấn Độ huy động 47 triệu USD để cung cấp dữ liệu cho các công ty robot Mỹ"
     },
     {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-18 02:32",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec",
-      "title_en": "Model ML raises $250M to automate investment banking grunt work",
-      "title_vi": "Model ML huy động 250 triệu USD để tự động hóa công việc tẻ nhạt trong ngân hàng đầu tư"
-    },
-    {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-18 01:04",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "title_en": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "title_vi": "Pedestal AI huy động 4,7 triệu USD để biến chuỗi cung ứng thành tác nhân"
-    },
-    {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-17 22:00",
-      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "title_en": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "title_vi": "Voyage Labs huy động 12 triệu USD cho trợ lý du lịch AI chuyên biệt"
-    },
-    {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-17 21:50",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "title_en": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "title_vi": "Isomorphic Labs huy động 5 tỷ USD để đưa ứng viên thuốc vào thử nghiệm lâm sàng"
+      "title": "Cha đẻ Claude IPO ngày 18/11: Sự kiện làm rung chuyển thế giới AI toàn cầu",
+      "link": "https://genk.vn/cha-de-claude-ipo-ngay-18-11-su-kien-lam-rung-chuyen-the-gioi-ai-toan-cau-16526111814475986.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-18 15:17",
+      "summary": "Anthropic, công ty làm ra Claude, chuẩn bị đưa cổ phiếu lên Nasdaq với quy mô dự kiến hơn 64 tỷ USD, phép thử lớn về giá trị và chi phí của AI.",
+      "title_en": "Claude's creator IPOs on Nov 18: An event shaking the global AI world",
+      "title_vi": "Cha đẻ Claude IPO ngày 18/11: Sự kiện làm rung chuyển thế giới AI toàn cầu"
     }
   ],
   "research": [
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-18 15:00",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "title_en": "Research acceleration: The jagged frontier",
+      "title_vi": "Tăng tốc nghiên cứu: Biên giới lởm chởm"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face",
+      "lang": "en",
+      "pub_date": "2026-11-18 07:00",
+      "summary": "",
+      "title_en": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "title_vi": "Rumble-2-Flash: Mô hình tiếng nói mã nguồn mở 0.5B cho hơn 40 ngôn ngữ"
+    },
     {
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-11-18 04:16",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 81 # Comm",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 320 # Com",
       "title_en": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "title_vi": "Nghiên cứu Harvard phát hiện các tác nhân lập trình AI khiến nút thắt chuyển sang giai đoạn xem xét mã"
-    },
-    {
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-18 01:10",
-      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-      "title_en": "As decision model use skyrockets, is customization the next frontier?",
-      "title_vi": "Khi việc sử dụng mô hình quyết định tăng vọt, tùy chỉnh có phải là biên giới tiếp theo?"
+      "title_vi": "Nghiên cứu Harvard phát hiện các tác nhân lập trình AI chuyển nút thắt sang khâu xem xét mã"
     },
     {
       "title": "Research Reports",
@@ -169,136 +149,136 @@
   ],
   "industry": [
     {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-18 08:44",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "title_en": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "title_vi": "Cổ phần khởi nghiệp của Nvidia tăng vọt lên 65 tỷ USD, nhưng việc Huang rời đi khiến các thương vụ tương lai bị nghi ngờ"
+      "title": "Quyền Tổng Giám đốc Nvidia tuyên bố ngừng hoàn toàn việc bán chip AI sang Trung Quốc",
+      "link": "https://genk.vn/quyen-tong-giam-doc-nvidia-tuyen-bo-ngung-hoan-toan-viec-ban-chip-ai-sang-trung-quoc-165261119075504487.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-19 08:19",
+      "summary": "Tại buổi công bố báo cáo tài chính quý 3 tối 17/11/2026 theo giờ Mỹ, Quyền Tổng giám đốc Nvidia Colette Kress xác nhận hãng đã ngừng hoàn toàn việc xuất xưởng chip trung tâm dữ liệu sang Trung Quốc, t",
+      "title_en": "Nvidia Acting CEO announces complete halt of AI chip sales to China",
+      "title_vi": "Quyền Tổng Giám đốc Nvidia tuyên bố ngừng hoàn toàn việc bán chip AI sang Trung Quốc"
     },
     {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-18 07:16",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "title_en": "Nvidia promises that revenue will keep soaring — for now",
-      "title_vi": "Nvidia hứa hẹn doanh thu sẽ tiếp tục tăng vọt — trong lúc này"
+      "pub_date": "2026-11-19 06:17",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "title_en": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "title_vi": "CEO Microsoft Satya Nadella vẫn tin tưởng Nvidia sau sự ra đi của Huang"
     },
     {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-18 06:37",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "title_en": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "title_vi": "Nvidia từ bỏ Trung Quốc sau khi Jensen Huang bị phế truất"
+      "pub_date": "2026-11-19 04:57",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "title_en": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "title_vi": "Nvidia tạo nên sự tò mò kỳ lạ khi không nộp báo cáo SEC định kỳ"
     },
     {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-18 06:04",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "title_en": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "title_vi": "Nvidia cho biết chiến lược AI mã nguồn mở vẫn nguyên vẹn sau khi Jensen Huang rời đi"
+      "pub_date": "2026-11-19 04:31",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "title_en": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "title_vi": "Palmer Luckey nghĩ Trung Quốc 'vui mừng khi Jensen ra đi', nên muốn phục chức cho CEO Nvidia bị sa thải"
     },
     {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-18 05:42",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "title_en": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "title_vi": "Nvidia cho biết không có kế hoạch bổ nhiệm lại Jensen Huang làm CEO"
+      "pub_date": "2026-11-19 02:40",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child hande",
+      "title_en": "Trump’s latest land grab is an AI hub in the Philippines",
+      "title_vi": "Vụ chiếm đất mới nhất của Trump là một trung tâm AI ở Philippines"
     }
   ],
   "other": [
     {
-      "title": "'AI đang nới rộng khoảng cách giữa tấn công và phòng thủ mạng'",
-      "link": "https://vnexpress.net/ai-dang-noi-rong-khoang-cach-giua-tan-cong-va-phong-thu-mang-5142220.html",
+      "title": "Google phát hiện cuộc tấn công hoàn toàn tự động bằng AI",
+      "link": "https://vnexpress.net/google-phat-hien-cuoc-tan-cong-hoan-toan-tu-dong-bang-ai-5146302.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-18 10:00",
-      "summary": "AI giúp tin tặc rút ngắn thời gian khai thác lỗ hổng, trong khi quy trình nội bộ về an ninh mạng của tổ chức chậm thay đổi, khiến việc phòng thủ và khắc phục gặp bất lợi trong ngắn hạn.",
-      "title_en": "'AI is widening the gap between attack and defense in cybersecurity'",
-      "title_vi": "'AI đang nới rộng khoảng cách giữa tấn công và phòng thủ mạng'"
+      "pub_date": "2026-11-19 09:00",
+      "summary": "Google cho biết tình cờ phát hiện hệ thống tác nhân có khả năng tự tìm lỗ hổng, viết mã khai thác và tấn công các trang web tại Pháp không cần sự can thiệp của con người.",
+      "title_en": "Google detects fully automated AI attack",
+      "title_vi": "Google phát hiện cuộc tấn công hoàn toàn tự động bằng AI"
     },
     {
-      "title": "Xiaomi 18 Pro Series chính thức trình làng tại Việt Nam: Màn hình phụ tích hợp AI thông minh, camera Leica nâng cấp mạnh mẽ",
-      "link": "https://genk.vn/xiaomi-18-pro-series-chinh-thuc-trinh-lang-tai-viet-nam-man-hinh-phu-tich-hop-ai-thong-minh-camera-leica-nang-cap-manh-me-165261118093732415.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-18 09:37",
-      "summary": "Tiếp tục phát triển thiết kế màn hình phụ từng tạo nên dấu ấn riêng, Xiaomi 18 Pro Series vừa trình làng tại Việt Nam với nhiều khả năng tương tác AI mới, đồng thời nâng cấp mạnh mẽ hệ thống camera Le",
-      "title_en": "Xiaomi 18 Pro Series officially launched in Vietnam: Secondary display with integrated AI, Leica camera significantly upgraded",
-      "title_vi": "Xiaomi 18 Pro Series chính thức trình làng tại Việt Nam: Màn hình phụ tích hợp AI thông minh, camera Leica nâng cấp mạnh mẽ"
-    },
-    {
-      "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+      "title": "AI will not make you rich (2025)",
+      "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-18 08:45",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 26 # Comments: 6",
-      "title_en": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "title_vi": "CEO ngân hàng và NSA nói với Quốc hội rằng các bản vá dựa trên AI là nguyên nhân gây ra sự cố ngừng hoạt động"
+      "pub_date": "2026-11-19 08:51",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 64 # Comments: 40",
+      "title_en": "AI will not make you rich (2025)",
+      "title_vi": "AI sẽ không làm bạn giàu (2025)"
     },
     {
-      "title": "Tội phạm mạng dùng AI 'thay áo' kịch bản cũ, hack Zalo người dùng",
-      "link": "https://thanhnien.vn/toi-pham-mang-dung-ai-thay-ao-kich-ban-cu-hack-zalo-nguoi-dung-185261117225315597.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-18 07:40",
-      "summary": "Vụ hai phó giám đốc sở tại tỉnh Khánh Hòa bị hack tài khoản Zalo cho thấy bước ngoặt mới của tội phạm công nghệ cao khi dùng trí tuệ nhân tạo giả lập giọng nói nhằm vô hiệu hóa thói quen gọi điện kiểm",
-      "title_en": "Cybercriminals use AI to disguise old scams, hack users' Zalo accounts",
-      "title_vi": "Tội phạm mạng dùng AI 'thay áo' kịch bản cũ, hack Zalo người dùng"
-    },
-    {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-18 07:17",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 155 # Comments: 105",
-      "title_en": "Google's AI answers reducing search traffic by 40%",
-      "title_vi": "Câu trả lời AI của Google làm giảm 40% lưu lượng tìm kiếm"
+      "pub_date": "2026-11-19 07:57",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comment",
+      "title_en": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "title_vi": "Học sinh trung học da đen kiện sau khi AI nhầm túi Doritos là súng"
     },
     {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-18 06:41",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-p",
-      "title_en": "Satya Nadella says he’s AGI-pilled now",
-      "title_vi": "Satya Nadella nói ông giờ đã tin vào AGI"
-    },
-    {
-      "title": "Amazon says hackers are using stolen AI API keys to power agents that hunt for more",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjZtenN0bUhFbk40dFJzNjI5eHNURzlfWkhHWURhRXRZeWRTYWJWVTdydE9oNGRnc3VJUTY1TXFLTEtqV0tUWmRtcm1VYWgtZWZYRFdRVVVCbU1JaUdJS09Ddjg5bWNSbWgtbE5uVVJKVlNrODN4VlYydkk3YW93VDNhZTRmd3p6R2dHOE54bXdScDNPS0d6dnNtMjhzWVVDdFRKMkVaN09yQldpM2dBbk02cTItdUE?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-18 04:50",
-      "summary": "Amazon says hackers are using stolen AI API keys to power agents that hunt for more VentureBeat",
-      "title_en": "Amazon says hackers are using stolen AI API keys to power agents that hunt for more",
-      "title_vi": "Amazon cho biết tin tặc đang dùng khóa API AI bị đánh cắp để cung cấp năng lượng cho các tác nhân săn lùng thêm"
-    },
-    {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-18 04:48",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "title_en": "SEC reportedly investigating Nvidia amid Huang exit",
-      "title_vi": "SEC được cho là đang điều tra Nvidia sau khi Huang rời đi"
+      "pub_date": "2026-11-19 07:42",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
+      "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "title_vi": "CEO Microsoft Satya Nadella giải thích lý do yêu cầu 60.000 nhân viên nghỉ việc"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-19 06:45",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "title_en": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "title_vi": "Giữa lo ngại tấn công mạng AI, Satya Nadella nói nhiều hạ tầng quan trọng 'không thể vá'"
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-19 06:25",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "title_en": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "title_vi": "Elon Musk nói việc sa thải Jensen Huang giống như 'đá Michael Jordan ra khỏi đội của bạn'"
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-19 06:18",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Time",
+      "title_en": "The nation’s largest school districts consider ditching Google Search",
+      "title_vi": "Các khu học chánh lớn nhất nước cân nhắc bỏ Google Search"
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-19 05:58",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "title_en": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "title_vi": "Satya Nadella dự đoán các tác nhân AI sẽ định hình lại nền kinh tế web"
     }
   ]
 }

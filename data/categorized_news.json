@@ -1,14 +1,108 @@
 {
   "headline": [
     {
-      "title": "Góc ngược đời: Chủ nhân vất vả đi làm kiếm tiền, Claude Code ở nhà chơi GTA 6 suốt 8 tiếng liền",
-      "link": "https://genk.vn/goc-nguoc-doi-chu-nhan-vat-va-di-lam-kiem-tien-claude-code-o-nha-choi-gta-6-suot-8-tieng-lien-165261120075957914.chn",
+      "title": "Tiết lộ mới về ChatGPT Phone",
+      "link": "https://dantri.com.vn/cong-nghe/tiet-lo-moi-ve-chatgpt-phone-20261120175644935.htm",
+      "source": "Dân trí",
+      "lang": "vi",
+      "pub_date": "2026-11-21 06:57",
+      "summary": "(Dân trí) - ChatGPT Phone, chiếc điện thoại do OpenAI phát triển, được kỳ vọng sẽ lên kệ vào cuối năm 2027 hoặc đầu năm 2028.",
+      "title_en": "New details revealed about ChatGPT Phone",
+      "title_vi": "Tiết lộ mới về ChatGPT Phone"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-20 23:34",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded ",
+      "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "title_vi": "Nhà toán học của Anthropic tuyên bố đã giải được bài toán Thiên niên kỷ danh giá với Claude"
+    },
+    {
+      "title": "Đối đầu Anthropic, Microsoft ra mắt 7 mô hình AI mới, chi phí thấp hơn tới 95%",
+      "link": "https://genk.vn/doi-dau-anthropic-microsoft-ra-mat-7-mo-hinh-ai-moi-chi-phi-thap-hon-toi-95-165261120214407864.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-20 08:02",
-      "summary": "Nếu ngay cả việc chơi game cũng bị AI cướp mất thì con người còn làm được gì?",
-      "title_en": "Irony: Owner works hard to earn money, while Claude Code stays home playing GTA 6 for 8 hours straight",
-      "title_vi": "Góc ngược đời: Chủ nhân vất vả đi làm kiếm tiền, Claude Code ở nhà chơi GTA 6 suốt 8 tiếng liền"
+      "pub_date": "2026-11-20 21:44",
+      "summary": "Microsoft tung 7 mô hình AI mới, tuyên bố đạt hiệu năng gần Claude nhưng chi phí lập trình chỉ bằng 5%.",
+      "title_en": "Against Anthropic, Microsoft launches 7 new AI models with up to 95% lower costs",
+      "title_vi": "Đối đầu Anthropic, Microsoft ra mắt 7 mô hình AI mới, chi phí thấp hơn tới 95%"
+    }
+  ],
+  "product": [
+    {
+      "title": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjQ5c0hsZDBTcWxGNUVxN0phZDdwRGhzTk1nWWEzZTdOSVpVT2h2WlI3OUVfeVZVMWt4eTFTQXFGZ1hoM1dMS2puekZ1YVYzSWV0aHMtYkVkNUpKdEJtaHlTRE9NRE5YZHRWbDk2YVZPVmdrOXN6cmJGbnFlcWxGODhZTVdaRGJ0aF9icTYwamtYakRaTFY0bGo4dHJMY21mRFFGTjNxYWkzN1J2d2tFX1g4Wk5US25oU0ZKTHoxSlU1dW9qODFRNEYyRTlaQm1aWmhIU05rMzJ4bmN5X1E?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-21 07:51",
+      "summary": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available VentureBeat",
+      "title_en": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
+      "title_vi": "Amazon cho biết các tác nhân AI của kẻ tấn công đã tìm và khai thác lỗ hổng zero-day trong 11 phút, nhưng chưa có bản vá"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-21 04:58",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "title_en": "Google rolls out new search homepage with AI chat history and no search button",
+      "title_vi": "Google ra mắt trang chủ tìm kiếm mới với lịch sử chat AI và không có nút tìm kiếm"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "pub_date": "2026-11-21 01:15",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t",
+      "title_en": "The most misunderstood graph in AI just got a major update",
+      "title_vi": "Đồ thị bị hiểu lầm nhất trong AI vừa có bản cập nhật lớn"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-20 21:00",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "title_en": "Six AI-powered gadgets that could make your home office smarter",
+      "title_vi": "Sáu thiết bị hỗ trợ AI có thể giúp văn phòng tại nhà của bạn thông minh hơn"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "lang": "en",
+      "pub_date": "2026-11-20 07:00",
+      "summary": "",
+      "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "title_vi": "Giới thiệu bộ điều hợp harness: điều chỉnh mô hình yêu thích của bạn cho harness để cải thiện hiệu suất và chi phí"
+    }
+  ],
+  "funding": [
+    {
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-21 04:18",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 44 # Co",
+      "title_en": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "title_vi": "IPO thất bại của Anthropic làm trầm trọng thêm đợt bán tháo 4 nghìn tỷ USD cổ phiếu AI trên Phố Wall"
+    },
+    {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-20 20:29",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 192 # Comments: 2",
+      "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "title_vi": "Thị trường chứng khoán toàn cầu lao dốc khi IPO kỷ lục của Anthropic không ngăn được làn sóng bán tháo cổ phiếu AI"
     },
     {
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
@@ -18,72 +112,8 @@
       "pub_date": "2026-11-20 07:43",
       "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
       "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "title_vi": "7 nhà sáng lập Anthropic rút gần 2 tỷ USD trong đợt IPO kỷ lục"
+      "title_vi": "7 nhà sáng lập Anthropic thu về gần 2 tỷ USD trong IPO phá kỷ lục"
     },
-    {
-      "title": "Uber’s 4 Claude Code defaults to rein in costs",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR0hTZGZfazFoSnk5U1Z2Z1lla1YtMGRRblhwQ2QyelNPS0RRdTdtMTl2U05wbDFoN1RaYU01dFdiOVZRNXc0eUNmWnA1SGFNY2JyZGs5U3d4V3ZMdTd5RnY3eWwzYmVYcXVhQ3JVZjE5dTl4MXVrV0lHM0I4NFp4eW5fYU9DUWh0ZGVBUzBtdGVjN2JDMm91dEJTT0o3MFV2SDV0QmQ3UGRoMVpPVzFQRVl3eG5mZEYzY1psbl96a0FRSmNud3pVS0NKUWg?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-20 03:55",
-      "summary": "Uber’s 4 Claude Code defaults to rein in costs VentureBeat",
-      "title_en": "Uber’s 4 Claude Code defaults to rein in costs",
-      "title_vi": "4 mặc định của Uber Claude Code nhằm kiểm soát chi phí"
-    }
-  ],
-  "product": [
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI Blog",
-      "lang": "en",
-      "pub_date": "2026-11-20 01:00",
-      "summary": "Gemini spark on a space background",
-      "title_en": "Introducing Tool Retrieval in the Gemini API",
-      "title_vi": "Giới thiệu tính năng Truy xuất Công cụ trong Gemini API"
-    },
-    {
-      "title": "Firecrawl launches Alexandria to connect your AI agents to more than 550 specialized data sources",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa3JONWY4Q3F6N3BMVVdyaEVfM1daWkRsaFVzZ0pXUkkyamltZUVqekY1RHEtakxVVHpLUjMxMkw4MEU0SjlsOGFXSjJ2aVhwZU00cDFqTnE5SUdWSUYyV0dJOGdETDRxTGxsTWVSQVF5V2FHVjFOc1Q4RjdfRjFybHhpRC1VWVJkLVVTZGltT1hVS0NxU2FyX3J1RHFzTUpxaWNLUWFyZ2hvb1JsZjl5UFQ0YUo0R2tvRjVBbVEwWnE2MTkx?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-19 22:23",
-      "summary": "Firecrawl launches Alexandria to connect your AI agents to more than 550 specialized data sources VentureBeat",
-      "title_en": "Firecrawl launches Alexandria to connect your AI agents to more than 550 specialized data sources",
-      "title_vi": "Firecrawl ra mắt Alexandria để kết nối các tác tử AI của bạn với hơn 550 nguồn dữ liệu chuyên biệt"
-    },
-    {
-      "title": "Google mở khóa tính năng Gemini AI từng chỉ dành cho người dùng trả phí",
-      "link": "https://thanhnien.vn/google-mo-khoa-tinh-nang-gemini-ai-tung-chi-danh-cho-nguoi-dung-tra-phi-185261119155446848.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-19 20:34",
-      "summary": "Google mở miễn phí Gemini Tasks tại sáu quốc gia, cho phép AI tự thực hiện nhiều công việc thay vì chỉ trả lời câu hỏi.",
-      "title_en": "Google unlocks Gemini AI features previously exclusive to paid users",
-      "title_vi": "Google mở khóa tính năng Gemini AI từng chỉ dành cho người dùng trả phí"
-    },
-    {
-      "title": "Canva adds an AI ‘off’ button",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-19 19:30",
-      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature,",
-      "title_en": "Canva adds an AI ‘off’ button",
-      "title_vi": "Canva bổ sung nút tắt AI"
-    },
-    {
-      "title": "VNPT ra mắt modem Wi-Fi 8 tích hợp AI",
-      "link": "https://vnexpress.net/vnpt-ra-mat-modem-wi-fi-8-tich-hop-ai-5146630.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-19 16:33",
-      "summary": "VNPT giới thiệu bản thử nghiệm modem Internet tích hợp Wi-Fi 8, có khả năng xử lý tác vụ AI cục bộ thay vì phụ thuộc máy chủ đám mây.",
-      "title_en": "VNPT launches Wi-Fi 8 modem with integrated AI",
-      "title_vi": "VNPT ra mắt modem Wi-Fi 8 tích hợp AI"
-    }
-  ],
-  "funding": [
     {
       "title": "Anthropic’s IPO could deliver $156B to charity",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
@@ -100,54 +130,54 @@
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-11-20 01:42",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 42 # Comments: 21",
+      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 51 # Comments: 36",
       "title_en": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-      "title_vi": "Không có gói cứu trợ cho bong bóng AI, những người biểu tình tại IPO của Anthropic nói"
-    },
-    {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-20 00:00",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "title_en": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "title_vi": "Everful của cựu giám đốc Alibaba gọi vốn 48,5 triệu USD để kết nối nhà bán lẻ với nhà máy Trung Quốc"
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-19 23:59",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "title_en": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "title_vi": "Anthropic chào sàn Nasdaq ở mức 111 USD, cao hơn 33% so với giá IPO"
-    },
-    {
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-19 21:54",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "title_en": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "title_vi": "IPO của Anthropic thử thách vòng xoay tài chính vòng tròn của AI"
+      "title_vi": "Không có gói cứu trợ cho bong bóng AI, những người biểu tình phản đối IPO của Anthropic nói"
     }
   ],
   "research": [
     {
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Nhà khoa học bàn ứng dụng AI trong y tế tại VinFuture 2026",
+      "link": "https://vnexpress.net/nha-khoa-hoc-ban-ung-dung-ai-trong-y-te-tai-vinfuture-2026-5147197.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-20 18:30",
+      "summary": "Tọa đàm ngày 8/12 tại Hà Nội sẽ thảo luận cách AI hỗ trợ bác sĩ chẩn đoán, lập kế hoạch điều trị và những điều kiện để ứng dụng công nghệ tại Việt Nam.",
+      "title_en": "Scientists discuss AI applications in healthcare at VinFuture 2026",
+      "title_vi": "Nhà khoa học bàn ứng dụng AI trong y tế tại VinFuture 2026"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI",
       "lang": "en",
-      "pub_date": "2026-11-18 15:00",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "title_en": "Research acceleration: The jagged frontier",
-      "title_vi": "Tăng tốc nghiên cứu: Biên giới lởm chởm"
+      "pub_date": "2026-11-20 07:00",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "title_vi": "Hebbia ghi nhận cải thiện trong nghiên cứu tài chính với GPT-6 Astra"
     }
   ],
   "industry": [
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-21 01:50",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applicati",
+      "title_en": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "title_vi": "Trump đe dọa áp 'thuế khổng lồ' nếu chuyển trung tâm dữ liệu AI ra khỏi Mỹ"
+    },
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-20 21:55",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
+      "title_en": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "title_vi": "Hậu quả từ vụ bê bối của Jensen Huang tại Nvidia vẫn tiếp diễn"
+    },
     {
       "title": "Nvidia ngừng xuất khẩu chip AI H200 sang Trung Quốc",
       "link": "https://thanhnien.vn/nvidia-ngung-xuat-khau-chip-ai-h200-sang-trung-quoc-18526112008554658.htm",
@@ -166,7 +196,7 @@
       "pub_date": "2026-11-20 04:59",
       "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hoveri",
       "title_en": "A brief history of Nvidia’s recent stock fluctuations",
-      "title_vi": "Lịch sử ngắn về biến động cổ phiếu gần đây của Nvidia"
+      "title_vi": "Lịch sử ngắn gọn về những biến động cổ phiếu gần đây của Nvidia"
     },
     {
       "title": "Tiềm năng AI hỗ trợ doanh nghiệp xuất khẩu nhận định giá",
@@ -175,110 +205,90 @@
       "lang": "vi",
       "pub_date": "2026-11-19 18:40",
       "summary": "(Dân trí) - Từ dữ liệu cung cầu, AI có thể hỗ trợ doanh nghiệp dự báo giá và đánh giá rủi ro. Khi dùng kết quả này để quyết định mua, bán, doanh nghiệp cần kiểm tra được căn cứ của dự báo.",
-      "title_en": "Potential of AI to support export businesses in price assessment",
+      "title_en": "AI's potential to support exporters in price assessment",
       "title_vi": "Tiềm năng AI hỗ trợ doanh nghiệp xuất khẩu nhận định giá"
-    },
-    {
-      "title": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
-      "link": "https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-19 15:23",
-      "summary": "Article URL: https://www.gadgetreview.com/wife-of-senior-nvidia-executive-caught-up-in-alleged-ai-chip-smuggling-scandal Comments URL: https://news.ycombinator.com/item?id=50557420 Points: 32 # Commen",
-      "title_en": "Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal",
-      "title_vi": "Vợ của giám đốc cấp cao Nvidia dính líu vụ bê bối buôn lậu chip AI bị cáo buộc"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-19 06:17",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "title_en": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "title_vi": "CEO Microsoft Satya Nadella vẫn tin tưởng vào Nvidia sau sự ra đi của Huang"
     }
   ],
   "other": [
     {
-      "title": "Giữa làn sóng AI, 'Human' được chọn là từ của năm 2026",
-      "link": "https://genk.vn/giua-lan-song-ai-human-duoc-chon-la-tu-cua-nam-2026-165261120084606474.chn",
+      "title": "Apple âm thầm phát triển trợ lý AI vượt xa Siri",
+      "link": "https://thanhnien.vn/apple-am-tham-phat-trien-tro-ly-ai-vuot-xa-siri-185261121085020139.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-11-21 10:11",
+      "summary": "Sau nhiều năm phát triển Siri, Apple dường như đang hướng đến một thế hệ trợ lý AI có thể chủ động làm việc thay người dùng.",
+      "title_en": "Apple quietly developing AI assistant far beyond Siri",
+      "title_vi": "Apple âm thầm phát triển trợ lý AI vượt xa Siri"
+    },
+    {
+      "title": "Thử luyện bài tập gym trong 4 tuần được đo ni đóng giày bởi AI nhà Apple: Rất hay nhưng tôi ước có thêm những thứ này",
+      "link": "https://genk.vn/thu-luyen-bai-tap-gym-trong-4-tuan-duoc-do-ni-dong-giay-boi-ai-nha-apple-rat-hay-nhung-toi-uoc-co-them-nhung-thu-nay-1652611201656596.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-20 08:46",
-      "summary": "Từ điển Cambridge đã chọn 'Human' làm từ của năm 2026, phản ánh những lo ngại về trí tuệ nhân tạo và sự thay đổi trong cách nhìn nhận bản chất con người.",
-      "title_en": "Amid AI wave, 'Human' chosen as word of the year 2026",
-      "title_vi": "Giữa làn sóng AI, 'Human' được chọn là từ của năm 2026"
+      "pub_date": "2026-11-21 07:30",
+      "summary": "Một trong những điểm mới đáng thử trên iOS 27.3 Developer Beta là Gym Strength của ứng dụng Apple Fitness+.",
+      "title_en": "Tried 4 weeks of AI-personalized gym workouts from Apple: Great, but I wish it had these features",
+      "title_vi": "Thử luyện bài tập gym trong 4 tuần được đo ni đóng giày bởi AI nhà Apple: Rất hay nhưng tôi ước có thêm những thứ này"
     },
     {
-      "title": "Google phát hiện AI tự động biến bản vá lỗi thành vũ khí tấn công mạng",
-      "link": "https://genk.vn/google-phat-hien-ai-tu-dong-bien-ban-va-loi-thanh-vu-khi-tan-cong-mang-165261120075727933.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-20 08:17",
-      "summary": "Báo cáo mới của Google cho thấy tội phạm mạng đang dùng tác nhân AI (AI Agent) tự động phân tích bản cập nhật phần mềm để tạo mã tấn công chỉ trong vài ngày.",
-      "title_en": "Google discovers AI automatically turns patches into cyber attack weapons",
-      "title_vi": "Google phát hiện AI tự động biến bản vá lỗi thành vũ khí tấn công mạng"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-20 07:56",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "title_en": "Apple may be developing its own AI agent that runs your Mac",
-      "title_vi": "Apple có thể đang phát triển tác tử AI riêng chạy trên Mac của bạn"
-    },
-    {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "title": "AI may have solved the most important problem in mathematics",
+      "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-20 05:56",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 5",
-      "title_en": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "title_vi": "Tòa án: Tu chính án thứ tư không cho phép sử dụng 'căn cứ hợp lý' do AI tạo ra"
+      "pub_date": "2026-11-21 05:46",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points",
+      "title_en": "AI may have solved the most important problem in mathematics",
+      "title_vi": "AI có thể đã giải quyết được bài toán quan trọng nhất trong toán học"
     },
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge",
+      "title": "Giving its AI more to read made T-Mobile's answers worse",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkFBSlVzOThoelhDemE0Qkc3bzNvRjRCeVdQUkVKZGRaVVBxNkMxcE5pQ2RIRlhydFB1S0EzeDZxUFdKNnNtcThncUlBMVpBbndUN3ZHa2JtUk1YM2ZhUldrenBMTDRqd2pfTlJXWU5GWmdNWFdlangyMXBlMUQ5aFRCZC1kQmV6X2xxdWJEd05qZXBtUWFFVQ?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-20 05:31",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing s",
-      "title_en": "Apple is hiring engineers to build its own AI agent",
-      "title_vi": "Apple đang tuyển kỹ sư để xây dựng tác tử AI riêng"
+      "pub_date": "2026-11-21 04:51",
+      "summary": "Giving its AI more to read made T-Mobile's answers worse VentureBeat",
+      "title_en": "Giving its AI more to read made T-Mobile's answers worse",
+      "title_vi": "Cho AI đọc thêm tài liệu khiến câu trả lời của T-Mobile tệ hơn"
     },
     {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-21 04:47",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "title_en": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "title_vi": "Meta xem xét lại mục tiêu phát thải ròng bằng 0 vào năm 2030 giữa lúc lượng khí thải kỷ lục từ các trung tâm dữ liệu AI"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-21 03:59",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "title_vi": "Nhà nghiên cứu cài 2 triệu 'chim hoàng yến' vào chuỗi cung ứng AI. Một thảm họa về quyền riêng tư lộ ra."
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-20 04:58",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "title_en": "Meta’s new Muse Charm device may cost $300",
-      "title_vi": "Thiết bị Muse Charm mới của Meta có thể có giá 300 USD"
+      "pub_date": "2026-11-21 02:53",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "title_en": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "title_vi": "Daniel Ek hậu thuẫn công ty khởi nghiệp năng lượng nhiệt hạch của nhà nghiên cứu AI. Đây là những gì họ đang xây dựng."
     },
     {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-20 04:42",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "title_en": "These tech outages are giving Y2K, AI agent style",
-      "title_vi": "Các sự cố công nghệ này giống như Y2K, kiểu tác tử AI"
-    },
-    {
-      "title": "Meta’s Muse Charm might cost $300",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-20 03:22",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earli",
-      "title_en": "Meta’s Muse Charm might cost $300",
-      "title_vi": "Muse Charm của Meta có thể có giá 300 USD"
+      "pub_date": "2026-11-21 02:32",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "title_en": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title_vi": "AI tuyên bố giải được giả thuyết Riemann 167 năm tuổi — và con người cũng vậy"
     }
   ]
 }

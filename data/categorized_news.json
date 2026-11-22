@@ -1,37 +1,47 @@
 {
   "headline": [
     {
-      "title": "Tiết lộ mới về ChatGPT Phone",
-      "link": "https://dantri.com.vn/cong-nghe/tiet-lo-moi-ve-chatgpt-phone-20261120175644935.htm",
-      "source": "Dân trí",
-      "lang": "vi",
-      "pub_date": "2026-11-21 06:57",
-      "summary": "(Dân trí) - ChatGPT Phone, chiếc điện thoại do OpenAI phát triển, được kỳ vọng sẽ lên kệ vào cuối năm 2027 hoặc đầu năm 2028.",
-      "title_en": "New details revealed about ChatGPT Phone",
-      "title_vi": "Tiết lộ mới về ChatGPT Phone"
-    },
-    {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "source": "The Verge",
       "lang": "en",
-      "pub_date": "2026-11-20 23:34",
-      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded ",
-      "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "title_vi": "Nhà toán học của Anthropic tuyên bố đã giải được bài toán Thiên niên kỷ danh giá với Claude"
+      "pub_date": "2026-11-21 22:00",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public ",
+      "title_en": "Can Anthropic afford to put safety first?",
+      "title_vi": "Anthropic có đủ khả năng đặt an toàn lên hàng đầu không?"
     },
     {
-      "title": "Đối đầu Anthropic, Microsoft ra mắt 7 mô hình AI mới, chi phí thấp hơn tới 95%",
-      "link": "https://genk.vn/doi-dau-anthropic-microsoft-ra-mat-7-mo-hinh-ai-moi-chi-phi-thap-hon-toi-95-165261120214407864.chn",
+      "title": "Chuyên gia Anthropic dự đoán AI sẽ vượt trí tuệ con người vào năm 2027",
+      "link": "https://thanhnien.vn/chuyen-gia-anthropic-du-doan-ai-se-vuot-tri-tue-con-nguoi-vao-nam-2027-185261121082943197.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-11-21 14:54",
+      "summary": "AI có thể vượt trí tuệ con người vào năm 2027, kéo theo nguy cơ hàng loạt công việc biến mất, theo cảnh báo từ nhà nghiên cứu Anthropic.",
+      "title_en": "Anthropic expert predicts AI will surpass human intelligence by 2027",
+      "title_vi": "Chuyên gia Anthropic dự đoán AI sẽ vượt trí tuệ con người vào năm 2027"
+    },
+    {
+      "title": "Sau 167 năm chưa có lời giải, bài toán Riemann trị giá 1 triệu USD đã được giải quyết bằng Claude AI",
+      "link": "https://genk.vn/sau-167-nam-chua-co-loi-giai-bai-toan-riemann-tri-gia-1-trieu-usd-da-duoc-giai-quyet-bang-claude-ai-165261121130602649.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-20 21:44",
-      "summary": "Microsoft tung 7 mô hình AI mới, tuyên bố đạt hiệu năng gần Claude nhưng chi phí lập trình chỉ bằng 5%.",
-      "title_en": "Against Anthropic, Microsoft launches 7 new AI models with up to 95% lower costs",
-      "title_vi": "Đối đầu Anthropic, Microsoft ra mắt 7 mô hình AI mới, chi phí thấp hơn tới 95%"
+      "pub_date": "2026-11-21 13:06",
+      "summary": "Một nhà toán học Anthropic tuyên bố đã tìm ra lời giải cho Giả thuyết Riemann nhờ Claude, bài toán tồn tại suốt 167 năm.",
+      "title_en": "After 167 years unsolved, the $1 million Riemann problem has been solved by Claude AI",
+      "title_vi": "Sau 167 năm chưa có lời giải, bài toán Riemann trị giá 1 triệu USD đã được giải quyết bằng Claude AI"
     }
   ],
   "product": [
+    {
+      "title": "Even the fastest AI clusters can be held back by their release pipelines",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWJTNGE1U0FkbGtMQjFiS19jZ25xZU91dEV0Qk5BeHhVQm45NFNlMllxNXZkMkpfWUY5TWRDTDZYX3c4VlI4TWp3YlBFR1pWT0lOZk0yRVBDUHY2V2t4VGQ2d09Ud0ZnNU9DRDRCWnBPbnZmTFRiXzlWUEU0MmJqRTNhSjFMUGVjVVFJUE5GWnBCM1VCQjhtQldiM1ZJaVA1RFpkSjNldnBKVF9ZSDR3?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-22 05:30",
+      "summary": "Even the fastest AI clusters can be held back by their release pipelines VentureBeat",
+      "title_en": "Even the fastest AI clusters can be held back by their release pipelines",
+      "title_vi": "Ngay cả các cụm AI nhanh nhất cũng có thể bị kìm hãm bởi quy trình phát hành của chúng"
+    },
     {
       "title": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjQ5c0hsZDBTcWxGNUVxN0phZDdwRGhzTk1nWWEzZTdOSVpVT2h2WlI3OUVfeVZVMWt4eTFTQXFGZ1hoM1dMS2puekZ1YVYzSWV0aHMtYkVkNUpKdEJtaHlTRE9NRE5YZHRWbDk2YVZPVmdrOXN6cmJGbnFlcWxGODhZTVdaRGJ0aF9icTYwamtYakRaTFY0bGo4dHJMY21mRFFGTjNxYWkzN1J2d2tFX1g4Wk5US25oU0ZKTHoxSlU1dW9qODFRNEYyRTlaQm1aWmhIU05rMzJ4bmN5X1E?oc=5",
@@ -40,7 +50,7 @@
       "pub_date": "2026-11-21 07:51",
       "summary": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available VentureBeat",
       "title_en": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
-      "title_vi": "Amazon cho biết các tác nhân AI của kẻ tấn công đã tìm và khai thác lỗ hổng zero-day trong 11 phút, nhưng chưa có bản vá"
+      "title_vi": "Amazon cho biết các tác nhân AI của kẻ tấn công đã tìm và khai thác lỗ hổng zero-day trong 11 phút, nhưng chưa có bản vá phát hành"
     },
     {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -50,7 +60,7 @@
       "pub_date": "2026-11-21 04:58",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "title_en": "Google rolls out new search homepage with AI chat history and no search button",
-      "title_vi": "Google ra mắt trang chủ tìm kiếm mới với lịch sử chat AI và không có nút tìm kiếm"
+      "title_vi": "Google tung ra trang chủ tìm kiếm mới với lịch sử trò chuyện AI và không có nút tìm kiếm"
     },
     {
       "title": "The most misunderstood graph in AI just got a major update",
@@ -60,27 +70,17 @@
       "pub_date": "2026-11-21 01:15",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t",
       "title_en": "The most misunderstood graph in AI just got a major update",
-      "title_vi": "Đồ thị bị hiểu lầm nhất trong AI vừa có bản cập nhật lớn"
+      "title_vi": "Biểu đồ bị hiểu lầm nhất trong AI vừa có bản cập nhật lớn"
     },
     {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-20 21:00",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "title_en": "Six AI-powered gadgets that could make your home office smarter",
-      "title_vi": "Sáu thiết bị hỗ trợ AI có thể giúp văn phòng tại nhà của bạn thông minh hơn"
-    },
-    {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "Hugging Face",
-      "lang": "en",
-      "pub_date": "2026-11-20 07:00",
-      "summary": "",
-      "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "title_vi": "Giới thiệu bộ điều hợp harness: điều chỉnh mô hình yêu thích của bạn cho harness để cải thiện hiệu suất và chi phí"
+      "title": "Đối đầu Anthropic, Microsoft ra mắt 7 mô hình AI mới, chi phí thấp hơn tới 95%",
+      "link": "https://genk.vn/doi-dau-anthropic-microsoft-ra-mat-7-mo-hinh-ai-moi-chi-phi-thap-hon-toi-95-165261120214407864.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-20 21:44",
+      "summary": "Microsoft tung 7 mô hình AI mới, tuyên bố đạt hiệu năng gần Claude nhưng chi phí lập trình chỉ bằng 5%.",
+      "title_en": "Rivaling Anthropic, Microsoft launches 7 new AI models, with costs up to 95% lower",
+      "title_vi": "Đối đầu Anthropic, Microsoft ra mắt 7 mô hình AI mới, chi phí thấp hơn tới 95%"
     }
   ],
   "funding": [
@@ -90,49 +90,9 @@
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-11-21 04:18",
-      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 44 # Co",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90 Comments URL: https://news.ycombinator.com/item?id=50582280 Points: 66 # Co",
       "title_en": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-      "title_vi": "IPO thất bại của Anthropic làm trầm trọng thêm đợt bán tháo 4 nghìn tỷ USD cổ phiếu AI trên Phố Wall"
-    },
-    {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-20 20:29",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 192 # Comments: 2",
-      "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "title_vi": "Thị trường chứng khoán toàn cầu lao dốc khi IPO kỷ lục của Anthropic không ngăn được làn sóng bán tháo cổ phiếu AI"
-    },
-    {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-20 07:43",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "title_vi": "7 nhà sáng lập Anthropic thu về gần 2 tỷ USD trong IPO phá kỷ lục"
-    },
-    {
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-20 02:10",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "title_en": "Anthropic’s IPO could deliver $156B to charity",
-      "title_vi": "IPO của Anthropic có thể mang lại 156 tỷ USD cho từ thiện"
-    },
-    {
-      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-      "link": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-20 01:42",
-      "summary": "Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 51 # Comments: 36",
-      "title_en": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-      "title_vi": "Không có gói cứu trợ cho bong bóng AI, những người biểu tình phản đối IPO của Anthropic nói"
+      "title_vi": "Thất bại IPO của Anthropic làm sâu thêm cuộc xóa sổ 4 nghìn tỷ đô la AI trên Phố Wall"
     }
   ],
   "research": [
@@ -145,19 +105,19 @@
       "summary": "Tọa đàm ngày 8/12 tại Hà Nội sẽ thảo luận cách AI hỗ trợ bác sĩ chẩn đoán, lập kế hoạch điều trị và những điều kiện để ứng dụng công nghệ tại Việt Nam.",
       "title_en": "Scientists discuss AI applications in healthcare at VinFuture 2026",
       "title_vi": "Nhà khoa học bàn ứng dụng AI trong y tế tại VinFuture 2026"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-11-20 07:00",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "title_vi": "Hebbia ghi nhận cải thiện trong nghiên cứu tài chính với GPT-6 Astra"
     }
   ],
   "industry": [
+    {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "link": "https://www.pandex.io",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-22 03:47",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 39 # Comments: 7",
+      "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+      "title_vi": "Pandex – Luật châu Âu chính thức cho các tác nhân AI, qua MCP"
+    },
     {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
       "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
@@ -166,7 +126,7 @@
       "pub_date": "2026-11-21 01:50",
       "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applicati",
       "title_en": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "title_vi": "Trump đe dọa áp 'thuế khổng lồ' nếu chuyển trung tâm dữ liệu AI ra khỏi Mỹ"
+      "title_vi": "Trump đe dọa áp thuế 'khổng lồ' đối với việc di chuyển các trung tâm dữ liệu AI ra khỏi Mỹ"
     },
     {
       "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
@@ -176,7 +136,7 @@
       "pub_date": "2026-11-20 21:55",
       "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
       "title_en": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "title_vi": "Hậu quả từ vụ bê bối của Jensen Huang tại Nvidia vẫn tiếp diễn"
+      "title_vi": "Hậu quả từ vụ bê bối Jensen Huang của Nvidia vẫn tiếp diễn"
     },
     {
       "title": "Nvidia ngừng xuất khẩu chip AI H200 sang Trung Quốc",
@@ -187,108 +147,88 @@
       "summary": "Nvidia xác nhận đang tạm dừng các lô hàng chip H200 tới Trung Quốc, khép lại thỏa thuận từng đi kèm mức thuế xuất khẩu 25% của Mỹ.",
       "title_en": "Nvidia stops exporting H200 AI chips to China",
       "title_vi": "Nvidia ngừng xuất khẩu chip AI H200 sang Trung Quốc"
-    },
-    {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-20 04:59",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hoveri",
-      "title_en": "A brief history of Nvidia’s recent stock fluctuations",
-      "title_vi": "Lịch sử ngắn gọn về những biến động cổ phiếu gần đây của Nvidia"
-    },
-    {
-      "title": "Tiềm năng AI hỗ trợ doanh nghiệp xuất khẩu nhận định giá",
-      "link": "https://dantri.com.vn/khoa-hoc/tiem-nang-ai-ho-tro-doanh-nghiep-xuat-khau-nhan-dinh-gia-20261119181751672.htm",
-      "source": "Dân trí",
-      "lang": "vi",
-      "pub_date": "2026-11-19 18:40",
-      "summary": "(Dân trí) - Từ dữ liệu cung cầu, AI có thể hỗ trợ doanh nghiệp dự báo giá và đánh giá rủi ro. Khi dùng kết quả này để quyết định mua, bán, doanh nghiệp cần kiểm tra được căn cứ của dự báo.",
-      "title_en": "AI's potential to support exporters in price assessment",
-      "title_vi": "Tiềm năng AI hỗ trợ doanh nghiệp xuất khẩu nhận định giá"
     }
   ],
   "other": [
     {
-      "title": "Apple âm thầm phát triển trợ lý AI vượt xa Siri",
-      "link": "https://thanhnien.vn/apple-am-tham-phat-trien-tro-ly-ai-vuot-xa-siri-185261121085020139.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-21 10:11",
-      "summary": "Sau nhiều năm phát triển Siri, Apple dường như đang hướng đến một thế hệ trợ lý AI có thể chủ động làm việc thay người dùng.",
-      "title_en": "Apple quietly developing AI assistant far beyond Siri",
-      "title_vi": "Apple âm thầm phát triển trợ lý AI vượt xa Siri"
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-22 04:37",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "title_vi": "Signal hạn chế chụp màn hình trên di động khi đối mặt với 'mối đe dọa hiện hữu' từ giám sát AI"
     },
     {
-      "title": "Thử luyện bài tập gym trong 4 tuần được đo ni đóng giày bởi AI nhà Apple: Rất hay nhưng tôi ước có thêm những thứ này",
-      "link": "https://genk.vn/thu-luyen-bai-tap-gym-trong-4-tuan-duoc-do-ni-dong-giay-boi-ai-nha-apple-rat-hay-nhung-toi-uoc-co-them-nhung-thu-nay-1652611201656596.chn",
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-22 04:07",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "title_en": "A tale of two Nvidias",
+      "title_vi": "Chuyện về hai Nvidia"
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-22 03:03",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
+      "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
+      "title_vi": "Liên Hợp Quốc không đạt được thỏa thuận về quy tắc quản lý 'robot sát thủ'"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-22 00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "title_en": "Here are the top AI agents that can live in your text messages",
+      "title_vi": "Đây là những tác nhân AI hàng đầu có thể sống trong tin nhắn văn bản của bạn"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-21 23:00",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "title_en": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "title_vi": "Bán phiên bản AI của khuôn mặt bạn cho startup phim ngắn này có phải là tương lai của Hollywood không?"
+    },
+    {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-21 21:00",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahj",
+      "title_en": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "title_vi": "Bước đi tiếp theo của Chess.com là trung tâm mới cho các trò chơi cổ điển, từ mạt chược đến sudoku"
+    },
+    {
+      "title": "Tìm ảnh cưới, lên plan du lịch, làm slide và cả website tương tác: OPPO AI trên ColorOS 17 giúp gì cho người bận rộn?",
+      "link": "https://genk.vn/tim-anh-cuoi-len-plan-du-lich-lam-slide-va-ca-website-tuong-tac-oppo-ai-tren-coloros-17-giup-gi-cho-nguoi-ban-ron-165261121191429949.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-21 07:30",
-      "summary": "Một trong những điểm mới đáng thử trên iOS 27.3 Developer Beta là Gym Strength của ứng dụng Apple Fitness+.",
-      "title_en": "Tried 4 weeks of AI-personalized gym workouts from Apple: Great, but I wish it had these features",
-      "title_vi": "Thử luyện bài tập gym trong 4 tuần được đo ni đóng giày bởi AI nhà Apple: Rất hay nhưng tôi ước có thêm những thứ này"
+      "pub_date": "2026-11-21 20:13",
+      "summary": "Từ tìm ảnh đám cưới đến chuẩn bị bài học tương tác, AI trên OPPO Find X10 Pro Max hướng tới việc giảm thao tác bằng những yêu cầu quen thuộc, dễ diễn đạt.",
+      "title_en": "Find wedding photos, plan trips, make slides and even interactive websites: How does OPPO AI on ColorOS 17 help busy people?",
+      "title_vi": "Tìm ảnh cưới, lên plan du lịch, làm slide và cả website tương tác: OPPO AI trên ColorOS 17 giúp gì cho người bận rộn?"
     },
     {
-      "title": "AI may have solved the most important problem in mathematics",
-      "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-21 05:46",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points",
-      "title_en": "AI may have solved the most important problem in mathematics",
-      "title_vi": "AI có thể đã giải quyết được bài toán quan trọng nhất trong toán học"
-    },
-    {
-      "title": "Giving its AI more to read made T-Mobile's answers worse",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkFBSlVzOThoelhDemE0Qkc3bzNvRjRCeVdQUkVKZGRaVVBxNkMxcE5pQ2RIRlhydFB1S0EzeDZxUFdKNnNtcThncUlBMVpBbndUN3ZHa2JtUk1YM2ZhUldrenBMTDRqd2pfTlJXWU5GWmdNWFdlangyMXBlMUQ5aFRCZC1kQmV6X2xxdWJEd05qZXBtUWFFVQ?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-21 04:51",
-      "summary": "Giving its AI more to read made T-Mobile's answers worse VentureBeat",
-      "title_en": "Giving its AI more to read made T-Mobile's answers worse",
-      "title_vi": "Cho AI đọc thêm tài liệu khiến câu trả lời của T-Mobile tệ hơn"
-    },
-    {
-      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-21 04:47",
-      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-      "title_en": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-      "title_vi": "Meta xem xét lại mục tiêu phát thải ròng bằng 0 vào năm 2030 giữa lúc lượng khí thải kỷ lục từ các trung tâm dữ liệu AI"
-    },
-    {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-21 03:59",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "title_vi": "Nhà nghiên cứu cài 2 triệu 'chim hoàng yến' vào chuỗi cung ứng AI. Một thảm họa về quyền riêng tư lộ ra."
-    },
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-21 02:53",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "title_en": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "title_vi": "Daniel Ek hậu thuẫn công ty khởi nghiệp năng lượng nhiệt hạch của nhà nghiên cứu AI. Đây là những gì họ đang xây dựng."
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-21 02:32",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "title_en": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "title_vi": "AI tuyên bố giải được giả thuyết Riemann 167 năm tuổi — và con người cũng vậy"
+      "title": "Cách nhận biết hình ảnh AI giả đang lan truyền trên mạng xã hội",
+      "link": "https://genk.vn/cach-nhan-biet-hinh-anh-ai-gia-dang-lan-truyen-tren-mang-xa-hoi-165261121132558691.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-21 13:25",
+      "summary": "Kiểm tra các chi tiết trong ảnh, sử dụng công cụ nhận diện và tìm nguồn xuất hiện ban đầu là những cách giúp hạn chế chia sẻ thông tin sai lệch về hình ảnh AI.",
+      "title_en": "How to recognize fake AI images spreading on social media",
+      "title_vi": "Cách nhận biết hình ảnh AI giả đang lan truyền trên mạng xã hội"
     }
   ]
 }

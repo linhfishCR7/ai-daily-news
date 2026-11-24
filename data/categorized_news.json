@@ -1,6 +1,80 @@
 {
   "headline": [
     {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-24 05:05",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title_vi": "Anthropic ra mắt Claude Ship, cho phép tác nhân AI xem xét, sửa lỗi và phê duyệt thay đổi mã"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "pub_date": "2026-11-24 04:30",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "title_vi": "Các bang kiện SpaceX để ngăn Grok tạo ra hình ảnh lạm dụng tình dục trẻ em và khiêu dâm trả thù"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "lang": "en",
+      "pub_date": "2026-11-24 04:20",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "title_en": "OpenAI and Cisco introduce Shirudo",
+      "title_vi": "OpenAI và Cisco giới thiệu Shirudo"
+    }
+  ],
+  "product": [
+    {
+      "title": "Vivo V80 - smartphone với nhiều tính năng AI cho camera",
+      "link": "https://vnexpress.net/vivo-v80-smartphone-voi-nhieu-tinh-nang-ai-cho-camera-5147934.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-23 16:42",
+      "summary": "Vivo V80 có thiết kế mặt lưng dùng hiệu ứng 3D chuyển màu, camera và chế độ chụp chân dung hợp tác với Zeiss cùng nhiều tính năng giả lập ánh sáng bằng AI.",
+      "title_en": "Vivo V80 - smartphone with many AI features for the camera",
+      "title_vi": "Vivo V80 - smartphone với nhiều tính năng AI cho camera"
+    },
+    {
+      "title": "Google tung tính năng mới cho người dùng Gemini miễn phí",
+      "link": "https://thanhnien.vn/google-tung-tinh-nang-moi-cho-nguoi-dung-gemini-mien-phi-185261122154912566.htm",
+      "source": "Thanh Niên",
+      "lang": "vi",
+      "pub_date": "2026-11-22 18:22",
+      "summary": "Tính năng mới của Gemini sử dụng mô hình Omni 1.2 Flash, có khả năng tạo ảnh động khoảng 3 giây và hỗ trợ phát lặp liên tục.",
+      "title_en": "Google releases new feature for free Gemini users",
+      "title_vi": "Google tung tính năng mới cho người dùng Gemini miễn phí"
+    }
+  ],
+  "funding": [
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-24 05:02",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "title_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "title_vi": "Supertake huy động 20 triệu USD để tác nhân AI biến dự đoán thị trường của bạn thành danh mục cổ phiếu"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-23 21:43",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "title_en": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "title_vi": "Sierra tăng gấp đôi định giá lên 30 tỷ USD trong vòng sáu tháng khi nhu cầu AI trong CX tăng mạnh"
+    },
+    {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
       "source": "TechCrunch",
@@ -9,155 +83,152 @@
       "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "title_vi": "Cách Notable Capital, GIC và Baillie Gifford đặt cược lớn vào Anthropic trước IPO"
-    },
-    {
-      "title": "ChatGPT ra mắt ChatGPT for Sales: OpenAI đang tham vọng trở thành \"bộ não vận hành\" mới của doanh nghiệp",
-      "link": "https://genk.vn/chatgpt-ra-mat-chatgpt-for-sales-openai-dang-tham-vong-tro-thanh-bo-nao-van-hanh-moi-cua-doanh-nghiep-165261123070208435.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-23 08:01",
-      "summary": "Với màn ra mắt ChatGPT for Sales tích hợp sâu với hơn 30 phần mềm cốt lõi, OpenAI đang gửi đi một thông điệp rõ ràng: Trong kỷ nguyên AI, mô hình thông minh nhất chưa chắc đã thắng, mà kẻ nắm giữ \"kết",
-      "title_en": "ChatGPT launches ChatGPT for Sales: OpenAI aims to become the new \"operating brain\" for enterprises",
-      "title_vi": "ChatGPT ra mắt ChatGPT for Sales: OpenAI đang tham vọng trở thành \"bộ não vận hành\" mới của doanh nghiệp"
-    },
-    {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-23 04:14",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "title_en": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "title_vi": "Nhà khoa học trưởng của OpenAI có suy nghĩ về cách giới hạn phát triển AI"
     }
   ],
-  "product": [
-    {
-      "title": "Google tung tính năng mới cho người dùng Gemini miễn phí",
-      "link": "https://thanhnien.vn/google-tung-tinh-nang-moi-cho-nguoi-dung-gemini-mien-phi-185261122154912566.htm",
-      "source": "Thanh Niên",
-      "lang": "vi",
-      "pub_date": "2026-11-22 18:22",
-      "summary": "Tính năng mới của Gemini sử dụng mô hình Omni 1.2 Flash, có khả năng tạo ảnh động khoảng 3 giây và hỗ trợ phát lặp liên tục.",
-      "title_en": "Google rolls out new features for free Gemini users",
-      "title_vi": "Google tung tính năng mới cho người dùng Gemini miễn phí"
-    },
-    {
-      "title": "Even the fastest AI clusters can be held back by their release pipelines",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWJTNGE1U0FkbGtMQjFiS19jZ25xZU91dEV0Qk5BeHhVQm45NFNlMllxNXZkMkpfWUY5TWRDTDZYX3c4VlI4TWp3YlBFR1pWT0lOZk0yRVBDUHY2V2t4VGQ2d09Ud0ZnNU9DRDRCWnBPbnZmTFRiXzlWUEU0MmJqRTNhSjFMUGVjVVFJUE5GWnBCM1VCQjhtQldiM1ZJaVA1RFpkSjNldnBKVF9ZSDR3?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-22 05:30",
-      "summary": "Even the fastest AI clusters can be held back by their release pipelines VentureBeat",
-      "title_en": "Even the fastest AI clusters can be held back by their release pipelines",
-      "title_vi": "Ngay cả các cụm AI nhanh nhất cũng có thể bị kìm hãm bởi pipeline phát hành"
-    }
-  ],
-  "funding": [],
   "research": [
     {
-      "title": "Nhà nghiên cứu Anthropic: AI có thể khiến gần như toàn nhân loại thất nghiệp vĩnh viễn",
-      "link": "https://genk.vn/nha-nghien-cuu-anthropic-ai-co-the-khien-gan-nhu-toan-nhan-loai-that-nghiep-vinh-vien-165261122142853487.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-22 14:28",
-      "summary": "Tao Lin dự đoán AI vượt trình độ chuyên gia hàng đầu trong hầu hết lĩnh vực có thể xuất hiện vào cuối năm 2027.",
-      "title_en": "Anthropic researcher: AI could cause permanent unemployment for nearly all humanity",
-      "title_vi": "Nhà nghiên cứu Anthropic: AI có thể khiến gần như toàn nhân loại thất nghiệp vĩnh viễn"
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "link": "https://0rwx.com/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-23 06:53",
+      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 69 # Comments: 17",
+      "title_en": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "title_vi": "0rwx – Mô hình đơn giản về việc sử dụng AI, lấy cảm hứng từ quyền hạn Unix"
     }
   ],
   "industry": [
     {
-      "title": "Thách thức thế độc tôn của NVIDIA: Hãng chip Trung Quốc vừa hé lộ card đồ họa có dung lượng VRAM lớn nhất lịch sử phân khúc tiêu dùng, có khả năng tự chạy siêu mô hình AI ngay tại nhà",
-      "link": "https://genk.vn/thach-thuc-the-doc-ton-cua-nvidia-hang-chip-trung-quoc-vua-he-lo-card-do-hoa-co-dung-luong-vram-lon-nhat-lich-su-phan-khuc-tieu-dung-co-kha-nang-tu-chay-sieu-mo-hinh-ai-ngay-tai-nha-165261123071224258.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-23 09:01",
-      "summary": "Giữa bối cảnh nguồn cung phần cứng bị siết chặt, hãng bán dẫn Trung Quốc Moore Threads vừa tung ra card đồ hoạ Lushan với tuyên bố sở hữu bộ nhớ VRAM chưa từng có trên dòng card đồ họa phổ thông, sản ",
-      "title_en": "Challenging NVIDIA's monopoly: Chinese chipmaker unveils graphics card with largest VRAM in consumer history, capable of running super AI models at home",
-      "title_vi": "Thách thức thế độc tôn của NVIDIA: Hãng chip Trung Quốc vừa hé lộ card đồ họa có dung lượng VRAM lớn nhất lịch sử phân khúc tiêu dùng, có khả năng tự chạy siêu mô hình AI ngay tại nhà"
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-24 05:25",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new real",
+      "title_en": "Trump engineered a risky comeback for Jensen Huang",
+      "title_vi": "Trump dàn dựng màn tái xuất đầy rủi ro cho Jensen Huang"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-24 05:10",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, af",
+      "title_en": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "title_vi": "CEO Nvidia Jensen Huang đã trở lại. Chuyện gì xảy ra tiếp theo?"
+    },
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-24 04:47",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "title_en": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "title_vi": "Elon Musk và những người khác vui mừng khi Jensen Huang được phục chức tại Nvidia giữa bê bối"
+    },
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-24 03:38",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "title_en": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "title_vi": "Nhân viên Nvidia chào đón Jensen Huang như người hùng khi ông trở lại trụ sở công ty"
+    },
+    {
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-24 02:57",
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role o",
+      "title_en": "How Jensen Huang ended up as Nvidia CEO again",
+      "title_vi": "Làm thế nào Jensen Huang lại trở thành CEO Nvidia"
     }
   ],
   "other": [
     {
-      "title": "Mặt trái khi chia tay 'người tình AI'",
-      "link": "https://vnexpress.net/mat-trai-khi-chia-tay-nguoi-tinh-ai-5147801.html",
+      "title": "Bài toán khó nhất thế giới thổi bùng cuộc đọ sức giữa con người và AI",
+      "link": "https://vnexpress.net/bai-toan-kho-nhat-the-gioi-thoi-bung-cuoc-do-suc-giua-con-nguoi-va-ai-5148183.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-23 10:00",
-      "summary": "Nhiều người hình thành mối quan hệ tình cảm với ChatGPT hay Gemini, và khi sự gắn bó kết thúc, cảm giác có thể đau đớn như một cuộc chia tay ngoài đời.",
-      "title_en": "The downside of breaking up with your 'AI lover'",
-      "title_vi": "Mặt trái khi chia tay 'người tình AI'"
+      "pub_date": "2026-11-24 12:00",
+      "summary": "Tranh cãi xoay quanh AI tiếp tục nổ ra khi Anthropic thông báo tìm ra cách chứng minh giả thuyết Riemann giữa lúc một nhà nghiên cứu khác chuẩn bị công bố lời giải.",
+      "title_en": "The world's hardest problem ignites showdown between humans and AI",
+      "title_vi": "Bài toán khó nhất thế giới thổi bùng cuộc đọ sức giữa con người và AI"
     },
     {
-      "title": "We haven’t seen the last of the major tech outages",
-      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "source": "The Verge",
+      "title": "Declare is a UI language for you and your AI",
+      "link": "https://davidtemkin.github.io/declarelang/",
+      "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-23 05:48",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus",
-      "title_en": "We haven’t seen the last of the major tech outages",
-      "title_vi": "Chúng ta chưa thấy lần cuối cùng của các sự cố công nghệ lớn"
+      "pub_date": "2026-11-24 09:36",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 30 # Comments: 14",
+      "title_en": "Declare is a UI language for you and your AI",
+      "title_vi": "Declare là ngôn ngữ giao diện cho bạn và AI của bạn"
     },
     {
-      "title": "Nữ kỹ sư đứng sau mô hình AI làm phim gây sốt ở Trung Quốc",
-      "link": "https://vnexpress.net/nu-ky-su-dung-sau-mo-hinh-ai-lam-phim-gay-sot-o-trung-quoc-5146432.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-23 05:00",
-      "summary": "Zeng Yan, 29 tuổi, là một trong những kỹ sư chủ chốt phát triển Seedance, mô hình tạo video của ByteDance được giới làm phim ngắn AI Trung Quốc ưa chuộng.",
-      "title_en": "The female engineer behind the viral AI filmmaking model in China",
-      "title_vi": "Nữ kỹ sư đứng sau mô hình AI làm phim gây sốt ở Trung Quốc"
-    },
-    {
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-23 01:08",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "title_en": "Why data centers are at the center of the Big Tech backlash",
-      "title_vi": "Vì sao các trung tâm dữ liệu là tâm điểm của làn sóng phản đối Big Tech"
-    },
-    {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-23 00:25",
-      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff d",
-      "title_en": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "title_vi": "Nhà phát triển Binding of Isaac loại bỏ nhạc AI khỏi Repentance Plus"
-    },
-    {
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-22 20:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscriber",
-      "title_en": "The vibe-coding revolution is coming to all the gadgets",
-      "title_vi": "Cuộc cách mạng vibe-coding đang đến với mọi thiết bị"
-    },
-    {
-      "title": "Google bắt tay với ông chủ của Amazon để \"phóng\" các cụm máy chủ AI lên vũ trụ, đối đầu trực tiếp với tham vọng của Elon Musk",
-      "link": "https://genk.vn/google-bat-tay-voi-ong-chu-cua-amazon-de-phong-cac-cum-may-chu-ai-len-vu-tru-doi-dau-truc-tiep-voi-tham-vong-cua-elon-musk-165261122165711041.chn",
+      "title": "Cảnh báo rủi ro lộ dữ liệu từ nhân viên sử dụng AI",
+      "link": "https://genk.vn/canh-bao-rui-ro-lo-du-lieu-tu-nhan-vien-su-dung-ai-16526112408251213.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-22 17:56",
-      "summary": "Trong bối cảnh các trung tâm dữ liệu trên mặt đất ngày càng \"ngốn\" điện và cạn kiệt quỹ đất, Google đã chính thức ký thỏa thuận với công ty hàng không vũ trụ Blue Origin để phóng các cụm máy chủ AI lê",
-      "title_en": "Google teams up with Amazon's owner to launch AI server clusters into space, directly challenging Elon Musk's ambitions",
-      "title_vi": "Google bắt tay với ông chủ của Amazon để \"phóng\" các cụm máy chủ AI lên vũ trụ, đối đầu trực tiếp với tham vọng của Elon Musk"
+      "pub_date": "2026-11-24 08:25",
+      "summary": "Nhân viên sử dụng AI để giải quyết công việc nhanh hơn có thể vô tình làm lộ dữ liệu nhạy cảm, ngay cả khi không có ý định gây hại.",
+      "title_en": "Warning about data exposure risks from employees using AI",
+      "title_vi": "Cảnh báo rủi ro lộ dữ liệu từ nhân viên sử dụng AI"
     },
     {
-      "title": "Apple bí mật phát triển trợ lý AI tự điều khiển máy tính",
-      "link": "https://vnexpress.net/apple-bi-mat-phat-trien-tro-ly-ai-tu-dieu-khien-may-tinh-5147686.html",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-24 05:09",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made",
+      "title_en": "Welcome to elite impunity, Jensen Huang",
+      "title_vi": "Chào mừng đến với sự miễn trừ dành cho giới tinh hoa, Jensen Huang"
+    },
+    {
+      "title": "Thế giới chưa sẵn sàng cho những 'cú sốc' thời AI",
+      "link": "https://vnexpress.net/the-gioi-chua-san-sang-cho-nhung-cu-soc-thoi-ai-5146969.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-22 16:54",
-      "summary": "Apple được cho là đang phát triển trợ lý AI có thể thao tác trên máy tính giống con người như duyệt web, lập trình, làm việc với nhiều ứng dụng cùng lúc.",
-      "title_en": "Apple secretly developing AI assistant that can autonomously control computers",
-      "title_vi": "Apple bí mật phát triển trợ lý AI tự điều khiển máy tính"
+      "pub_date": "2026-11-24 05:00",
+      "summary": "Loạt sự cố từ Microsoft, Apple, ngân hàng, hàng không được đánh giá nghiêm trọng, nhưng phần lớn lại bắt nguồn từ nỗ lực ngăn ngừa rủi ro.",
+      "title_en": "The world is not ready for AI-era shocks",
+      "title_vi": "Thế giới chưa sẵn sàng cho những 'cú sốc' thời AI"
+    },
+    {
+      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-24 04:56",
+      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50619973 Points: 24 # Comments: 17",
+      "title_en": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "title_vi": "16 tuổi thành lập startup tên lửa AI. Mục tiêu của cậu là 'chi phí trên mỗi mục tiêu tiêu diệt'"
+    },
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-24 04:25",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "title_en": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "title_vi": "Megaspeed, công ty trung tâm của vụ bê bối Jensen Huang, có vẻ sắp bị đưa vào danh sách đen của Mỹ"
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge",
+      "lang": "en",
+      "pub_date": "2026-11-24 04:09",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with durin",
+      "title_en": "AI data centers throw another wrench into chaotic UN climate talks",
+      "title_vi": "Các trung tâm dữ liệu AI gây thêm trở ngại cho các cuộc đàm phán khí hậu LHQ vốn đã hỗn loạn"
     }
   ]
 }

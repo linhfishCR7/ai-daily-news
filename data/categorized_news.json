@@ -1,56 +1,46 @@
 {
   "headline": [
     {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-25 01:30",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "title_vi": "Cổ phiếu Anthropic rơi xuống dưới giá IPO, dấu hiệu đáng lo cho các startup AI"
-    },
-    {
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "source": "Google AI Blog",
-      "lang": "en",
-      "pub_date": "2026-11-24 23:00",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-      "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
-      "title_vi": "Gemini đang thay đổi cuộc chơi cho tổ chức và người hâm mộ Golden State như thế nào."
-    },
-    {
-      "title": "Microsoft mất cả thập kỷ đưa VS Code lên đỉnh, Claude Code chỉ cần 6 tháng để khiến nó lu mờ",
-      "link": "https://genk.vn/microsoft-mat-ca-thap-ky-dua-vs-code-len-dinh-claude-code-chi-can-6-thang-de-khien-no-lu-mo-165261124153533711.chn",
+      "title": "Nhân viên OpenAI và Anthropic lo ngại AI mới quá nguy hiểm, có thể bị lãnh đạo phớt lờ vì lợi nhuận",
+      "link": "https://genk.vn/nhan-vien-openai-va-anthropic-lo-ngai-ai-moi-qua-nguy-hiem-co-the-bi-lanh-dao-phot-lo-vi-loi-nhuan-165261125170044672.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-24 15:35",
-      "summary": "Microsoft đã dành hơn một thập kỷ biến VS Code thành công cụ quen thuộc của giới lập trình. Nhưng theo CEO Satya Nadella, sự xuất hiện của Claude Code khiến vai trò VS Code mờ đi chỉ trong khoảng sáu ",
-      "title_en": "Microsoft took a decade to make VS Code top-tier; Claude Code needed just 6 months to eclipse it",
-      "title_vi": "Microsoft mất cả thập kỷ đưa VS Code lên đỉnh, Claude Code chỉ cần 6 tháng để khiến nó lu mờ"
+      "pub_date": "2026-11-26 10:00",
+      "summary": "Nhiều nhân viên tại OpenAI và Anthropic được cho là lo ngại các mô hình AI chưa công bố đã trở nên quá mạnh, trong khi lãnh đạo các công ty có thể ưu tiên lợi nhuận hơn an toàn.",
+      "title_en": "OpenAI and Anthropic employees fear new AI is too dangerous, may be ignored by leadership for profit",
+      "title_vi": "Nhân viên OpenAI và Anthropic lo ngại AI mới quá nguy hiểm, có thể bị lãnh đạo phớt lờ vì lợi nhuận"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-26 03:03",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "title_en": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "title_vi": "OpenAI cho biết người dùng ChatGPT nặng có thể sớm gặp giới hạn khi hợp nhất Chat và Work"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-26 02:44",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel",
+      "title_en": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "title_vi": "Dario Amodei của Anthropic gọi cáo buộc từ bỏ quyền kiểm soát của con người cho AI là 'vô lý'"
     }
   ],
   "product": [
     {
-      "title": "Triều Tiên ra mắt chatbot AI nội địa đầu tiên",
-      "link": "https://genk.vn/trieu-tien-ra-mat-chatbot-ai-noi-dia-dau-tien-165261125095913361.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-25 09:59",
-      "summary": "TPO - Triều Tiên dường như đã ra mắt chatbot trí tuệ nhân tạo (AI) nội địa đầu tiên, một chương trình nghiên cứu có trụ sở tại Mỹ cho biết.",
-      "title_en": "North Korea launches first domestic AI chatbot",
-      "title_vi": "Triều Tiên ra mắt chatbot AI nội địa đầu tiên"
-    },
-    {
-      "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
-      "link": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
-      "source": "Hacker News",
+      "title": "Why the best defense against AI-powered payment fraud isn’t AI",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWY3YnVuRF82MTBRZERRQ0J3WVpHYXN2c3RKQWd6LVROMXVFdTdsdklMZ1FzTUNKQjREMEdYdlBYMzZSV2luZmdKTGpMSGZxdzlCTTVXYlZ5d2xFNHM0M2ZpcnVTN21mX2VXTzVyUDBaYjlUVXl0YWluRkhaRWpxRVBNYXZEbnFlS1czU3RPbGVpQXJTcmhDbmNR?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-25 00:46",
-      "summary": "Article URL: https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html Comments URL: https://news.ycombinator.com/item?id=50631691 Points: 22 # Comments: 28",
-      "title_en": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
-      "title_vi": "Nhân viên Anthropic và OpenAI lo ngại các mô hình AI chưa phát hành quá nguy hiểm để công bố"
+      "pub_date": "2026-11-25 23:52",
+      "summary": "Why the best defense against AI-powered payment fraud isn’t AI VentureBeat",
+      "title_en": "Why the best defense against AI-powered payment fraud isn’t AI",
+      "title_vi": "Tại sao biện pháp phòng thủ tốt nhất chống gian lận thanh toán do AI hỗ trợ không phải là AI"
     },
     {
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
@@ -61,26 +51,6 @@
       "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an emai",
       "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
       "title_vi": "The New York Times cảnh báo nhiếp ảnh gia không cập nhật Photoshop vì các tính năng AI"
-    },
-    {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-24 05:05",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "title_vi": "Anthropic ra mắt Claude Ship, cho phép các tác nhân AI xem xét, sửa lỗi và chấp thuận thay đổi mã"
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "link": "https://openai.com/index/introducing-shirudo",
-      "source": "OpenAI",
-      "lang": "en",
-      "pub_date": "2026-11-24 04:20",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "title_en": "OpenAI and Cisco introduce Shirudo",
-      "title_vi": "OpenAI và Cisco giới thiệu Shirudo"
     }
   ],
   "funding": [
@@ -92,31 +62,51 @@
       "pub_date": "2026-11-25 04:19",
       "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
       "title_en": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "title_vi": "Maple huy động 5,3 triệu USD để xây dựng các sản phẩm AI bảo vệ dữ liệu của bạn, ngay cả khỏi chính nó"
+      "title_vi": "Maple gọi vốn 5,3 triệu USD để xây dựng các sản phẩm AI bảo vệ dữ liệu của bạn, ngay cả khỏi chính nó"
     },
     {
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "source": "TechCrunch",
       "lang": "en",
-      "pub_date": "2026-11-24 22:51",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "title_vi": "Thương vụ mua Decart của Amazon là canh bạc dùng phần mềm để thu hẹp khoảng cách silicon với Nvidia"
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-24 05:02",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "title_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "title_vi": "Supertake huy động 20 triệu USD cho phép các tác nhân AI biến dự đoán thị trường của bạn thành danh mục cổ phiếu"
+      "pub_date": "2026-11-25 01:30",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "title_vi": "Cổ phiếu Anthropic giảm xuống dưới giá IPO, dấu hiệu đáng lo cho các startup AI"
     }
   ],
   "research": [],
   "industry": [
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-26 05:44",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "title_vi": "S&P xem xét hạ bậc tín nhiệm Nvidia vì rủi ro quản trị và 'người chủ chốt'"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-26 02:54",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "title_en": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "title_vi": "Jensen Huang vi phạm quy tắc ứng xử của Nvidia, và nhân viên của ông có thể không quên điều đó"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "pub_date": "2026-11-25 20:00",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurance",
+      "title_en": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "title_vi": "Những câu hỏi Jensen Huang và Nvidia vẫn phải trả lời về Megaspeed"
+    },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
@@ -125,7 +115,7 @@
       "pub_date": "2026-11-25 07:12",
       "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"",
       "title_en": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "title_vi": "Sonnenfeld của Yale: Nvidia là 'mối bất lợi' cho sức mạnh công nghiệp Mỹ — không phải nhà vô địch"
+      "title_vi": "Sonnenfeld của Yale: Nvidia là 'mối nguy hại' cho sức mạnh công nghiệp Mỹ — không phải nhà vô địch"
     },
     {
       "title": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
@@ -135,119 +125,89 @@
       "pub_date": "2026-11-25 03:41",
       "summary": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents VentureBeat",
       "title_en": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
-      "title_vi": "Thỏa thuận Zscaler của CrowdStrike nhằm trao cho đội ngũ an ninh một công tắc tắt duy nhất cho các tác nhân AI bất trị"
-    },
-    {
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "source": "The Verge",
-      "lang": "en",
-      "pub_date": "2026-11-25 03:02",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
-      "title_en": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "title_vi": "Jensen Huang được cho là đã nói với nhân viên Nvidia rằng 'không đúng' việc Trump đưa ông trở lại"
-    },
-    {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "pub_date": "2026-11-24 22:15",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
-      "title_en": "Raising the stakes for enterprise networks with AI modernization",
-      "title_vi": "Nâng tầm rủi ro cho mạng doanh nghiệp với hiện đại hóa AI"
-    },
-    {
-      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "pub_date": "2026-11-24 21:56",
-      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
-      "title_en": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-      "title_vi": "Cách Trump và Thung lũng Silicon buộc Nvidia đưa Jensen Huang trở lại"
+      "title_vi": "Thỏa thuận Zscaler của CrowdStrike nhằm cung cấp cho các đội an ninh một công tắc tắt duy nhất cho các tác nhân AI giả mạo"
     }
   ],
   "other": [
     {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-25 10:47",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 28 # Comments: 5",
-      "title_en": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "title_vi": "Tìm kiếm Marginalia, Tiền, C++, Rust, AI, Đủ thứ"
-    },
-    {
-      "title": "Máy chủ AI tăng giá đến 45% dù đã ký hợp đồng",
-      "link": "https://vnexpress.net/may-chu-ai-tang-gia-den-45-du-da-ky-hop-dong-5148227.html",
-      "source": "VnExpress",
-      "lang": "vi",
-      "pub_date": "2026-11-25 10:32",
-      "summary": "Tình trạng thiếu hụt DRAM khiến chi phí của máy chủ thiên về dung lượng RAM tăng gấp ba lần, buộc nhiều bên mua phải chấp nhận đội giá hàng chục phần trăm.",
-      "title_en": "AI server prices surge up to 45% even after contracts signed",
-      "title_vi": "Máy chủ AI tăng giá đến 45% dù đã ký hợp đồng"
-    },
-    {
-      "title": "Tất cả những ai đang xem phim AI trên Facebook, TikTok đặc biệt chú ý",
-      "link": "https://genk.vn/tat-ca-nhung-ai-dang-xem-phim-ai-tren-facebook-tiktok-dac-biet-chu-y-16526112509565364.chn",
+      "title": "Không phải Elon Musk hay Jensen Huang, Sam Altman chỉ đích danh vị CEO này mới là người đáng chú ý nhất trong kỷ nguyên AI: Ông đi trước phần còn lại ít nhất 6 tháng chỉ nhờ một thói quen ít ai làm",
+      "link": "https://genk.vn/khong-phai-elon-musk-hay-jensen-huang-sam-altman-chi-dich-danh-vi-ceo-nay-moi-la-nguoi-dang-chu-y-nhat-trong-ky-nguyen-ai-ong-di-truoc-phan-con-lai-it-nhat-6-thang-chi-nho-mot-thoi-quen-it-ai-lam-165261126104533581.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-25 09:56",
-      "summary": "Những đoạn phim ngắn do AI tạo ra đang thu hút người xem trên mạng xã hội, nhưng các đường link mời xem trọn bộ có thể trở thành cái bẫy để kẻ xấu phát tán mã độc, chiếm đoạt tài khoản và đánh cắp tiề",
-      "title_en": "Everyone watching AI movies on Facebook, TikTok should pay special attention",
-      "title_vi": "Tất cả những ai đang xem phim AI trên Facebook, TikTok đặc biệt chú ý"
+      "pub_date": "2026-11-26 10:45",
+      "summary": "Khi được hỏi ai là vị CEO đáng chú ý nhất trong kỷ nguyên AI hiện nay, người đứng đầu OpenAI Sam Altman đã gạt qua những cái tên đình đám như Elon Musk hay Jensen Huang để gọi tên Tobi Lütke - nhà sán",
+      "title_en": "Not Elon Musk or Jensen Huang, Sam Altman names this CEO as the most notable person in the AI era: He is at least 6 months ahead of the rest thanks to a rare habit",
+      "title_vi": "Không phải Elon Musk hay Jensen Huang, Sam Altman chỉ đích danh vị CEO này mới là người đáng chú ý nhất trong kỷ nguyên AI: Ông đi trước phần còn lại ít nhất 6 tháng chỉ nhờ một thói quen ít ai làm"
     },
     {
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-25 05:27",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "title_en": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "title_vi": "Jensen Huang vẫn cho rằng kế hoạch kế nhiệm tạo ra hệ thống cấp bậc không cần thiết"
+      "title": "Lượng khí thải tăng vọt 45% chỉ trong một năm vì xây trạm máy chủ AI, Meta âm thầm rút lại cam kết Net-Zero",
+      "link": "https://genk.vn/luong-khi-thai-tang-vot-45-chi-trong-mot-nam-vi-xay-tram-may-chu-ai-meta-am-tham-rut-lai-cam-ket-net-zero-165261126082723705.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-26 08:59",
+      "summary": "Trong Báo cáo Phát triển Bền vững năm 2026 công bố ngày 23/11/2026, tập đoàn Meta xác nhận đã rút lại mốc cam kết đưa lượng khí thải ròng về mức 0 (Net-Zero) vào năm 2030 sau khi cơn sốt xây dựng trun",
+      "title_en": "Emissions surge 45% in just one year due to building AI server farms, Meta quietly withdraws Net-Zero commitment",
+      "title_vi": "Lượng khí thải tăng vọt 45% chỉ trong một năm vì xây trạm máy chủ AI, Meta âm thầm rút lại cam kết Net-Zero"
     },
     {
-      "title": "New York Ban AI Toys for 5 Years",
-      "link": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-25 04:49",
-      "summary": "Article URL: https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot Comments URL: https://news.ycombinator.com/item?id=50635246 P",
-      "title_en": "New York Ban AI Toys for 5 Years",
-      "title_vi": "New York cấm đồ chơi AI trong 5 năm"
+      "title": "Tidal mạnh tay với nhạc AI, chuẩn bị xóa 29 triệu bài hát khỏi nền tảng",
+      "link": "https://genk.vn/tidal-manh-tay-voi-nhac-ai-chuan-bi-xoa-29-trieu-bai-hat-khoi-nen-tang-165261125165925148.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-26 08:59",
+      "summary": "Tidal sẽ bắt đầu xóa hoàn toàn nhạc được tạo bằng AI từ ngày 9/12, dự kiến loại bỏ khoảng 29 triệu bài hát khỏi kho nội dung của dịch vụ.",
+      "title_en": "Tidal cracks down on AI music, preparing to remove 29 million songs from the platform",
+      "title_vi": "Tidal mạnh tay với nhạc AI, chuẩn bị xóa 29 triệu bài hát khỏi nền tảng"
     },
     {
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-25 04:48",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "title_en": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "title_vi": "Trong cuộc họp toàn thể, Jensen Huang cảm ơn Nhà Trắng và cho biết ông đang điều trị tâm lý"
+      "title": "Bang Oregon buộc các trung tâm dữ liệu AI phải tự trả toàn bộ chi phí hạ tầng điện, nộp phụ phí hỗ trợ hộ nghèo và bị cắt điện đầu tiên khi quá tải",
+      "link": "https://genk.vn/bang-oregon-buoc-cac-trung-tam-du-lieu-ai-phai-tu-tra-toan-bo-chi-phi-ha-tang-dien-nop-phu-phi-ho-tro-ho-ngheo-va-bi-cat-dien-dau-tien-khi-qua-tai-165261126081810366.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-26 08:18",
+      "summary": "Phán quyết công bố ngày 19-20/11/2026 của Ủy ban Tiện ích Công cộng bang Oregon buộc các trung tâm dữ liệu mới phải tự trả 100% chi phí hạ tầng điện, đóng phí hỗ trợ hộ nghèo từ ngày 1/1/2027.",
+      "title_en": "Oregon forces AI data centers to pay full electricity infrastructure costs, pay surcharges to support low-income households, and be first to be cut off when overloaded",
+      "title_vi": "Bang Oregon buộc các trung tâm dữ liệu AI phải tự trả toàn bộ chi phí hạ tầng điện, nộp phụ phí hỗ trợ hộ nghèo và bị cắt điện đầu tiên khi quá tải"
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-25 04:33",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob",
-      "title_en": "Even the best AI agents struggle with everyday life",
-      "title_vi": "Ngay cả các tác nhân AI tốt nhất cũng gặp khó khăn với cuộc sống hàng ngày"
+      "title": "Bán khuôn mặt cho AI đóng phim, người thật có thể nhận tới 700 USD",
+      "link": "https://dantri.com.vn/cong-nghe/ban-khuon-mat-cho-ai-dong-phim-nguoi-that-co-the-nhan-toi-700-usd-20261118141411375.htm",
+      "source": "Dân trí",
+      "lang": "vi",
+      "pub_date": "2026-11-26 07:13",
+      "summary": "(Dân trí) - Một công ty Mỹ đang sử dụng khuôn mặt của diễn viên để tạo nhân vật đóng phim bằng AI. Tại Trung Quốc, hoạt động cấp phép hình ảnh tương tự có thể mang lại 15-700 USD",
+      "title_en": "Selling faces to AI for movies, real people can earn up to $700",
+      "title_vi": "Bán khuôn mặt cho AI đóng phim, người thật có thể nhận tới 700 USD"
     },
     {
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "source": "TechCrunch",
+      "title": "Chàng trai 16 tuổi lập startup tên lửa dẫn đường bằng AI",
+      "link": "https://vnexpress.net/chang-trai-16-tuoi-lap-startup-ten-lua-dan-duong-bang-ai-5148691.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-26 07:00",
+      "summary": "Henrijs Dandzbergs quyết định bỏ học để mở công ty tên lửa dẫn đường bằng AI và nhận được 500.000 USD từ vườn ươm startup nổi tiếng Y Combinator.",
+      "title_en": "16-year-old boy starts AI-guided rocket startup",
+      "title_vi": "Chàng trai 16 tuổi lập startup tên lửa dẫn đường bằng AI"
+    },
+    {
+      "title": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0VjTnRXOWNYWjBfbXlPSnZfV1pBX1RIZnRxcU9la0I2NU1QVzdhZ0lMRExmQUlpNUgwQktub0ZYSG15czE5bzBTaVNBXy1sRGVyQnRHcVdnTXl3aW96S0NScEczQ3pFODZiV1czdm5HdExPbDhTLTlNYVpScFRyMzgzTkNhbE84blNkZTZ1Q3F6dUtMZjVnbGRGZnI5Z2ZWTHh6RWdGRy1NNG43UXN1ZlY0OEVNLTh1NTEzZUhBMXEzZnZOeUpsY2FzTkY?oc=5",
+      "source": "VentureBeat",
       "lang": "en",
-      "pub_date": "2026-11-25 04:32",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "title_en": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "title_vi": "Walmart hợp tác với Meta để mang các ưu đãi Thứ Sáu Đen đến tác nhân AI Muse"
+      "pub_date": "2026-11-26 06:04",
+      "summary": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one VentureBeat",
+      "title_en": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+      "title_vi": "Máy chủ MCP giờ đây có thể cung cấp kỹ năng cho tác nhân AI, thay đổi những gì công ty phê duyệt khi kết nối"
+    },
+    {
+      "title": "Tác nhân AI thiết kế kiến trúc CPU 'từ con số 0'",
+      "link": "https://vnexpress.net/tac-nhan-ai-thiet-ke-kien-truc-cpu-tu-con-so-0-5148262.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-26 05:00",
+      "summary": "Công ty Architect Labs cho biết tác nhân AI của họ đã \"thiết kế và kiểm chứng\" một CPU đa năng với tập lệnh mới được xây dựng từ đầu.",
+      "title_en": "AI agent designs CPU architecture 'from scratch'",
+      "title_vi": "Tác nhân AI thiết kế kiến trúc CPU 'từ con số 0'"
     }
   ]
 }

@@ -1,16 +1,6 @@
 {
   "headline": [
     {
-      "title": "Anthropic và OpenAI chặn chưng cất dữ liệu, làm AI Trung Quốc khốn đốn: Công sức khai thác tăng gấp 10 lần, nguy cơ tụt hậu với Mỹ đến 9 tháng",
-      "link": "https://genk.vn/anthropic-va-openai-chan-chung-cat-du-lieu-lam-ai-trung-quoc-khon-don-cong-suc-khai-thac-tang-gap-10-lan-nguy-co-tut-hau-voi-my-den-9-thang-165261126205444579.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-26 20:54",
-      "summary": "Không chỉ bị chặn chiết xuất dữ liệu, các công ty AI Trung Quốc còn đối mặt với nguy cơ thiếu hụt chip trầm trọng hơn khi Mỹ siết chặt lệnh hạn chế xuất khẩu công nghệ.",
-      "title_en": "Anthropic and OpenAI block data distillation, causing Chinese AI to struggle: Mining efforts increase 10-fold, risk falling 9 months behind the US",
-      "title_vi": "Anthropic và OpenAI chặn chưng cất dữ liệu, làm AI Trung Quốc khốn đốn: Công sức khai thác tăng gấp 10 lần, nguy cơ tụt hậu với Mỹ đến 9 tháng"
-    },
-    {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "Hugging Face",
@@ -18,20 +8,20 @@
       "pub_date": "2026-11-26 18:37",
       "summary": "",
       "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "title_vi": "Giới thiệu bảng điều khiển benchmark llama.cpp cho AMD Ryzen và Radeon"
-    },
-    {
-      "title": "Chủ nhân giả vờ qua đời, Gemini AI tự mở ví tiền số, tự kiếm tiền để duy trì sự sống",
-      "link": "https://genk.vn/chu-nhan-gia-vo-qua-doi-gemini-ai-tu-mo-vi-tien-so-tu-kiem-tien-de-duy-tri-su-song-165261126154816217.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-26 15:48",
-      "summary": "Điều đáng chú ý trong thử nghiệm này là các AI Claude và ChatGPT lại từ chối tham gia thử nghiệm này và chỉ có Gemini 4 Neon chấp nhận nó.",
-      "title_en": "Owner fakes death, Gemini AI opens crypto wallet and makes money to sustain itself",
-      "title_vi": "Chủ nhân giả vờ qua đời, Gemini AI tự mở ví tiền số, tự kiếm tiền để duy trì sự sống"
+      "title_vi": "Ra mắt bảng điều khiển benchmark llama.cpp cho AMD Ryzen và Radeon"
     }
   ],
   "product": [
+    {
+      "title": "LG công bố cơ cấu tổ chức mới và tập trung vào mảng robot, AI",
+      "link": "https://genk.vn/lg-cong-bo-co-cau-to-chuc-moi-va-tap-trung-vao-mang-robot-ai-165261127163049152.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-27 16:30",
+      "summary": "LG tái cấu trúc bộ máy quản lý, mở rộng các đơn vị kinh doanh robot, làm mát trung tâm dữ liệu AI và công nghệ xe cộ, đồng thời bổ nhiệm 44 lãnh đạo cho năm 2027.",
+      "title_en": "LG announces new organizational structure and focuses on robotics, AI",
+      "title_vi": "LG công bố cơ cấu tổ chức mới và tập trung vào mảng robot, AI"
+    },
     {
       "title": "Nothing ra mắt tai nghe biết \"ghi chép hộ\", họp hành hay trò chuyện đều có AI lo!",
       "link": "https://genk.vn/nothing-ra-mat-tai-nghe-biet-ghi-chep-ho-hop-hanh-hay-tro-chuyen-deu-co-ai-lo-165261126171549043.chn",
@@ -41,40 +31,51 @@
       "summary": "Nothing vừa công bố Ear (note), mẫu tai nghe tích hợp AI có khả năng ghi âm, chuyển giọng nói thành văn bản và tóm tắt nội dung các cuộc hội thoại, dự kiến ra mắt ngày 8/12.",
       "title_en": "Nothing launches earbuds that can \"take notes for you\", AI handles meetings and conversations!",
       "title_vi": "Nothing ra mắt tai nghe biết \"ghi chép hộ\", họp hành hay trò chuyện đều có AI lo!"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-26 04:18",
-      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 660 # Comments: 525",
-      "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
-      "title_vi": "The New York Times cảnh báo nhiếp ảnh gia không cập nhật Photoshop vì tính năng AI"
-    },
-    {
-      "title": "Why the best defense against AI-powered payment fraud isn’t AI",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWY3YnVuRF82MTBRZERRQ0J3WVpHYXN2c3RKQWd6LVROMXVFdTdsdklMZ1FzTUNKQjREMEdYdlBYMzZSV2luZmdKTGpMSGZxdzlCTTVXYlZ5d2xFNHM0M2ZpcnVTN21mX2VXTzVyUDBaYjlUVXl0YWluRkhaRWpxRVBNYXZEbnFlS1czU3RPbGVpQXJTcmhDbmNR?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "pub_date": "2026-11-25 23:52",
-      "summary": "Why the best defense against AI-powered payment fraud isn’t AI VentureBeat",
-      "title_en": "Why the best defense against AI-powered payment fraud isn’t AI",
-      "title_vi": "Vì sao biện pháp phòng thủ tốt nhất chống gian lận thanh toán bằng AI không phải là AI"
     }
   ],
   "funding": [],
-  "research": [],
+  "research": [
+    {
+      "title": "AI is collapsing centuries of math and science research into days — is The Singularity upon us?",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTzljR0lpUmFJRENZWEoyTDdUSFZpQ0tfWmltV25tRGNCa19RekZmWmdHc1F4NnY1SjVCakNvZUpDUWxyNDFYaU8zSy13YUdscDFjR1ZuaHEwSzNwaG9hQzZoenBVUXFVNlE0cWVmX0xHalYwaFdSeENuM3F5ZHZuNHBRbURvVjFYRnc1ejE5dERxU2dDUEx3cG8yeDR0UkVqZ281alpLTG5rUGhoVkxCNVh6eTJudWF6MENPd3V4clhGVWh1YlE?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "pub_date": "2026-11-28 02:16",
+      "summary": "AI is collapsing centuries of math and science research into days — is The Singularity upon us? VentureBeat",
+      "title_en": "AI is collapsing centuries of math and science research into days — is The Singularity upon us?",
+      "title_vi": "AI đang nén hàng thế kỷ nghiên cứu toán học và khoa học xuống còn vài ngày — Kỷ nguyên Điểm kỳ dị đã đến?"
+    },
+    {
+      "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-27 09:44",
+      "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50662153 Points: 38 # Comments: 24",
+      "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "title_vi": "Nghiên cứu AI mới cho thấy bong bóng AI sắp vỡ và dự kiến sụp đổ thị trường nghiêm trọng"
+    }
+  ],
   "industry": [
+    {
+      "title": "Cơn khát GPU AI có dấu hiệu hạ nhiệt, công ty của ông Elon Musk giảm giá thuê chip NVIDIA tới 35%",
+      "link": "https://genk.vn/con-khat-gpu-ai-co-dau-hieu-ha-nhiet-cong-ty-cua-ong-elon-musk-giam-gia-thue-chip-nvidia-toi-35-165261128093345874.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-28 10:33",
+      "summary": "Trước đó, ông Elon Musk nhiều lần còn cho biết nhu cầu thuê công suất tính toán vượt xa nguồn cung và vì vậy rất tự tin với kế hoạch mở rộng trung tâm dữ liệu AI của SpaceX.",
+      "title_en": "AI GPU thirst shows signs of cooling, Elon Musk's company cuts NVIDIA chip rental prices by up to 35%",
+      "title_vi": "Cơn khát GPU AI có dấu hiệu hạ nhiệt, công ty của ông Elon Musk giảm giá thuê chip NVIDIA tới 35%"
+    },
     {
       "title": "The US Government Is Under AI Cyberattack",
       "link": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
       "source": "Hacker News",
       "lang": "en",
       "pub_date": "2026-11-27 04:26",
-      "summary": "Article URL: https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack Comments URL: https://news.ycombinator.com/item?id=50660004 Points: 20 # Comments: 2",
+      "summary": "Article URL: https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack Comments URL: https://news.ycombinator.com/item?id=50660004 Points: 24 # Comments: 3",
       "title_en": "The US Government Is Under AI Cyberattack",
-      "title_vi": "Chính phủ Mỹ đang bị tấn công mạng bằng AI"
+      "title_vi": "Chính phủ Mỹ đang bị tấn công mạng bởi AI"
     },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -85,118 +86,88 @@
       "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "title_en": "Nvidia hits pause on chip shipments to Southeast Asia",
       "title_vi": "Nvidia tạm dừng xuất xưởng chip sang Đông Nam Á"
-    },
-    {
-      "title": "Rộ trend cho khách nước ngoài thuê tài khoản Claude, tưởng dễ kiếm tiền mà vi phạm pháp luật lúc nào không hay",
-      "link": "https://genk.vn/ro-trend-cho-khach-nuoc-ngoai-thue-tai-khoan-claude-tuong-de-kiem-tien-ma-vi-pham-phap-luat-luc-nao-khong-hay-165261126104735226.chn",
-      "source": "GenK",
-      "lang": "vi",
-      "pub_date": "2026-11-26 11:31",
-      "summary": "Nhìn bề ngoài mô hình kinh doanh này có vẻ đơn giản và dễ dàng thu hồi vốn, nhưng đằng sau nó lại tiềm ẩn nhiều rủi ro khó có thể lường hết.",
-      "title_en": "Trend of renting Claude accounts to foreigners: Thinking it's easy money but unknowingly breaking the law",
-      "title_vi": "Rộ trend cho khách nước ngoài thuê tài khoản Claude, tưởng dễ kiếm tiền mà vi phạm pháp luật lúc nào không hay"
-    },
-    {
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-26 05:44",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "title_vi": "S&P cân nhắc hạ bậc tín nhiệm Nvidia vì rủi ro quản trị và 'nhân sự chủ chốt'"
-    },
-    {
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-26 02:54",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "title_en": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "title_vi": "Jensen Huang vi phạm quy tắc ứng xử của Nvidia, và nhân viên có thể không quên điều đó"
     }
   ],
   "other": [
     {
-      "title": "Echo Hunter và cơn hoảng loạn mang tên phim AI: Khi công cụ bị đánh đồng với kẻ hủy diệt",
-      "link": "https://genk.vn/echo-hunter-va-con-hoang-loan-mang-ten-phim-ai-khi-cong-cu-bi-danh-dong-voi-ke-huy-diet-165261127111231551.chn",
+      "title": "Sunspring và cú tát vào nỗi sợ biên kịch AI: Khi kịch bản vô nghĩa lại tôn vinh bản lĩnh đạo diễn",
+      "link": "https://genk.vn/sunspring-va-cu-tat-vao-noi-so-bien-kich-ai-khi-kich-ban-vo-nghia-lai-ton-vinh-ban-linh-dao-dien-165261128103553184.chn",
       "source": "GenK",
       "lang": "vi",
-      "pub_date": "2026-11-27 11:12",
-      "summary": "Sự xuất hiện của Echo Hunter buộc giới mộ điệu phải nhìn thẳng vào một sự thật: AI không giết chết điện ảnh, nó chỉ tước đi cái cớ về ngân sách của những nhà làm phim thiếu ý tưởng.",
-      "title_en": "Echo Hunter and the panic called AI movies: When tools are equated with destroyers",
-      "title_vi": "Echo Hunter và cơn hoảng loạn mang tên phim AI: Khi công cụ bị đánh đồng với kẻ hủy diệt"
+      "pub_date": "2026-11-28 11:08",
+      "summary": "Rất lâu trước khi ChatGPT khiến Hollywood chao đảo, một bộ phim ngắn 8 phút mang tên Sunspring đã dùng kịch bản hoàn toàn do máy móc viết ra để lọt vào top 10 một liên hoan phim - nhưng chính đống hỗn",
+      "title_en": "Sunspring and the slap in the face of AI screenwriting fears: When a nonsensical script celebrates director's courage",
+      "title_vi": "Sunspring và cú tát vào nỗi sợ biên kịch AI: Khi kịch bản vô nghĩa lại tôn vinh bản lĩnh đạo diễn"
     },
     {
-      "title": "Dân công nghệ Việt xoay xở đổi nghề trong 'bão' AI",
-      "link": "https://vnexpress.net/dan-cong-nghe-viet-xoay-xo-doi-nghe-trong-bao-ai-5145736.html",
+      "title": "Mỹ phê duyệt kế hoạch xây trung tâm dữ liệu AI ngoài không gian",
+      "link": "https://genk.vn/my-phe-duyet-ke-hoach-xay-trung-tam-du-lieu-ai-ngoai-khong-gian-165261128092806528.chn",
+      "source": "GenK",
+      "lang": "vi",
+      "pub_date": "2026-11-28 09:28",
+      "summary": "Trước làn sóng phản đối trung tâm dữ liệu AI trên mặt đất vì tiêu tốn điện, nước, SpaceX có kế hoạch triển khai hệ thống sử dụng năng lượng mặt trời ở quỹ đạo.",
+      "title_en": "US approves plan to build AI data center in space",
+      "title_vi": "Mỹ phê duyệt kế hoạch xây trung tâm dữ liệu AI ngoài không gian"
+    },
+    {
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "Hacker News",
+      "lang": "en",
+      "pub_date": "2026-11-28 08:32",
+      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 95 # Comments: 75",
+      "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "title_vi": "Người phụ nữ bị đuổi khỏi nhà sau khi trợ lý AI của chủ nhà nói rằng cô có thể trì hoãn tiền thuê"
+    },
+    {
+      "title": "AI là cơ hội để phụ nữ 'thể hiện vai trò quan trọng'",
+      "link": "https://vnexpress.net/ai-la-co-hoi-de-phu-nu-the-hien-vai-tro-quan-trong-5149809.html",
       "source": "VnExpress",
       "lang": "vi",
-      "pub_date": "2026-11-27 09:00",
-      "summary": "AI ngày càng tác động sâu rộng buộc nhiều người tìm cách thích ứng, thậm chí học nghề mới để phòng trường hợp thất nghiệp.",
-      "title_en": "Vietnamese tech workers pivot careers amid AI 'storm'",
-      "title_vi": "Dân công nghệ Việt xoay xở đổi nghề trong 'bão' AI"
+      "pub_date": "2026-11-28 07:12",
+      "summary": "AI được đánh giá đang thu hẹp khoảng cách năng lực lãnh đạo, giúp nữ giới có thể thực hiện vai trò trước đây chủ yếu thuộc về nam giới.",
+      "title_en": "AI is an opportunity for women to 'show important roles'",
+      "title_vi": "AI là cơ hội để phụ nữ 'thể hiện vai trò quan trọng'"
     },
     {
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "title": "Thần đồng Terence Tao kêu gọi chuyển sang 'toán học 2.0' vì AI",
+      "link": "https://vnexpress.net/than-dong-terence-tao-keu-goi-chuyen-sang-toan-hoc-2-0-vi-ai-5149544.html",
+      "source": "VnExpress",
+      "lang": "vi",
+      "pub_date": "2026-11-28 05:00",
+      "summary": "GS Terence Tao của UCLA cho rằng những phát hiện chấn động gần đây của AI về toán học đang buộc giới nghiên cứu phải thay đổi triệt để.",
+      "title_en": "Prodigy Terence Tao calls for shift to 'mathematics 2.0' due to AI",
+      "title_vi": "Thần đồng Terence Tao kêu gọi chuyển sang 'toán học 2.0' vì AI"
+    },
+    {
+      "title": "Banks look to dump AI debt",
+      "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-27 07:03",
-      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/i",
-      "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "title_vi": "Các tác nhân AI hiện kiểm soát một phần tài nguyên tính toán của DeepMind cho các thí nghiệm Gemini"
+      "pub_date": "2026-11-28 03:56",
+      "summary": "Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt Comments URL: https://news.ycombinator.com/item?id=50671559 Points: 30 # Comments: 5",
+      "title_en": "Banks look to dump AI debt",
+      "title_vi": "Các ngân hàng tìm cách xả nợ liên quan đến AI"
     },
     {
-      "title": "AI made self-hosting fun again",
-      "link": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "link": "https://github.com/skeeto/prospero",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-27 04:47",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 429 # Comments: 233",
-      "title_en": "AI made self-hosting fun again",
-      "title_vi": "AI khiến việc tự lưu trữ trở nên thú vị trở lại"
+      "pub_date": "2026-11-28 03:23",
+      "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 43 # Comments: 9",
+      "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "title_vi": "Prospero: Công cụ lập trình AI gọn nhẹ, không cồng kềnh với ImGui"
     },
     {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "title": "I'm Scared of AI",
+      "link": "https://thesoapbox.email/archive/3",
       "source": "Hacker News",
       "lang": "en",
-      "pub_date": "2026-11-27 02:44",
-      "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 38 # Comments: 22",
-      "title_en": "Top-cited AI scientists at four US companies compared",
-      "title_vi": "So sánh các nhà khoa học AI được trích dẫn nhiều nhất tại bốn công ty Mỹ"
-    },
-    {
-      "title": "'AI' might be the end of our careers",
-      "link": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-27 00:29",
-      "summary": "Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50657452 Points: 34 # Comments: 39",
-      "title_en": "'AI' might be the end of our careers",
-      "title_vi": "'AI' có thể là dấu chấm hết cho sự nghiệp của chúng ta"
-    },
-    {
-      "title": "Tracking Diseases Cured by AI",
-      "link": "https://diseasescuredbyai.com/",
-      "source": "Hacker News",
-      "lang": "en",
-      "pub_date": "2026-11-27 00:16",
-      "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 306 # Comments: 184",
-      "title_en": "Tracking Diseases Cured by AI",
-      "title_vi": "Theo dõi các bệnh được AI chữa khỏi"
-    },
-    {
-      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "pub_date": "2026-11-26 23:00",
-      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-      "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "title_vi": "Grand Theft Auto VI chứng minh vì sao hiệu quả không phải là một đức tính tốt"
+      "pub_date": "2026-11-28 00:45",
+      "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 206 # Comments: 244",
+      "title_en": "I'm Scared of AI",
+      "title_vi": "Tôi Sợ AI"
     }
   ]
 }
